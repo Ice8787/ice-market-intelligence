@@ -1,0 +1,12 @@
+{
+  "schema_version":3,
+  "generated_at":"2026-08-03T12:00:00Z",
+  "source":"demo",
+  "is_demo":true,
+  "record_count":8,
+  "people_count":6,
+  "top_per_market_category":100,
+  "group_counts":{"USA|Teknik":2,"USA|Energi":2,"USA|Försvar":1,"USA|Hälsa":1,"Sverige|Teknik":1,"Sverige|Energi":1},
+  "source_status":{"USA":{"ok":true,"new_records":0},"Sverige":{"ok":true,"new_records":0}},
+  "notice":"Alla personer, bolag, köp och kurser i startdatan är fiktiva. Liveflödet samlar USA och Sverige och behåller upp till 100 största affärer per marknad och kategori."
+}

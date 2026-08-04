@@ -1,0 +1,5 @@
+[
+  {"id":"pattern-1","type":"Sektorkluster","title":"Teknikledare köper AI- och säkerhetskapacitet","description":"Två köp från samma profilerade teknikledare i närliggande teknikområden. Jämför bolagens fundamenta innan mönstret ges betydelse.","categories":["AI-infrastruktur","Cybersäkerhet"],"trade_ids":["demo-tech-001","demo-cyber-001"],"trade_count":2,"median_return_90d":32.6},
+  {"id":"pattern-2","type":"Återkommande insider","title":"CEO köper samma energibolag vid två tillfällen","description":"Återkommande öppna marknadsköp kan väga tyngre än en ensam affär när roll, belopp och källa är verifierade.","categories":["Energi","Elnät"],"trade_ids":["demo-energy-001","demo-energy-002"],"trade_count":2,"median_return_90d":28.0},
+  {"id":"pattern-3","type":"Politik och sektor","title":"Försvarsköp nära offentliga budgetsignaler","description":"Tajming kan motivera granskning men fastställer inte orsak, informationsövertag eller olaglig handel.","categories":["Försvar","Offentliga beslut"],"trade_ids":["demo-defense-001"],"trade_count":1,"median_return_90d":8.0}
+]

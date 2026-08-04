@@ -1,0 +1,8 @@
+[
+  {"id":"demo-person-1","name":"Alex North (demo)","person_type":"business_leader","primary_role":"Grundare och teknik-VD","categories":["Teknik"],"history":{"tracked_buys":2,"positive_90d_rate":100,"median_return_90d":32.6,"median_excess_90d":25.9},"history_note":"Fiktiv profil."},
+  {"id":"demo-person-2","name":"Morgan Vale (demo)","person_type":"corporate_insider","primary_role":"Energi-CEO","categories":["Energi"],"history":{"tracked_buys":2,"positive_90d_rate":100,"median_return_90d":28.0,"median_excess_90d":21.4},"history_note":"Fiktiv profil."},
+  {"id":"demo-person-3","name":"Taylor Reed (demo)","person_type":"political","primary_role":"Rapporteringsskyldig beslutsfattare","categories":["Försvar"],"history":{"tracked_buys":1,"positive_90d_rate":100,"median_return_90d":8.0,"median_excess_90d":2.9},"history_note":"Fiktiv profil; samband är inte bevis."},
+  {"id":"demo-person-4","name":"Jordan Lake Capital (demo)","person_type":"institutional_investor","primary_role":"Institutionell investerare","categories":["Hälsa"],"history":{"tracked_buys":1,"positive_90d_rate":0,"median_return_90d":-17.2,"median_excess_90d":-21.0},"history_note":"Fiktiv profil."},
+  {"id":"demo-person-5","name":"Linnea Berg (demo)","person_type":"corporate_insider","primary_role":"Svensk teknik-VD","categories":["Teknik"],"history":{"tracked_buys":1,"positive_90d_rate":0,"median_return_90d":null,"median_excess_90d":null},"history_note":"Fiktiv svensk profil."},
+  {"id":"demo-person-6","name":"Erik Lund (demo)","person_type":"corporate_insider","primary_role":"Styrelseordförande","categories":["Energi"],"history":{"tracked_buys":1,"positive_90d_rate":100,"median_return_90d":20.6,"median_excess_90d":15.4},"history_note":"Fiktiv svensk profil."}
+]
