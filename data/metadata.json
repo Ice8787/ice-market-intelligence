@@ -1,13 +1,13 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-08-04T16:52:57.531041Z",
-  "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq EOD",
+  "generated_at": "2026-08-04T17:00:50.298236Z",
+  "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
   "record_count": 314,
   "people_count": 28,
   "political_trade_count": 270,
   "policy_event_count": 112,
-  "trend_count": 0,
+  "trend_count": 16,
   "top_per_market_category": 100,
   "group_counts": {
     "Sverige|Övrigt|insider": 39,
@@ -34,16 +34,16 @@
       "new_records": 43
     },
     "US politicians": {
-      "ok": true,
-      "new_records": 945,
+      "ok": false,
+      "new_records": 0,
       "providers": {
         "House Stock Watcher": {
           "ok": false,
-          "error": "HTTP Error 404: Not Found"
+          "error": "HTTP Error 403: Forbidden"
         },
         "Senate Stock Watcher": {
-          "ok": true,
-          "records": 6171
+          "ok": false,
+          "error": "HTTP Error 403: Forbidden"
         }
       }
     },
@@ -70,9 +70,15 @@
       "source": "Federal Register API"
     },
     "Trend data": {
-      "ok": false,
-      "records": 0,
-      "errors": {}
+      "ok": true,
+      "records": 16,
+      "errors": {
+        "CLR": "HTTP Error 404: Not Found",
+        "CY": "HTTP Error 404: Not Found",
+        "CHL": "HTTP Error 404: Not Found",
+        "BUNT-RP": "HTTP Error 404: Not Found",
+        "ALTR": "HTTP Error 404: Not Found"
+      }
     }
   },
   "notice": "Högst 100 affärer per marknad, kategori och persontyp. Politikbelopp är mittpunkter i rapporterade intervall. Policyträffar är tidssamband, inte bevis. Trendpoäng är inte en kursprognos."
