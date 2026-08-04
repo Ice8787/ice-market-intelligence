@@ -1,26 +1,79 @@
 {
-  "schema_version": 3,
-  "generated_at": "2026-08-04T16:28:41.856919Z",
-  "source": "SEC EDGAR Form 4 + Finansinspektionens insynsregister",
+  "schema_version": 4,
+  "generated_at": "2026-08-04T16:52:57.531041Z",
+  "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq EOD",
   "is_demo": false,
-  "record_count": 44,
-  "people_count": 16,
+  "record_count": 314,
+  "people_count": 28,
+  "political_trade_count": 270,
+  "policy_event_count": 112,
+  "trend_count": 0,
   "top_per_market_category": 100,
   "group_counts": {
-    "Sverige|Övrigt": 39,
-    "Sverige|Industri": 1,
-    "Sverige|Finans": 3,
-    "Sverige|Hälsa": 1
+    "Sverige|Övrigt|insider": 39,
+    "Sverige|Industri|insider": 1,
+    "Sverige|Finans|insider": 3,
+    "Sverige|Hälsa|insider": 1,
+    "USA|Hälsa|political": 28,
+    "USA|Teknik|political": 27,
+    "USA|Övrigt|political": 100,
+    "USA|Finans|political": 39,
+    "USA|Industri|political": 8,
+    "USA|Energi|political": 47,
+    "USA|Konsument|political": 7,
+    "USA|Transport|political": 11,
+    "USA|Försvar|political": 3
   },
   "source_status": {
-    "USA": {
+    "USA corporate": {
       "ok": false,
       "error": "HTTP Error 403: Forbidden"
     },
     "Sverige": {
       "ok": true,
       "new_records": 43
+    },
+    "US politicians": {
+      "ok": true,
+      "new_records": 945,
+      "providers": {
+        "House Stock Watcher": {
+          "ok": false,
+          "error": "HTTP Error 404: Not Found"
+        },
+        "Senate Stock Watcher": {
+          "ok": true,
+          "records": 6171
+        }
+      }
+    },
+    "Federal Register": {
+      "ok": true,
+      "terms": {
+        "tariff": {
+          "ok": true,
+          "records": 35
+        },
+        "trade": {
+          "ok": true,
+          "records": 35
+        },
+        "export controls": {
+          "ok": true,
+          "records": 35
+        },
+        "defense procurement": {
+          "ok": true,
+          "records": 35
+        }
+      },
+      "source": "Federal Register API"
+    },
+    "Trend data": {
+      "ok": false,
+      "records": 0,
+      "errors": {}
     }
   },
-  "notice": "Visar högst 100 största bevarade affärer per marknad och kategori, sorterat på rapporterat värde i lokal valuta."
+  "notice": "Högst 100 affärer per marknad, kategori och persontyp. Politikbelopp är mittpunkter i rapporterade intervall. Policyträffar är tidssamband, inte bevis. Trendpoäng är inte en kursprognos."
 }

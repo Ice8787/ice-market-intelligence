@@ -1,5 +1,138 @@
 [
   {
+    "id": "b2a86afd3a4790",
+    "name": "John Hoeven",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Energi",
+      "Teknik",
+      "Transport",
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 23,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "a83ae512ae3053",
+    "name": "Sheldon Whitehouse",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Energi",
+      "Finans",
+      "Försvar",
+      "Hälsa",
+      "Konsument",
+      "Teknik",
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 20,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "8799cf83fc5f7e",
+    "name": "David A Perdue , Jr",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Energi",
+      "Finans",
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 14,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "72c708b5ea53c9",
+    "name": "Pat Roberts",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Energi",
+      "Finans",
+      "Transport",
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 12,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "74d63af535e788",
+    "name": "Susan M Collins",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Energi",
+      "Hälsa",
+      "Industri",
+      "Teknik",
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 10,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "dfa418dd6d572f",
+    "name": "Patrick J Toomey",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Energi",
+      "Hälsa",
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 8,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "98169f3f7b4826",
+    "name": "James M Inhofe",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Hälsa",
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 7,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "f68c4c8f541014",
     "name": "Erik Robert Joakim Lundström",
     "person_type": "corporate_insider",
@@ -9,6 +142,22 @@
     ],
     "history": {
       "tracked_buys": 6,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "7a261814927640",
+    "name": "Thomas R Carper",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Energi"
+    ],
+    "history": {
+      "tracked_buys": 4,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -118,6 +267,55 @@
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Finans"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "c5c212be4017ff",
+    "name": "Gary C Peters",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Energi",
+      "Industri"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "86f0e7bd5faa9c",
+    "name": "John F Reed",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Teknik"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "93fa919fc9d0a7",
+    "name": "Rafael E Cruz",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Övrigt"
     ],
     "history": {
       "tracked_buys": 2,
@@ -246,6 +444,22 @@
     "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
     "categories": [
       "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "db063e29ff511e",
+    "name": "Angus S King, Jr.",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Hälsa"
     ],
     "history": {
       "tracked_buys": 1,

@@ -57,5 +57,221 @@
     ],
     "trade_count": 2,
     "median_return_90d": null
+  },
+  {
+    "id": "category-usa-hälsa",
+    "type": "Sektorkluster",
+    "title": "9 insiderköp inom Hälsa · USA",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "USA",
+      "Hälsa"
+    ],
+    "trade_ids": [
+      "b821c1f9b29a5f2b5a",
+      "d9ebf83c15fc2c06a5",
+      "bdb35f303d573a4407",
+      "7d3fd77f771ab4b2d6",
+      "d8e4f4c42e843d94cc",
+      "6fd37ce63679850839",
+      "34247a5a42ca2d1820",
+      "f07551c5529fe8ec2f",
+      "d9fd4d681051225f3b"
+    ],
+    "trade_count": 9,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-usa-teknik",
+    "type": "Sektorkluster",
+    "title": "9 insiderköp inom Teknik · USA",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "USA",
+      "Teknik"
+    ],
+    "trade_ids": [
+      "6532090500aadc4f75",
+      "e4f744a38ac87fd86f",
+      "527d51bbf1586202bb",
+      "a1262b1930f5207af2",
+      "ef5c77af5a687c595b",
+      "bab69bc424010c1b86",
+      "fd51b9b68382f88f78",
+      "a05fd94f648806ec13",
+      "6aa4ebbac47f25ff60"
+    ],
+    "trade_count": 9,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-usa-övrigt",
+    "type": "Sektorkluster",
+    "title": "53 insiderköp inom Övrigt · USA",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "USA",
+      "Övrigt"
+    ],
+    "trade_ids": [
+      "10c0a2a48f4379218f",
+      "c96216fe430cc00548",
+      "d2d9ce4185f52d764e",
+      "0e3ac52009f42d300c",
+      "c01f2802597f9851e9",
+      "e1da020f35e74bf8b3",
+      "57b292f777cae3c9bd",
+      "aa46ae64212863a12d",
+      "dd001187c2c92fad81",
+      "09d5fd10768b337e40",
+      "c8b27f407947dff134",
+      "c90f8aa29b2bef3768",
+      "da62d330f0ae6d2660",
+      "8351e5df381c04cb10",
+      "bfaa11069ff3d5477b",
+      "12bdae44ee8ffd98b4",
+      "a96c6c3a9d85ab386f",
+      "cbda389902958673a0",
+      "a809a223c8ed0a797c",
+      "121a4a74109dde4a76",
+      "795f430712f38258c5",
+      "c1aec4860e3e436192",
+      "d49c77e90d3d551e94",
+      "a7e2b5956a0902c585",
+      "e1445588aba12b160d",
+      "2ccfced3ed11240ab6",
+      "11198bd009b240059d",
+      "c073bfd31374ae9ced",
+      "39ec5e40bca40ac9ef",
+      "990e3d62554cea8483",
+      "65907b10840a06d26c",
+      "e2827565252d7e5b40",
+      "3416bfd3e0a3e1c64b",
+      "d6637dca81abb23cb6",
+      "cd63dd187de5a388d2",
+      "745267482a7c7faa70",
+      "16225106d3c503ab58",
+      "1acc5e0ee4c7764fa7",
+      "12d523d32650d40d60",
+      "f92053cf0acd7f5770",
+      "518b1fc790c43a69a2",
+      "39c555904f2512c2c9",
+      "b484f596a7aaef2088",
+      "f8e7d0fecdc9c49d80",
+      "90c960292d27855b4c",
+      "4fe712a5e9670e4b70",
+      "093afaa05b347ccd5b",
+      "a310ce429c15be3593",
+      "98423c95a168041c49",
+      "846c0a223ec21bcc4c",
+      "3304b39086d891e5cb",
+      "bf6b590092e9c2d162",
+      "a1df676d93eac603e0"
+    ],
+    "trade_count": 53,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-usa-industri",
+    "type": "Sektorkluster",
+    "title": "3 insiderköp inom Industri · USA",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "USA",
+      "Industri"
+    ],
+    "trade_ids": [
+      "a882127c2d2ed49fcf",
+      "13207cec1cf1dee4d6",
+      "1283f539be929d3b34"
+    ],
+    "trade_count": 3,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-usa-finans",
+    "type": "Sektorkluster",
+    "title": "6 insiderköp inom Finans · USA",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "USA",
+      "Finans"
+    ],
+    "trade_ids": [
+      "ac91fc284a7933835f",
+      "943e8c0775732da73c",
+      "92085a2efce5d6686e",
+      "04b35b2e93c36af2b2",
+      "6345f3a7b2a4849105",
+      "4ac7548e632e65ec2d"
+    ],
+    "trade_count": 6,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-usa-energi",
+    "type": "Sektorkluster",
+    "title": "20 insiderköp inom Energi · USA",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "USA",
+      "Energi"
+    ],
+    "trade_ids": [
+      "4c79d11b035ff19ddb",
+      "952145d37b89020e35",
+      "76f3a48b1baff058f7",
+      "719f6322a9e72e807c",
+      "ee8a10a9b0b3919eed",
+      "eb91ea8727e6e02600",
+      "97f02280fabbfd1441",
+      "c5a3162dce77fe5f64",
+      "e7bcc6c3c4c7f9c51c",
+      "a4680a92905b5758f7",
+      "48859be3af471707ea",
+      "6b7b29de580b91eba3",
+      "d536cfaffbf0ef21c2",
+      "3e938ce656df708089",
+      "36573958e0d4919417",
+      "0de8f48225ae874d8c",
+      "26054108cfcccb9fa4",
+      "c341cd94d367a6ea8c",
+      "848cec8fb992a614f0",
+      "f929d70c9fb45acdfa"
+    ],
+    "trade_count": 20,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-usa-transport",
+    "type": "Sektorkluster",
+    "title": "2 insiderköp inom Transport · USA",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "USA",
+      "Transport"
+    ],
+    "trade_ids": [
+      "97b8dec39cf8c4298b",
+      "d26992b3f2a55d35d5"
+    ],
+    "trade_count": 2,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-usa-försvar",
+    "type": "Sektorkluster",
+    "title": "2 insiderköp inom Försvar · USA",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "USA",
+      "Försvar"
+    ],
+    "trade_ids": [
+      "f5672944751e8e0793",
+      "cfa333482b4cc55e15"
+    ],
+    "trade_count": 2,
+    "median_return_90d": null
   }
 ]
