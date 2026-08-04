@@ -1,0 +1,10 @@
+.controls{grid-template-columns:1.6fr .8fr 1fr 1.1fr .9fr 1fr}
+.pill,.score,.tag,.market{display:inline-block;border-radius:999px;padding:3px 8px;font-weight:750;font-size:.73rem}
+.market{background:#182943;color:var(--blue)}
+.ranking-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:9px}
+.rank-card{padding:13px;text-align:left;color:var(--text);background:#0a1714;border:1px solid var(--line);border-radius:12px;cursor:pointer}
+.rank-card:hover{border-color:var(--mint)}
+.rank-card strong,.rank-card small{display:block}
+.rank-card small{color:var(--muted)}
+@media(max-width:1000px){.controls{grid-template-columns:1fr 1fr 1fr}.ranking-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:620px){.controls,.ranking-grid{grid-template-columns:1fr}}

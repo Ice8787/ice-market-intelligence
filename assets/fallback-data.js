@@ -1,0 +1,12 @@
+window.ICE_FALLBACK={
+  trades:[
+    {id:'fallback-us',person_id:'fallback-person-us',person_name:'Alex North (lokal demo)',person_role:'Teknik-VD',person_type:'business_leader',company:'North Compute (demo)',ticker:'NCPU',market:'USA',country:'US',currency:'USD',value_local:2208000,category:'Teknik',subcategory:'AI-infrastruktur',transaction_date:'2026-03-12',filing_date:'2026-03-14',reporting_delay_days:2,disclosure_type:'Lokal reservdata',type:'buy',shares:120000,purchase_price:18.4,value_usd:2208000,score:91,signal_label:'Demonstration',prices:{day_minus_7:17.2,purchase:18.4,day_7:19.1,day_30:23.7,day_90:27.2},returns:{day_7:3.8,day_30:28.8,day_90:47.8},excess_return_90d:38.4,pattern_tags:['lokal demo','AI'],analysis:'Fiktiv reservdata som visas när sidan öppnas direkt utan webbserver.',source_url:'https://www.sec.gov/edgar/search/',is_demo:true},
+    {id:'fallback-se',person_id:'fallback-person-se',person_name:'Linnea Berg (lokal demo)',person_role:'Verkställande direktör (VD)',person_type:'corporate_insider',company:'Nordic Systems AB (demo)',ticker:'SE0000000001',market:'Sverige',country:'SE',currency:'SEK',value_local:2450000,category:'Teknik',subcategory:'Programvara',transaction_date:'2026-07-15',filing_date:'2026-07-16',reporting_delay_days:1,disclosure_type:'Lokal reservdata',type:'buy',shares:35000,purchase_price:70,value_usd:0,score:85,signal_label:'Demonstration',prices:{day_minus_7:68,purchase:70,day_7:72,day_30:78,day_90:null},returns:{day_7:2.9,day_30:11.4,day_90:null},excess_return_90d:null,pattern_tags:['lokal demo','svensk teknik'],analysis:'Fiktiv reservdata som visas när sidan öppnas direkt utan webbserver.',source_url:'https://marknadssok.fi.se/Publiceringsklient/sv-SE/Search/',is_demo:true}
+  ],
+  people:[
+    {id:'fallback-person-us',name:'Alex North (lokal demo)',person_type:'business_leader',primary_role:'Teknik-VD',categories:['Teknik'],history:{tracked_buys:1,positive_90d_rate:100,median_return_90d:47.8,median_excess_90d:38.4},history_note:'Fiktiv lokal reservprofil.'},
+    {id:'fallback-person-se',name:'Linnea Berg (lokal demo)',person_type:'corporate_insider',primary_role:'Svensk VD',categories:['Teknik'],history:{tracked_buys:1,positive_90d_rate:0,median_return_90d:null,median_excess_90d:null},history_note:'Fiktiv lokal reservprofil.'}
+  ],
+  patterns:[],
+  meta:{schema_version:3,generated_at:'2026-08-04T00:00:00Z',source:'local fallback',is_demo:true,record_count:2,people_count:2,top_per_market_category:100}
+};
