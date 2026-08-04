@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Ice Market Intelligence – jämför verifierbara köp, personer, sektorer och kursreaktioner.">
+  <title>Ice Market Intelligence</title>
+  <link rel="stylesheet" href="assets/styles.css">
+  <link rel="stylesheet" href="assets/market.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">ICE MARKET INTELLIGENCE</p>
+      <h1>Se vem som köper.<br><span>Förstå mönstret.</span></h1>
+      <p class="subtitle">Offentliga köp från bolagsinsiders, investerare och inflytelserika ledare – kategoriserade, jämförda och följda före och efter affären.</p>
+    </div>
+    <div class="status-stack">
+      <div class="freshness"><span class="dot"></span><span id="updated">Läser data…</span></div>
+      <div class="demo-badge" id="data-mode">Kontrollerar datakälla</div>
+    </div>
+  </header>
+
+  <main>
+    <section class="metrics" aria-label="Översikt">
+      <article><span>Rapporterade köp</span><strong id="buy-count">–</strong><small id="buy-total">–</small></article>
+      <article><span>Bevakade personer</span><strong id="people-count">–</strong><small>med historik</small></article>
+      <article><span>Median efter 30 dagar</span><strong id="median-30">–</strong><small>kursreaktion efter köp</small></article>
+      <article><span>Starkaste signal</span><strong id="top-score">–</strong><small>signalstyrka, ej vinstchans</small></article>
+    </section>
+
+    <nav class="tabs" aria-label="Dashboardvyer">
+      <button class="active" data-view="trades">Köp & försäljningar</button>
+      <button data-view="people">Personhistorik</button>
+      <button data-view="patterns">Gemensamma mönster</button>
+    </nav>
+
+    <section id="view-trades" class="view active">
+      <section class="panel controls">
+        <label>Sök <input id="search" type="search" placeholder="Person, bolag eller ticker"></label>
+        <label>Marknad <select id="market-filter"><option value="all">USA + Sverige</option><option value="USA">USA</option><option value="Sverige">Sverige</option></select></label>
+        <label>Kategori <select id="category-filter"><option value="all">Alla kategorier</option></select></label>
+        <label>Persontyp <select id="person-filter"><option value="all">Alla personer</option><option value="corporate_insider">Bolagsinsider</option><option value="business_leader">Affärs-/teknikledare</option><option value="institutional_investor">Stor investerare</option><option value="political">Politisk rapport</option></select></label>
+        <label>Minsta signal <input id="score-filter" type="range" min="0" max="100" value="0"><output id="score-output">0</output></label>
+        <label>Sortera <select id="sort-filter"><option value="value">Största affär först</option><option value="date">Senaste först</option><option value="score">Starkaste signal</option></select></label>
+      </section>
+
+      <section class="panel category-overview">
+        <div class="section-heading"><div><p class="eyebrow">TOPP 100 PER KATEGORI</p><h2>Största rapporterade affärerna</h2></div><span>Lokalt rapporterat värde · klicka för att filtrera</span></div>
+        <div id="category-ranking" class="ranking-grid"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-heading"><div><p class="eyebrow">TRANSAKTIONER</p><h2>Vem köpte vad – och vad hände sedan?</h2></div><span id="result-count"></span></div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Marknad / datum</th><th>Person</th><th>Bolag</th><th>Kategori</th><th>Köp</th><th>Kursreaktion</th><th>Signal</th><th>Källa</th></tr></thead>
+            <tbody id="transactions"><tr><td colspan="8">Läser data…</td></tr></tbody>
+          </table>
+        </div>
+      </section>
+
+      <aside class="drawer" id="trade-drawer" aria-live="polite" hidden>
+        <button class="drawer-close" id="close-drawer" aria-label="Stäng detaljpanel">×</button>
+        <div id="trade-detail"></div>
+      </aside>
+    </section>
+
+    <section id="view-people" class="view">
+      <section class="panel">
+        <div class="section-heading"><div><p class="eyebrow">PERSONHISTORIK</p><h2>Jämför tidigare köp och träffbild</h2></div><span>Välj två personer för direkt jämförelse</span></div>
+        <div class="compare-controls"><select id="compare-a"></select><span>mot</span><select id="compare-b"></select></div>
+        <div id="person-comparison" class="comparison-grid"></div>
+      </section>
+      <section id="people-grid" class="people-grid"></section>
+    </section>
+
+    <section id="view-patterns" class="view">
+      <section class="panel">
+        <div class="section-heading"><div><p class="eyebrow">SAMMANBAND</p><h2>Liknande köp som följer samma trend</h2></div><span>Grupperat efter sektor, roll och timing</span></div>
+        <div id="pattern-list" class="pattern-list"></div>
+      </section>
+      <section class="panel methodology">
+        <div><p class="eyebrow">TOLKNING</p><h2>Signal – inte bevis</h2></div>
+        <p>Liknande tajming eller köp i samma sektor kan vara relevant, men visar inte insiderbrott och garanterar inte avkastning. Varje post måste styrkas av originalrapporten. Signalstyrkan är inte samma sak som sannolikhet för vinst. Läs <a href="docs/METHODOLOGY.md">hela metoden</a>.</p>
+      </section>
+    </section>
+  </main>
+
+  <footer>Data kan vara fördröjd eller ofullständig. Misstänkt betyder avvikande mönster – inte fastställd olaglig handel. Historisk utveckling garanterar inte framtida resultat.</footer>
+  <script src="assets/fallback-data.js"></script>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
