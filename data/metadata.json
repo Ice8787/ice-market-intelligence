@@ -1,12 +1,26 @@
 {
-  "schema_version":3,
-  "generated_at":"2026-08-03T12:00:00Z",
-  "source":"demo",
-  "is_demo":true,
-  "record_count":8,
-  "people_count":6,
-  "top_per_market_category":100,
-  "group_counts":{"USA|Teknik":2,"USA|Energi":2,"USA|Försvar":1,"USA|Hälsa":1,"Sverige|Teknik":1,"Sverige|Energi":1},
-  "source_status":{"USA":{"ok":true,"new_records":0},"Sverige":{"ok":true,"new_records":0}},
-  "notice":"Alla personer, bolag, köp och kurser i startdatan är fiktiva. Liveflödet samlar USA och Sverige och behåller upp till 100 största affärer per marknad och kategori."
+  "schema_version": 3,
+  "generated_at": "2026-08-04T14:23:43.789922Z",
+  "source": "SEC EDGAR Form 4 + Finansinspektionens insynsregister",
+  "is_demo": false,
+  "record_count": 43,
+  "people_count": 15,
+  "top_per_market_category": 100,
+  "group_counts": {
+    "Sverige|Övrigt": 38,
+    "Sverige|Industri": 1,
+    "Sverige|Finans": 3,
+    "Sverige|Hälsa": 1
+  },
+  "source_status": {
+    "USA": {
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "Sverige": {
+      "ok": true,
+      "new_records": 43
+    }
+  },
+  "notice": "Visar högst 100 största bevarade affärer per marknad och kategori, sorterat på rapporterat värde i lokal valuta."
 }

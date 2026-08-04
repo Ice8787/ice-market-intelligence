@@ -1,5 +1,60 @@
 [
-  {"id":"pattern-1","type":"Sektorkluster","title":"Teknikledare köper AI- och säkerhetskapacitet","description":"Två köp från samma profilerade teknikledare i närliggande teknikområden. Jämför bolagens fundamenta innan mönstret ges betydelse.","categories":["AI-infrastruktur","Cybersäkerhet"],"trade_ids":["demo-tech-001","demo-cyber-001"],"trade_count":2,"median_return_90d":32.6},
-  {"id":"pattern-2","type":"Återkommande insider","title":"CEO köper samma energibolag vid två tillfällen","description":"Återkommande öppna marknadsköp kan väga tyngre än en ensam affär när roll, belopp och källa är verifierade.","categories":["Energi","Elnät"],"trade_ids":["demo-energy-001","demo-energy-002"],"trade_count":2,"median_return_90d":28.0},
-  {"id":"pattern-3","type":"Politik och sektor","title":"Försvarsköp nära offentliga budgetsignaler","description":"Tajming kan motivera granskning men fastställer inte orsak, informationsövertag eller olaglig handel.","categories":["Försvar","Offentliga beslut"],"trade_ids":["demo-defense-001"],"trade_count":1,"median_return_90d":8.0}
+  {
+    "id": "category-sverige-övrigt",
+    "type": "Sektorkluster",
+    "title": "28 insiderköp inom Övrigt · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Övrigt"
+    ],
+    "trade_ids": [
+      "f527edf4bb3069511d",
+      "56def5386b82fbd511",
+      "44c91003c51baa0ed0",
+      "b2a6dd89388552182c",
+      "b4ce56c893c0c253f6",
+      "0d113f2d8d2f36da06",
+      "4436923421bfc2927e",
+      "2330371b6652996b1e",
+      "cbd1914bba4ba0ed05",
+      "316365db9bb8153fd9",
+      "fab2ebd4270c31fd04",
+      "c820c98c67245ac71b",
+      "8b5c3fc9591f4b57d9",
+      "41eced6737fedb3eeb",
+      "5a3539f1b4505cd302",
+      "027404782a1841d461",
+      "4ec287436e0a9a3877",
+      "c8df4d09036f088e70",
+      "88f0c58da88e923e34",
+      "5c5070101cd7d33c7a",
+      "2f1878cdf6bac24850",
+      "4413f00774167f7e91",
+      "7645cf705a6f993683",
+      "66eb9294a9fd9105e2",
+      "f05a2ed9b16fbe57d7",
+      "ec53fc2ef32f90ae3b",
+      "d9db927ccf0f9481bb",
+      "c5180359cbc6be8816"
+    ],
+    "trade_count": 28,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-sverige-finans",
+    "type": "Sektorkluster",
+    "title": "2 insiderköp inom Finans · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Finans"
+    ],
+    "trade_ids": [
+      "1bb00165c827e64db7",
+      "77b4812dbd3d61281b"
+    ],
+    "trade_count": 2,
+    "median_return_90d": null
+  }
 ]
