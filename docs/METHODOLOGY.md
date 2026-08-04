@@ -21,3 +21,10 @@ Personhistoriken räknas endast på köp som finns i den lokala datamängden. De
 ## Mönster och misstanke
 
 Sektorkluster, återkommande köp och närhet till beslut är granskningssignaler. De är inte bevis på insiderhandel. Dashboarden använder därför uttryck som "avvikande mönster" och länkar alltid till originalrapporten.
+# Politik- och trendanalys
+
+En policyträff kräver att ett offentligt Federal Register-dokument ligger högst 45 dagar från politikeraffären och att automatisk sektor eller ticker matchar. Det är ett tidsmässigt samband, inte bevis för förhandsinformation, påverkan eller insiderbrott.
+
+Uppskattad P/L beräknas som mittpunkten i det rapporterade beloppsintervallet multiplicerad med aktiens kursförändring efter 30 eller 90 dagar. Den är inte politikerns deklarerade eller verifierade faktiska vinst och bortser från exakt köpdag, delköp, optioner, skatt och avgifter.
+
+Trendpoängen använder pris över 20-dagars medelvärde, 20/50-dagars trend, 20-dagars momentum, relativ dagsvolym och RSI. Den beskriver historiskt tillstånd och är inte en sannolikhet eller prognos för en GameStop-liknande uppgång. Blankningsgrad, optionsflöde och realtidsorderbok ingår inte.

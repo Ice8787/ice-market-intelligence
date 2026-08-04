@@ -27,3 +27,9 @@ Varje körning läser de senaste posterna från båda marknaderna och slår ihop
 ## Bevakningslista för kända ledare
 
 `config/leader-watchlist.json` är avsiktligt tom vid leverans. Där kan verifierade teknik- och affärsledare läggas till med namn, alias och relevanta tickers. En matchande SEC-rapport får då persontypen `business_leader` och kan filtreras separat. Listan skapar inga transaktioner; den märker bara redan verifierade rapporter.
+# Amerikanska politiker, beslut och trenddata
+
+- Representanthusets och senatens PTR-uppgifter hämtas via öppna JSON-speglar av de offentliga rapporterna. Varje post behåller länk till PTR/originalsökningen. Speglarna kan vara fördröjda eller ofullständiga; originalrapporten är alltid källan som gäller.
+- Tull-, handels-, exportkontroll- och försvarsbeslut hämtas från den officiella Federal Register-API:n.
+- Historiska slutkurser och volym hämtas från Stooq. Detta är dagsdata, inte realtidskurser eller orderbok.
+- Politikernas belopp publiceras ofta som intervall. Dashboarden visar intervallet och använder dess mittpunkt endast för en tydligt märkt uppskattning av historisk P/L.
