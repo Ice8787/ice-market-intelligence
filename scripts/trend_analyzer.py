@@ -89,7 +89,7 @@ def build_trends(trades: list[dict], limit: int = 80) -> tuple[list[dict], dict]
     tickers = []
     for row in sorted(trades, key=lambda item: item.get("transaction_date", ""), reverse=True):
         ticker = row.get("ticker", "")
-        if row.get("market") == "USA" and ticker and ticker not in tickers:
+        if row.get("market") == "USA" and row.get("person_type") != "institutional_investor" and ticker and ticker not in tickers:
             tickers.append(ticker)
     trends, errors = [], {}
     for ticker in tickers[:limit]:

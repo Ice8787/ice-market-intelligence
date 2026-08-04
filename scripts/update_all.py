@@ -7,6 +7,8 @@ from collections import defaultdict
 from datetime import datetime, timezone
 
 from fi_collector import collect_sweden
+from daily_picks import build_daily_picks
+from institutional_collector import collect_institutional
 from policy_collector import attach_policy_matches, collect_policy_events
 from politician_collector import collect_politicians
 from trend_analyzer import build_trends
@@ -42,7 +44,7 @@ def retain_top(rows: list[dict]) -> list[dict]:
     unique = {row["id"]: row for row in rows}
     groups: dict[tuple[str, str, str], list[dict]] = defaultdict(list)
     for row in unique.values():
-        group = "political" if row.get("person_type") == "political" else "insider"
+        group = row.get("person_type", "corporate_insider")
         groups[(row["market"], row["category"], group)].append(row)
     retained = []
     for trades in groups.values():
@@ -74,15 +76,21 @@ def main() -> None:
         politicians = []
         source_status["US politicians"] = {"ok": False, "error": str(error)}
     try:
+        institutions, institutional_sources = collect_institutional()
+        source_status["USA institutional 13F"] = {"ok": bool(institutions), "new_records": len(institutions), "managers": institutional_sources}
+    except Exception as error:
+        institutions = []
+        source_status["USA institutional 13F"] = {"ok": False, "error": str(error)}
+    try:
         policy_events, policy_status = collect_policy_events()
         source_status["Federal Register"] = policy_status
     except Exception as error:
         policy_events = read_json("policy_events.json", [])
         source_status["Federal Register"] = {"ok": False, "error": str(error), "preserved_records": len(policy_events)}
     attach_policy_matches(politicians, policy_events)
-    if not current and not usa and not sweden and not politicians:
+    if not current and not usa and not sweden and not politicians and not institutions:
         raise RuntimeError("No verified records were available; preserving the existing published dataset")
-    rows = retain_top([*current, *usa, *sweden, *politicians])
+    rows = retain_top([*current, *usa, *sweden, *politicians, *institutions])
     people, patterns = build_people(rows), build_patterns(rows)
     try:
         trends, trend_status = build_trends(rows, int(os.environ.get("MAX_TREND_TICKERS", "25")))
@@ -92,6 +100,7 @@ def main() -> None:
     except Exception as error:
         trends = read_json("trends.json", [])
         source_status["Trend data"] = {"ok": False, "error": str(error), "preserved_records": len(trends)}
+    daily_picks = build_daily_picks(trends, rows, 5)
     DATA.mkdir(exist_ok=True)
     outputs = {
         "transactions.json": rows,
@@ -99,13 +108,16 @@ def main() -> None:
         "patterns.json": patterns,
         "policy_events.json": policy_events,
         "trends.json": trends,
+        "daily_picks.json": daily_picks,
     }
     for filename, payload in outputs.items():
         (DATA / filename).write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     group_counts: dict[str, int] = defaultdict(int)
+    person_type_counts: dict[str, int] = defaultdict(int)
     for row in rows:
-        group = "political" if row.get("person_type") == "political" else "insider"
+        group = row.get("person_type", "corporate_insider")
         group_counts[f"{row['market']}|{row['category']}|{group}"] += 1
+        person_type_counts[group] += 1
     metadata = {
         "schema_version": 4,
         "generated_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
@@ -116,8 +128,10 @@ def main() -> None:
         "political_trade_count": sum(row.get("person_type") == "political" for row in rows),
         "policy_event_count": len(policy_events),
         "trend_count": len(trends),
+        "daily_pick_count": len(daily_picks),
         "top_per_market_category": TOP_PER_GROUP,
         "group_counts": dict(group_counts),
+        "person_type_counts": dict(person_type_counts),
         "source_status": source_status,
         "notice": "Högst 100 affärer per marknad, kategori och persontyp. Politikbelopp är mittpunkter i rapporterade intervall. Policyträffar är tidssamband, inte bevis. Trendpoäng är inte en kursprognos.",
     }

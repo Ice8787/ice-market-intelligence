@@ -80,13 +80,15 @@ def parse_page(html: str) -> list[dict]:
         tx_id = hashlib.sha256(f"FI|{company}|{person}|{trade_date}|{nature}|{volume}|{price}|{isin}".encode()).hexdigest()[:18]
         score, reasons = score_transaction(code=code, role=role, value_usd=value / 10, filing_date=published)
         reasons.append("Storlekspoäng använder konservativ SEK/USD-normalisering")
+        role_key = role.casefold()
+        person_type = "business_leader" if any(term in role_key for term in ("verkställande direktör", " vd", "ceo", "koncernchef")) else "corporate_insider"
         try:
             reporting_delay = max(0, (date.fromisoformat(published) - date.fromisoformat(trade_date)).days)
         except ValueError:
             reporting_delay = None
         rows.append({
             "id": tx_id, "person_id": person_id, "person_name": person, "person_role": role,
-            "person_type": "corporate_insider", "issuer_cik": "", "company": company,
+            "person_type": person_type, "issuer_cik": "", "company": company,
             "ticker": isin or instrument, "market": "Sverige", "country": "SE", "currency": currency or "SEK", "value_local": value,
             "category": category, "subcategory": subcategory, "transaction_date": trade_date,
             "filing_date": published, "reporting_delay_days": reporting_delay, "disclosure_type": "FI:s insynsregister", "type": trade_type,

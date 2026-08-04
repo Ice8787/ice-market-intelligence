@@ -5,7 +5,7 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-REQUIRED = ["index.html", "assets/app.js", "assets/fallback-data.js", "assets/styles.css", "assets/market.css", "assets/politics.css", "start-windows.bat", "start-local.ps1", "config/leader-watchlist.json", "data/transactions.json", "data/people.json", "data/patterns.json", "data/policy_events.json", "data/trends.json", "data/metadata.json", ".github/workflows/pages.yml", ".github/workflows/update-data.yml", ".gitignore", ".nojekyll"]
+REQUIRED = ["index.html", "assets/app.js", "assets/fallback-data.js", "assets/styles.css", "assets/market.css", "assets/politics.css", "start-windows.bat", "start-local.ps1", "config/leader-watchlist.json", "data/transactions.json", "data/people.json", "data/patterns.json", "data/policy_events.json", "data/trends.json", "data/daily_picks.json", "data/metadata.json", ".github/workflows/pages.yml", ".github/workflows/update-data.yml", ".gitignore", ".nojekyll"]
 
 
 def read(name: str):
@@ -18,8 +18,9 @@ def main() -> None:
     for path in sorted((ROOT / "data").glob("*.json")):
         json.loads(path.read_text(encoding="utf-8")); print(f"valid JSON: {path.relative_to(ROOT)}")
     json.loads((ROOT / "config/leader-watchlist.json").read_text(encoding="utf-8"))
-    trades, people, patterns, policies, trends, meta = read("transactions.json"), read("people.json"), read("patterns.json"), read("policy_events.json"), read("trends.json"), read("metadata.json")
-    if not isinstance(policies, list) or not isinstance(trends, list): raise SystemExit("policy_events.json and trends.json must be lists")
+    trades, people, patterns, policies, trends, picks, meta = read("transactions.json"), read("people.json"), read("patterns.json"), read("policy_events.json"), read("trends.json"), read("daily_picks.json"), read("metadata.json")
+    if not all(isinstance(value, list) for value in (policies, trends, picks)): raise SystemExit("policy, trend and daily pick files must be lists")
+    if len(picks) > 5 or any(not 0 <= row.get("watch_score", -1) <= 100 for row in picks): raise SystemExit("daily picks invalid")
     trade_keys = {"id","person_id","person_name","person_type","company","ticker","market","country","currency","value_local","category","subcategory","shares","purchase_price","value_usd","prices","returns","score","source_url","is_demo"}
     for index, row in enumerate(trades):
         absent = trade_keys - row.keys()
