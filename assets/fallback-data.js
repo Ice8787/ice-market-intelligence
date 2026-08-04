@@ -7,6 +7,6 @@ window.ICE_FALLBACK={
     {id:'fallback-person-us',name:'Alex North (lokal demo)',person_type:'business_leader',primary_role:'Teknik-VD',categories:['Teknik'],history:{tracked_buys:1,positive_90d_rate:100,median_return_90d:47.8,median_excess_90d:38.4},history_note:'Fiktiv lokal reservprofil.'},
     {id:'fallback-person-se',name:'Linnea Berg (lokal demo)',person_type:'corporate_insider',primary_role:'Svensk VD',categories:['Teknik'],history:{tracked_buys:1,positive_90d_rate:0,median_return_90d:null,median_excess_90d:null},history_note:'Fiktiv lokal reservprofil.'}
   ],
-  patterns:[],
-  meta:{schema_version:3,generated_at:'2026-08-04T00:00:00Z',source:'local fallback',is_demo:true,record_count:2,people_count:2,top_per_market_category:100}
+  patterns:[],policyEvents:[],trends:[],
+  meta:{schema_version:4,generated_at:'2026-08-04T00:00:00Z',source:'local fallback',is_demo:true,record_count:2,people_count:2,political_trade_count:0,policy_event_count:0,trend_count:0,top_per_market_category:100}
 };
