@@ -1669,61 +1669,6 @@
     "is_demo": false
   },
   {
-    "id": "3559c9512c92f8dd95",
-    "person_id": "2c6b22bc3a5362",
-    "person_name": "Henrik Sundin",
-    "person_role": "Styrelseledamot",
-    "person_type": "corporate_insider",
-    "issuer_cik": "",
-    "company": "Hamlet Biopharma AB (publ)",
-    "ticker": "Teckningsoption serie TO5B",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 0.0,
-    "category": "Hälsa",
-    "subcategory": "Automatisk namnklassning – verifiera",
-    "transaction_date": "2026-07-30",
-    "filing_date": "2026-08-03",
-    "reporting_delay_days": 4,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "sell",
-    "transaction_code": "S",
-    "shares": 237120.0,
-    "purchase_price": 0.0,
-    "value_usd": 0.0,
-    "score": 25,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppen marknadsförsäljning",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Hälsa",
-      "Styrelseledamot",
-      "Avyttring",
-      "egen rapport"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B445-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
     "id": "567ee3aecc2edea2e2",
     "person_id": "5f92a4c15ecdf7",
     "person_name": "Tobias Fahlqvist",
@@ -1777,6 +1722,61 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B429-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "3559c9512c92f8dd95",
+    "person_id": "2c6b22bc3a5362",
+    "person_name": "Henrik Sundin",
+    "person_role": "Styrelseledamot",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Hamlet Biopharma AB (publ)",
+    "ticker": "Teckningsoption serie TO5B",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 0.0,
+    "category": "Hälsa",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-07-30",
+    "filing_date": "2026-08-03",
+    "reporting_delay_days": 4,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "sell",
+    "transaction_code": "S",
+    "shares": 237120.0,
+    "purchase_price": 0.0,
+    "value_usd": 0.0,
+    "score": 25,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppen marknadsförsäljning",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Hälsa",
+      "Styrelseledamot",
+      "Avyttring",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B445-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
