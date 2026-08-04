@@ -1,13 +1,13 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-08-04T14:34:38.190086Z",
+  "generated_at": "2026-08-04T16:28:41.856919Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionens insynsregister",
   "is_demo": false,
-  "record_count": 43,
-  "people_count": 15,
+  "record_count": 44,
+  "people_count": 16,
   "top_per_market_category": 100,
   "group_counts": {
-    "Sverige|Övrigt": 38,
+    "Sverige|Övrigt": 39,
     "Sverige|Industri": 1,
     "Sverige|Finans": 3,
     "Sverige|Hälsa": 1
