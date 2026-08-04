@@ -1,0 +1,31 @@
+name: Update market intelligence
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch US and Swedish insider data
+        env:
+          SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
+          FI_USER_AGENT: ${{ vars.FI_USER_AGENT }}
+          MAX_SEC_FILINGS: "40"
+          MAX_FI_PAGES: "5"
+        run: python scripts/update_all.py
+      - name: Validate
+        run: python -m compileall -q scripts && python scripts/validate.py
+      - name: Commit changed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "chore: update market data"
+          git push
