@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-08-04T17:05:56.685592Z",
+  "generated_at": "2026-08-04T17:31:16.897341Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
   "record_count": 455,
@@ -8,12 +8,15 @@
   "political_trade_count": 411,
   "policy_event_count": 112,
   "trend_count": 22,
+  "daily_pick_count": 5,
   "top_per_market_category": 100,
   "group_counts": {
-    "Sverige|Övrigt|insider": 39,
-    "Sverige|Industri|insider": 1,
-    "Sverige|Finans|insider": 3,
-    "Sverige|Hälsa|insider": 1,
+    "Sverige|Övrigt|corporate_insider": 33,
+    "Sverige|Övrigt|business_leader": 6,
+    "Sverige|Industri|corporate_insider": 1,
+    "Sverige|Finans|business_leader": 2,
+    "Sverige|Finans|corporate_insider": 1,
+    "Sverige|Hälsa|corporate_insider": 1,
     "USA|Hälsa|political": 46,
     "USA|Teknik|political": 70,
     "USA|Övrigt|political": 100,
@@ -23,6 +26,11 @@
     "USA|Transport|political": 22,
     "USA|Industri|political": 21,
     "USA|Energi|political": 58
+  },
+  "person_type_counts": {
+    "corporate_insider": 36,
+    "business_leader": 8,
+    "political": 411
   },
   "source_status": {
     "USA corporate": {
@@ -44,6 +52,28 @@
         "Senate Stock Watcher": {
           "ok": true,
           "records": 6171
+        }
+      }
+    },
+    "USA institutional 13F": {
+      "ok": false,
+      "new_records": 0,
+      "managers": {
+        "Berkshire Hathaway": {
+          "ok": false,
+          "error": "HTTP Error 403: Forbidden"
+        },
+        "Bridgewater Associates": {
+          "ok": false,
+          "error": "HTTP Error 403: Forbidden"
+        },
+        "Pershing Square Capital Management": {
+          "ok": false,
+          "error": "HTTP Error 403: Forbidden"
+        },
+        "Soros Fund Management": {
+          "ok": false,
+          "error": "HTTP Error 403: Forbidden"
         }
       }
     },
