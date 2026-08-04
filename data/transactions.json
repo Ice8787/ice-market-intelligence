@@ -56,6 +56,62 @@
     "is_demo": false
   },
   {
+    "id": "560257366d721e4eda",
+    "person_id": "e80268226f35d0",
+    "person_name": "John Henrik Saxborn",
+    "person_role": "Styrelseordförande",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Annehem Fastigheter AB (publ)",
+    "ticker": "SE0015221684",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 450011.25,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-04",
+    "filing_date": "2026-08-04",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 27693.0,
+    "purchase_price": 16.25,
+    "value_usd": 0.0,
+    "score": 55,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Betydande transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 16.25,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Styrelseordförande",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B464-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "ba0a9c66e40f1ebbc6",
     "person_id": "410bf365b1874c",
     "person_name": "Karin Jarl Månsson",
@@ -664,6 +720,62 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B435-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "f9432963c70fac7c33",
+    "person_id": "076a87811127b7",
+    "person_name": "Jonas Steen",
+    "person_role": "Annan ledande befattningshavare",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Beijer Ref AB (publ)",
+    "ticker": "Partnership interests in Breeze SCSp (Luxembourg special limited partnership), which indirectly (through 9BP8 S.à.r.l) holds ordinary shares in Breeze TopCo S.à.r.l., which holds shares in Beijer Ref AB (publ)",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 10262072.700000001,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-07-31",
+    "filing_date": "2026-08-04",
+    "reporting_delay_days": 4,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "sell",
+    "transaction_code": "S",
+    "shares": 9329157.0,
+    "purchase_price": 1.1,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppen marknadsförsäljning",
+      "Mycket stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 1.1,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Annan ledande befattningshavare",
+      "Avyttring",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B463-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
