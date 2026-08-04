@@ -279,6 +279,61 @@
     "is_demo": false
   },
   {
+    "id": "63116641e5f63eca88",
+    "person_id": "24828099135d59",
+    "person_name": "Lars-Ola Lundkvist",
+    "person_role": "Styrelseledamot",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "HANZA Holding AB",
+    "ticker": "SE0005878543",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 76920.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-03",
+    "filing_date": "2026-08-04",
+    "reporting_delay_days": 1,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 600.0,
+    "purchase_price": 128.2,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 128.2,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Styrelseledamot",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B462-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "b2a6dd89388552182c",
     "person_id": "e40d9d58bb1c5b",
     "person_name": "Laszlo Janos Varga",
