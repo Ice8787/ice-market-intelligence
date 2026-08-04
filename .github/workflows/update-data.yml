@@ -13,12 +13,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Fetch US and Swedish insider data
+      - name: Fetch insiders, politicians, policy events and trend data
         env:
           SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
           FI_USER_AGENT: ${{ vars.FI_USER_AGENT }}
           MAX_SEC_FILINGS: "40"
           MAX_FI_PAGES: "5"
+          MAX_PRICE_TICKERS: "40"
+          MAX_TREND_TICKERS: "25"
         run: python scripts/update_all.py
       - name: Validate
         run: python -m compileall -q scripts && python scripts/validate.py
