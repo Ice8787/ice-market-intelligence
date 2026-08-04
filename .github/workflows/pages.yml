@@ -2,6 +2,10 @@ name: Deploy GitHub Pages
 on:
   push:
     branches: [main]
+  schedule:
+    # Runs five minutes after the market-data workflow, so bot commits are
+    # published even though pushes made with GITHUB_TOKEN do not start a new workflow.
+    - cron: "12,27,42,57 * * * *"
   workflow_dispatch:
 permissions:
   contents: read
