@@ -18,7 +18,7 @@ from update_data import classify
 
 SOURCES = (
     ("House Stock Watcher", "https://house-stock-watcher-data.s3-us-west-2.amazonaws.com/data/all_transactions.json"),
-    ("Senate Stock Watcher", "https://senate-stock-watcher-data.s3-us-west-2.amazonaws.com/aggregate/all_transactions.json"),
+    ("Senate Stock Watcher", "https://raw.githubusercontent.com/timothycarambat/senate-stock-watcher-data/master/aggregate/all_transactions.json"),
 )
 HOUSE_SEARCH = "https://disclosures-clerk.house.gov/FinancialDisclosure"
 SENATE_SEARCH = "https://efdsearch.senate.gov/search/home/"
