@@ -181,17 +181,25 @@ def fetch_prices(ticker: str, api_key: str) -> dict[str, float]:
 
 def enrich_prices(rows: list[dict]) -> None:
     api_key = os.environ.get("MARKET_DATA_API_KEY")
+    max_tickers = int(os.environ.get("MAX_PRICE_TICKERS", "40"))
+    stooq_fetch = None
     if not api_key:
-        return
+        from trend_analyzer import fetch_stooq
+        stooq_fetch = fetch_stooq
     cache: dict[str, dict[str, float]] = {}
     for row in rows:
         ticker = row["ticker"]
+        if ticker not in cache and len(cache) >= max_tickers:
+            continue
         if ticker not in cache:
             try:
-                cache[ticker] = fetch_prices(ticker, api_key)
+                if api_key:
+                    cache[ticker] = fetch_prices(ticker, api_key)
+                else:
+                    cache[ticker] = {item["date"]: item["close"] for item in stooq_fetch(ticker)}
             except Exception:
                 cache[ticker] = {}
-            time.sleep(0.8)
+            time.sleep(0.8 if api_key else 0.15)
         series = cache[ticker]
         bought = date.fromisoformat(row["transaction_date"])
         purchase = nearest_price(series, bought) or row["purchase_price"] or None
@@ -202,6 +210,11 @@ def enrich_prices(rows: list[dict]) -> None:
             for horizon in (7, 30, 90):
                 later = row["prices"][f"day_{horizon}"]
                 row["returns"][f"day_{horizon}"] = round((later / purchase - 1) * 100, 2) if later else None
+        midpoint = row.get("amount_midpoint")
+        if midpoint:
+            for horizon in (30, 90):
+                result = row["returns"].get(f"day_{horizon}")
+                row[f"estimated_profit_{horizon}d"] = round(midpoint * result / 100, 2) if result is not None else None
 
 
 def build_people(rows: list[dict]) -> list[dict]:
