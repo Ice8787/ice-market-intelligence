@@ -1,17 +1,80 @@
 [
   {
-    "id": "b2a86afd3a4790",
-    "name": "John Hoeven",
+    "id": "7a261814927640",
+    "name": "Thomas R Carper",
     "person_type": "political",
     "primary_role": "Senaten",
     "categories": [
       "Energi",
+      "Finans",
+      "Försvar",
+      "Hälsa",
+      "Konsument",
+      "Teknik"
+    ],
+    "history": {
+      "tracked_buys": 30,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "8799cf83fc5f7e",
+    "name": "David A Perdue , Jr",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Energi",
+      "Finans",
+      "Industri",
       "Teknik",
       "Transport",
       "Övrigt"
     ],
     "history": {
-      "tracked_buys": 23,
+      "tracked_buys": 30,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "095e82b36e1e45",
+    "name": "Kelly Loeffler",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Finans",
+      "Hälsa",
+      "Industri",
+      "Teknik",
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 24,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "717fbc8ff1b72f",
+    "name": "Ron L Wyden",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Industri",
+      "Konsument",
+      "Teknik",
+      "Transport",
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 22,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -29,11 +92,10 @@
       "Försvar",
       "Hälsa",
       "Konsument",
-      "Teknik",
-      "Övrigt"
+      "Teknik"
     ],
     "history": {
-      "tracked_buys": 20,
+      "tracked_buys": 17,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -41,17 +103,18 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "8799cf83fc5f7e",
-    "name": "David A Perdue , Jr",
+    "id": "b2a86afd3a4790",
+    "name": "John Hoeven",
     "person_type": "political",
     "primary_role": "Senaten",
     "categories": [
       "Energi",
-      "Finans",
+      "Teknik",
+      "Transport",
       "Övrigt"
     ],
     "history": {
-      "tracked_buys": 14,
+      "tracked_buys": 16,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -66,11 +129,12 @@
     "categories": [
       "Energi",
       "Finans",
+      "Teknik",
       "Transport",
       "Övrigt"
     ],
     "history": {
-      "tracked_buys": 12,
+      "tracked_buys": 9,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -87,41 +151,6 @@
       "Hälsa",
       "Industri",
       "Teknik",
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 10,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "dfa418dd6d572f",
-    "name": "Patrick J Toomey",
-    "person_type": "political",
-    "primary_role": "Senaten",
-    "categories": [
-      "Energi",
-      "Hälsa",
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 8,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "98169f3f7b4826",
-    "name": "James M Inhofe",
-    "person_type": "political",
-    "primary_role": "Senaten",
-    "categories": [
-      "Hälsa",
       "Övrigt"
     ],
     "history": {
@@ -142,22 +171,6 @@
     ],
     "history": {
       "tracked_buys": 6,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "7a261814927640",
-    "name": "Thomas R Carper",
-    "person_type": "political",
-    "primary_role": "Senaten",
-    "categories": [
-      "Energi"
-    ],
-    "history": {
-      "tracked_buys": 4,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -203,6 +216,23 @@
     "primary_role": "Styrelseledamot",
     "categories": [
       "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 3,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "dfa418dd6d572f",
+    "name": "Patrick J Toomey",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Energi",
+      "Hälsa"
     ],
     "history": {
       "tracked_buys": 3,
@@ -277,6 +307,23 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "569b4ab760c32a",
+    "name": "Jerry Moran,",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Finans",
+      "Hälsa"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "c5c212be4017ff",
     "name": "Gary C Peters",
     "person_type": "political",
@@ -300,22 +347,6 @@
     "primary_role": "Senaten",
     "categories": [
       "Teknik"
-    ],
-    "history": {
-      "tracked_buys": 2,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "93fa919fc9d0a7",
-    "name": "Rafael E Cruz",
-    "person_type": "political",
-    "primary_role": "Senaten",
-    "categories": [
-      "Övrigt"
     ],
     "history": {
       "tracked_buys": 2,
@@ -444,6 +475,22 @@
     "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
     "categories": [
       "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "98169f3f7b4826",
+    "name": "James M Inhofe",
+    "person_type": "political",
+    "primary_role": "Senaten",
+    "categories": [
+      "Hälsa"
     ],
     "history": {
       "tracked_buys": 1,
