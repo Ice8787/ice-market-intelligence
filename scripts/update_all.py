@@ -109,7 +109,7 @@ def main() -> None:
     metadata = {
         "schema_version": 4,
         "generated_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
-        "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq EOD",
+        "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
         "is_demo": False,
         "record_count": len(rows),
         "people_count": len(people),

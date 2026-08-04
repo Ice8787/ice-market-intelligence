@@ -3,8 +3,10 @@ from __future__ import annotations
 
 import csv
 import io
+import json
 import math
 import urllib.request
+from datetime import datetime, timezone
 
 
 def fetch_stooq(ticker: str) -> list[dict]:
@@ -22,6 +24,33 @@ def fetch_stooq(ticker: str) -> list[dict]:
     return rows[-260:]
 
 
+def fetch_yahoo(ticker: str) -> list[dict]:
+    symbol = ticker.replace(".", "-")
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=1y&interval=1d&events=history"
+    request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 IceMarketIntelligence/3.1"})
+    with urllib.request.urlopen(request, timeout=35) as response:
+        result = json.loads(response.read().decode("utf-8"))["chart"]["result"][0]
+    timestamps = result.get("timestamp", [])
+    quote = result.get("indicators", {}).get("quote", [{}])[0]
+    rows = []
+    for stamp, close, volume in zip(timestamps, quote.get("close", []), quote.get("volume", [])):
+        if close is None:
+            continue
+        day = datetime.fromtimestamp(stamp, timezone.utc).date().isoformat()
+        rows.append({"date": day, "close": float(close), "volume": float(volume or 0)})
+    return rows[-260:]
+
+
+def fetch_market_series(ticker: str) -> list[dict]:
+    try:
+        rows = fetch_stooq(ticker)
+        if len(rows) >= 55:
+            return rows
+    except Exception:
+        pass
+    return fetch_yahoo(ticker)
+
+
 def rsi(values: list[float], period: int = 14) -> float | None:
     if len(values) <= period:
         return None
@@ -32,7 +61,7 @@ def rsi(values: list[float], period: int = 14) -> float | None:
 
 
 def analyze_ticker(ticker: str) -> dict | None:
-    series = fetch_stooq(ticker)
+    series = fetch_market_series(ticker)
     if len(series) < 55:
         return None
     closes = [row["close"] for row in series]

@@ -17,8 +17,8 @@ from scoring import score_transaction
 from update_data import classify
 
 SOURCES = (
-    ("House Stock Watcher", "https://raw.githubusercontent.com/timothycarambat/house-stock-watcher-data/master/data/all_transactions.json"),
-    ("Senate Stock Watcher", "https://raw.githubusercontent.com/timothycarambat/senate-stock-watcher-data/master/aggregate/all_transactions.json"),
+    ("House Stock Watcher", "https://house-stock-watcher-data.s3-us-west-2.amazonaws.com/data/all_transactions.json"),
+    ("Senate Stock Watcher", "https://senate-stock-watcher-data.s3-us-west-2.amazonaws.com/aggregate/all_transactions.json"),
 )
 HOUSE_SEARCH = "https://disclosures-clerk.house.gov/FinancialDisclosure"
 SENATE_SEARCH = "https://efdsearch.senate.gov/search/home/"
@@ -31,14 +31,14 @@ def fetch_json(url: str) -> list[dict]:
     return payload if isinstance(payload, list) else payload.get("data", [])
 
 
-def parse_date(value: object) -> str:
+def parse_date(value: object, fallback: str | None = None) -> str:
     text = str(value or "").strip()
     for fmt in ("%Y-%m-%d", "%m/%d/%Y", "%m/%d/%y", "%d/%m/%Y"):
         try:
             return datetime.strptime(text, fmt).date().isoformat()
         except ValueError:
             pass
-    return date.today().isoformat()
+    return fallback or date.today().isoformat()
 
 
 def amount_range(value: object) -> tuple[float, float, float]:
@@ -69,7 +69,7 @@ def normalize_row(raw: dict, provider: str) -> dict | None:
     chamber = "Representanthuset" if "House" in provider else "Senaten"
     asset = str(raw.get("asset_description") or raw.get("asset_name") or ticker).strip()
     transaction_date = parse_date(raw.get("transaction_date"))
-    filing_date = parse_date(raw.get("disclosure_date") or raw.get("filing_date"))
+    filing_date = parse_date(raw.get("disclosure_date") or raw.get("filing_date"), transaction_date)
     low, high, midpoint = amount_range(raw.get("amount"))
     category, subcategory = classify(f"{asset} {ticker}")
     source_url = str(raw.get("ptr_link") or raw.get("source_url") or (HOUSE_SEARCH if chamber == "Representanthuset" else SENATE_SEARCH))
@@ -110,7 +110,8 @@ def collect_politicians(limit: int = 1000) -> tuple[list[dict], dict]:
         try:
             raw_rows = fetch_json(url)
             parsed = [row for raw in raw_rows for row in [normalize_row(raw, provider)] if row]
-            rows.extend(parsed[-limit:])
+            parsed.sort(key=lambda row: (row["transaction_date"], row["filing_date"]), reverse=True)
+            rows.extend(parsed[:limit])
             status[provider] = {"ok": True, "records": len(parsed)}
         except Exception as error:
             status[provider] = {"ok": False, "error": str(error)}

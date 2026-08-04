@@ -184,8 +184,8 @@ def enrich_prices(rows: list[dict]) -> None:
     max_tickers = int(os.environ.get("MAX_PRICE_TICKERS", "40"))
     stooq_fetch = None
     if not api_key:
-        from trend_analyzer import fetch_stooq
-        stooq_fetch = fetch_stooq
+        from trend_analyzer import fetch_market_series
+        stooq_fetch = fetch_market_series
     cache: dict[str, dict[str, float]] = {}
     for row in rows:
         ticker = row["ticker"]
