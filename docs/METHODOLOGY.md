@@ -28,3 +28,11 @@ En policyträff kräver att ett offentligt Federal Register-dokument ligger hög
 Uppskattad P/L beräknas som mittpunkten i det rapporterade beloppsintervallet multiplicerad med aktiens kursförändring efter 30 eller 90 dagar. Den är inte politikerns deklarerade eller verifierade faktiska vinst och bortser från exakt köpdag, delköp, optioner, skatt och avgifter.
 
 Trendpoängen använder pris över 20-dagars medelvärde, 20/50-dagars trend, 20-dagars momentum, relativ dagsvolym och RSI. Den beskriver historiskt tillstånd och är inte en sannolikhet eller prognos för en GameStop-liknande uppgång. Blankningsgrad, optionsflöde och realtidsorderbok ingår inte.
+
+## Dagens 5
+
+De fem dagliga bevakningskandidaterna rangordnas med 72 procent trendpoäng, 18 procent starkaste tillgängliga offentliga köpsignal och högst 12 poäng för flera oberoende rapportörer. Riskflaggor läggs till vid hög RSI, svag volymbekräftelse, extremt momentum eller avsaknad av matchande offentlig köpare. Poängen är inte en vinstsannolikhet och listan är inte personlig investeringsrådgivning.
+
+## Stora investerare
+
+För utvalda institutionella förvaltare jämförs två SEC Form 13F-HR. En ökning betyder att rapporterat aktieantal var högre vid det senaste kvartalsslutet. Den visar inte exakt köpdatum, köppris eller nuvarande innehav. Form 13F kan lämnas upp till 45 dagar efter kvartalsslutet.

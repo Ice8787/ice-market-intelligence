@@ -31,5 +31,6 @@ Varje körning läser de senaste posterna från båda marknaderna och slår ihop
 
 - Representanthusets och senatens PTR-uppgifter hämtas via öppna JSON-speglar av de offentliga rapporterna. Varje post behåller länk till PTR/originalsökningen. Speglarna kan vara fördröjda eller ofullständiga; originalrapporten är alltid källan som gäller.
 - Tull-, handels-, exportkontroll- och försvarsbeslut hämtas från den officiella Federal Register-API:n.
-- Historiska slutkurser och volym hämtas från Stooq. Detta är dagsdata, inte realtidskurser eller orderbok.
+- Historiska slutkurser och volym hämtas från Stooq med Yahoo Finance chart-data som reservkälla. Detta är dagsdata, inte realtidskurser eller orderbok.
 - Politikernas belopp publiceras ofta som intervall. Dashboarden visar intervallet och använder dess mittpunkt endast för en tydligt märkt uppskattning av historisk P/L.
+- Stora investerares positionsökningar jämförs från officiella SEC Form 13F-HR för Berkshire Hathaway, Bridgewater Associates, Pershing Square och Soros Fund Management. Rapporterna är kvartalsvisa och kan vara 45 dagar fördröjda.
