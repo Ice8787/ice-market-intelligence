@@ -26,8 +26,8 @@ def main() -> None:
         absent = trade_keys - row.keys()
         if absent: raise SystemExit(f"transactions[{index}] missing: {sorted(absent)}")
         if row["type"] not in {"buy","sell"} or not 0 <= row["score"] <= 100: raise SystemExit(f"transactions[{index}] invalid type or score")
-        if set(row["prices"]) != {"day_minus_7","purchase","day_7","day_30","day_90"}: raise SystemExit(f"transactions[{index}] invalid price windows")
-        if set(row["returns"]) != {"day_7","day_30","day_90"}: raise SystemExit(f"transactions[{index}] invalid return windows")
+        if not {"day_minus_7","purchase","day_7","day_30","day_90"}.issubset(row["prices"]): raise SystemExit(f"transactions[{index}] invalid price windows")
+        if not {"day_7","day_30","day_90"}.issubset(row["returns"]): raise SystemExit(f"transactions[{index}] invalid return windows")
     person_ids = {p["id"] for p in people}
     if any(t["type"] == "buy" and t["person_id"] not in person_ids for t in trades): raise SystemExit("buy references person missing from people.json")
     trade_ids = {t["id"] for t in trades}

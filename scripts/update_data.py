@@ -143,8 +143,8 @@ def parse_form4(payload: bytes, source_url: str, filing_date: str) -> list[dict]
                 "filing_date": filing_date, "reporting_delay_days": reporting_delay, "disclosure_type": "SEC Form 4", "type": "buy" if code == "P" else "sell",
                 "transaction_code": code, "shares": shares, "purchase_price": price, "value_usd": value,
                 "score": score, "signal_label": "Verifierad Form 4-transaktion", "score_reasons": reasons,
-                "prices": {"day_minus_7": None, "purchase": price or None, "day_7": None, "day_30": None, "day_90": None},
-                "returns": {"day_7": None, "day_30": None, "day_90": None}, "benchmark_return_90d": None,
+                "prices": {"day_minus_7": None, "purchase": price or None, "day_1": None, "day_3": None, "day_7": None, "day_30": None, "day_90": None},
+                "returns": {"day_1": None, "day_3": None, "day_7": None, "day_30": None, "day_90": None}, "benchmark_return_90d": None,
                 "excess_return_90d": None, "pattern_tags": [category, role, "öppet marknadsköp" if code == "P" else "öppen marknadsförsäljning"],
                 "analysis": "Transaktionen är hämtad från SEC Form 4. Kategori är automatisk och kursreaktion visas först när prisdata finns.",
                 "source_url": source_url, "is_demo": False,
@@ -203,11 +203,11 @@ def enrich_prices(rows: list[dict]) -> None:
         series = cache[ticker]
         bought = date.fromisoformat(row["transaction_date"])
         purchase = nearest_price(series, bought) or row["purchase_price"] or None
-        points = {"day_minus_7": -7, "purchase": 0, "day_7": 7, "day_30": 30, "day_90": 90}
+        points = {"day_minus_7": -7, "purchase": 0, "day_1": 1, "day_3": 3, "day_7": 7, "day_30": 30, "day_90": 90}
         row["prices"] = {name: nearest_price(series, bought + timedelta(days=offset)) for name, offset in points.items()}
         row["prices"]["purchase"] = purchase
         if purchase:
-            for horizon in (7, 30, 90):
+            for horizon in (1, 3, 7, 30, 90):
                 later = row["prices"][f"day_{horizon}"]
                 row["returns"][f"day_{horizon}"] = round((later / purchase - 1) * 100, 2) if later else None
         midpoint = row.get("amount_midpoint")
