@@ -185,7 +185,7 @@ def enrich_prices(rows: list[dict]) -> None:
     stooq_fetch = None
     if not api_key:
         from trend_analyzer import fetch_market_series
-        stooq_fetch = fetch_market_series
+        stooq_fetch = lambda ticker: fetch_market_series(ticker, full_history=True)
     cache: dict[str, dict[str, float]] = {}
     for row in rows:
         ticker = row["ticker"]

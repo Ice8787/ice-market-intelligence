@@ -9,7 +9,7 @@ import urllib.request
 from datetime import datetime, timezone
 
 
-def fetch_stooq(ticker: str) -> list[dict]:
+def fetch_stooq(ticker: str, limit: int | None = 260) -> list[dict]:
     symbol = ticker.lower().replace(".", "-") + ".us"
     url = f"https://stooq.com/q/d/l/?s={symbol}&i=d"
     request = urllib.request.Request(url, headers={"User-Agent": "IceMarketIntelligence/3.0"})
@@ -21,12 +21,13 @@ def fetch_stooq(ticker: str) -> list[dict]:
             rows.append({"date": row["Date"], "close": float(row["Close"]), "volume": float(row.get("Volume") or 0)})
         except (KeyError, TypeError, ValueError):
             continue
-    return rows[-260:]
+    return rows[-limit:] if limit else rows
 
 
-def fetch_yahoo(ticker: str) -> list[dict]:
+def fetch_yahoo(ticker: str, full_history: bool = False) -> list[dict]:
     symbol = ticker.replace(".", "-")
-    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=1y&interval=1d&events=history"
+    history_range = "max" if full_history else "1y"
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range={history_range}&interval=1d&events=history"
     request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 IceMarketIntelligence/3.1"})
     with urllib.request.urlopen(request, timeout=35) as response:
         result = json.loads(response.read().decode("utf-8"))["chart"]["result"][0]
@@ -38,17 +39,17 @@ def fetch_yahoo(ticker: str) -> list[dict]:
             continue
         day = datetime.fromtimestamp(stamp, timezone.utc).date().isoformat()
         rows.append({"date": day, "close": float(close), "volume": float(volume or 0)})
-    return rows[-260:]
+    return rows if full_history else rows[-260:]
 
 
-def fetch_market_series(ticker: str) -> list[dict]:
+def fetch_market_series(ticker: str, full_history: bool = False) -> list[dict]:
     try:
-        rows = fetch_stooq(ticker)
+        rows = fetch_stooq(ticker, None if full_history else 260)
         if len(rows) >= 55:
             return rows
     except Exception:
         pass
-    return fetch_yahoo(ticker)
+    return fetch_yahoo(ticker, full_history)
 
 
 def rsi(values: list[float], period: int = 14) -> float | None:
