@@ -6,5 +6,8 @@
 .rank-card:hover{border-color:var(--mint)}
 .rank-card strong,.rank-card small{display:block}
 .rank-card small{color:var(--muted)}
+.category-detail{margin-top:18px;padding-top:18px;border-top:1px solid var(--line)}
+.category-detail tr{cursor:pointer}.category-detail tr:hover{background:#132722}
+.impact-chart{margin:14px 0 8px;padding:12px;border:1px solid var(--line);border-radius:13px;background:#081411}.impact-chart svg{display:block;width:100%;height:220px;overflow:visible}.impact-chart polyline{fill:none;stroke:var(--mint);stroke-width:4;stroke-linejoin:round;stroke-linecap:round}.impact-chart circle{fill:var(--bg);stroke:var(--mint);stroke-width:3}.impact-chart text{fill:var(--text);font-size:10px;text-anchor:middle}.impact-zero{stroke:var(--amber);stroke-width:2;stroke-dasharray:5 5}.impact-labels{display:grid;grid-template-columns:repeat(7,1fr);color:var(--muted);font-size:.72rem;text-align:center}
 @media(max-width:1000px){.controls{grid-template-columns:1fr 1fr 1fr}.ranking-grid{grid-template-columns:1fr 1fr}}
-@media(max-width:620px){.controls,.ranking-grid{grid-template-columns:1fr}}
+@media(max-width:620px){.controls,.ranking-grid{grid-template-columns:1fr}.impact-chart svg{height:180px}.impact-chart text{font-size:8px}}
