@@ -5,11 +5,11 @@
     "as_of": "2026-08-05",
     "watch_score": 77,
     "label": "Stark bevakningssignal",
-    "current_price": 63.47999954223633,
-    "momentum20": 8.89,
-    "momentum60": 23.72,
-    "volume_ratio": 0.53,
-    "rsi14": 62.6,
+    "current_price": 63.25,
+    "momentum20": 8.49,
+    "momentum60": 23.27,
+    "volume_ratio": 0.67,
+    "rsi14": 61.5,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -73,11 +73,11 @@
     "as_of": "2026-08-05",
     "watch_score": 65,
     "label": "Måttlig bevakningssignal",
-    "current_price": 149.36000061035156,
-    "momentum20": 8.89,
-    "momentum60": -4.15,
-    "volume_ratio": 0.42,
-    "rsi14": 62.0,
+    "current_price": 149.83999633789062,
+    "momentum20": 9.24,
+    "momentum60": -3.84,
+    "volume_ratio": 0.62,
+    "rsi14": 62.5,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -109,11 +109,11 @@
     "as_of": "2026-08-05",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 288.4049987792969,
-    "momentum20": 10.46,
-    "momentum60": 44.09,
-    "volume_ratio": 0.79,
-    "rsi14": 67.6,
+    "current_price": 283.1700134277344,
+    "momentum20": 8.46,
+    "momentum60": 41.47,
+    "volume_ratio": 1.32,
+    "rsi14": 63.2,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -121,9 +121,7 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
@@ -141,51 +139,15 @@
   },
   {
     "rank": 4,
-    "ticker": "PAGS",
-    "as_of": "2026-08-05",
-    "watch_score": 61,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 9.451000213623047,
-    "momentum20": 7.77,
-    "momentum60": -6.33,
-    "volume_ratio": 0.41,
-    "rsi14": 56.3,
-    "trend_score": 75,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 5,
     "ticker": "RTH",
     "as_of": "2026-08-05",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 271.239990234375,
-    "momentum20": 5.29,
-    "momentum60": 1.77,
-    "volume_ratio": 0.33,
-    "rsi14": 61.0,
+    "current_price": 272.57611083984375,
+    "momentum20": 5.81,
+    "momentum60": 2.28,
+    "volume_ratio": 0.58,
+    "rsi14": 62.9,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -225,6 +187,42 @@
     "supporting_buy_count": 3,
     "historical_median_30d": 7.48,
     "historical_median_90d": 1.95,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 5,
+    "ticker": "PAGS",
+    "as_of": "2026-08-05",
+    "watch_score": 61,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 9.399999618530273,
+    "momentum20": 7.18,
+    "momentum60": -6.84,
+    "volume_ratio": 0.57,
+    "rsi14": 55.1,
+    "trend_score": 75,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-11-20",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   }
 ]
