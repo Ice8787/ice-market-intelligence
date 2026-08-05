@@ -34,11 +34,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 43.844105683,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -89,11 +93,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 38.0,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -145,11 +153,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 620.0,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -201,11 +213,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 58.0194,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -220,6 +236,66 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B465-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "5a9ad9afc48cbeee8f",
+    "person_id": "2933411010a51e",
+    "person_name": "Douglas Kressner",
+    "person_role": "Ekonomichef/finanschef/finansdirektör",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Röko AB (publ)",
+    "ticker": "SE0023950795",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 739440.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-04",
+    "filing_date": "2026-08-05",
+    "reporting_delay_days": 1,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "sell",
+    "transaction_code": "S",
+    "shares": 390.0,
+    "purchase_price": 1896.0,
+    "value_usd": 0.0,
+    "score": 33,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppen marknadsförsäljning",
+      "Betydande transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 1896.0,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Ekonomichef/finanschef/finansdirektör",
+      "Avyttring",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B472-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
@@ -257,11 +333,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 16.25,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -312,11 +392,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 16.31,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -368,11 +452,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 8.2438,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -424,11 +512,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 64.9039,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -480,11 +572,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 65.5,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -536,11 +632,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 42.5,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -591,11 +691,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 128.2,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -646,11 +750,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 22.0,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -701,11 +809,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 11.76,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -756,11 +868,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 11.8,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -812,11 +928,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 63.134,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -868,11 +988,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 54.5,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -924,11 +1048,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 1.1,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -1036,11 +1164,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 1.1,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -1148,11 +1280,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 1.1,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -1204,11 +1340,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 1.1,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -1260,11 +1400,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 37.22,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -1316,11 +1460,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 42.5,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -1426,11 +1574,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 37.1204,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -1647,11 +1799,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 1.1,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -1703,11 +1859,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 1.1,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -1759,11 +1919,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 2.5,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -1815,11 +1979,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 229.62,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -1870,11 +2038,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 7.1,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -1925,11 +2097,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 7.2,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -2037,11 +2213,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 36.4222,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -2148,11 +2328,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 7.0,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -2259,11 +2443,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -2314,11 +2502,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 74.5,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -2424,11 +2616,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 30.63,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -2479,11 +2675,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 16.08,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -2534,11 +2734,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 6.35,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -2589,11 +2793,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 3.14,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -2644,11 +2852,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 1.33,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -2699,11 +2911,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": 0.61,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -2921,11 +3137,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -2981,11 +3201,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3041,11 +3265,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3101,11 +3329,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3161,11 +3393,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3221,11 +3457,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3281,11 +3521,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3341,11 +3585,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3401,11 +3649,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3461,11 +3713,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3521,11 +3777,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3581,11 +3841,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3641,11 +3905,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3701,11 +3969,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3762,11 +4034,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3822,11 +4098,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3882,11 +4162,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -3941,11 +4225,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4002,11 +4290,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4063,11 +4355,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4123,11 +4419,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4183,11 +4483,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4244,11 +4548,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4304,11 +4612,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4364,11 +4676,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4423,11 +4739,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4482,11 +4802,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4542,11 +4866,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4601,11 +4929,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4661,11 +4993,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4720,11 +5056,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4780,11 +5120,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4839,11 +5183,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4899,11 +5247,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -4959,11 +5311,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5018,11 +5374,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5079,11 +5439,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5140,11 +5504,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5200,11 +5568,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5259,11 +5631,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5319,11 +5695,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5380,11 +5760,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5441,11 +5825,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5502,11 +5890,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5563,11 +5955,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5624,11 +6020,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5685,11 +6085,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5746,11 +6150,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5806,11 +6214,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5867,11 +6279,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5928,11 +6344,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -5988,11 +6408,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6049,11 +6473,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6109,11 +6537,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6170,11 +6602,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6231,11 +6667,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6292,11 +6732,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6353,11 +6797,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6414,11 +6862,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6475,11 +6927,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6536,11 +6992,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6595,11 +7055,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6654,11 +7118,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6715,11 +7183,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6776,11 +7248,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6836,11 +7312,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6896,11 +7376,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -6956,11 +7440,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7015,11 +7503,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7075,11 +7567,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7135,11 +7631,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7195,11 +7695,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7255,11 +7759,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7315,11 +7823,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7375,11 +7887,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7435,11 +7951,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7495,11 +8015,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7555,11 +8079,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7615,11 +8143,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7675,11 +8207,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7735,11 +8271,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7795,11 +8335,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7855,11 +8399,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7915,11 +8463,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -7975,11 +8527,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8035,11 +8591,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8095,11 +8655,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8155,11 +8719,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8215,11 +8783,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8275,11 +8847,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8335,11 +8911,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8395,11 +8975,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8455,11 +9039,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8515,11 +9103,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8575,11 +9167,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8635,11 +9231,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8695,11 +9295,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8755,11 +9359,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8815,11 +9423,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8875,11 +9487,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8935,11 +9551,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -8995,11 +9615,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9055,11 +9679,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9115,11 +9743,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9175,11 +9807,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9235,11 +9871,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9295,11 +9935,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9355,11 +9999,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9414,11 +10062,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9473,11 +10125,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9533,11 +10189,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9593,11 +10253,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9653,11 +10317,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9713,11 +10381,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9773,11 +10445,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9832,11 +10508,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9891,11 +10571,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -9951,11 +10635,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10011,11 +10699,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10071,11 +10763,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10131,11 +10827,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10191,11 +10891,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10251,11 +10955,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10311,11 +11019,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10371,11 +11083,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10432,11 +11148,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10493,11 +11213,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10553,11 +11277,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10613,11 +11341,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10673,11 +11405,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10733,11 +11469,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10793,11 +11533,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10853,11 +11597,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10913,11 +11661,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -10973,11 +11725,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11033,11 +11789,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11093,11 +11853,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11153,11 +11917,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11213,11 +11981,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11273,11 +12045,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11333,11 +12109,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11393,11 +12173,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11453,11 +12237,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11513,11 +12301,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11573,11 +12365,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11633,11 +12429,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11693,11 +12493,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11753,11 +12557,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11813,11 +12621,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11873,11 +12685,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11933,11 +12749,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -11993,11 +12813,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12053,11 +12877,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12114,11 +12942,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12174,11 +13006,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12234,11 +13070,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12295,11 +13135,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12355,11 +13199,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12415,11 +13263,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12475,11 +13327,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12535,11 +13391,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12595,11 +13455,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12655,11 +13519,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12715,11 +13583,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12775,11 +13647,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12835,11 +13711,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12896,11 +13776,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -12956,11 +13840,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13016,11 +13904,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13077,11 +13969,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13137,11 +14033,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13198,11 +14098,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13259,11 +14163,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13320,11 +14228,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13380,11 +14292,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13440,11 +14356,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13501,11 +14421,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13561,11 +14485,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13620,11 +14548,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13680,11 +14612,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13740,11 +14676,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13800,11 +14740,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13860,11 +14804,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13919,11 +14867,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -13979,11 +14931,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14039,11 +14995,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14098,11 +15058,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14157,11 +15121,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14217,11 +15185,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14276,11 +15248,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14335,11 +15311,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14395,11 +15375,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14455,11 +15439,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14515,11 +15503,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14575,11 +15567,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14636,11 +15632,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14696,11 +15696,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14756,11 +15760,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14816,11 +15824,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14876,11 +15888,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14936,11 +15952,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -14997,11 +16017,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15058,11 +16082,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15119,11 +16147,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15180,11 +16212,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15241,11 +16277,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15302,11 +16342,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15363,11 +16407,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15424,11 +16472,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15485,11 +16537,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15545,11 +16601,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15606,11 +16666,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15667,11 +16731,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15727,11 +16795,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15787,11 +16859,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15847,11 +16923,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15907,11 +16987,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -15967,11 +17051,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -16027,11 +17115,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -16088,11 +17180,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -16148,11 +17244,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -16207,11 +17307,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -16267,11 +17371,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -16328,11 +17436,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -16388,11 +17500,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
@@ -16449,11 +17565,15 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
     },
     "returns": {
+      "day_1": null,
+      "day_3": null,
       "day_7": null,
       "day_30": null,
       "day_90": null
