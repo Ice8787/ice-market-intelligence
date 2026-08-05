@@ -2081,6 +2081,66 @@
     "is_demo": false
   },
   {
+    "id": "dbda76ecb27a2fe90a",
+    "person_id": "925f65508fea1c",
+    "person_name": "Mia Arnhult",
+    "person_role": "Styrelseledamot",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Logistea AB (publ)",
+    "ticker": "SE0017131337",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 806400.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-07-31",
+    "filing_date": "2026-08-05",
+    "reporting_delay_days": 5,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 60000.0,
+    "purchase_price": 13.44,
+    "value_usd": 0.0,
+    "score": 55,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Betydande transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 13.44,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Styrelseledamot",
+      "Förvärv",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B482-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "cbd1914bba4ba0ed05",
     "person_id": "65b8b611c9b572",
     "person_name": "Sven-Olof Johansson",
@@ -2138,6 +2198,66 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B441-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "57e887abe95ab05630",
+    "person_id": "03f8330038f188",
+    "person_name": "Mia Arnhult",
+    "person_role": "Styrelseordförande",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Devyser Diagnostics AB",
+    "ticker": "SE0016588867",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 165658.2,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-07-31",
+    "filing_date": "2026-08-05",
+    "reporting_delay_days": 5,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 2533.0,
+    "purchase_price": 65.4,
+    "value_usd": 0.0,
+    "score": 55,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Betydande transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 65.4,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Styrelseordförande",
+      "Förvärv",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B483-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
