@@ -14,8 +14,8 @@
     ],
     "history": {
       "tracked_buys": 30,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
+      "positive_90d_rate": 100,
+      "median_return_90d": 2.065,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."

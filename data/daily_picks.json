@@ -214,8 +214,8 @@
       }
     ],
     "supporting_buy_count": 3,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
+    "historical_median_30d": 7.48,
+    "historical_median_90d": 1.95,
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   }
 ]
