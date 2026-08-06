@@ -74,7 +74,7 @@
     "current_price": 149.83999633789062,
     "momentum20": 9.24,
     "momentum60": -3.84,
-    "volume_ratio": 0.62,
+    "volume_ratio": 1.07,
     "rsi14": 62.5,
     "trend_score": 75,
     "reasons": [
@@ -83,9 +83,7 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Kelly Loeffler",
@@ -177,10 +175,10 @@
     "as_of": "2026-08-05",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 272.57611083984375,
+    "current_price": 272.5799865722656,
     "momentum20": 5.81,
     "momentum60": 2.28,
-    "volume_ratio": 0.58,
+    "volume_ratio": 0.61,
     "rsi14": 62.9,
     "trend_score": 75,
     "reasons": [
