@@ -5,7 +5,7 @@ const money=(v,c='USD',d=0)=>new Intl.NumberFormat('sv-SE',{style:'currency',cur
 const pct=v=>v==null?'–':`${v>=0?'+':''}${Number(v).toFixed(1)} %`,tone=v=>v==null?'neutral':v>0?'positive':v<0?'negative':'neutral';
 const labelPerson=t=>({corporate_insider:'Bolagsinsider',business_leader:'Affärs-/teknikledare',institutional_investor:'Stor investerare',political:'Politiker'})[t]||t;
 const tradeMoney=t=>money(t.value_local??t.value_usd,t.currency),range=t=>t.amount_max?`${money(t.amount_min,'USD')}–${money(t.amount_max,'USD')}`:`${num.format(t.shares||0)} aktier · ${tradeMoney(t)}`;
-const avanzaQuery=t=>{const ticker=String(t?.ticker||'').trim(),company=String(t?.company||'').replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim();return t?.market==='Sverige'&&/^SE\d{10}$/i.test(ticker)?company||ticker:ticker||company};
+const avanzaQuery=t=>{const ticker=String(t?.ticker||'').trim(),company=String(t?.company||'').replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim();return ticker||company};
 const avanzaUrl=t=>`https://www.avanza.se/sok.html?query=${encodeURIComponent(avanzaQuery(t))}&kategori=aktier`;
 const avanzaLink=(t,label='Avanza ↗')=>avanzaQuery(t)?`<a class="avanza-link" href="${esc(avanzaUrl(t))}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(label)}</a>`:'';
 
