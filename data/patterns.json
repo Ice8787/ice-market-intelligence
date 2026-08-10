@@ -2,7 +2,7 @@
   {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
-    "title": "89 insiderköp inom Övrigt · Sverige",
+    "title": "92 insiderköp inom Övrigt · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
@@ -41,6 +41,7 @@
       "7a1a5c62c2b035cb68",
       "bbce6d724e9ae322ae",
       "4391f8892cd1853c6c",
+      "bf79ed93064003cb52",
       "3c2c783f361fa73551",
       "0e28a2e822b9570452",
       "e85924e9ac72f678d9",
@@ -48,6 +49,8 @@
       "144be036d93471ade6",
       "8ee109ec556b62268f",
       "0391d1b48556cf0850",
+      "fdfd5948502c4c7442",
+      "99b06595ed5d0068db",
       "03ba08fab7ea253eea",
       "f527edf4bb3069511d",
       "489d566f871afd5551",
@@ -99,25 +102,26 @@
       "d9db927ccf0f9481bb",
       "c5180359cbc6be8816"
     ],
-    "trade_count": 89,
+    "trade_count": 92,
     "median_return_90d": null
   },
   {
     "id": "category-sverige-finans",
     "type": "Sektorkluster",
-    "title": "4 insiderköp inom Finans · Sverige",
+    "title": "5 insiderköp inom Finans · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Finans"
     ],
     "trade_ids": [
+      "a1fed62e1cb8e64680",
       "0456139aa91a181f5a",
       "ba0988c521b5e0e759",
       "1bb00165c827e64db7",
       "77b4812dbd3d61281b"
     ],
-    "trade_count": 4,
+    "trade_count": 5,
     "median_return_90d": null
   },
   {
