@@ -371,6 +371,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "08547894e6cd0e",
+    "name": "Mathias Kongensøy",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "7c4705fca91639",
     "name": "Per Henrik Molin",
     "person_type": "business_leader",
@@ -585,6 +601,22 @@
     "name": "Stefan Fredrik Gunnar Wård",
     "person_type": "corporate_insider",
     "primary_role": "Ekonomichef/finanschef/finansdirektör",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "39dd2994fb29ea",
+    "name": "Viko Eiendom AS",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
     "categories": [
       "Övrigt"
     ],
@@ -953,6 +985,22 @@
     "name": "Gunilla Cornell",
     "person_type": "corporate_insider",
     "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "197c468bd72689",
+    "name": "Daniel Warnholtz",
+    "person_type": "corporate_insider",
+    "primary_role": "Ekonomichef/finanschef/finansdirektör",
     "categories": [
       "Övrigt"
     ],
