@@ -188,7 +188,7 @@
       "6aa4ebbac47f25ff60"
     ],
     "trade_count": 39,
-    "median_return_90d": 4.475
+    "median_return_90d": 6.77
   },
   {
     "id": "category-usa-finans",
@@ -224,7 +224,7 @@
       "4ac7548e632e65ec2d"
     ],
     "trade_count": 22,
-    "median_return_90d": null
+    "median_return_90d": 7.25
   },
   {
     "id": "category-usa-konsument",
@@ -307,7 +307,7 @@
       "a1df676d93eac603e0"
     ],
     "trade_count": 31,
-    "median_return_90d": null
+    "median_return_90d": 8.14
   },
   {
     "id": "category-usa-transport",
@@ -329,7 +329,7 @@
       "d26992b3f2a55d35d5"
     ],
     "trade_count": 8,
-    "median_return_90d": null
+    "median_return_90d": -2.2649999999999997
   },
   {
     "id": "category-usa-industri",
@@ -357,7 +357,7 @@
       "1283f539be929d3b34"
     ],
     "trade_count": 14,
-    "median_return_90d": null
+    "median_return_90d": 33.9
   },
   {
     "id": "category-usa-energi",
