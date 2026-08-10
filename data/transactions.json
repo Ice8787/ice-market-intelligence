@@ -179,6 +179,66 @@
     "is_demo": false
   },
   {
+    "id": "4c7e6f9782ba5404a8",
+    "person_id": "a34ddaae80eb00",
+    "person_name": "Stefan Fredrik Gunnar Wård",
+    "person_role": "Ekonomichef/finanschef/finansdirektör",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Storytel AB (publ)",
+    "ticker": "SE0007439443",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 255154.75,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-10",
+    "filing_date": "2026-08-10",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 2500.0,
+    "purchase_price": 102.0619,
+    "value_usd": 0.0,
+    "score": 55,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Betydande transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 102.0619,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Ekonomichef/finanschef/finansdirektör",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B521-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "bef3eed774c0f904b1",
     "person_id": "7414275126d968",
     "person_name": "Hans Erik Larsson",
