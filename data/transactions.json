@@ -2323,6 +2323,66 @@
     "is_demo": false
   },
   {
+    "id": "2149d7ed21da462369",
+    "person_id": "8a85c8d2cbaa82",
+    "person_name": "Jens-Fredrik Jalland",
+    "person_role": "Styrelseledamot",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Sveafastigheter AB (publ)",
+    "ticker": "SE0022243812",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 142787250.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-05",
+    "filing_date": "2026-08-10",
+    "reporting_delay_days": 5,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 4500000.0,
+    "purchase_price": 31.7305,
+    "value_usd": 0.0,
+    "score": 69,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Mycket stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 31.7305,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Styrelseledamot",
+      "Förvärv",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B529-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "bf79ed93064003cb52",
     "person_id": "0d02f65d78af8b",
     "person_name": "Pär Göting",
@@ -7326,6 +7386,65 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A003W957-2?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "073b77485b2b0e9f08",
+    "person_id": "ee9d25ed33d893",
+    "person_name": "Henrik Forsberg Schoultz",
+    "person_role": "Vice VD",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "OEM International Aktiebolag (publ)",
+    "ticker": "SE0017766843",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 0.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-02-16",
+    "filing_date": "2026-08-10",
+    "reporting_delay_days": 175,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 86174.52,
+    "purchase_price": 0.0,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": null,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Vice VD",
+      "Förvärv",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B528-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
