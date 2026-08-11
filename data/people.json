@@ -371,6 +371,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "337ea6b968c19d",
+    "name": "Malin Nordesjö",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "08547894e6cd0e",
     "name": "Mathias Kongensøy",
     "person_type": "corporate_insider",
@@ -645,10 +661,42 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "ab316481a007cb",
+    "name": "Peter Messner",
+    "person_type": "corporate_insider",
+    "primary_role": "Ekonomichef/finanschef/finansdirektör",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "6803862195af9e",
     "name": "Fredrik Dolléus",
     "person_type": "corporate_insider",
     "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "6553d730b651c2",
+    "name": "David Mindus",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Övrigt"
     ],
@@ -905,22 +953,6 @@
     "name": "Sara Evelina Hedskog",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "337ea6b968c19d",
-    "name": "Malin Nordesjö",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
     "categories": [
       "Övrigt"
     ],
