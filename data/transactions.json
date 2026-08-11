@@ -8162,25 +8162,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_minus_7": 42.56999969482422,
+      "purchase": 47.68000030517578,
+      "day_1": 47.68000030517578,
+      "day_3": 47.68000030517578,
+      "day_7": 48.16999816894531,
+      "day_30": 53.81999969482422,
+      "day_90": 61.45000076293945
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_1": 0.0,
+      "day_3": 0.0,
+      "day_7": 1.03,
+      "day_30": 12.88,
+      "day_90": 28.88
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 1030.46,
+    "estimated_profit_90d": 2310.54,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -8226,25 +8226,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_minus_7": 89.08999633789062,
+      "purchase": 96.41999816894531,
+      "day_1": 96.41999816894531,
+      "day_3": 96.41999816894531,
+      "day_7": 101.56999969482422,
+      "day_30": 106.27999877929688,
+      "day_90": 105.05000305175781
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_1": 0.0,
+      "day_3": 0.0,
+      "day_7": 5.34,
+      "day_30": 10.23,
+      "day_90": 8.95
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 818.45,
+    "estimated_profit_90d": 716.04,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -8294,7 +8294,7 @@
       "purchase": null,
       "day_1": null,
       "day_3": null,
-      "day_7": null,
+      "day_7": 121.26000213623047,
       "day_30": null,
       "day_90": null
     },
@@ -8610,25 +8610,25 @@
       "Betydande transaktionsvärde"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_minus_7": 156.86000061035156,
+      "purchase": 124.73999786376953,
+      "day_1": 124.73999786376953,
+      "day_3": 136.55999755859375,
+      "day_7": 136.55999755859375,
+      "day_30": 138.6999969482422,
+      "day_90": 175.4499969482422
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_1": 0.0,
+      "day_3": 9.48,
+      "day_7": 9.48,
+      "day_30": 11.19,
+      "day_90": 40.65
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 8392.56,
+    "estimated_profit_90d": 30487.7,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -8675,25 +8675,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
+      "day_minus_7": 50.00299835205078,
+      "purchase": 50.00299835205078,
+      "day_1": 50.00299835205078,
+      "day_3": 50.00299835205078,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 47.57400131225586,
+      "day_90": 54.073001861572266
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
+      "day_1": 0.0,
+      "day_3": 0.0,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": -4.86,
+      "day_90": 8.14
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": -3645.02,
+    "estimated_profit_90d": 6105.04,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -8870,7 +8870,7 @@
       "purchase": null,
       "day_1": null,
       "day_3": null,
-      "day_7": null,
+      "day_7": 39.38999938964844,
       "day_30": null,
       "day_90": null
     },
@@ -9060,25 +9060,25 @@
       "Stort transaktionsvärde"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
+      "day_minus_7": 102.91000366210938,
+      "purchase": 102.91000366210938,
+      "day_1": 102.91000366210938,
+      "day_3": 102.91000366210938,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 92.58000183105469,
+      "day_90": 126.87000274658203
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
+      "day_1": 0.0,
+      "day_3": 0.0,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": -10.04,
+      "day_90": 23.28
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": -17570.05,
+    "estimated_profit_90d": 40740.12,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -9125,24 +9125,24 @@
     ],
     "prices": {
       "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "purchase": 13.050000190734863,
+      "day_1": 13.050000190734863,
+      "day_3": 13.050000190734863,
+      "day_7": 13.050000190734863,
+      "day_30": 12.289999961853027,
+      "day_90": 14.130000114440918
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_1": 0.0,
+      "day_3": 0.0,
+      "day_7": 0.0,
+      "day_30": -5.82,
+      "day_90": 8.28
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": -1891.53,
+    "estimated_profit_90d": 2691.04,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -9256,8 +9256,8 @@
       "day_minus_7": null,
       "purchase": null,
       "day_1": null,
-      "day_3": null,
-      "day_7": null,
+      "day_3": 106.2300033569336,
+      "day_7": 106.2300033569336,
       "day_30": null,
       "day_90": null
     },
@@ -9570,13 +9570,13 @@
       "Öppen marknadsförsäljning"
     ],
     "prices": {
-      "day_minus_7": null,
+      "day_minus_7": 14.100000381469727,
       "purchase": null,
       "day_1": null,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 14.710000038146973,
+      "day_90": 13.829999923706055
     },
     "returns": {
       "day_1": null,
@@ -9634,13 +9634,13 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
+      "day_minus_7": 40.119998931884766,
       "purchase": null,
       "day_1": null,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 47.7599983215332,
+      "day_90": 42.689998626708984
     },
     "returns": {
       "day_1": null,
@@ -9697,13 +9697,13 @@
       "Öppen marknadsförsäljning"
     ],
     "prices": {
-      "day_minus_7": null,
+      "day_minus_7": 14.5,
       "purchase": null,
       "day_1": null,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 15.239999771118164,
+      "day_90": 14.619999885559082
     },
     "returns": {
       "day_1": null,
@@ -9888,25 +9888,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
+      "day_minus_7": 25.489999771118164,
+      "purchase": 25.489999771118164,
+      "day_1": 25.489999771118164,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 26.5,
+      "day_90": 25.829999923706055
     },
     "returns": {
-      "day_1": null,
+      "day_1": 0.0,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 3.96,
+      "day_90": 1.33
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 316.82,
+    "estimated_profit_90d": 106.41,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -10015,25 +10015,25 @@
       "Öppen marknadsförsäljning"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
+      "day_minus_7": 11.119999885559082,
+      "purchase": 11.119999885559082,
+      "day_1": 11.119999885559082,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 13.050000190734863,
+      "day_90": 11.279999732971191
     },
     "returns": {
-      "day_1": null,
+      "day_1": 0.0,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 17.36,
+      "day_90": 1.44
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 1388.89,
+    "estimated_profit_90d": 115.21,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -10080,25 +10080,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
+      "day_minus_7": 45.220001220703125,
+      "purchase": 45.220001220703125,
+      "day_1": 45.220001220703125,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 47.9900016784668,
+      "day_90": 47.81999969482422
     },
     "returns": {
-      "day_1": null,
+      "day_1": 0.0,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 6.13,
+      "day_90": 5.75
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 4597.53,
+    "estimated_profit_90d": 4312.53,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -10145,25 +10145,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
+      "day_minus_7": 45.220001220703125,
+      "purchase": 45.220001220703125,
+      "day_1": 45.220001220703125,
+      "day_3": 45.220001220703125,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 47.9900016784668,
+      "day_90": 47.81999969482422
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
+      "day_1": 0.0,
+      "day_3": 0.0,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 6.13,
+      "day_90": 5.75
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 1992.28,
+    "estimated_profit_90d": 1868.78,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -10209,25 +10209,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_minus_7": 264.95001220703125,
+      "purchase": 271.489990234375,
+      "day_1": 278.239990234375,
+      "day_3": 278.239990234375,
+      "day_7": 278.239990234375,
+      "day_30": 252.1199951171875,
+      "day_90": 240.27999877929688
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_1": 2.49,
+      "day_3": 2.49,
+      "day_7": 2.49,
+      "day_30": -7.13,
+      "day_90": -11.5
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": -570.44,
+    "estimated_profit_90d": -920.06,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -10272,25 +10272,25 @@
       "Öppen marknadsförsäljning"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
+      "day_minus_7": 11.119999885559082,
+      "purchase": 11.119999885559082,
+      "day_1": 11.119999885559082,
+      "day_3": 11.119999885559082,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 13.050000190734863,
+      "day_90": 11.279999732971191
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
+      "day_1": 0.0,
+      "day_3": 0.0,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 17.36,
+      "day_90": 1.44
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 1388.89,
+    "estimated_profit_90d": 115.21,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -10337,24 +10337,24 @@
     ],
     "prices": {
       "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "purchase": 11.119999885559082,
+      "day_1": 11.119999885559082,
+      "day_3": 11.119999885559082,
+      "day_7": 11.119999885559082,
+      "day_30": 13.050000190734863,
+      "day_90": 11.279999732971191
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_1": 0.0,
+      "day_3": 0.0,
+      "day_7": 0.0,
+      "day_30": 17.36,
+      "day_90": 1.44
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 1388.89,
+    "estimated_profit_90d": 115.21,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -10791,25 +10791,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
+      "day_minus_7": 61.599998474121094,
+      "purchase": 61.599998474121094,
+      "day_1": 61.599998474121094,
+      "day_3": 61.599998474121094,
       "day_7": null,
       "day_30": null,
-      "day_90": null
+      "day_90": 82.4800033569336
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
+      "day_1": 0.0,
+      "day_3": 0.0,
       "day_7": null,
       "day_30": null,
-      "day_90": null
+      "day_90": 33.9
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
     "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_90d": 11017.67,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -10855,25 +10855,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
+      "day_minus_7": 13.069999694824219,
+      "purchase": 13.069999694824219,
+      "day_1": 13.069999694824219,
+      "day_3": 13.069999694824219,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 11.119999885559082,
+      "day_90": 12.289999961853027
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
+      "day_1": 0.0,
+      "day_3": 0.0,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": -14.92,
+      "day_90": -5.97
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": -1193.67,
+    "estimated_profit_90d": -477.63,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -10986,23 +10986,23 @@
     ],
     "prices": {
       "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
+      "purchase": 9.497750282287598,
+      "day_1": 9.497750282287598,
+      "day_3": 9.497750282287598,
+      "day_7": 9.497750282287598,
+      "day_30": 10.614749908447266,
       "day_90": null
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
+      "day_1": 0.0,
+      "day_3": 0.0,
+      "day_7": 0.0,
+      "day_30": 11.76,
       "day_90": null
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
+    "estimated_profit_30d": 20580.06,
     "estimated_profit_90d": null,
     "pattern_tags": [
       "politiker",
@@ -11053,7 +11053,7 @@
       "purchase": null,
       "day_1": null,
       "day_3": null,
-      "day_7": null,
+      "day_7": 91.5999984741211,
       "day_30": null,
       "day_90": null
     },
@@ -11118,7 +11118,7 @@
       "purchase": null,
       "day_1": null,
       "day_3": null,
-      "day_7": null,
+      "day_7": 91.5999984741211,
       "day_30": null,
       "day_90": null
     },
@@ -11182,7 +11182,7 @@
       "purchase": null,
       "day_1": null,
       "day_3": null,
-      "day_7": null,
+      "day_7": 91.5999984741211,
       "day_30": null,
       "day_90": null
     },
@@ -11243,25 +11243,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
+      "day_minus_7": 54.560001373291016,
+      "purchase": 54.560001373291016,
+      "day_1": 54.560001373291016,
+      "day_3": 54.560001373291016,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 54.630001068115234,
+      "day_90": 54.13999938964844
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
+      "day_1": 0.0,
+      "day_3": 0.0,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 0.13,
+      "day_90": -0.77
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 42.25,
+    "estimated_profit_90d": -250.25,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -11377,7 +11377,7 @@
       "purchase": null,
       "day_1": null,
       "day_3": null,
-      "day_7": null,
+      "day_7": 117.41999816894531,
       "day_30": null,
       "day_90": null
     },
@@ -11824,7 +11824,7 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
+      "day_minus_7": 290.4800109863281,
       "purchase": null,
       "day_1": null,
       "day_3": null,
@@ -11889,7 +11889,7 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
+      "day_minus_7": 290.4800109863281,
       "purchase": null,
       "day_1": null,
       "day_3": null,
@@ -11953,7 +11953,7 @@
       "Stort transaktionsvärde"
     ],
     "prices": {
-      "day_minus_7": null,
+      "day_minus_7": 41.98500061035156,
       "purchase": null,
       "day_1": null,
       "day_3": null,
@@ -12528,7 +12528,7 @@
       "Stort transaktionsvärde"
     ],
     "prices": {
-      "day_minus_7": null,
+      "day_minus_7": 42.380001068115234,
       "purchase": null,
       "day_1": null,
       "day_3": null,
@@ -12656,7 +12656,7 @@
       "Betydande transaktionsvärde"
     ],
     "prices": {
-      "day_minus_7": null,
+      "day_minus_7": 42.380001068115234,
       "purchase": null,
       "day_1": null,
       "day_3": null,
@@ -15409,7 +15409,7 @@
       "day_1": null,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
+      "day_30": 62.939998626708984,
       "day_90": null
     },
     "returns": {
@@ -15596,25 +15596,25 @@
       "Stort transaktionsvärde"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
+      "day_minus_7": 42.380001068115234,
+      "purchase": 42.380001068115234,
+      "day_1": 42.380001068115234,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 47.81999969482422,
+      "day_90": 47.099998474121094
     },
     "returns": {
-      "day_1": null,
+      "day_1": 0.0,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 12.84,
+      "day_90": 11.14
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 22470.06,
+    "estimated_profit_90d": 19495.06,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -15854,25 +15854,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
+      "day_minus_7": 42.380001068115234,
+      "purchase": 42.380001068115234,
+      "day_1": 42.380001068115234,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 47.81999969482422,
+      "day_90": 47.099998474121094
     },
     "returns": {
-      "day_1": null,
+      "day_1": 0.0,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 12.84,
+      "day_90": 11.14
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 4173.06,
+    "estimated_profit_90d": 3620.56,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -18357,7 +18357,7 @@
       "day_1": null,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
+      "day_30": 24.8799991607666,
       "day_90": null
     },
     "returns": {
@@ -18809,7 +18809,7 @@
       "day_1": null,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
+      "day_30": 117.41999816894531,
       "day_90": null
     },
     "returns": {
@@ -18869,25 +18869,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
+      "day_minus_7": 42.380001068115234,
+      "purchase": 42.380001068115234,
+      "day_1": 42.380001068115234,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 47.81999969482422,
+      "day_90": 47.099998474121094
     },
     "returns": {
-      "day_1": null,
+      "day_1": 0.0,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 12.84,
+      "day_90": 11.14
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 4173.06,
+    "estimated_profit_90d": 3620.56,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -18933,25 +18933,25 @@
       "Stort transaktionsvärde"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
+      "day_minus_7": 41.98500061035156,
+      "purchase": 41.98500061035156,
+      "day_1": 41.98500061035156,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 41.972999572753906,
+      "day_90": 48.88800048828125
     },
     "returns": {
-      "day_1": null,
+      "day_1": 0.0,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": -0.03,
+      "day_90": 16.44
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": -52.5,
+    "estimated_profit_90d": 28770.08,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -18997,25 +18997,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
+      "day_minus_7": 49.29999923706055,
+      "purchase": 49.29999923706055,
+      "day_1": 49.29999923706055,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 54.560001373291016,
+      "day_90": 56.52000045776367
     },
     "returns": {
-      "day_1": null,
+      "day_1": 0.0,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 10.67,
+      "day_90": 14.65
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 853.65,
+    "estimated_profit_90d": 1172.07,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -19258,7 +19258,7 @@
       "day_1": null,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
+      "day_30": 62.939998626708984,
       "day_90": null
     },
     "returns": {
@@ -19572,25 +19572,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
+      "day_minus_7": 12.84000015258789,
+      "purchase": 12.84000015258789,
+      "day_1": 12.84000015258789,
+      "day_3": 12.84000015258789,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 14.75,
+      "day_90": 14.100000381469727
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
+      "day_1": 0.0,
+      "day_3": 0.0,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 14.88,
+      "day_90": 9.81
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 1190.47,
+    "estimated_profit_90d": 784.85,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -19636,25 +19636,25 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
-      "purchase": null,
-      "day_1": null,
-      "day_3": null,
+      "day_minus_7": 13.520000457763672,
+      "purchase": 13.520000457763672,
+      "day_1": 13.520000457763672,
+      "day_3": 13.520000457763672,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 14.020000457763672,
+      "day_90": 14.5
     },
     "returns": {
-      "day_1": null,
-      "day_3": null,
+      "day_1": 0.0,
+      "day_3": 0.0,
       "day_7": null,
-      "day_30": null,
-      "day_90": null
+      "day_30": 3.7,
+      "day_90": 7.25
     },
     "benchmark_return_90d": null,
     "excess_return_90d": null,
-    "estimated_profit_30d": null,
-    "estimated_profit_90d": null,
+    "estimated_profit_30d": 296.02,
+    "estimated_profit_90d": 580.04,
     "pattern_tags": [
       "politiker",
       "Senaten",
@@ -20213,7 +20213,7 @@
       "day_1": null,
       "day_3": null,
       "day_7": null,
-      "day_30": null,
+      "day_30": 62.939998626708984,
       "day_90": null
     },
     "returns": {
@@ -20531,9 +20531,9 @@
     "prices": {
       "day_minus_7": null,
       "purchase": null,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
+      "day_1": 42.380001068115234,
+      "day_3": 42.380001068115234,
+      "day_7": 42.380001068115234,
       "day_30": null,
       "day_90": null
     },
@@ -20792,7 +20792,7 @@
       "purchase": null,
       "day_1": null,
       "day_3": null,
-      "day_7": null,
+      "day_7": 42.380001068115234,
       "day_30": null,
       "day_90": null
     },
@@ -22206,7 +22206,7 @@
       "Offentligt rapporterat politikerköp"
     ],
     "prices": {
-      "day_minus_7": null,
+      "day_minus_7": 39.310001373291016,
       "purchase": null,
       "day_1": null,
       "day_3": null,
