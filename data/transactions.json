@@ -539,6 +539,66 @@
     "is_demo": false
   },
   {
+    "id": "524944708dd7085b43",
+    "person_id": "f44faaa9691bbc",
+    "person_name": "Karl Kristian Bergman Jensen",
+    "person_role": "Verkställande direktör (VD)",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "Vaccinium Holding ApS",
+    "ticker": "SE0001838038",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 186300.0,
+    "category": "Hälsa",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-08-11",
+    "filing_date": "2026-08-11",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "sell",
+    "transaction_code": "S",
+    "shares": 10000.0,
+    "purchase_price": 18.63,
+    "value_usd": 0.0,
+    "score": 33,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppen marknadsförsäljning",
+      "Betydande transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 18.63,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Hälsa",
+      "Verkställande direktör (VD)",
+      "Avyttring",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B556-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "7821191db064ef0398",
     "person_id": "08547894e6cd0e",
     "person_name": "Mathias Kongensøy",
@@ -5900,6 +5960,66 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B443-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "6dfbb55830fabbce69",
+    "person_id": "f44faaa9691bbc",
+    "person_name": "Karl Kristian Bergman Jensen",
+    "person_role": "Verkställande direktör (VD)",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "Vaccinium Holding ApS",
+    "ticker": "SE0001838038",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 194400.0,
+    "category": "Hälsa",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-08-03",
+    "filing_date": "2026-08-11",
+    "reporting_delay_days": 8,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "sell",
+    "transaction_code": "S",
+    "shares": 10000.0,
+    "purchase_price": 19.44,
+    "value_usd": 0.0,
+    "score": 33,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppen marknadsförsäljning",
+      "Betydande transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 19.44,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Hälsa",
+      "Verkställande direktör (VD)",
+      "Avyttring",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B556-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
