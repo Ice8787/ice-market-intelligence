@@ -851,8 +851,8 @@
     "category": "Övrigt",
     "subcategory": "Ej klassificerad",
     "transaction_date": "2026-08-07",
-    "filing_date": "2026-08-08",
-    "reporting_delay_days": 1,
+    "filing_date": "2026-08-10",
+    "reporting_delay_days": 3,
     "disclosure_type": "FI:s insynsregister",
     "type": "sell",
     "transaction_code": "S",
@@ -892,7 +892,7 @@
       "egen rapport"
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B507-1?s%C3%B6kfunktion=Insyn",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B507-2?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
