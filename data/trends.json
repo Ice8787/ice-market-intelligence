@@ -3,19 +3,20 @@
     "ticker": "RTH",
     "as_of": "2026-08-11",
     "current_price": 272.9700012207031,
-    "sma20": 264.6,
-    "sma50": 260.09,
-    "momentum20": 5.75,
-    "momentum60": 3.19,
-    "volume_ratio": 4.21,
-    "rsi14": 72.7,
-    "trend_score": 80,
+    "sma20": 264.15,
+    "sma50": 260.13,
+    "momentum20": 6.49,
+    "momentum60": 4.18,
+    "volume_ratio": 4.66,
+    "rsi14": 65.3,
+    "trend_score": 95,
     "label": "Stark momentumtrend",
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
       "Positivt 20-dagars momentum",
-      "Ovanligt hög dagsvolym"
+      "Ovanligt hög dagsvolym",
+      "RSI visar styrka utan extrem överköpt nivå"
     ],
     "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
   },
@@ -43,19 +44,18 @@
     "ticker": "ICE",
     "as_of": "2026-08-11",
     "current_price": 151.25,
-    "sma20": 147.51,
-    "sma50": 140.25,
-    "momentum20": 9.91,
-    "momentum60": -2.87,
-    "volume_ratio": 1.22,
-    "rsi14": 68.9,
-    "trend_score": 75,
-    "label": "Stark momentumtrend",
+    "sma20": 147.21,
+    "sma50": 140.55,
+    "momentum20": 11.82,
+    "momentum60": -2.93,
+    "volume_ratio": 1.21,
+    "rsi14": 70.2,
+    "trend_score": 60,
+    "label": "Positiv trend",
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum",
-      "RSI visar styrka utan extrem överköpt nivå"
+      "Positivt 20-dagars momentum"
     ],
     "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
   },
@@ -102,12 +102,12 @@
     "ticker": "SI",
     "as_of": "2026-08-11",
     "current_price": 19.6299991607666,
-    "sma20": 21.73,
-    "sma50": 19.93,
-    "momentum20": -9.08,
-    "momentum60": 25.91,
-    "volume_ratio": 1.54,
-    "rsi14": 46.4,
+    "sma20": 21.76,
+    "sma50": 19.66,
+    "momentum20": -2.63,
+    "momentum60": 46.82,
+    "volume_ratio": 1.51,
+    "rsi14": 43.3,
     "trend_score": 40,
     "label": "Neutral/svag trend",
     "reasons": [
@@ -174,12 +174,12 @@
     "ticker": "SRVR",
     "as_of": "2026-08-11",
     "current_price": 31.694000244140625,
-    "sma20": 31.07,
-    "sma50": 32.09,
-    "momentum20": 2.7,
-    "momentum60": -8.35,
-    "volume_ratio": 0.8,
-    "rsi14": 58.5,
+    "sma20": 31.12,
+    "sma50": 32.33,
+    "momentum20": 1.91,
+    "momentum60": -10.37,
+    "volume_ratio": 0.76,
+    "rsi14": 64.0,
     "trend_score": 35,
     "label": "Neutral/svag trend",
     "reasons": [
@@ -202,6 +202,24 @@
     "label": "Neutral/svag trend",
     "reasons": [
       "20-dagars trend över 50-dagars trend",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
+  },
+  {
+    "ticker": "ABYIX",
+    "as_of": "2026-08-11",
+    "current_price": 11.619999885559082,
+    "sma20": 11.61,
+    "sma50": 11.68,
+    "momentum20": -0.09,
+    "momentum60": -2.27,
+    "volume_ratio": 0.0,
+    "rsi14": 52.0,
+    "trend_score": 35,
+    "label": "Neutral/svag trend",
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
     "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
@@ -272,23 +290,6 @@
     "label": "Neutral/svag trend",
     "reasons": [
       "20-dagars trend över 50-dagars trend"
-    ],
-    "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
-  },
-  {
-    "ticker": "ABYIX",
-    "as_of": "2026-08-11",
-    "current_price": 11.619999885559082,
-    "sma20": 11.62,
-    "sma50": 11.68,
-    "momentum20": -0.43,
-    "momentum60": -2.6,
-    "volume_ratio": 0.0,
-    "rsi14": 38.2,
-    "trend_score": 20,
-    "label": "Neutral/svag trend",
-    "reasons": [
-      "Kurs över 20-dagars medelvärde"
     ],
     "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
   },
