@@ -71,23 +71,22 @@
     "rank": 2,
     "ticker": "RTH",
     "as_of": "2026-08-11",
-    "watch_score": 65,
-    "label": "Måttlig bevakningssignal",
+    "watch_score": 76,
+    "label": "Stark bevakningssignal",
     "current_price": 272.9700012207031,
-    "momentum20": 5.75,
-    "momentum60": 3.19,
-    "volume_ratio": 4.21,
-    "rsi14": 72.7,
-    "trend_score": 80,
+    "momentum20": 6.49,
+    "momentum60": 4.18,
+    "volume_ratio": 4.66,
+    "rsi14": 65.3,
+    "trend_score": 95,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
       "Positivt 20-dagars momentum",
-      "Ovanligt hög dagsvolym"
+      "Ovanligt hög dagsvolym",
+      "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Hög RSI – rekylrisk"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
@@ -155,20 +154,19 @@
   },
   {
     "rank": 4,
-    "ticker": "DDOG",
-    "as_of": "2026-08-10",
-    "watch_score": 61,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 260.7799987792969,
-    "momentum20": 0.21,
-    "momentum60": 27.02,
-    "volume_ratio": 1.77,
-    "rsi14": 52.0,
-    "trend_score": 75,
+    "ticker": "SBIO",
+    "as_of": "2026-08-11",
+    "watch_score": 47,
+    "label": "Svag bevakningssignal",
+    "current_price": 67.0999984741211,
+    "momentum20": 2.77,
+    "momentum60": 21.76,
+    "volume_ratio": 0.91,
+    "rsi14": 63.0,
+    "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
-      "Ovanligt hög dagsvolym",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
     "risk_flags": [],
@@ -189,30 +187,35 @@
   },
   {
     "rank": 5,
-    "ticker": "SBIO",
-    "as_of": "2026-08-10",
-    "watch_score": 47,
+    "ticker": "MSFT",
+    "as_of": "2026-08-11",
+    "watch_score": 46,
     "label": "Svag bevakningssignal",
-    "current_price": 67.12000274658203,
-    "momentum20": 2.73,
-    "momentum60": 20.46,
-    "volume_ratio": 1.27,
-    "rsi14": 58.6,
-    "trend_score": 55,
+    "current_price": 503.80999755859375,
+    "momentum20": 30.88,
+    "momentum60": 23.05,
+    "volume_ratio": 0.58,
+    "rsi14": 87.4,
+    "trend_score": 50,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
-      "RSI visar styrka utan extrem överköpt nivå"
+      "Positivt 20-dagars momentum",
+      "Mycket hög RSI – rekylrisk"
     ],
-    "risk_flags": [],
+    "risk_flags": [
+      "Hög RSI – rekylrisk",
+      "Volymen bekräftar inte rörelsen",
+      "Mycket snabb uppgång – förhöjd volatilitet"
+    ],
     "supporting_buys": [
       {
-        "person_name": "Thomas R Carper",
+        "person_name": "Ron L Wyden",
         "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
+        "date": "2020-07-23",
+        "value": 175000.5,
         "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/e29a0a93-7153-42f3-97c5-e9f68fe47820/"
       }
     ],
     "supporting_buy_count": 1,
