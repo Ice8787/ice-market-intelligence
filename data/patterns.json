@@ -2,7 +2,7 @@
   {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
-    "title": "111 insiderköp inom Övrigt · Sverige",
+    "title": "115 insiderköp inom Övrigt · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
@@ -18,6 +18,8 @@
       "897d5b1591e97234e7",
       "fed88e3db5483b8d40",
       "643bb1b98b78f44f5d",
+      "fb628f4a4ed3160918",
+      "646dcba0e89a4c9b3d",
       "7f5f77473400a9c374",
       "6fcba6fa716d85dd05",
       "7f28f3a1f69a903d93",
@@ -29,6 +31,7 @@
       "35ef93d17e293660a6",
       "9ba6b134a63664bcd7",
       "aa500dcbbdde9d898f",
+      "9182c5adacc1bcb7bf",
       "7821191db064ef0398",
       "e2255f765caf05eade",
       "4c7e6f9782ba5404a8",
@@ -38,6 +41,7 @@
       "198b928bc4a897cf53",
       "0fb38043fa37d0ab79",
       "094c48dc3451c6a6e4",
+      "d5133de5739a295f80",
       "4a7bff86f9342e7dff",
       "5e1a88299285d0100d",
       "45674eb924a4b80f06",
@@ -121,7 +125,7 @@
       "c5180359cbc6be8816",
       "073b77485b2b0e9f08"
     ],
-    "trade_count": 111,
+    "trade_count": 115,
     "median_return_90d": null
   },
   {
