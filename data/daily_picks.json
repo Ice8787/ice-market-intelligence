@@ -73,9 +73,9 @@
     "watch_score": 65,
     "label": "Måttlig bevakningssignal",
     "current_price": 151.3300018310547,
-    "momentum20": 8.22,
-    "momentum60": -1.96,
-    "volume_ratio": 0.48,
+    "momentum20": 9.92,
+    "momentum60": -2.24,
+    "volume_ratio": 0.47,
     "rsi14": 68.1,
     "trend_score": 75,
     "reasons": [
@@ -171,55 +171,6 @@
   },
   {
     "rank": 4,
-    "ticker": "RTH",
-    "as_of": "2026-08-12",
-    "watch_score": 47,
-    "label": "Svag bevakningssignal",
-    "current_price": 270.6400146484375,
-    "momentum20": 4.84,
-    "momentum60": 2.75,
-    "volume_ratio": 1.17,
-    "rsi14": 63.8,
-    "trend_score": 55,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [],
-    "supporting_buys": [
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      },
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-07-09",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/5345c140-beaa-43fa-af51-d269c1ef9eff/"
-      },
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-07-07",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/5345c140-beaa-43fa-af51-d269c1ef9eff/"
-      }
-    ],
-    "supporting_buy_count": 3,
-    "historical_median_30d": 7.48,
-    "historical_median_90d": 1.95,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 5,
     "ticker": "MRVL",
     "as_of": "2026-08-12",
     "watch_score": 47,
@@ -233,6 +184,39 @@
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "Positivt 20-dagars momentum",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [],
+    "supporting_buys": [
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-11-20",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 5,
+    "ticker": "SBIO",
+    "as_of": "2026-08-12",
+    "watch_score": 47,
+    "label": "Svag bevakningssignal",
+    "current_price": 67.7699966430664,
+    "momentum20": 0.82,
+    "momentum60": 22.91,
+    "volume_ratio": 0.88,
+    "rsi14": 66.9,
+    "trend_score": 55,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
     "risk_flags": [],
