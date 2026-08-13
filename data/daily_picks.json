@@ -5,11 +5,11 @@
     "as_of": "2026-08-13",
     "watch_score": 65,
     "label": "Måttlig bevakningssignal",
-    "current_price": 152.5,
-    "momentum20": 10.82,
-    "momentum60": -2.07,
-    "volume_ratio": 0.21,
-    "rsi14": 66.0,
+    "current_price": 152.84500122070312,
+    "momentum20": 7.82,
+    "momentum60": -2.02,
+    "volume_ratio": 0.25,
+    "rsi14": 66.5,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -41,11 +41,11 @@
     "as_of": "2026-08-13",
     "watch_score": 62,
     "label": "Måttlig bevakningssignal",
-    "current_price": 64.05999755859375,
-    "momentum20": 4.18,
-    "momentum60": 26.38,
-    "volume_ratio": 0.41,
-    "rsi14": 64.1,
+    "current_price": 64.09500122070312,
+    "momentum20": 4.24,
+    "momentum60": 26.45,
+    "volume_ratio": 0.48,
+    "rsi14": 64.5,
     "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -104,49 +104,14 @@
   },
   {
     "rank": 3,
-    "ticker": "XAR",
-    "as_of": "2026-08-13",
-    "watch_score": 47,
-    "label": "Svag bevakningssignal",
-    "current_price": 291.2300109863281,
-    "momentum20": 10.24,
-    "momentum60": 7.82,
-    "volume_ratio": 0.55,
-    "rsi14": 67.9,
-    "trend_score": 55,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "Positivt 20-dagars momentum",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 4,
     "ticker": "MRVL",
     "as_of": "2026-08-13",
     "watch_score": 47,
     "label": "Svag bevakningssignal",
-    "current_price": 228.41000366210938,
-    "momentum20": 21.3,
-    "momentum60": 35.21,
-    "volume_ratio": 0.53,
+    "current_price": 228.2949981689453,
+    "momentum20": 21.24,
+    "momentum60": 35.14,
+    "volume_ratio": 0.58,
     "rsi14": 62.9,
     "trend_score": 55,
     "reasons": [
@@ -173,16 +138,16 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 5,
+    "rank": 4,
     "ticker": "SBIO",
     "as_of": "2026-08-13",
     "watch_score": 47,
     "label": "Svag bevakningssignal",
-    "current_price": 67.36959838867188,
-    "momentum20": 3.11,
-    "momentum60": 20.91,
-    "volume_ratio": 0.34,
-    "rsi14": 62.6,
+    "current_price": 67.26180267333984,
+    "momentum20": 2.64,
+    "momentum60": 25.98,
+    "volume_ratio": 0.48,
+    "rsi14": 61.8,
     "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -200,6 +165,43 @@
         "value": 8000.5,
         "currency": "USD",
         "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 5,
+    "ticker": "MSFT",
+    "as_of": "2026-08-13",
+    "watch_score": 46,
+    "label": "Svag bevakningssignal",
+    "current_price": 494.010009765625,
+    "momentum20": 23.16,
+    "momentum60": 16.64,
+    "volume_ratio": 0.3,
+    "rsi14": 86.0,
+    "trend_score": 50,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum",
+      "Mycket hög RSI – rekylrisk"
+    ],
+    "risk_flags": [
+      "Hög RSI – rekylrisk",
+      "Volymen bekräftar inte rörelsen"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Ron L Wyden",
+        "person_type": "political",
+        "date": "2020-07-23",
+        "value": 175000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/e29a0a93-7153-42f3-97c5-e9f68fe47820/"
       }
     ],
     "supporting_buy_count": 1,
