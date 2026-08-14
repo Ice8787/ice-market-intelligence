@@ -226,6 +226,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "962187cd035f75",
+    "name": "Thomas Reynaud",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 4,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "76debbbf1e09a6",
     "name": "Petter Stillström",
     "person_type": "corporate_insider",
@@ -274,15 +290,15 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "925f65508fea1c",
-    "name": "Mia Arnhult",
+    "id": "337ea6b968c19d",
+    "name": "Malin Nordesjö",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
     "categories": [
       "Övrigt"
     ],
     "history": {
-      "tracked_buys": 4,
+      "tracked_buys": 3,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -290,8 +306,8 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "337ea6b968c19d",
-    "name": "Malin Nordesjö",
+    "id": "925f65508fea1c",
+    "name": "Mia Arnhult",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
     "categories": [
@@ -515,6 +531,38 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "7c212e0466e55a",
+    "name": "Lars Petter Utseth",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "918364c03e39a2",
+    "name": "Bengt A. Rem",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "569b4ab760c32a",
     "name": "Jerry Moran,",
     "person_type": "political",
@@ -581,22 +629,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "8867802e83ae35",
-    "name": "Jan Öhman",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "165ed5fcab4840",
     "name": "Bent Oustad",
     "person_type": "business_leader",
@@ -633,22 +665,6 @@
     "name": "Pär-Ola Gustavsson",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseordförande",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "c80b498aecf648",
-    "name": "Malin Kemi",
-    "person_type": "corporate_insider",
-    "primary_role": "Annan ledande befattningshavare",
     "categories": [
       "Övrigt"
     ],
@@ -935,22 +951,6 @@
   {
     "id": "ab99e8e4b01b6f",
     "name": "Richard Kennedy",
-    "person_type": "corporate_insider",
-    "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "fb726d8d0cff0b",
-    "name": "Claes Larsson",
     "person_type": "corporate_insider",
     "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
     "categories": [
@@ -1365,22 +1365,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "e40d9d58bb1c5b",
-    "name": "Laszlo Janos Varga",
-    "person_type": "corporate_insider",
-    "primary_role": "Annan ledande befattningshavare",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "ad94042787d315",
     "name": "Jonas Jonsson",
     "person_type": "business_leader",
@@ -1413,58 +1397,10 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "e7320a10bfce5d",
-    "name": "Gunilla Cornell",
-    "person_type": "corporate_insider",
-    "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "ee9d25ed33d893",
     "name": "Henrik Forsberg Schoultz",
     "person_type": "business_leader",
     "primary_role": "Vice VD",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "7c212e0466e55a",
-    "name": "Lars Petter Utseth",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "918364c03e39a2",
-    "name": "Bengt A. Rem",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
     "categories": [
       "Övrigt"
     ],
