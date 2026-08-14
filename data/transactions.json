@@ -360,6 +360,65 @@
     "is_demo": false
   },
   {
+    "id": "cbc7b2d95d97479f2c",
+    "person_id": "c80b498aecf648",
+    "person_name": "Malin Kemi",
+    "person_role": "Annan ledande befattningshavare",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "RVRC Holding AB",
+    "ticker": "SE0015962485",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 55000.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-13",
+    "filing_date": "2026-08-14",
+    "reporting_delay_days": 1,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 1000.0,
+    "purchase_price": 55.0,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 55.0,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Annan ledande befattningshavare",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B616-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "964e1cb84956880063",
     "person_id": "c6144ab7086271",
     "person_name": "Jacob Karlsson AB",
@@ -9776,65 +9835,6 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B534-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
-    "id": "5c5070101cd7d33c7a",
-    "person_id": "f68c4c8f541014",
-    "person_name": "Erik Robert Joakim Lundström",
-    "person_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
-    "person_type": "corporate_insider",
-    "issuer_cik": "",
-    "company": "Studsvik AB",
-    "ticker": "SE0028925727",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 42116.25,
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "transaction_date": "2026-06-18",
-    "filing_date": "2026-08-03",
-    "reporting_delay_days": 46,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "buy",
-    "transaction_code": "P",
-    "shares": 1375.0,
-    "purchase_price": 30.63,
-    "value_usd": 0.0,
-    "score": 47,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppet marknadsköp",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 30.63,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Övrigt",
-      "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
-      "Förvärv",
-      "egen rapport"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B446-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {

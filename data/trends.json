@@ -1,5 +1,25 @@
 [
   {
+    "ticker": "SBIO",
+    "as_of": "2026-08-13",
+    "current_price": 66.91999816894531,
+    "sma20": 65.24,
+    "sma50": 61.79,
+    "momentum20": 5.49,
+    "momentum60": 29.79,
+    "volume_ratio": 0.97,
+    "rsi14": 62.9,
+    "trend_score": 75,
+    "label": "Stark momentumtrend",
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
+  },
+  {
     "ticker": "ICE",
     "as_of": "2026-08-13",
     "current_price": 155.24000549316406,
@@ -20,25 +40,6 @@
     "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
   },
   {
-    "ticker": "SBIO",
-    "as_of": "2026-08-13",
-    "current_price": 66.91999816894531,
-    "sma20": 65.06,
-    "sma50": 61.45,
-    "momentum20": 2.12,
-    "momentum60": 25.34,
-    "volume_ratio": 0.97,
-    "rsi14": 60.1,
-    "trend_score": 55,
-    "label": "Positiv trend",
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
-  },
-  {
     "ticker": "MRVL",
     "as_of": "2026-08-13",
     "current_price": 222.17999267578125,
@@ -48,6 +49,25 @@
     "momentum60": 31.52,
     "volume_ratio": 0.82,
     "rsi14": 61.1,
+    "trend_score": 55,
+    "label": "Positiv trend",
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "Positivt 20-dagars momentum",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
+  },
+  {
+    "ticker": "SRVR",
+    "as_of": "2026-08-13",
+    "current_price": 32.38999938964844,
+    "sma20": 31.24,
+    "sma50": 32.0,
+    "momentum20": 6.83,
+    "momentum60": -4.14,
+    "volume_ratio": 0.47,
+    "rsi14": 59.3,
     "trend_score": 55,
     "label": "Positiv trend",
     "reasons": [
@@ -169,24 +189,6 @@
     "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
   },
   {
-    "ticker": "SRVR",
-    "as_of": "2026-08-13",
-    "current_price": 32.38999938964844,
-    "sma20": 31.17,
-    "sma50": 32.06,
-    "momentum20": 4.92,
-    "momentum60": -3.89,
-    "volume_ratio": 0.47,
-    "rsi14": 64.0,
-    "trend_score": 35,
-    "label": "Neutral/svag trend",
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
-  },
-  {
     "ticker": "DDOG",
     "as_of": "2026-08-13",
     "current_price": 252.24000549316406,
@@ -225,12 +227,12 @@
     "ticker": "PAGS",
     "as_of": "2026-08-13",
     "current_price": 8.819999694824219,
-    "sma20": 9.35,
+    "sma20": 9.34,
     "sma50": 9.09,
-    "momentum20": -4.23,
-    "momentum60": -0.45,
+    "momentum20": -3.61,
+    "momentum60": -3.92,
     "volume_ratio": 1.19,
-    "rsi14": 35.8,
+    "rsi14": 40.5,
     "trend_score": 20,
     "label": "Neutral/svag trend",
     "reasons": [
@@ -259,12 +261,12 @@
     "ticker": "ABYIX",
     "as_of": "2026-08-13",
     "current_price": 11.619999885559082,
-    "sma20": 11.62,
+    "sma20": 11.61,
     "sma50": 11.67,
     "momentum20": -0.17,
-    "momentum60": -2.27,
+    "momentum60": -3.01,
     "volume_ratio": 0.0,
-    "rsi14": 37.1,
+    "rsi14": 39.1,
     "trend_score": 20,
     "label": "Neutral/svag trend",
     "reasons": [
@@ -276,12 +278,12 @@
     "ticker": "SI",
     "as_of": "2026-08-13",
     "current_price": 19.229999542236328,
-    "sma20": 21.59,
-    "sma50": 20.02,
-    "momentum20": -11.87,
-    "momentum60": 23.03,
-    "volume_ratio": 0.86,
-    "rsi14": 44.6,
+    "sma20": 21.44,
+    "sma50": 20.14,
+    "momentum20": -14.65,
+    "momentum60": 30.11,
+    "volume_ratio": 0.82,
+    "rsi14": 44.0,
     "trend_score": 20,
     "label": "Neutral/svag trend",
     "reasons": [
