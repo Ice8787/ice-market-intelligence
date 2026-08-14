@@ -9,6 +9,8 @@
       "Övrigt"
     ],
     "trade_ids": [
+      "a5ff09d5635958eed6",
+      "d0a744144d91791476",
       "b8f90e1546eb7afc45",
       "a9340f5dd462f67cf6",
       "6e8755fac308f85499",
@@ -51,8 +53,6 @@
       "6eb436b91a290f279d",
       "35ef93d17e293660a6",
       "1695a24d0f2b464be1",
-      "bee666251fb6dd2531",
-      "12b960699a9e1269ed",
       "aa500dcbbdde9d898f",
       "21909c4a8eb8f83168",
       "cbb7b692422c52e24d",
@@ -109,7 +109,6 @@
       "44c91003c51baa0ed0",
       "63116641e5f63eca88",
       "b2a6dd89388552182c",
-      "b4ce56c893c0c253f6",
       "e429e744be4ddf6f22",
       "1bdcffc4be1ab8ad13",
       "2330371b6652996b1e",
@@ -117,7 +116,6 @@
       "cbd1914bba4ba0ed05",
       "57e887abe95ab05630",
       "fab2ebd4270c31fd04",
-      "c820c98c67245ac71b",
       "4436923421bfc2927e",
       "316365db9bb8153fd9",
       "c2407c4581c0183590",
@@ -131,7 +129,9 @@
       "ec53fc2ef32f90ae3b",
       "d9db927ccf0f9481bb",
       "c5180359cbc6be8816",
-      "073b77485b2b0e9f08"
+      "073b77485b2b0e9f08",
+      "f609b24e3062f44a91",
+      "c584ba748ca81e6d63"
     ],
     "trade_count": 123,
     "median_return_90d": null
