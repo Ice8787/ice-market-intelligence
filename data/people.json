@@ -322,22 +322,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "4eb6969de1e5d5",
-    "name": "Daniel Gecer",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 3,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "dfa418dd6d572f",
     "name": "Patrick J Toomey",
     "person_type": "political",
@@ -521,6 +505,22 @@
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Finans"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "4eb6969de1e5d5",
+    "name": "Daniel Gecer",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Övrigt"
     ],
     "history": {
       "tracked_buys": 2,
