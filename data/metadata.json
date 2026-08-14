@@ -1,18 +1,18 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-08-14T11:11:44.854360Z",
+  "generated_at": "2026-08-14T12:00:25.557992Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
-  "record_count": 579,
-  "people_count": 90,
+  "record_count": 580,
+  "people_count": 91,
   "political_trade_count": 411,
-  "policy_event_count": 120,
+  "policy_event_count": 90,
   "trend_count": 22,
   "daily_pick_count": 5,
   "top_per_market_category": 100,
   "group_counts": {
     "Sverige|Övrigt|corporate_insider": 100,
-    "Sverige|Övrigt|business_leader": 53,
+    "Sverige|Övrigt|business_leader": 54,
     "Sverige|Finans|corporate_insider": 6,
     "Sverige|Hälsa|business_leader": 3,
     "Sverige|Hälsa|corporate_insider": 3,
@@ -30,7 +30,7 @@
   },
   "person_type_counts": {
     "corporate_insider": 110,
-    "business_leader": 58,
+    "business_leader": 59,
     "political": 411
   },
   "source_status": {
@@ -79,7 +79,7 @@
       }
     },
     "Federal Register": {
-      "ok": true,
+      "ok": false,
       "terms": {
         "tariff": {
           "ok": true,
@@ -94,8 +94,8 @@
           "records": 35
         },
         "defense procurement": {
-          "ok": true,
-          "records": 35
+          "ok": false,
+          "error": "HTTP Error 503: Service Temporarily Unavailable"
         }
       },
       "source": "Federal Register API"

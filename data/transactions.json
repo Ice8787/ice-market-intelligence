@@ -60,6 +60,66 @@
     "is_demo": false
   },
   {
+    "id": "b8f90e1546eb7afc45",
+    "person_id": "165ed5fcab4840",
+    "person_name": "Bent Oustad",
+    "person_role": "Verkställande direktör (VD)",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "Fabege AB",
+    "ticker": "SE0011166974",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 7645000.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-14",
+    "filing_date": "2026-08-14",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 100000.0,
+    "purchase_price": 76.45,
+    "value_usd": 0.0,
+    "score": 62,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 76.45,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Verkställande direktör (VD)",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B615-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "6e72b4512ca33e69c3",
     "person_id": "811d6b2a16250a",
     "person_name": "Peter Terwiesch",
