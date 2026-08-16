@@ -69,40 +69,6 @@
   },
   {
     "rank": 2,
-    "ticker": "XAR",
-    "as_of": "2026-08-14",
-    "watch_score": 65,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 296.7300109863281,
-    "momentum20": 14.76,
-    "momentum60": 14.36,
-    "volume_ratio": 1.96,
-    "rsi14": 71.1,
-    "trend_score": 80,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum",
-      "Ovanligt hög dagsvolym"
-    ],
-    "risk_flags": [],
-    "supporting_buys": [
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 3,
     "ticker": "ICE",
     "as_of": "2026-08-14",
     "watch_score": 65,
@@ -130,6 +96,41 @@
         "value": 3000000.5,
         "currency": "USD",
         "source_url": "https://efdsearch.senate.gov/search/view/ptr/c4c59219-79bf-4035-8f99-7b6a0aa03f05/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 3,
+    "ticker": "XAR",
+    "as_of": "2026-08-14",
+    "watch_score": 50,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 296.7300109863281,
+    "momentum20": 11.32,
+    "momentum60": 9.35,
+    "volume_ratio": 2.02,
+    "rsi14": 73.0,
+    "trend_score": 60,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "Positivt 20-dagars momentum",
+      "Ovanligt hög dagsvolym"
+    ],
+    "risk_flags": [
+      "Hög RSI – rekylrisk"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-11-20",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
       }
     ],
     "supporting_buy_count": 1,

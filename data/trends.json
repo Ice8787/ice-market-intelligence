@@ -1,25 +1,5 @@
 [
   {
-    "ticker": "XAR",
-    "as_of": "2026-08-14",
-    "current_price": 296.7300109863281,
-    "sma20": 276.46,
-    "sma50": 276.02,
-    "momentum20": 14.76,
-    "momentum60": 14.36,
-    "volume_ratio": 1.96,
-    "rsi14": 71.1,
-    "trend_score": 80,
-    "label": "Stark momentumtrend",
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum",
-      "Ovanligt hög dagsvolym"
-    ],
-    "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
-  },
-  {
     "ticker": "BAC",
     "as_of": "2026-08-14",
     "current_price": 64.48999786376953,
@@ -56,6 +36,25 @@
       "20-dagars trend över 50-dagars trend",
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
+  },
+  {
+    "ticker": "XAR",
+    "as_of": "2026-08-14",
+    "current_price": 296.7300109863281,
+    "sma20": 275.95,
+    "sma50": 276.79,
+    "momentum20": 11.32,
+    "momentum60": 9.35,
+    "volume_ratio": 2.02,
+    "rsi14": 73.0,
+    "trend_score": 60,
+    "label": "Positiv trend",
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "Positivt 20-dagars momentum",
+      "Ovanligt hög dagsvolym"
     ],
     "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
   },
@@ -249,12 +248,12 @@
     "ticker": "OHI",
     "as_of": "2026-08-14",
     "current_price": 46.529998779296875,
-    "sma20": 49.19,
-    "sma50": 47.92,
-    "momentum20": -7.33,
-    "momentum60": -4.53,
-    "volume_ratio": 0.9,
-    "rsi14": 18.5,
+    "sma20": 49.0,
+    "sma50": 47.57,
+    "momentum20": -3.64,
+    "momentum60": -2.92,
+    "volume_ratio": 0.95,
+    "rsi14": 15.8,
     "trend_score": 20,
     "label": "Neutral/svag trend",
     "reasons": [
