@@ -1429,6 +1429,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "0b74030ff4b14c",
+    "name": "Jonas Eborn",
+    "person_type": "business_leader",
+    "primary_role": "Vice VD",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "ee9d25ed33d893",
     "name": "Henrik Forsberg Schoultz",
     "person_type": "business_leader",

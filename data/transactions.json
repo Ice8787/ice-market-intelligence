@@ -9961,6 +9961,65 @@
     "is_demo": false
   },
   {
+    "id": "f0d8200aa7de181d3b",
+    "person_id": "0b74030ff4b14c",
+    "person_name": "Jonas Eborn",
+    "person_role": "Vice VD",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "Modelon AB (publ)",
+    "ticker": "SE0015948591",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 8579.900000000001,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-07-29",
+    "filing_date": "2026-08-16",
+    "reporting_delay_days": 18,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 833.0,
+    "purchase_price": 10.3,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 10.3,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Vice VD",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B628-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "91f00889964228ad9a",
     "person_id": "7482c347b28c6d",
     "person_name": "Ylwa Karlgren",
