@@ -14,6 +14,7 @@
       "dbffdcc58d7133ff94",
       "ec7213b02925859450",
       "a767021dbf2e05942c",
+      "92f3fb7d134868d76a",
       "a5ff09d5635958eed6",
       "b8f90e1546eb7afc45",
       "49ea907361e39ae6b1",
@@ -110,7 +111,6 @@
       "2621643564e3f3514b",
       "560257366d721e4eda",
       "7465e3228469e8ede6",
-      "ba0a9c66e40f1ebbc6",
       "03ba08fab7ea253eea",
       "f527edf4bb3069511d",
       "489d566f871afd5551",
@@ -145,13 +145,14 @@
   {
     "id": "category-sverige-finans",
     "type": "Sektorkluster",
-    "title": "10 insiderköp inom Finans · Sverige",
+    "title": "11 insiderköp inom Finans · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Finans"
     ],
     "trade_ids": [
+      "3d3d714fa1826774a7",
       "9df5aa6b502dc7eb2e",
       "16856f38fcd4a3b8df",
       "0b3409ad17d4e741f6",
@@ -163,7 +164,7 @@
       "1bb00165c827e64db7",
       "77b4812dbd3d61281b"
     ],
-    "trade_count": 10,
+    "trade_count": 11,
     "median_return_90d": null
   },
   {
