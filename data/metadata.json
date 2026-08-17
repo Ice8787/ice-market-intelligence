@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-08-17T14:48:01.371190Z",
+  "generated_at": "2026-08-17T15:05:43.802081Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
   "record_count": 592,
@@ -44,16 +44,16 @@
       "new_records": 43
     },
     "US politicians": {
-      "ok": false,
-      "new_records": 0,
+      "ok": true,
+      "new_records": 929,
       "providers": {
         "House Stock Watcher": {
           "ok": false,
           "error": "HTTP Error 403: Forbidden"
         },
         "Senate Stock Watcher": {
-          "ok": false,
-          "error": "HTTP Error 429: Too Many Requests"
+          "ok": true,
+          "records": 6171
         }
       }
     },
