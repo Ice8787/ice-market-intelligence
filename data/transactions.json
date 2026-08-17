@@ -479,6 +479,65 @@
     "is_demo": false
   },
   {
+    "id": "49ea907361e39ae6b1",
+    "person_id": "ad380d8dc76ce6",
+    "person_name": "Johan Larsson",
+    "person_role": "Verkställande direktör (VD)",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "NYAB AB",
+    "ticker": "SE0022242434",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 78480.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-14",
+    "filing_date": "2026-08-17",
+    "reporting_delay_days": 3,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 12000.0,
+    "purchase_price": 6.54,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 6.54,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Verkställande direktör (VD)",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B634-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "083e19b8d65ce66ded",
     "person_id": "5f703c23a6a2a3",
     "person_name": "Viktor Garmiani",
