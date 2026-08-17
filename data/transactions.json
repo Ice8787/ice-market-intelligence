@@ -60,6 +60,66 @@
     "is_demo": false
   },
   {
+    "id": "aba0f1eb56c67e16d7",
+    "person_id": "089ad5ca8e18f9",
+    "person_name": "Karl-Johan Persson",
+    "person_role": "Styrelseordförande",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "H & M Hennes & Mauritz AB",
+    "ticker": "SE0000106270",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 113998820.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-14",
+    "filing_date": "2026-08-17",
+    "reporting_delay_days": 3,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 650000.0,
+    "purchase_price": 175.3828,
+    "value_usd": 0.0,
+    "score": 69,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Mycket stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 175.3828,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Styrelseordförande",
+      "Förvärv",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B638-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "dbffdcc58d7133ff94",
     "person_id": "962187cd035f75",
     "person_name": "Thomas Reynaud",
@@ -653,6 +713,66 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B624-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "8ab7619d54cee556e8",
+    "person_id": "089ad5ca8e18f9",
+    "person_name": "Karl-Johan Persson",
+    "person_role": "Styrelseordförande",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "H & M Hennes & Mauritz AB",
+    "ticker": "SE0000106270",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 140573760.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-13",
+    "filing_date": "2026-08-17",
+    "reporting_delay_days": 4,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 800000.0,
+    "purchase_price": 175.7172,
+    "value_usd": 0.0,
+    "score": 69,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Mycket stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 175.7172,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Styrelseordförande",
+      "Förvärv",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B638-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
@@ -1311,6 +1431,66 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B625-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "186e27fd6e67700b15",
+    "person_id": "089ad5ca8e18f9",
+    "person_name": "Karl-Johan Persson",
+    "person_role": "Styrelseordförande",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "H & M Hennes & Mauritz AB",
+    "ticker": "SE0000106270",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 289059375.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-12",
+    "filing_date": "2026-08-17",
+    "reporting_delay_days": 5,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 1650000.0,
+    "purchase_price": 175.1875,
+    "value_usd": 0.0,
+    "score": 69,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Mycket stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 175.1875,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Styrelseordförande",
+      "Förvärv",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B638-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
@@ -8017,65 +8197,6 @@
     "is_demo": false
   },
   {
-    "id": "63116641e5f63eca88",
-    "person_id": "24828099135d59",
-    "person_name": "Lars-Ola Lundkvist",
-    "person_role": "Styrelseledamot",
-    "person_type": "corporate_insider",
-    "issuer_cik": "",
-    "company": "HANZA Holding AB",
-    "ticker": "SE0005878543",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 76920.0,
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "transaction_date": "2026-08-03",
-    "filing_date": "2026-08-04",
-    "reporting_delay_days": 1,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "buy",
-    "transaction_code": "P",
-    "shares": 600.0,
-    "purchase_price": 128.2,
-    "value_usd": 0.0,
-    "score": 47,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppet marknadsköp",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 128.2,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Övrigt",
-      "Styrelseledamot",
-      "Förvärv",
-      "egen rapport"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B462-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
     "id": "e429e744be4ddf6f22",
     "person_id": "3d274a11772f6f",
     "person_name": "Rutger Arnhult",
@@ -9082,61 +9203,6 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B483-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
-    "id": "fab2ebd4270c31fd04",
-    "person_id": "3657bbc34f6411",
-    "person_name": "Linda Maria Elisabet Eixmann Frölén",
-    "person_role": "Ekonomichef/finanschef/finansdirektör",
-    "person_type": "corporate_insider",
-    "issuer_cik": "",
-    "company": "C-RAD AB",
-    "ticker": "SE0002016352",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 73400.0,
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "transaction_date": "2026-07-31",
-    "filing_date": "2026-08-01",
-    "reporting_delay_days": 1,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "buy",
-    "transaction_code": "P",
-    "shares": 2000.0,
-    "purchase_price": 36.7,
-    "value_usd": 0.0,
-    "score": 47,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppet marknadsköp",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 36.7,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Övrigt",
-      "Ekonomichef/finanschef/finansdirektör",
-      "Förvärv",
-      "egen rapport"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B433-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
@@ -10261,61 +10327,6 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B534-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
-    "id": "d9db927ccf0f9481bb",
-    "person_id": "4eb6969de1e5d5",
-    "person_name": "Daniel Gecer",
-    "person_role": "Styrelseledamot",
-    "person_type": "corporate_insider",
-    "issuer_cik": "",
-    "company": "Lappland Guldprospektering AB",
-    "ticker": "SE0022447207",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 74448.92,
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "transaction_date": "2026-03-12",
-    "filing_date": "2026-08-02",
-    "reporting_delay_days": 143,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "buy",
-    "transaction_code": "P",
-    "shares": 362.0,
-    "purchase_price": 205.66,
-    "value_usd": 0.0,
-    "score": 47,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppet marknadsköp",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 205.66,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Övrigt",
-      "Styrelseledamot",
-      "Förvärv",
-      "närstående"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A003W957-2?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
