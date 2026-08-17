@@ -3052,6 +3052,65 @@
     "is_demo": false
   },
   {
+    "id": "43b08354d57d355e14",
+    "person_id": "9a44cdffbd1e28",
+    "person_name": "Katy Mazibuko",
+    "person_role": "Arbetstagarrepresentant i styrelsen eller arbetstagarsuppleant",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Swedish Orphan Biovitrum AB (publ)",
+    "ticker": "SE0000872095",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 24751.832000000002,
+    "category": "Hälsa",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-08-12",
+    "filing_date": "2026-08-17",
+    "reporting_delay_days": 5,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 56.0,
+    "purchase_price": 441.997,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 441.997,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Hälsa",
+      "Arbetstagarrepresentant i styrelsen eller arbetstagarsuppleant",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B642-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "16856f38fcd4a3b8df",
     "person_id": "ee77efd8c68c9f",
     "person_name": "Jörgen Karlsson",

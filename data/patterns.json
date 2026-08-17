@@ -168,6 +168,22 @@
     "median_return_90d": null
   },
   {
+    "id": "category-sverige-hälsa",
+    "type": "Sektorkluster",
+    "title": "2 insiderköp inom Hälsa · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Hälsa"
+    ],
+    "trade_ids": [
+      "fd0aa2bffad2c71089",
+      "43b08354d57d355e14"
+    ],
+    "trade_count": 2,
+    "median_return_90d": null
+  },
+  {
     "id": "category-usa-hälsa",
     "type": "Sektorkluster",
     "title": "19 insiderköp inom Hälsa · USA",
