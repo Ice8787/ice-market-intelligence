@@ -1,5 +1,65 @@
 [
   {
+    "id": "421e5893fa946d5fa2",
+    "person_id": "af6c9af391c4c4",
+    "person_name": "Öystein Engebretsen",
+    "person_role": "Annan ledande befattningshavare",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Investment AB Öresund",
+    "ticker": "SE0008321608",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 222112.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-17",
+    "filing_date": "2026-08-17",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 1600.0,
+    "purchase_price": 138.82,
+    "value_usd": 0.0,
+    "score": 55,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Betydande transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 138.82,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Annan ledande befattningshavare",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B632-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "dbffdcc58d7133ff94",
     "person_id": "962187cd035f75",
     "person_name": "Thomas Reynaud",
@@ -9610,61 +9670,6 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B437-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
-    "id": "3e15fa5bd84c5d75be",
-    "person_id": "3657bbc34f6411",
-    "person_name": "Linda Maria Elisabet Eixmann Frölén",
-    "person_role": "Ekonomichef/finanschef/finansdirektör",
-    "person_type": "corporate_insider",
-    "issuer_cik": "",
-    "company": "C-RAD AB",
-    "ticker": "SE0002016352",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 73200.0,
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "transaction_date": "2026-07-30",
-    "filing_date": "2026-08-01",
-    "reporting_delay_days": 2,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "sell",
-    "transaction_code": "S",
-    "shares": 2000.0,
-    "purchase_price": 36.6,
-    "value_usd": 0.0,
-    "score": 25,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppen marknadsförsäljning",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 36.6,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Övrigt",
-      "Ekonomichef/finanschef/finansdirektör",
-      "Avyttring",
-      "egen rapport"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B433-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {

@@ -613,6 +613,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "af6c9af391c4c4",
+    "name": "Öystein Engebretsen",
+    "person_type": "corporate_insider",
+    "primary_role": "Annan ledande befattningshavare",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "d4664f5fbf1391",
     "name": "Marika Eklund",
     "person_type": "corporate_insider",
