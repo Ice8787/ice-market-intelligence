@@ -5,11 +5,11 @@
     "as_of": "2026-08-18",
     "watch_score": 65,
     "label": "Måttlig bevakningssignal",
-    "current_price": 156.7100067138672,
-    "momentum20": 12.22,
-    "momentum60": 1.69,
-    "volume_ratio": 0.23,
-    "rsi14": 56.5,
+    "current_price": 157.38980102539062,
+    "momentum20": 12.7,
+    "momentum60": 2.13,
+    "volume_ratio": 0.29,
+    "rsi14": 58.1,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -37,15 +37,15 @@
   },
   {
     "rank": 2,
-    "ticker": "SBIO",
+    "ticker": "XAR",
     "as_of": "2026-08-18",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 68.05000305175781,
-    "momentum20": 7.27,
-    "momentum60": 31.98,
-    "volume_ratio": 0.56,
-    "rsi14": 69.9,
+    "current_price": 292.31500244140625,
+    "momentum20": 12.84,
+    "momentum60": 11.06,
+    "volume_ratio": 0.81,
+    "rsi14": 67.2,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -53,9 +53,7 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
@@ -77,11 +75,11 @@
     "as_of": "2026-08-18",
     "watch_score": 53,
     "label": "Måttlig bevakningssignal",
-    "current_price": 482.2099914550781,
-    "momentum20": 21.23,
-    "momentum60": 15.06,
-    "volume_ratio": 0.21,
-    "rsi14": 78.2,
+    "current_price": 481.635009765625,
+    "momentum20": 21.09,
+    "momentum60": 14.92,
+    "volume_ratio": 0.23,
+    "rsi14": 78.1,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -116,7 +114,7 @@
     "current_price": 63.720001220703125,
     "momentum20": 4.08,
     "momentum60": 23.75,
-    "volume_ratio": 0.36,
+    "volume_ratio": 0.42,
     "rsi14": 71.6,
     "trend_score": 40,
     "reasons": [
@@ -175,32 +173,32 @@
   },
   {
     "rank": 5,
-    "ticker": "NFLX",
+    "ticker": "SBIO",
     "as_of": "2026-08-18",
-    "watch_score": 48,
-    "label": "Svag bevakningssignal",
-    "current_price": 78.71720123291016,
-    "momentum20": 14.63,
-    "momentum60": -11.85,
-    "volume_ratio": 0.41,
-    "rsi14": 63.7,
-    "trend_score": 55,
+    "watch_score": 50,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 68.5250015258789,
+    "momentum20": 8.02,
+    "momentum60": 32.9,
+    "volume_ratio": 0.6,
+    "rsi14": 71.1,
+    "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
-      "Positivt 20-dagars momentum",
-      "RSI visar styrka utan extrem överköpt nivå"
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum"
     ],
     "risk_flags": [
       "Volymen bekräftar inte rörelsen"
     ],
     "supporting_buys": [
       {
-        "person_name": "Pat Roberts",
+        "person_name": "Thomas R Carper",
         "person_type": "political",
-        "date": "2020-09-04",
-        "value": 75000.5,
+        "date": "2020-11-20",
+        "value": 8000.5,
         "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/6f691f61-e375-42ab-af01-72da4328447c/"
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
       }
     ],
     "supporting_buy_count": 1,
