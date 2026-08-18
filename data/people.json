@@ -210,12 +210,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "5c6edf646140b3",
-    "name": "Per Åhlgren",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
+    "id": "ee77efd8c68c9f",
+    "name": "Jörgen Karlsson",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
     "categories": [
-      "Övrigt"
+      "Finans"
     ],
     "history": {
       "tracked_buys": 6,
@@ -226,15 +226,15 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "ee77efd8c68c9f",
-    "name": "Jörgen Karlsson",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
+    "id": "5c6edf646140b3",
+    "name": "Per Åhlgren",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
     "categories": [
-      "Finans"
+      "Övrigt"
     ],
     "history": {
-      "tracked_buys": 6,
+      "tracked_buys": 5,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -423,22 +423,6 @@
     "name": "Niclas Bagler",
     "person_type": "business_leader",
     "primary_role": "Vice VD",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 2,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "7482c347b28c6d",
-    "name": "Ylwa Karlgren",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
     "categories": [
       "Övrigt"
     ],
@@ -1177,6 +1161,22 @@
     "name": "Stefan Fredrik Gunnar Wård",
     "person_type": "corporate_insider",
     "primary_role": "Ekonomichef/finanschef/finansdirektör",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "7482c347b28c6d",
+    "name": "Ylwa Karlgren",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
     "categories": [
       "Övrigt"
     ],
