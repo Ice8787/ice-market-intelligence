@@ -1,13 +1,13 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-08-18T20:53:38.164078Z",
+  "generated_at": "2026-08-18T21:31:51.685180Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
   "record_count": 609,
   "people_count": 95,
   "political_trade_count": 411,
   "policy_event_count": 123,
-  "trend_count": 21,
+  "trend_count": 22,
   "daily_pick_count": 5,
   "top_per_market_category": 100,
   "group_counts": {
@@ -103,9 +103,8 @@
     },
     "Trend data": {
       "ok": true,
-      "records": 21,
+      "records": 22,
       "errors": {
-        "NTLA": "<urlopen error _ssl.c:993: The handshake operation timed out>",
         "ARNA": "HTTP Error 404: Not Found",
         "COUP": "HTTP Error 404: Not Found",
         "MPW": "HTTP Error 404: Not Found"
