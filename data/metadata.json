@@ -1,12 +1,12 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-08-18T14:55:31.073763Z",
+  "generated_at": "2026-08-18T15:39:29.716085Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
   "record_count": 606,
   "people_count": 95,
   "political_trade_count": 411,
-  "policy_event_count": 93,
+  "policy_event_count": 123,
   "trend_count": 22,
   "daily_pick_count": 5,
   "top_per_market_category": 100,
@@ -41,7 +41,7 @@
     },
     "Sverige": {
       "ok": true,
-      "new_records": 16
+      "new_records": 19
     },
     "US politicians": {
       "ok": true,
@@ -80,7 +80,7 @@
       }
     },
     "Federal Register": {
-      "ok": false,
+      "ok": true,
       "terms": {
         "tariff": {
           "ok": true,
@@ -95,8 +95,8 @@
           "records": 35
         },
         "defense procurement": {
-          "ok": false,
-          "error": "HTTP Error 503: Service Temporarily Unavailable"
+          "ok": true,
+          "records": 35
         }
       },
       "source": "Federal Register API"
