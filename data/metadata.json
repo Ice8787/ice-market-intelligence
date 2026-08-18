@@ -1,19 +1,19 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-08-18T06:57:18.320109Z",
+  "generated_at": "2026-08-18T07:46:33.365148Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
-  "record_count": 597,
-  "people_count": 96,
+  "record_count": 604,
+  "people_count": 98,
   "political_trade_count": 411,
-  "policy_event_count": 123,
+  "policy_event_count": 67,
   "trend_count": 22,
   "daily_pick_count": 5,
   "top_per_market_category": 100,
   "group_counts": {
+    "Sverige|Övrigt|business_leader": 66,
     "Sverige|Övrigt|corporate_insider": 100,
     "Sverige|Finans|corporate_insider": 7,
-    "Sverige|Övrigt|business_leader": 59,
     "Sverige|Teknik|corporate_insider": 1,
     "Sverige|Hälsa|corporate_insider": 9,
     "Sverige|Finans|business_leader": 6,
@@ -30,8 +30,8 @@
     "USA|Energi|political": 58
   },
   "person_type_counts": {
+    "business_leader": 75,
     "corporate_insider": 118,
-    "business_leader": 68,
     "political": 411
   },
   "source_status": {
@@ -41,7 +41,7 @@
     },
     "Sverige": {
       "ok": true,
-      "new_records": 44
+      "new_records": 45
     },
     "US politicians": {
       "ok": true,
@@ -80,15 +80,15 @@
       }
     },
     "Federal Register": {
-      "ok": true,
+      "ok": false,
       "terms": {
         "tariff": {
-          "ok": true,
-          "records": 35
+          "ok": false,
+          "error": "HTTP Error 503: Service Temporarily Unavailable"
         },
         "trade": {
-          "ok": true,
-          "records": 35
+          "ok": false,
+          "error": "HTTP Error 503: Service Temporarily Unavailable"
         },
         "export controls": {
           "ok": true,
