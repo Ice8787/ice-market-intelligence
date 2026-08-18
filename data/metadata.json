@@ -1,12 +1,12 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-08-18T07:46:33.365148Z",
+  "generated_at": "2026-08-18T08:17:12.977822Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
   "record_count": 604,
-  "people_count": 98,
+  "people_count": 97,
   "political_trade_count": 411,
-  "policy_event_count": 67,
+  "policy_event_count": 123,
   "trend_count": 22,
   "daily_pick_count": 5,
   "top_per_market_category": 100,
@@ -80,15 +80,15 @@
       }
     },
     "Federal Register": {
-      "ok": false,
+      "ok": true,
       "terms": {
         "tariff": {
-          "ok": false,
-          "error": "HTTP Error 503: Service Temporarily Unavailable"
+          "ok": true,
+          "records": 35
         },
         "trade": {
-          "ok": false,
-          "error": "HTTP Error 503: Service Temporarily Unavailable"
+          "ok": true,
+          "records": 35
         },
         "export controls": {
           "ok": true,
