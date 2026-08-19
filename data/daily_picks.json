@@ -68,14 +68,14 @@
   {
     "rank": 2,
     "ticker": "ICE",
-    "as_of": "2026-08-18",
+    "as_of": "2026-08-17",
     "watch_score": 65,
     "label": "Måttlig bevakningssignal",
-    "current_price": 156.17999267578125,
-    "momentum20": 12.63,
-    "momentum60": 3.1,
-    "volume_ratio": 0.89,
-    "rsi14": 55.3,
+    "current_price": 154.30999755859375,
+    "momentum20": 8.85,
+    "momentum60": -1.08,
+    "volume_ratio": 0.64,
+    "rsi14": 54.5,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -83,7 +83,9 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
     "supporting_buys": [
       {
         "person_name": "Kelly Loeffler",
