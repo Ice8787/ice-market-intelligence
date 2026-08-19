@@ -290,6 +290,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "2c122bd6cb631f",
+    "name": "Anders Wassberg",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 3,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "089ad5ca8e18f9",
     "name": "Karl-Johan Persson",
     "person_type": "corporate_insider",
@@ -392,6 +408,22 @@
     "name": "Ludvig Paulsson",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "3315995299bc87",
+    "name": "Göran Westerberg",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
     "categories": [
       "Övrigt"
     ],
@@ -630,6 +662,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "c2712e4dd717a1",
+    "name": "Robin Engström Gustafsson",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "6d2a2d7c3db055",
     "name": "Enrique Patrickson",
     "person_type": "corporate_insider",
@@ -710,22 +758,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "af6c9af391c4c4",
-    "name": "Öystein Engebretsen",
-    "person_type": "corporate_insider",
-    "primary_role": "Annan ledande befattningshavare",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "101a35ff9a4eed",
     "name": "Erik Rombin",
     "person_type": "corporate_insider",
@@ -762,22 +794,6 @@
     "name": "Johan Larsson",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "d4664f5fbf1391",
-    "name": "Marika Eklund",
-    "person_type": "corporate_insider",
-    "primary_role": "Ekonomichef/finanschef/finansdirektör",
     "categories": [
       "Övrigt"
     ],
@@ -1002,22 +1018,6 @@
     "name": "Annette Brodin Rampe",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseordförande",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "ef20ec6f1a0b78",
-    "name": "Lukasz Krause",
-    "person_type": "corporate_insider",
-    "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
     "categories": [
       "Övrigt"
     ],
@@ -1384,22 +1384,6 @@
   {
     "id": "7eb5347c30e1ff",
     "name": "Michael Häggman",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "2682ea143e3b33",
-    "name": "Jeanette Ingrid Leona Jäger",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
     "categories": [
