@@ -10108,6 +10108,66 @@
     "is_demo": false
   },
   {
+    "id": "c44225aab532a31282",
+    "person_id": "f22570cd141fa0",
+    "person_name": "Hidayet Tercan Sidea",
+    "person_role": "Styrelseledamot",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Byggmästare Anders J Ahlström Holding AB (publ)",
+    "ticker": "SE0006510491",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 2808930.0,
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-08-03",
+    "filing_date": "2026-08-03",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "sell",
+    "transaction_code": "S",
+    "shares": 51540.0,
+    "purchase_price": 54.5,
+    "value_usd": 0.0,
+    "score": 40,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppen marknadsförsäljning",
+      "Stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 54.5,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Industri",
+      "Styrelseledamot",
+      "Avyttring",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B443-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "ba0988c521b5e0e759",
     "person_id": "f01202bddb023d",
     "person_name": "Erik Selin",
@@ -10284,66 +10344,6 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B556-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
-    "id": "c44225aab532a31282",
-    "person_id": "f22570cd141fa0",
-    "person_name": "Hidayet Tercan Sidea",
-    "person_role": "Styrelseledamot",
-    "person_type": "corporate_insider",
-    "issuer_cik": "",
-    "company": "Byggmästare Anders J Ahlström Holding AB (publ)",
-    "ticker": "SE0006510491",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 2808930.0,
-    "category": "Industri",
-    "subcategory": "Automatisk namnklassning – verifiera",
-    "transaction_date": "2026-08-03",
-    "filing_date": "2026-08-03",
-    "reporting_delay_days": 0,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "sell",
-    "transaction_code": "S",
-    "shares": 51540.0,
-    "purchase_price": 54.5,
-    "value_usd": 0.0,
-    "score": 40,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppen marknadsförsäljning",
-      "Stort transaktionsvärde",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 54.5,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Industri",
-      "Styrelseledamot",
-      "Avyttring",
-      "egen rapport"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B443-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
