@@ -118,6 +118,66 @@
     "is_demo": false
   },
   {
+    "id": "cc023bd2382ad31970",
+    "person_id": "65b8b611c9b572",
+    "person_name": "Sven-Olof Johansson",
+    "person_role": "Styrelseordförande",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Fastpartner AB",
+    "ticker": "SE0013512506",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 4275737.2889,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-18",
+    "filing_date": "2026-08-19",
+    "reporting_delay_days": 1,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 99077.0,
+    "purchase_price": 43.1557,
+    "value_usd": 0.0,
+    "score": 62,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 43.1557,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Styrelseordförande",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B697-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "9e23b64e2691f07e26",
     "person_id": "1e7607c409ddbc",
     "person_name": "Andreas Wikholm",
@@ -8790,66 +8850,6 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B467-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
-    "id": "7c2b866d0db7e64844",
-    "person_id": "4c7cfa6892e9ba",
-    "person_name": "David Meline",
-    "person_role": "Styrelseledamot",
-    "person_type": "corporate_insider",
-    "issuer_cik": "",
-    "company": "ABB Ltd",
-    "ticker": "CH0012221716",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "CHF",
-    "value_local": 201686.72,
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "transaction_date": "2026-08-05",
-    "filing_date": "2026-08-07",
-    "reporting_delay_days": 2,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "sell",
-    "transaction_code": "S",
-    "shares": 2456.0,
-    "purchase_price": 82.12,
-    "value_usd": 0.0,
-    "score": 33,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppen marknadsförsäljning",
-      "Betydande transaktionsvärde",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 82.12,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Övrigt",
-      "Styrelseledamot",
-      "Avyttring",
-      "egen rapport"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B501-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
