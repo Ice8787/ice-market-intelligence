@@ -1,12 +1,12 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-08-18T23:50:14.286257Z",
+  "generated_at": "2026-08-19T00:02:00.586988Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
   "record_count": 609,
   "people_count": 95,
   "political_trade_count": 411,
-  "policy_event_count": 123,
+  "policy_event_count": 60,
   "trend_count": 22,
   "daily_pick_count": 5,
   "top_per_market_category": 100,
@@ -80,7 +80,7 @@
       }
     },
     "Federal Register": {
-      "ok": true,
+      "ok": false,
       "terms": {
         "tariff": {
           "ok": true,
@@ -91,12 +91,12 @@
           "records": 35
         },
         "export controls": {
-          "ok": true,
-          "records": 35
+          "ok": false,
+          "error": "HTTP Error 503: Service Temporarily Unavailable"
         },
         "defense procurement": {
-          "ok": true,
-          "records": 35
+          "ok": false,
+          "error": "HTTP Error 503: Service Temporarily Unavailable"
         }
       },
       "source": "Federal Register API"
