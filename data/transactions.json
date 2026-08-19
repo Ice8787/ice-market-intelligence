@@ -359,6 +359,66 @@
     "is_demo": false
   },
   {
+    "id": "f61cfa01020598b270",
+    "person_id": "f582b296da37bd",
+    "person_name": "Alexander Svedulf",
+    "person_role": "Styrelseledamot",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "ByggPartner Gruppen AB (publ)",
+    "ticker": "SE0009242324",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 53955930.0,
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-08-19",
+    "filing_date": "2026-08-19",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 1563940.0,
+    "purchase_price": 34.5,
+    "value_usd": 0.0,
+    "score": 69,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Mycket stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 34.5,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Industri",
+      "Styrelseledamot",
+      "Förvärv",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B718-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "796d7b394ab895cbbf",
     "person_id": "c2712e4dd717a1",
     "person_name": "Robin Engström Gustafsson",
