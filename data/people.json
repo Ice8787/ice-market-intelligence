@@ -338,22 +338,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "5c6edf646140b3",
-    "name": "Per Åhlgren",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 3,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "925f65508fea1c",
     "name": "Mia Arnhult",
     "person_type": "corporate_insider",
@@ -436,6 +420,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "148016eecb8310",
+    "name": "joen magnusson",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "5f703c23a6a2a3",
     "name": "Viktor Garmiani",
     "person_type": "business_leader",
@@ -458,6 +458,22 @@
     "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
     "categories": [
       "Finans"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "5c6edf646140b3",
+    "name": "Per Åhlgren",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
+    "categories": [
+      "Övrigt"
     ],
     "history": {
       "tracked_buys": 2,
@@ -650,6 +666,38 @@
     "name": "David Träff",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "d85250f7ce9b0d",
+    "name": "Björn Thorngren",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "a417e654fc36a0",
+    "name": "Henrik Viktorsson",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
     "categories": [
       "Övrigt"
     ],
@@ -1206,22 +1254,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "03f8330038f188",
-    "name": "Mia Arnhult",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "fe50fef590cee8",
     "name": "Johan Sigfrid Rask",
     "person_type": "business_leader",
@@ -1432,22 +1464,6 @@
   {
     "id": "c9ec591df93ada",
     "name": "Anna Marsell",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "7eb5347c30e1ff",
-    "name": "Michael Häggman",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
     "categories": [
