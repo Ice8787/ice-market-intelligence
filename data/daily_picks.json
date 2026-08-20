@@ -1,51 +1,15 @@
 [
   {
     "rank": 1,
-    "ticker": "ICE",
-    "as_of": "2026-08-20",
-    "watch_score": 65,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 157.3000030517578,
-    "momentum20": 9.84,
-    "momentum60": 4.42,
-    "volume_ratio": 0.16,
-    "rsi14": 68.0,
-    "trend_score": 75,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Kelly Loeffler",
-        "person_type": "political",
-        "date": "2020-05-20",
-        "value": 3000000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/c4c59219-79bf-4035-8f99-7b6a0aa03f05/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 2,
     "ticker": "MSFT",
     "as_of": "2026-08-20",
     "watch_score": 64,
     "label": "Måttlig bevakningssignal",
-    "current_price": 481.2699890136719,
-    "momentum20": 26.13,
-    "momentum60": 15.68,
-    "volume_ratio": 0.08,
-    "rsi14": 58.8,
+    "current_price": 479.7699890136719,
+    "momentum20": 25.73,
+    "momentum60": 15.32,
+    "volume_ratio": 0.11,
+    "rsi14": 57.9,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -73,16 +37,16 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 3,
+    "rank": 2,
     "ticker": "SBIO",
     "as_of": "2026-08-20",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 69.19000244140625,
-    "momentum20": 7.95,
-    "momentum60": 29.81,
-    "volume_ratio": 0.36,
-    "rsi14": 64.7,
+    "current_price": 68.81999969482422,
+    "momentum20": 8.21,
+    "momentum60": 30.27,
+    "volume_ratio": 0.41,
+    "rsi14": 63.3,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -109,16 +73,16 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 4,
-    "ticker": "NFLX",
+    "rank": 3,
+    "ticker": "ICE",
     "as_of": "2026-08-20",
-    "watch_score": 52,
+    "watch_score": 54,
     "label": "Måttlig bevakningssignal",
-    "current_price": 79.76000213623047,
-    "momentum20": 15.78,
-    "momentum60": -9.03,
-    "volume_ratio": 0.19,
-    "rsi14": 71.7,
+    "current_price": 159.35000610351562,
+    "momentum20": 11.27,
+    "momentum60": 5.19,
+    "volume_ratio": 0.22,
+    "rsi14": 72.2,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -126,6 +90,43 @@
       "Positivt 20-dagars momentum"
     ],
     "risk_flags": [
+      "Hög RSI – rekylrisk",
+      "Volymen bekräftar inte rörelsen"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Kelly Loeffler",
+        "person_type": "political",
+        "date": "2020-05-20",
+        "value": 3000000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/c4c59219-79bf-4035-8f99-7b6a0aa03f05/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 4,
+    "ticker": "NFLX",
+    "as_of": "2026-08-20",
+    "watch_score": 52,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 80.04000091552734,
+    "momentum20": 16.19,
+    "momentum60": -8.71,
+    "volume_ratio": 0.25,
+    "rsi14": 72.7,
+    "trend_score": 60,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum"
+    ],
+    "risk_flags": [
+      "Hög RSI – rekylrisk",
       "Volymen bekräftar inte rörelsen"
     ],
     "supporting_buys": [
@@ -149,11 +150,11 @@
     "as_of": "2026-08-20",
     "watch_score": 50,
     "label": "Måttlig bevakningssignal",
-    "current_price": 22.395000457763672,
-    "momentum20": 10.27,
-    "momentum60": 53.39,
-    "volume_ratio": 0.08,
-    "rsi14": 46.5,
+    "current_price": 21.96500015258789,
+    "momentum20": 8.15,
+    "momentum60": 45.46,
+    "volume_ratio": 0.1,
+    "rsi14": 44.8,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
