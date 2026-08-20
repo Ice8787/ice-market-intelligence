@@ -357,6 +357,65 @@
     "is_demo": false
   },
   {
+    "id": "b924ce5702d9fe90b9",
+    "person_id": "1e018c80f51a56",
+    "person_name": "Tomas Klevbo",
+    "person_role": "Styrelseordförande",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Seamless Distribution Systems AB",
+    "ticker": "SE0009994445",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 10752.0,
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-08-20",
+    "filing_date": "2026-08-20",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 1536.0,
+    "purchase_price": 7.0,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 7.0,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Teknik",
+      "Styrelseordförande",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B736-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "f61cfa01020598b270",
     "person_id": "f582b296da37bd",
     "person_name": "Alexander Svedulf",
