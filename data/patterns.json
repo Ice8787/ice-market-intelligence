@@ -1,5 +1,22 @@
 [
   {
+    "id": "category-sverige-industri",
+    "type": "Sektorkluster",
+    "title": "3 insiderköp inom Industri · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Industri"
+    ],
+    "trade_ids": [
+      "790da07ae6ac690372",
+      "5f043530bc9ad5acff",
+      "f61cfa01020598b270"
+    ],
+    "trade_count": 3,
+    "median_return_90d": null
+  },
+  {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
     "title": "129 insiderköp inom Övrigt · Sverige",
@@ -12,7 +29,10 @@
       "94581d8c22fa49f463",
       "7a1437537d881c7d5e",
       "247d706566bbb8847d",
+      "7c4ebb46efa5711833",
+      "a77a61c166c6d8e76c",
       "a4375d3f15c9fbea75",
+      "11768ce092d46f26b8",
       "796d7b394ab895cbbf",
       "cb3afb7011b6d53e39",
       "113789f6beb32d6bb6",
@@ -22,6 +42,7 @@
       "9e23b64e2691f07e26",
       "9d542540043751a454",
       "28cd549960a902d7ca",
+      "5d45d6b8cf9a40a41c",
       "6244532a95f15388d5",
       "1e89e57cb87cdb2b56",
       "c1a71cdddbff85f0a0",
@@ -36,7 +57,6 @@
       "aba0f1eb56c67e16d7",
       "dbffdcc58d7133ff94",
       "12746b0520863900c6",
-      "ec7213b02925859450",
       "964e1cb84956880063",
       "262c7e784986680ca5",
       "ac519041fb7d94916d",
@@ -87,12 +107,10 @@
       "7821191db064ef0398",
       "db5d0fbb4c5252f2cd",
       "e2255f765caf05eade",
-      "4c7e6f9782ba5404a8",
       "e49f21e84d967648fc",
       "bef3eed774c0f904b1",
       "4a7bff86f9342e7dff",
       "5e1a88299285d0100d",
-      "45674eb924a4b80f06",
       "ce7f748e8d5be31d40",
       "f1092609198eead9fb",
       "011b9540d50e6b307d",
@@ -121,7 +139,6 @@
       "e429e744be4ddf6f22",
       "1bdcffc4be1ab8ad13",
       "56def5386b82fbd511",
-      "44c91003c51baa0ed0",
       "4436923421bfc2927e",
       "316365db9bb8153fd9",
       "c2407c4581c0183590",
@@ -140,22 +157,6 @@
       "6d785e8daf1edeb21b"
     ],
     "trade_count": 129,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-industri",
-    "type": "Sektorkluster",
-    "title": "2 insiderköp inom Industri · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Industri"
-    ],
-    "trade_ids": [
-      "5f043530bc9ad5acff",
-      "f61cfa01020598b270"
-    ],
-    "trade_count": 2,
     "median_return_90d": null
   },
   {
