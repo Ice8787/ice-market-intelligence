@@ -356,66 +356,6 @@
     "is_demo": false
   },
   {
-    "id": "5f043530bc9ad5acff",
-    "person_id": "3a422f7b831587",
-    "person_name": "Andreas Morfiadakis",
-    "person_role": "Verkställande direktör (VD)",
-    "person_type": "business_leader",
-    "issuer_cik": "",
-    "company": "Samhällsbyggnadsbolaget I Norden AB (publ)",
-    "ticker": "SE0009554454",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 6979824.0,
-    "category": "Industri",
-    "subcategory": "Automatisk namnklassning – verifiera",
-    "transaction_date": "2026-08-19",
-    "filing_date": "2026-08-19",
-    "reporting_delay_days": 0,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "buy",
-    "transaction_code": "P",
-    "shares": 2140000.0,
-    "purchase_price": 3.2616,
-    "value_usd": 0.0,
-    "score": 62,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppet marknadsköp",
-      "Stort transaktionsvärde",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 3.2616,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Industri",
-      "Verkställande direktör (VD)",
-      "Förvärv",
-      "närstående"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B703-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
     "id": "7a1437537d881c7d5e",
     "person_id": "2c122bd6cb631f",
     "person_name": "Anders Wassberg",
@@ -1073,6 +1013,66 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B728-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "5f043530bc9ad5acff",
+    "person_id": "3a422f7b831587",
+    "person_name": "Andreas Morfiadakis",
+    "person_role": "Verkställande direktör (VD)",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "Samhällsbyggnadsbolaget I Norden AB (publ)",
+    "ticker": "SE0009554454",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 6979824.0,
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-08-19",
+    "filing_date": "2026-08-19",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 2140000.0,
+    "purchase_price": 3.2616,
+    "value_usd": 0.0,
+    "score": 62,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 3.2616,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Industri",
+      "Verkställande direktör (VD)",
+      "Förvärv",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B703-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
