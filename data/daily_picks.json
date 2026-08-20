@@ -79,7 +79,7 @@
     "current_price": 158.61000061035156,
     "momentum20": 10.75,
     "momentum60": 4.7,
-    "volume_ratio": 0.76,
+    "volume_ratio": 1.1,
     "rsi14": 70.8,
     "trend_score": 60,
     "reasons": [
@@ -87,9 +87,7 @@
       "20-dagars trend över 50-dagars trend",
       "Positivt 20-dagars momentum"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Kelly Loeffler",
@@ -150,7 +148,7 @@
     "current_price": 22.100000381469727,
     "momentum20": 8.81,
     "momentum60": 46.36,
-    "volume_ratio": 0.63,
+    "volume_ratio": 0.78,
     "rsi14": 45.3,
     "trend_score": 60,
     "reasons": [
