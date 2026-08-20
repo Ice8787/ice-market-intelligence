@@ -6,10 +6,10 @@
     "watch_score": 65,
     "label": "Måttlig bevakningssignal",
     "current_price": 70.79000091552734,
-    "momentum20": 10.44,
-    "momentum60": 32.81,
-    "volume_ratio": 2.33,
-    "rsi14": 73.3,
+    "momentum20": 8.57,
+    "momentum60": 39.02,
+    "volume_ratio": 2.22,
+    "rsi14": 77.9,
     "trend_score": 80,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -76,9 +76,9 @@
     "watch_score": 65,
     "label": "Måttlig bevakningssignal",
     "current_price": 157.24000549316406,
-    "momentum20": 11.07,
-    "momentum60": 3.66,
-    "volume_ratio": 0.7,
+    "momentum20": 10.32,
+    "momentum60": 2.79,
+    "volume_ratio": 0.91,
     "rsi14": 52.8,
     "trend_score": 75,
     "reasons": [
@@ -87,9 +87,7 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Kelly Loeffler",
@@ -114,7 +112,7 @@
     "current_price": 484.30999755859375,
     "momentum20": 24.07,
     "momentum60": 15.71,
-    "volume_ratio": 0.52,
+    "volume_ratio": 0.53,
     "rsi14": 65.9,
     "trend_score": 75,
     "reasons": [
@@ -150,7 +148,7 @@
     "current_price": 63.16999816894531,
     "momentum20": 2.52,
     "momentum60": 21.95,
-    "volume_ratio": 0.68,
+    "volume_ratio": 0.84,
     "rsi14": 60.7,
     "trend_score": 55,
     "reasons": [
@@ -158,9 +156,7 @@
       "20-dagars trend över 50-dagars trend",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Jerry Moran,",
