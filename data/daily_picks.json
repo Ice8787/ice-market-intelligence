@@ -5,11 +5,11 @@
     "as_of": "2026-08-20",
     "watch_score": 64,
     "label": "Måttlig bevakningssignal",
-    "current_price": 481.19000244140625,
-    "momentum20": 26.1,
-    "momentum60": 15.66,
-    "volume_ratio": 0.13,
-    "rsi14": 58.8,
+    "current_price": 480.6499938964844,
+    "momentum20": 25.96,
+    "momentum60": 15.53,
+    "volume_ratio": 0.14,
+    "rsi14": 58.4,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -38,15 +38,51 @@
   },
   {
     "rank": 2,
+    "ticker": "SBIO",
+    "as_of": "2026-08-20",
+    "watch_score": 61,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 68.37999725341797,
+    "momentum20": 7.52,
+    "momentum60": 29.43,
+    "volume_ratio": 0.59,
+    "rsi14": 61.3,
+    "trend_score": 75,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-11-20",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 3,
     "ticker": "ICE",
     "as_of": "2026-08-20",
     "watch_score": 54,
     "label": "Måttlig bevakningssignal",
-    "current_price": 160.125,
-    "momentum20": 11.81,
-    "momentum60": 5.7,
-    "volume_ratio": 0.27,
-    "rsi14": 73.5,
+    "current_price": 160.23500061035156,
+    "momentum20": 11.89,
+    "momentum60": 5.77,
+    "volume_ratio": 0.31,
+    "rsi14": 73.7,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -73,16 +109,16 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 3,
+    "rank": 4,
     "ticker": "NFLX",
     "as_of": "2026-08-20",
     "watch_score": 52,
     "label": "Måttlig bevakningssignal",
-    "current_price": 80.06999969482422,
-    "momentum20": 16.23,
-    "momentum60": -8.68,
-    "volume_ratio": 0.28,
-    "rsi14": 72.9,
+    "current_price": 80.23049926757812,
+    "momentum20": 16.46,
+    "momentum60": -8.5,
+    "volume_ratio": 0.3,
+    "rsi14": 73.5,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -109,51 +145,16 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 4,
-    "ticker": "SBIO",
-    "as_of": "2026-08-20",
-    "watch_score": 50,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 68.69149780273438,
-    "momentum20": 6.77,
-    "momentum60": 28.28,
-    "volume_ratio": 0.53,
-    "rsi14": 71.7,
-    "trend_score": 60,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum"
-    ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
     "rank": 5,
     "ticker": "SI",
     "as_of": "2026-08-20",
     "watch_score": 50,
     "label": "Måttlig bevakningssignal",
-    "current_price": 21.905000686645508,
-    "momentum20": 7.85,
-    "momentum60": 45.07,
-    "volume_ratio": 0.11,
-    "rsi14": 44.6,
+    "current_price": 22.06999969482422,
+    "momentum20": 8.72,
+    "momentum60": 46.55,
+    "volume_ratio": 0.13,
+    "rsi14": 47.0,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
