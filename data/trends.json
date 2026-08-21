@@ -58,6 +58,25 @@
     "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
   },
   {
+    "ticker": "BYND",
+    "as_of": "2026-08-20",
+    "current_price": 14.479999542236328,
+    "sma20": 6.34,
+    "sma50": 3.98,
+    "momentum20": 2485.71,
+    "momentum60": 1785.42,
+    "volume_ratio": 0.13,
+    "rsi14": 46.4,
+    "trend_score": 60,
+    "label": "Positiv trend",
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum"
+    ],
+    "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
+  },
+  {
     "ticker": "NFLX",
     "as_of": "2026-08-20",
     "current_price": 80.13999938964844,
@@ -110,25 +129,6 @@
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "Positivt 20-dagars momentum",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
-  },
-  {
-    "ticker": "BYND",
-    "as_of": "2026-08-20",
-    "current_price": 14.479999542236328,
-    "sma20": 5.42,
-    "sma50": 2.93,
-    "momentum20": -20.87,
-    "momentum60": 1735.23,
-    "volume_ratio": 0.1,
-    "rsi14": 63.7,
-    "trend_score": 55,
-    "label": "Positiv trend",
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
     "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
