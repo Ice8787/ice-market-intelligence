@@ -1,5 +1,426 @@
 [
   {
+    "id": "2026-17155",
+    "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Procedures for Submissions by Certain Steel and Aluminum Producers Committing to New U.S. Steel or Aluminum Production To Obtain Tariff Adjustments Under Proclamation 10984",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Commerce Department",
+      "International Trade Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17155/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+    "is_official": true
+  },
+  {
+    "id": "2026-17121",
+    "title": "Fresh Winter Strawberries From Mexico: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "The U.S. Department of Commerce (Commerce) preliminarily determines that fresh winter strawberries (winter strawberries) from Mexico are being, or are likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is November 1, 2024, through March 31, 2025. Interested parties are invited to comment on this preliminary determination.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Commerce Department",
+      "International Trade Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17121/fresh-winter-strawberries-from-mexico-preliminary-affirmative-determination-of-sales-at-less-than",
+    "is_official": true
+  },
+  {
+    "id": "2026-17089",
+    "title": "Combined Notice of Filings #1",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Energy Department",
+      "Federal Energy Regulatory Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17089/combined-notice-of-filings-1",
+    "is_official": true
+  },
+  {
+    "id": "2026-17050",
+    "title": "Silicon Metal From Australia and Norway: Antidumping Duty Orders",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "Based on affirmative final determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC), Commerce is issuing antidumping duty (AD) orders on silicon metal from Australia and Norway.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Commerce Department",
+      "International Trade Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17050/silicon-metal-from-australia-and-norway-antidumping-duty-orders",
+    "is_official": true
+  },
+  {
+    "id": "2026-17049",
+    "title": "Silicon Metal From Australia and Norway: Countervailing Duty Orders",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "Based on affirmative final determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC), Commerce is issuing countervailing duty (CVD) orders on silicon metal from Australia and Norway.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Commerce Department",
+      "International Trade Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17049/silicon-metal-from-australia-and-norway-countervailing-duty-orders",
+    "is_official": true
+  },
+  {
+    "id": "2026-17048",
+    "title": "Oleoresin Paprika From India: Final Affirmative Countervailing Duty Determination and Final Affirmative Critical Circumstances Determination, in Part",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "The U.S. Department of Commerce (Commerce) determines that countervailable subsidies are being provided to producers and exporters of oleoresin paprika from India. The period of investigation is April 1, 2024, through March 31, 2025.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Commerce Department",
+      "International Trade Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17048/oleoresin-paprika-from-india-final-affirmative-countervailing-duty-determination-and-final",
+    "is_official": true
+  },
+  {
+    "id": "2026-17047",
+    "title": "Oleoresin Paprika From India: Final Affirmative Determination of Sales at Less Than Fair Value and Final Negative Determination of Critical Circumstances",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "The U.S. Department of Commerce (Commerce) determines that oleoresin paprika from India is being, or likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is April 1, 2024, through March 31, 2025.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Commerce Department",
+      "International Trade Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17047/oleoresin-paprika-from-india-final-affirmative-determination-of-sales-at-less-than-fair-value-and",
+    "is_official": true
+  },
+  {
+    "id": "2026-17183",
+    "title": "Regulation Crypto Assets",
+    "publication_date": "2026-08-21",
+    "document_type": "Proposed Rule",
+    "abstract": "The Securities and Exchange Commission (\"Commission\") is proposing new rules to create a tailored offering regime for certain investment contracts involving crypto assets. The proposed offering regime is intended to facilitate capital formation and accommodate innovation within the crypto asset markets while, at the same time, ensuring that investors are adequately protected and provided with the information they need to make informed investment decisions. The proposed rules would be set forth in a new regulation titled \"Regulation Crypto Assets\" and would include two exemptions from the registration requirements of section 5 of the Securities Act of 1933. The first exemption would permit offerings of up to $5 million during a four-year period. The second exemption would permit offerings of up to $75 million during each 12-month period. Under both exemptions, issuers would be required to make certain principles-based narrative disclosures available to their investors. In addition, issuers under the second exemption would be required to provide financial statements and would be subject to ongoing reporting requirements. Issuers that rely on these exemptions would remain subject to the antifraud and antimanipulation provisions of the Federal securities laws. The proposed rules also would include a conditional safe harbor from the term \"investment contract\" in the definitions of \"security\" in the Securities Act of 1933 and the Securities Exchange Act of 1934. If the conditions of that proposed safe harbor are satisfied, then a crypto asset would be deemed not to be subject to an investment contract for purposes of those definitions of \"security.\"",
+    "category": "Finans",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17183/regulation-crypto-assets",
+    "is_official": true
+  },
+  {
+    "id": "2026-17163",
+    "title": "Request for Comment on the Listing of Compute Derivatives Contracts",
+    "publication_date": "2026-08-21",
+    "document_type": "Proposed Rule",
+    "abstract": "The Commodity Futures Trading Commission (\"CFTC\" or \"Commission\") is seeking public responses to this Request for Comment to better inform its understanding and oversight of derivatives markets in compute.",
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Commodity Futures Trading Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17163/request-for-comment-on-the-listing-of-compute-derivatives-contracts",
+    "is_official": true
+  },
+  {
+    "id": "2026-17156",
+    "title": "Center for Scientific Review; Notice of Closed Meetings",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Health and Human Services Department",
+      "National Institutes of Health"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17156/center-for-scientific-review-notice-of-closed-meetings",
+    "is_official": true
+  },
+  {
+    "id": "2026-17154",
+    "title": "Income Taxes",
+    "publication_date": "2026-08-21",
+    "document_type": "Rule",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Internal Revenue Service"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17154/income-taxes",
+    "is_official": true
+  },
+  {
+    "id": "2026-17143",
+    "title": "Exemption for Certain Prohibited Transactions Involving Liberty Puerto Rico 401(k) Savings Plan (the Plan or the Applicant) Located in San Juan, Puerto Rico",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "This exemption permits the Plan's prior acquisition, holding, and sale of certain stock rights (the Rights) to purchase shares of stock in Liberty Latin America Ltd. (LLA). Absent an exemption, these transactions would be prohibited by the Employee Retirement Income Security Act of 1974 (ERISA) and/or the Internal Revenue Code of 1986 (the Code).",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Labor Department",
+      "Employee Benefits Security Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17143/exemption-for-certain-prohibited-transactions-involving-liberty-puerto-rico-401k-savings-plan-the",
+    "is_official": true
+  },
+  {
+    "id": "2026-17124",
+    "title": "Foreign-Trade Zone (FTZ) 129, Notification of Proposed Production Activity; Corvus Energy USA Ltd.; (Energy Storage Systems); Bellingham, Washington",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Energi",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Commerce Department",
+      "Foreign-Trade Zones Board"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17124/foreign-trade-zone-ftz-129-notification-of-proposed-production-activity-corvus-energy-usa-ltd-energy",
+    "is_official": true
+  },
+  {
+    "id": "2026-17123",
+    "title": "Guidance on Eligible Investments for Trump Accounts",
+    "publication_date": "2026-08-21",
+    "document_type": "Proposed Rule",
+    "abstract": "This document contains proposed regulations relating to Trump accounts. The proposed regulations would provide guidance regarding eligible investments, which are the only assets in which Trump account funds may be invested before the first day of the calendar year in which the account beneficiary attains age 18. The proposed regulations would affect account beneficiaries and trustees of Trump accounts.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Treasury Department",
+      "Internal Revenue Service"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17123/guidance-on-eligible-investments-for-trump-accounts",
+    "is_official": true
+  },
+  {
+    "id": "2026-17120",
+    "title": "Fisheries of the South Atlantic; 2026 Commercial Closure of Red Snapper in the South Atlantic",
+    "publication_date": "2026-08-21",
+    "document_type": "Rule",
+    "abstract": "NMFS implements an accountability measure for red snapper in the exclusive economic zone (EEZ) of the South Atlantic. NMFS projects that commercial landings of red snapper will reach the commercial annual catch limit (ACL) for the 2026 fishing year. Therefore, NMFS is closing the commercial sector for red snapper in the South Atlantic EEZ. This closure is necessary to protect the red snapper resource.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Commerce Department",
+      "National Oceanic and Atmospheric Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17120/fisheries-of-the-south-atlantic-2026-commercial-closure-of-red-snapper-in-the-south-atlantic",
+    "is_official": true
+  },
+  {
+    "id": "2026-17114",
+    "title": "Rescission of Executive Order 11246 Implementing Regulations",
+    "publication_date": "2026-08-21",
+    "document_type": "Rule",
+    "abstract": "On January 21, 2025, President Trump issued Executive Order 14173, \"Ending Illegal Discrimination and Restoring Merit-Based Opportunity,\" which revoked Executive Order 11246. Accordingly, the U.S. Department of Labor publishes this final rule to rescind the implementing regulations for Executive Order 11246.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Labor Department",
+      "Federal Contract Compliance Programs Office"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17114/rescission-of-executive-order-11246-implementing-regulations",
+    "is_official": true
+  },
+  {
+    "id": "2026-17084",
+    "title": "Advisory Committee; Oncologic Drugs Advisory Committee; Renewal",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "The Food and Drug Administration (FDA) is announcing the renewal of the Oncologic Drugs Advisory Committee by the Commissioner of Food and Drugs (the Commissioner). The Commissioner has determined that it is in the public interest to renew the Oncologic Drugs Advisory Committee for an additional 2 years beyond the charter expiration date. The new charter will be in effect until the September 1, 2028, expiration date.",
+    "category": "Konsument",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Health and Human Services Department",
+      "Food and Drug Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17084/advisory-committee-oncologic-drugs-advisory-committee-renewal",
+    "is_official": true
+  },
+  {
+    "id": "2026-17079",
+    "title": "Commodity Pool Operators and Commodity Trading Advisors: Reduction of Duplicative Regulation Through Intermediary Registration Exemptions; Expansion of the Exemption for Small Commodity Pools",
+    "publication_date": "2026-08-21",
+    "document_type": "Proposed Rule",
+    "abstract": "The Commodity Futures Trading Commission (\"Commission\" or \"CFTC\") is proposing several amendments to its registration requirements for certain commodity pool operators (\"CPOs\") and commodity trading advisors (\"CTAs\") to reduce duplicative and overlapping regulation and reflect inflation (\"Proposal\"). The Proposal would add an exemption from CPO registration for certain investment advisers registered with the Securities and Exchange Commission (\"Registered Investment Advisers\" or \"RIAs\") in relation to commodity pools for which the participants are limited to certain sophisticated investors and which meet other conditions; add a related registration exemption for CTAs; and increase the total gross capital contributions threshold in the CPO registration exemption for small commodity pools (commonly referred to as the \"Small Pool Exemption\") to account for inflation. The Commission preliminarily intends for the Proposal, if adopted, to supersede certain no-action positions issued by the Commission's Market Participants Division (\"MPD\").",
+    "category": "Finans",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Commodity Futures Trading Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17079/commodity-pool-operators-and-commodity-trading-advisors-reduction-of-duplicative-regulation-through",
+    "is_official": true
+  },
+  {
+    "id": "2026-17064",
+    "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the Exchange's Rules at Options 7, Section 4 (Complex Order Fees and Rebates) and Section 6 (Other Options Fees and Rebates)",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17064/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-and-immediate-effectiveness-of",
+    "is_official": true
+  },
+  {
+    "id": "2026-17063",
+    "title": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposal To Amend Rule 20.6 (Nullification and Adjustment of Options Transactions Including Obvious Errors) Regarding the Roster Requirements for the Obvious Error Panel",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17063/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposal-to",
+    "is_official": true
+  },
+  {
+    "id": "2026-17062",
+    "title": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Rule 13.4(a) To Reflect the Operation of TXSE Exchange",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17062/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed",
+    "is_official": true
+  },
+  {
+    "id": "2026-17061",
+    "title": "Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the LCH SA Liquidity Plan",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17061/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-lch-sa",
+    "is_official": true
+  },
+  {
+    "id": "2026-17060",
+    "title": "Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the Exchange's Connectivity Schedule and Discontinue a Previously Proposed Offering",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17060/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-and-immediate-effectiveness-of",
+    "is_official": true
+  },
+  {
+    "id": "2026-17059",
+    "title": "Self-Regulatory Organizations; Nasdaq GEMX, LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the Exchange's Connectivity Schedule and Discontinue a Previously Proposed Offering",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17059/self-regulatory-organizations-nasdaq-gemx-llc-notice-of-filing-and-immediate-effectiveness-of",
+    "is_official": true
+  },
+  {
+    "id": "2026-17058",
+    "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the Exchange's Connectivity Schedule and Discontinue a Previously Proposed Offering",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17058/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-and-immediate-effectiveness-of",
+    "is_official": true
+  },
+  {
+    "id": "2026-17116",
+    "title": "Modifications to the Regulations Implementing the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as Amended",
+    "publication_date": "2026-08-21",
+    "document_type": "Rule",
+    "abstract": "The U.S. Department of Labor publishes this final rule to revise its implementing regulations for the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as amended (VEVRAA). These revisions will align the regulations with Executive Order 14173 and remove the VEVRAA regulations' cross-references to the Executive Order 11246 authority. Executive Order 11246 was revoked by Executive Order 14173 on January 21, 2025. This final rule also makes technical revisions to update the VEVRAA regulations' jurisdictional thresholds, which were adjusted for inflation by the Federal Acquisition Regulation Council on October 1, 2025.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Labor Department",
+      "Federal Contract Compliance Programs Office"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17116/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act",
+    "is_official": true
+  },
+  {
+    "id": "2026-17115",
+    "title": "Modifications to the Regulations Implementing Section 503 of the Rehabilitation Act of 1973, as Amended",
+    "publication_date": "2026-08-21",
+    "document_type": "Rule",
+    "abstract": "The U.S. Department of Labor is revising its implementing regulations for Section 503 of the Rehabilitation Act of 1973, as amended (Section 503). The revisions align the regulations with applicable law and recent executive orders, including Executive Order 14173, \"Ending Illegal Discrimination and Restoring Merit-Based Opportunity,\" and Executive Order 14219, \"Ensuring Lawful Governance and Implementing the President's `Department of Government Efficiency' Deregulatory Initiative.\"",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Labor Department",
+      "Federal Contract Compliance Programs Office"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17115/modifications-to-the-regulations-implementing-section-503-of-the-rehabilitation-act-of-1973-as",
+    "is_official": true
+  },
+  {
     "id": "2026-17046",
     "title": "Certain Wireless Communications Devices and Components Thereof; Notice of Request for Submissions on the Public Interest",
     "publication_date": "2026-08-20",
@@ -7,7 +428,7 @@
     "abstract": "Notice is hereby given that on August 14, 2026, the presiding administrative law judge (\"ALJ\") issued an Initial Determination on Violation of Section 337. The ALJ also issued a Recommended Determination on remedy and bonding should a violation be found in the above-captioned investigation. The Commission is soliciting submissions on public interest issues raised by the recommended relief should the Commission find a violation. This notice is soliciting comments from the public and interested government agencies only.",
     "category": "Övrigt",
     "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
+    "search_term": "trade",
     "agencies": [
       "International Trade Commission"
     ],
@@ -22,7 +443,7 @@
     "abstract": "The U.S. Department of Commerce (Commerce) published an initiation of antidumping and countervailing duty administrative reviews in the Federal Register of August 10, 2026 in which Commerce omitted Prestressed Concrete Steel Wire Strand (PC Strand) from Malaysia (A-557-819) and Boltless Steel Shelving Units Prepackaged for Sale (Boltless Steel Shelving) from the Socialist Republic of Vietnam (Vietnam) (A-552-835).",
     "category": "Övrigt",
     "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
+    "search_term": "trade",
     "agencies": [
       "Commerce Department",
       "International Trade Administration"
@@ -38,7 +459,7 @@
     "abstract": "",
     "category": "Övrigt",
     "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
+    "search_term": "trade",
     "agencies": [
       "Commerce Department",
       "International Trade Administration"
@@ -54,7 +475,7 @@
     "abstract": "The U.S. Department of Commerce (Commerce) determines that light-walled rectangular pipe and tube (LWRPT) from Mexico was sold in the United States at less than normal value during the period of review (POR), August 1, 2023, through July 31, 2024.",
     "category": "Övrigt",
     "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
+    "search_term": "trade",
     "agencies": [
       "Commerce Department",
       "International Trade Administration"
@@ -70,7 +491,7 @@
     "abstract": "The U.S. Department of Commerce (Commerce) finds that producers/exporters of stainless steel flanges (flanges) from India made sales of subject merchandise in the United States at prices below normal value during the period of review (POR) October 1, 2023, through September 30, 2024.",
     "category": "Övrigt",
     "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
+    "search_term": "trade",
     "agencies": [
       "Commerce Department",
       "International Trade Administration"
@@ -123,6 +544,53 @@
       "Federal Energy Regulatory Commission"
     ],
     "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-16977/combined-notice-of-filings-1",
+    "is_official": true
+  },
+  {
+    "id": "2026-17044",
+    "title": "Codex Alimentarius Commission: Meeting of the Codex Committee on Milk and Milk Products",
+    "publication_date": "2026-08-20",
+    "document_type": "Notice",
+    "abstract": "The U.S Codex Office is sponsoring a public meeting on September 17, 2026. The objective of the public meeting is to provide information and receive public comments on agenda items and draft U.S. positions to be discussed at the 11th Session of the Codex Committee on Milk and Milk Products (CCMMP11) of the Codex Alimentarius Commission (CAC). CCMMP11 will be held by correspondence from September 29-October 29, 2026. The U.S. Manager for Codex Alimentarius and the Under Secretary for Trade and Foreign Agricultural Affairs recognize the importance of providing interested parties the opportunity to obtain background information on the 11th Session of the CCMMP and to address items on the agenda.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Agriculture Department",
+      "U.S. Codex Office"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-17044/codex-alimentarius-commission-meeting-of-the-codex-committee-on-milk-and-milk-products",
+    "is_official": true
+  },
+  {
+    "id": "2026-17042",
+    "title": "Small Business Size Standards",
+    "publication_date": "2026-08-20",
+    "document_type": "Proposed Rule",
+    "abstract": "The U.S. Small Business Administration (SBA or the Agency) is proposing new size standards for 338 industry groups and industries. The new size standards are designed to better reflect the nature of the markets in which small businesses compete. SBA seeks comments on its proposed changes to size standards.",
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Small Business Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-17042/small-business-size-standards",
+    "is_official": true
+  },
+  {
+    "id": "2026-17041",
+    "title": "Codex Alimentarius Commission: Meeting of the Codex Committee on Contaminants in Foods (CCCF)",
+    "publication_date": "2026-08-20",
+    "document_type": "Notice",
+    "abstract": "The U.S Codex Office is sponsoring a public meeting on September 29, 2026. The objective of the public meeting is to provide information and receive public comments on agenda items to be discussed at the 19th Session of the Codex Committee on Contaminants in Foods (CCCF19) of the Codex Alimentarius Commission (CAC). CCCF19 will be held in Cairo, Egypt, from October 19-23, 2026. The U.S. Manager for Codex Alimentarius and the Under Secretary for Trade and Foreign Agricultural Affairs recognize the importance of providing interested parties the opportunity to obtain background information on the 19th Session of the CCCF and to address items on the agenda.",
+    "category": "Konsument",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Agriculture Department",
+      "U.S. Codex Office"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-17041/codex-alimentarius-commission-meeting-of-the-codex-committee-on-contaminants-in-foods-cccf",
     "is_official": true
   },
   {
@@ -186,21 +654,6 @@
       "Nuclear Regulatory Commission"
     ],
     "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-16929/energysolutions-llc-and-bridgepoint-group-plc-approval-of-transfer-of-licenses",
-    "is_official": true
-  },
-  {
-    "id": "2026-17042",
-    "title": "Small Business Size Standards",
-    "publication_date": "2026-08-20",
-    "document_type": "Proposed Rule",
-    "abstract": "The U.S. Small Business Administration (SBA or the Agency) is proposing new size standards for 338 industry groups and industries. The new size standards are designed to better reflect the nature of the markets in which small businesses compete. SBA seeks comments on its proposed changes to size standards.",
-    "category": "Industri",
-    "subcategory": "Automatisk namnklassning – verifiera",
-    "search_term": "defense procurement",
-    "agencies": [
-      "Small Business Administration"
-    ],
-    "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-17042/small-business-size-standards",
     "is_official": true
   },
   {
@@ -575,54 +1028,6 @@
     "is_official": true
   },
   {
-    "id": "2026-16738",
-    "title": "Combined Notice of Filings",
-    "publication_date": "2026-08-17",
-    "document_type": "Notice",
-    "abstract": "",
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
-    "agencies": [
-      "Energy Department",
-      "Federal Energy Regulatory Commission"
-    ],
-    "source_url": "https://www.federalregister.gov/documents/2026/08/17/2026-16738/combined-notice-of-filings",
-    "is_official": true
-  },
-  {
-    "id": "2026-16737",
-    "title": "Combined Notice of Filings #2",
-    "publication_date": "2026-08-17",
-    "document_type": "Notice",
-    "abstract": "",
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
-    "agencies": [
-      "Energy Department",
-      "Federal Energy Regulatory Commission"
-    ],
-    "source_url": "https://www.federalregister.gov/documents/2026/08/17/2026-16737/combined-notice-of-filings-2",
-    "is_official": true
-  },
-  {
-    "id": "2026-16736",
-    "title": "Combined Notice of Filings #1",
-    "publication_date": "2026-08-17",
-    "document_type": "Notice",
-    "abstract": "",
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
-    "agencies": [
-      "Energy Department",
-      "Federal Energy Regulatory Commission"
-    ],
-    "source_url": "https://www.federalregister.gov/documents/2026/08/17/2026-16736/combined-notice-of-filings-1",
-    "is_official": true
-  },
-  {
     "id": "2026-16716",
     "title": "Agency Information Collection Activities; Announcement of Office of Management and Budget Approvals",
     "publication_date": "2026-08-17",
@@ -652,69 +1057,6 @@
       "Food and Drug Administration"
     ],
     "source_url": "https://www.federalregister.gov/documents/2026/08/17/2026-16715/agency-information-collection-activities-proposed-collection-comment-request-investigational-new",
-    "is_official": true
-  },
-  {
-    "id": "2026-16673",
-    "title": "Large Diameter Welded Pipe from Greece: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
-    "publication_date": "2026-08-14",
-    "document_type": "Notice",
-    "abstract": "The U.S. Department of Commerce (Commerce) preliminarily determines that producers/exporters subject to this review did not make sales of subject merchandise at less than normal value (NV) during the period of review (POR), May 1, 2024, through April 30, 2025. Interested parties are invited to comment on these preliminary results of review.",
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
-    "agencies": [
-      "Commerce Department",
-      "International Trade Administration"
-    ],
-    "source_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16673/large-diameter-welded-pipe-from-greece-preliminary-results-of-antidumping-duty-administrative-review",
-    "is_official": true
-  },
-  {
-    "id": "2026-16667",
-    "title": "Certain Mobile Electronic Devices; Notice of Institution of Investigation",
-    "publication_date": "2026-08-14",
-    "document_type": "Notice",
-    "abstract": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on July 10, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of Maxell, Ltd. of Kyoto, Japan. An amended complaint was filed on July 24, 2026. The amended complaint alleges violations of section 337 based upon the importation into the United States, the sale for importation, and the sale within the United States after importation of certain mobile electronic devices by reason of the infringement of certain claims of U.S. Patent No. 10,812,646 (\"the '646 patent\"); U.S. Patent No. 12,513,408 (\"the '408 patent\"); U.S. Patent No. 12,061,760 (\"the '760 patent\"); U.S. Patent No. 12,418,692 (\"the '692 patent\"); U.S. Patent No. 12,185,211 (\"the '211 patent\"); and U.S. Patent No. 12,647,935 (\"the '935 patent\"). The amended complaint further alleges that an industry in the United States exists as required by the applicable Federal Statute. The amended complainant requests that the Commission institute an investigation and, after the investigation, issue a limited exclusion order and cease and desist orders.",
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
-    "agencies": [
-      "International Trade Commission"
-    ],
-    "source_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16667/certain-mobile-electronic-devices-notice-of-institution-of-investigation",
-    "is_official": true
-  },
-  {
-    "id": "2026-16663",
-    "title": "Large Power Transformers From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-    "publication_date": "2026-08-14",
-    "document_type": "Notice",
-    "abstract": "The U.S. Department of Commerce (Commerce) determines large power transformers from the Republic of Korea (Korea) were sold at less than normal value (NV) during the period of review (POR) August 1, 2023, through July 31, 2024.",
-    "category": "Energi",
-    "subcategory": "Automatisk namnklassning – verifiera",
-    "search_term": "tariff",
-    "agencies": [
-      "Commerce Department",
-      "International Trade Administration"
-    ],
-    "source_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16663/large-power-transformers-from-the-republic-of-korea-final-results-of-antidumping-duty-administrative",
-    "is_official": true
-  },
-  {
-    "id": "2026-16662",
-    "title": "Certain Passenger Vehicle and Light Truck Tires From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-    "publication_date": "2026-08-14",
-    "document_type": "Notice",
-    "abstract": "The U.S. Department of Commerce (Commerce) determines that certain exporters of passenger vehicle and light truck tires (passenger tires) from the People's Republic of China (China) made sales of subject merchandise at prices below than normal value during the period of review (POR), August 1, 2023, through July 31, 2024.",
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
-    "agencies": [
-      "Commerce Department",
-      "International Trade Administration"
-    ],
-    "source_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16662/certain-passenger-vehicle-and-light-truck-tires-from-the-peoples-republic-of-china-final-results-of",
     "is_official": true
   },
   {
@@ -1512,52 +1854,6 @@
       "Energy Department"
     ],
     "source_url": "https://www.federalregister.gov/documents/2026/07/17/2026-14461/implementing-voluntary-agreements-under-the-defense-production-act",
-    "is_official": true
-  },
-  {
-    "id": "2026-14439",
-    "title": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
-    "publication_date": "2026-07-17",
-    "document_type": "Rule",
-    "abstract": "The Department of Homeland Security (DHS) is amending its regulations to change the admission period in the F, J, and I classifications from duration of status to an admission for a fixed time period, and additional changes to admission and extension requirements. This final rule will provide additional protections and oversight of these nonimmigrant categories and will allow DHS to better evaluate whether these nonimmigrants are maintaining status while temporarily in the United States. This final rule provides amendments to the proposed rule covering this topic that was published in the Federal Register on August 28, 2025.",
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "search_term": "defense procurement",
-    "agencies": [
-      "Homeland Security Department"
-    ],
-    "source_url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant",
-    "is_official": true
-  },
-  {
-    "id": "2026-14341",
-    "title": "Modernizing Reactor Licensing, Safety Oversight, and Siting Practices",
-    "publication_date": "2026-07-16",
-    "document_type": "Proposed Rule",
-    "abstract": "Consistent with Executive Order 14300, \"Ordering the Reform of the Nuclear Regulatory Commission,\" the U.S. Nuclear Regulatory Commission (NRC) is conducting a review and wholesale revision of its regulations. This proposed rule aims to modernize reactor licensing, safety oversight, and siting practices addressing sections 5(f), 5(h), and 5(i) of Executive Order 14300, and additional items that contribute to adding additional generation to the electrical grid. Additionally, as part of the NRC's overarching review of all of its regulations, the agency identified a number of further changes to the NRC's regulations that will improve the efficiency and efficacy of its licensing process that are also included in this rulemaking.",
-    "category": "Energi",
-    "subcategory": "Automatisk namnklassning – verifiera",
-    "search_term": "defense procurement",
-    "agencies": [
-      "Nuclear Regulatory Commission"
-    ],
-    "source_url": "https://www.federalregister.gov/documents/2026/07/16/2026-14341/modernizing-reactor-licensing-safety-oversight-and-siting-practices",
-    "is_official": true
-  },
-  {
-    "id": "2026-14327",
-    "title": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
-    "publication_date": "2026-07-16",
-    "document_type": "Proposed Rule",
-    "abstract": "This proposed rule addresses: changes to the physician fee schedule (PFS); other changes to Medicare Part B payment policies to ensure that payment systems are updated to reflect changes in medical practice, relative value of services, and changes in the statute; codification of establishment of new policies for: the Medicare Prescription Drug Inflation Rebate Program under the Inflation Reduction Act of 2022; the Ambulatory Specialty Model; updates to drugs and biological products paid under Part B; Medicare Shared Savings Program requirements; updates to the Quality Payment Program; updates to policies for Rural Health Clinics and Federally Qualified Health Centers; update to the Ambulance Fee Schedule regulations; codification of the Inflation Reduction Act and Consolidated Appropriations Act, 2026 provisions; updates to Clinical Laboratory Fee Schedule regulations; updates to the Medicare Promoting Interoperability Program.",
-    "category": "Teknik",
-    "subcategory": "Automatisk namnklassning – verifiera",
-    "search_term": "defense procurement",
-    "agencies": [
-      "Health and Human Services Department",
-      "Centers for Medicare & Medicaid Services"
-    ],
-    "source_url": "https://www.federalregister.gov/documents/2026/07/16/2026-14327/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other",
     "is_official": true
   }
 ]
