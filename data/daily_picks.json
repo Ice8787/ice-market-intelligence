@@ -43,10 +43,10 @@
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
     "current_price": 68.55999755859375,
-    "momentum20": 7.8,
-    "momentum60": 29.77,
-    "volume_ratio": 1.37,
-    "rsi14": 62.1,
+    "momentum20": 6.96,
+    "momentum60": 28.63,
+    "volume_ratio": 1.42,
+    "rsi14": 61.8,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -78,7 +78,7 @@
     "label": "Måttlig bevakningssignal",
     "current_price": 158.61000061035156,
     "momentum20": 10.75,
-    "momentum60": 4.7,
+    "momentum60": 5.29,
     "volume_ratio": 1.1,
     "rsi14": 70.8,
     "trend_score": 60,
@@ -147,8 +147,8 @@
     "label": "Måttlig bevakningssignal",
     "current_price": 22.100000381469727,
     "momentum20": 8.81,
-    "momentum60": 46.36,
-    "volume_ratio": 0.78,
+    "momentum60": 51.37,
+    "volume_ratio": 0.8,
     "rsi14": 45.3,
     "trend_score": 60,
     "reasons": [
@@ -156,9 +156,7 @@
       "20-dagars trend över 50-dagars trend",
       "Positivt 20-dagars momentum"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
