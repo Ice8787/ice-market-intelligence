@@ -38,47 +38,13 @@
   },
   {
     "rank": 2,
-    "ticker": "SBIO",
-    "as_of": "2026-08-20",
-    "watch_score": 61,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 68.55999755859375,
-    "momentum20": 7.8,
-    "momentum60": 29.77,
-    "volume_ratio": 1.37,
-    "rsi14": 62.1,
-    "trend_score": 75,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [],
-    "supporting_buys": [
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 3,
     "ticker": "ICE",
     "as_of": "2026-08-20",
     "watch_score": 54,
     "label": "Måttlig bevakningssignal",
     "current_price": 158.61000061035156,
     "momentum20": 10.75,
-    "momentum60": 4.7,
+    "momentum60": 5.29,
     "volume_ratio": 1.1,
     "rsi14": 70.8,
     "trend_score": 60,
@@ -104,7 +70,7 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 4,
+    "rank": 3,
     "ticker": "NFLX",
     "as_of": "2026-08-20",
     "watch_score": 52,
@@ -140,16 +106,49 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
+    "rank": 4,
+    "ticker": "SBIO",
+    "as_of": "2026-08-20",
+    "watch_score": 50,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 68.55999755859375,
+    "momentum20": 6.57,
+    "momentum60": 28.03,
+    "volume_ratio": 1.39,
+    "rsi14": 71.0,
+    "trend_score": 60,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum"
+    ],
+    "risk_flags": [],
+    "supporting_buys": [
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-11-20",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
     "rank": 5,
     "ticker": "SI",
     "as_of": "2026-08-20",
     "watch_score": 50,
     "label": "Måttlig bevakningssignal",
     "current_price": 22.100000381469727,
-    "momentum20": 8.81,
-    "momentum60": 46.36,
+    "momentum20": 8.87,
+    "momentum60": 46.75,
     "volume_ratio": 0.78,
-    "rsi14": 45.3,
+    "rsi14": 47.2,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
