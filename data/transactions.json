@@ -239,6 +239,66 @@
     "is_demo": false
   },
   {
+    "id": "ef86fbfd8190ac9e0c",
+    "person_id": "d845750c9c0a8f",
+    "person_name": "James Axel Ahrgren",
+    "person_role": "Styrelseledamot",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "NIBE Industrier AB",
+    "ticker": "SE0015988019",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 414500.0,
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-08-21",
+    "filing_date": "2026-08-21",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 10000.0,
+    "purchase_price": 41.45,
+    "value_usd": 0.0,
+    "score": 55,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Betydande transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 41.45,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Industri",
+      "Styrelseledamot",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B771-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "98772a3b8ee1340b78",
     "person_id": "962187cd035f75",
     "person_name": "Thomas Reynaud",
