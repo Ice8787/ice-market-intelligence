@@ -1,15 +1,51 @@
 [
   {
     "rank": 1,
+    "ticker": "NFLX",
+    "as_of": "2026-08-21",
+    "watch_score": 63,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 79.9749984741211,
+    "momentum20": 14.1,
+    "momentum60": -8.44,
+    "volume_ratio": 0.38,
+    "rsi14": 69.8,
+    "trend_score": 75,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Pat Roberts",
+        "person_type": "political",
+        "date": "2020-09-04",
+        "value": 75000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/6f691f61-e375-42ab-af01-72da4328447c/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 2,
     "ticker": "SI",
     "as_of": "2026-08-21",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 22.559999465942383,
-    "momentum20": 10.53,
-    "momentum60": 50.7,
-    "volume_ratio": 0.24,
-    "rsi14": 50.8,
+    "current_price": 22.600000381469727,
+    "momentum20": 10.73,
+    "momentum60": 50.97,
+    "volume_ratio": 0.33,
+    "rsi14": 51.0,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -36,16 +72,16 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 2,
+    "rank": 3,
     "ticker": "F",
     "as_of": "2026-08-21",
     "watch_score": 54,
     "label": "Måttlig bevakningssignal",
-    "current_price": 14.454999923706055,
-    "momentum20": 0.59,
-    "momentum60": -8.97,
-    "volume_ratio": 0.49,
-    "rsi14": 50.4,
+    "current_price": 14.431599617004395,
+    "momentum20": 0.43,
+    "momentum60": -9.12,
+    "volume_ratio": 0.55,
+    "rsi14": 50.0,
     "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -95,16 +131,16 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 3,
+    "rank": 4,
     "ticker": "ICE",
     "as_of": "2026-08-21",
     "watch_score": 54,
     "label": "Måttlig bevakningssignal",
-    "current_price": 161.75999450683594,
-    "momentum20": 10.95,
-    "momentum60": 8.05,
-    "volume_ratio": 0.32,
-    "rsi14": 79.0,
+    "current_price": 161.50999450683594,
+    "momentum20": 10.78,
+    "momentum60": 7.88,
+    "volume_ratio": 0.36,
+    "rsi14": 78.6,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -131,14 +167,14 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 4,
+    "rank": 5,
     "ticker": "BYND",
     "as_of": "2026-08-21",
     "watch_score": 54,
     "label": "Måttlig bevakningssignal",
-    "current_price": 14.869999885559082,
-    "momentum20": 2560.11,
-    "momentum60": 1784.66,
+    "current_price": 14.890000343322754,
+    "momentum20": 2563.69,
+    "momentum60": 1787.2,
     "volume_ratio": 0.07,
     "rsi14": 64.5,
     "trend_score": 75,
@@ -155,42 +191,6 @@
     ],
     "supporting_buys": [],
     "supporting_buy_count": 0,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 5,
-    "ticker": "MSFT",
-    "as_of": "2026-08-21",
-    "watch_score": 53,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 483.4100036621094,
-    "momentum20": 26.65,
-    "momentum60": 17.14,
-    "volume_ratio": 0.27,
-    "rsi14": 47.1,
-    "trend_score": 60,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum"
-    ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen",
-      "Mycket snabb uppgång – förhöjd volatilitet"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Ron L Wyden",
-        "person_type": "political",
-        "date": "2020-07-23",
-        "value": 175000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/e29a0a93-7153-42f3-97c5-e9f68fe47820/"
-      }
-    ],
-    "supporting_buy_count": 1,
     "historical_median_30d": null,
     "historical_median_90d": null,
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
