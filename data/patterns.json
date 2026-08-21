@@ -1,34 +1,20 @@
 [
   {
-    "id": "category-sverige-industri",
-    "type": "Sektorkluster",
-    "title": "3 insiderköp inom Industri · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Industri"
-    ],
-    "trade_ids": [
-      "790da07ae6ac690372",
-      "f61cfa01020598b270",
-      "5f043530bc9ad5acff"
-    ],
-    "trade_count": 3,
-    "median_return_90d": null
-  },
-  {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
-    "title": "136 insiderköp inom Övrigt · Sverige",
+    "title": "138 insiderköp inom Övrigt · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Övrigt"
     ],
     "trade_ids": [
+      "eb0d5c95caa80d6271",
+      "98e9295b5559dae877",
       "90f4a53bb3141240a3",
       "d0afcea0b9d6fc5f5a",
       "eada5fda7ca3635c09",
+      "5d5d25e7b2a19606e0",
       "0e81f6bf5a289a5449",
       "4e2cdcb6da8b2415b6",
       "73a2f0adc1e094ec19",
@@ -144,7 +130,6 @@
       "c971ba60a2341fde1b",
       "2621643564e3f3514b",
       "560257366d721e4eda",
-      "7465e3228469e8ede6",
       "e429e744be4ddf6f22",
       "1bdcffc4be1ab8ad13",
       "4436923421bfc2927e",
@@ -163,7 +148,24 @@
       "7c29f4f4b039fb968d",
       "6d785e8daf1edeb21b"
     ],
-    "trade_count": 136,
+    "trade_count": 138,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-sverige-industri",
+    "type": "Sektorkluster",
+    "title": "3 insiderköp inom Industri · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Industri"
+    ],
+    "trade_ids": [
+      "790da07ae6ac690372",
+      "f61cfa01020598b270",
+      "5f043530bc9ad5acff"
+    ],
+    "trade_count": 3,
     "median_return_90d": null
   },
   {
