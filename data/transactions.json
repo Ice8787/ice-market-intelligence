@@ -120,6 +120,66 @@
     "is_demo": false
   },
   {
+    "id": "8dcb6e2ecb451f22e5",
+    "person_id": "ef7c7078899f8f",
+    "person_name": "Jan Gustav Gurander",
+    "person_role": "Styrelseordförande",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Essity Aktiebolag (publ)",
+    "ticker": "SE0009922164",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 980639.9999999999,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-21",
+    "filing_date": "2026-08-21",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 3600.0,
+    "purchase_price": 272.4,
+    "value_usd": 0.0,
+    "score": 55,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Betydande transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 272.4,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Styrelseordförande",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B765-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "cde6a105517fa66123",
     "person_id": "57dca4a8f2a3e0",
     "person_name": "Bengt Torkel Östling",
@@ -3467,66 +3527,6 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B708-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
-    "id": "8e87693528aed665a7",
-    "person_id": "8296c62d62eb45",
-    "person_name": "Kjell Eriksson",
-    "person_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
-    "person_type": "corporate_insider",
-    "issuer_cik": "",
-    "company": "RaySearch Laboratories AB (publ)",
-    "ticker": "SE0000135485",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 443527.73,
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "transaction_date": "2026-08-17",
-    "filing_date": "2026-08-18",
-    "reporting_delay_days": 1,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "sell",
-    "transaction_code": "S",
-    "shares": 2297.0,
-    "purchase_price": 193.09,
-    "value_usd": 0.0,
-    "score": 33,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppen marknadsförsäljning",
-      "Betydande transaktionsvärde",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 193.09,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Övrigt",
-      "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
-      "Avyttring",
-      "egen rapport"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B691-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
