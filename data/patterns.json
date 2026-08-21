@@ -176,6 +176,24 @@
     "median_return_90d": null
   },
   {
+    "id": "category-sverige-hälsa",
+    "type": "Sektorkluster",
+    "title": "4 insiderköp inom Hälsa · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Hälsa"
+    ],
+    "trade_ids": [
+      "89ff6708577df1e3be",
+      "86f3d4863a46cb9a99",
+      "fd0aa2bffad2c71089",
+      "43b08354d57d355e14"
+    ],
+    "trade_count": 4,
+    "median_return_90d": null
+  },
+  {
     "id": "category-sverige-teknik",
     "type": "Sektorkluster",
     "title": "2 insiderköp inom Teknik · Sverige",
@@ -189,23 +207,6 @@
       "0718acba193bfff358"
     ],
     "trade_count": 2,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-hälsa",
-    "type": "Sektorkluster",
-    "title": "3 insiderköp inom Hälsa · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Hälsa"
-    ],
-    "trade_ids": [
-      "86f3d4863a46cb9a99",
-      "fd0aa2bffad2c71089",
-      "43b08354d57d355e14"
-    ],
-    "trade_count": 3,
     "median_return_90d": null
   },
   {

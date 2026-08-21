@@ -5,11 +5,11 @@
     "as_of": "2026-08-21",
     "watch_score": 63,
     "label": "Måttlig bevakningssignal",
-    "current_price": 79.73999786376953,
-    "momentum20": 13.77,
-    "momentum60": -8.71,
-    "volume_ratio": 0.4,
-    "rsi14": 68.9,
+    "current_price": 79.65989685058594,
+    "momentum20": 13.65,
+    "momentum60": -8.8,
+    "volume_ratio": 0.44,
+    "rsi14": 68.5,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -41,11 +41,11 @@
     "as_of": "2026-08-21",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 22.645000457763672,
-    "momentum20": 10.95,
-    "momentum60": 51.27,
-    "volume_ratio": 0.46,
-    "rsi14": 51.2,
+    "current_price": 22.600000381469727,
+    "momentum20": 10.73,
+    "momentum60": 50.97,
+    "volume_ratio": 0.5,
+    "rsi14": 51.0,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -73,15 +73,74 @@
   },
   {
     "rank": 3,
+    "ticker": "F",
+    "as_of": "2026-08-21",
+    "watch_score": 54,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 14.46500015258789,
+    "momentum20": 0.66,
+    "momentum60": -8.91,
+    "volume_ratio": 0.61,
+    "rsi14": 50.5,
+    "trend_score": 55,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Ron L Wyden",
+        "person_type": "political",
+        "date": "2020-08-11",
+        "value": 32500.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/33782dc2-cf18-4f2f-82c3-64d6e9572596/"
+      },
+      {
+        "person_name": "Ron L Wyden",
+        "person_type": "political",
+        "date": "2020-07-13",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/e29a0a93-7153-42f3-97c5-e9f68fe47820/"
+      },
+      {
+        "person_name": "Ron L Wyden",
+        "person_type": "political",
+        "date": "2020-04-17",
+        "value": 32500.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/d411d8c3-b780-4e4e-8490-aa790811fa5f/"
+      },
+      {
+        "person_name": "John Hoeven",
+        "person_type": "political",
+        "date": "2014-04-28",
+        "value": 75000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/da7d4e7e-8858-4dc1-ba7e-800c7ce82e7f/"
+      }
+    ],
+    "supporting_buy_count": 4,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 4,
     "ticker": "ICE",
     "as_of": "2026-08-21",
     "watch_score": 54,
     "label": "Måttlig bevakningssignal",
-    "current_price": 160.98500061035156,
-    "momentum20": 10.42,
-    "momentum60": 7.53,
-    "volume_ratio": 0.4,
-    "rsi14": 78.0,
+    "current_price": 160.8350067138672,
+    "momentum20": 10.32,
+    "momentum60": 7.43,
+    "volume_ratio": 0.46,
+    "rsi14": 77.8,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -108,16 +167,16 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 4,
+    "rank": 5,
     "ticker": "BYND",
     "as_of": "2026-08-21",
     "watch_score": 54,
     "label": "Måttlig bevakningssignal",
-    "current_price": 15.0600004196167,
-    "momentum20": 2594.1,
-    "momentum60": 1808.75,
-    "volume_ratio": 0.08,
-    "rsi14": 64.6,
+    "current_price": 14.600000381469727,
+    "momentum20": 2511.81,
+    "momentum60": 1750.44,
+    "volume_ratio": 0.09,
+    "rsi14": 64.3,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -132,42 +191,6 @@
     ],
     "supporting_buys": [],
     "supporting_buy_count": 0,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 5,
-    "ticker": "MSFT",
-    "as_of": "2026-08-21",
-    "watch_score": 53,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 481.4200134277344,
-    "momentum20": 26.13,
-    "momentum60": 16.66,
-    "volume_ratio": 0.37,
-    "rsi14": 45.6,
-    "trend_score": 60,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum"
-    ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen",
-      "Mycket snabb uppgång – förhöjd volatilitet"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Ron L Wyden",
-        "person_type": "political",
-        "date": "2020-07-23",
-        "value": 175000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/e29a0a93-7153-42f3-97c5-e9f68fe47820/"
-      }
-    ],
-    "supporting_buy_count": 1,
     "historical_median_30d": null,
     "historical_median_90d": null,
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
