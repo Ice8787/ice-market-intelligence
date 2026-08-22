@@ -1549,6 +1549,65 @@
     "is_demo": false
   },
   {
+    "id": "767a05e4cfb800699b",
+    "person_id": "de28b62add8bbf",
+    "person_name": "Martin Roos",
+    "person_role": "Styrelseledamot",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Seamless Distribution Systems AB",
+    "ticker": "SE0009994445",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 22106.0,
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-08-20",
+    "filing_date": "2026-08-22",
+    "reporting_delay_days": 2,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "sell",
+    "transaction_code": "S",
+    "shares": 3158.0,
+    "purchase_price": 7.0,
+    "value_usd": 0.0,
+    "score": 25,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppen marknadsförsäljning",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 7.0,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Teknik",
+      "Styrelseledamot",
+      "Avyttring",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B787-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "b924ce5702d9fe90b9",
     "person_id": "1e018c80f51a56",
     "person_name": "Tomas Klevbo",
@@ -2744,6 +2803,66 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B703-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "330e5229267574ddee",
+    "person_id": "de28b62add8bbf",
+    "person_name": "Martin Roos",
+    "person_role": "Styrelseledamot",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Seamless Distribution Systems AB",
+    "ticker": "SE0009994445",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 172269.3,
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-08-19",
+    "filing_date": "2026-08-22",
+    "reporting_delay_days": 3,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "sell",
+    "transaction_code": "S",
+    "shares": 23438.0,
+    "purchase_price": 7.35,
+    "value_usd": 0.0,
+    "score": 33,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppen marknadsförsäljning",
+      "Betydande transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 7.35,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Teknik",
+      "Styrelseledamot",
+      "Avyttring",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B787-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
