@@ -99,7 +99,7 @@
     "abstract": "This notice publishes the Tonto Apache Tribe of Arizona Liquor Control Code, which repeals and replaces the previous liquor code published on January 14, 1986.",
     "category": "Övrigt",
     "subcategory": "Ej klassificerad",
-    "search_term": "trade",
+    "search_term": "export controls",
     "agencies": [
       "Interior Department",
       "Indian Affairs Bureau"
@@ -115,7 +115,7 @@
     "abstract": "In this rule, the Bureau of Industry and Security (BIS) revises the Export Administration Regulations (EAR) by removing two addresses associated with Arrow Electronics (Hong Kong) Co., Ltd. from the Entity List under the destination of China, People's Republic of (China). This determination follows the removal from the Entity List of Arrow China Electronics Trading Co., Ltd., and the removal of six aliases for Arrow Electronics (Hong Kong) Co., Ltd. in November 2025.",
     "category": "Övrigt",
     "subcategory": "Ej klassificerad",
-    "search_term": "trade",
+    "search_term": "export controls",
     "agencies": [
       "Commerce Department",
       "Industry and Security Bureau"
@@ -131,7 +131,7 @@
     "abstract": "In this rule, the Bureau of Industry and Security (BIS) amends the Export Administration Regulations (EAR) by removing one entity from the Entity List under the destination of Turkey.",
     "category": "Övrigt",
     "subcategory": "Ej klassificerad",
-    "search_term": "trade",
+    "search_term": "export controls",
     "agencies": [
       "Commerce Department",
       "Industry and Security Bureau"
@@ -536,7 +536,7 @@
     "abstract": "On January 21, 2025, President Trump issued Executive Order 14173, \"Ending Illegal Discrimination and Restoring Merit-Based Opportunity,\" which revoked Executive Order 11246. Accordingly, the U.S. Department of Labor publishes this final rule to rescind the implementing regulations for Executive Order 11246.",
     "category": "Övrigt",
     "subcategory": "Ej klassificerad",
-    "search_term": "trade",
+    "search_term": "defense procurement",
     "agencies": [
       "Labor Department",
       "Federal Contract Compliance Programs Office"
@@ -618,6 +618,38 @@
       "Securities and Exchange Commission"
     ],
     "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17062/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed",
+    "is_official": true
+  },
+  {
+    "id": "2026-17116",
+    "title": "Modifications to the Regulations Implementing the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as Amended",
+    "publication_date": "2026-08-21",
+    "document_type": "Rule",
+    "abstract": "The U.S. Department of Labor publishes this final rule to revise its implementing regulations for the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as amended (VEVRAA). These revisions will align the regulations with Executive Order 14173 and remove the VEVRAA regulations' cross-references to the Executive Order 11246 authority. Executive Order 11246 was revoked by Executive Order 14173 on January 21, 2025. This final rule also makes technical revisions to update the VEVRAA regulations' jurisdictional thresholds, which were adjusted for inflation by the Federal Acquisition Regulation Council on October 1, 2025.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Labor Department",
+      "Federal Contract Compliance Programs Office"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17116/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act",
+    "is_official": true
+  },
+  {
+    "id": "2026-17115",
+    "title": "Modifications to the Regulations Implementing Section 503 of the Rehabilitation Act of 1973, as Amended",
+    "publication_date": "2026-08-21",
+    "document_type": "Rule",
+    "abstract": "The U.S. Department of Labor is revising its implementing regulations for Section 503 of the Rehabilitation Act of 1973, as amended (Section 503). The revisions align the regulations with applicable law and recent executive orders, including Executive Order 14173, \"Ending Illegal Discrimination and Restoring Merit-Based Opportunity,\" and Executive Order 14219, \"Ensuring Lawful Governance and Implementing the President's `Department of Government Efficiency' Deregulatory Initiative.\"",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Labor Department",
+      "Federal Contract Compliance Programs Office"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17115/modifications-to-the-regulations-implementing-section-503-of-the-rehabilitation-act-of-1973-as",
     "is_official": true
   },
   {
@@ -747,6 +779,130 @@
     "is_official": true
   },
   {
+    "id": "2026-17039",
+    "title": "Small Business Size Standards: Revised Size Standards Methodology",
+    "publication_date": "2026-08-20",
+    "document_type": "Proposed Rule",
+    "abstract": "The U.S. Small Business Administration (SBA or Agency) advises the public that it has revised its white paper explaining how it establishes, reviews, and modifies small business size standards. The revised white paper provides a detailed description of SBA's size standards methodology, including changes from SBA's 2024 Revised Size Standards Methodology (2024 Methodology, available at www.sba.gov/ size). SBA welcomes comments and feedback on the 2026 Revised Methodology, which SBA has applied to the proposed review of size standards filed concurrently in the Federal Register.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Small Business Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-17039/small-business-size-standards-revised-size-standards-methodology",
+    "is_official": true
+  },
+  {
+    "id": "2026-17036",
+    "title": "Codex Alimentarius Commission: Meeting of the Codex Committee on Food Import and Export Inspection and Certification Systems",
+    "publication_date": "2026-08-20",
+    "document_type": "Notice",
+    "abstract": "The U.S Codex Office is sponsoring a public meeting on September 10, 2026. The objective of the public meeting is to provide information and receive public comments on agenda items and draft U.S. positions to be discussed at the 28th Session of the Codex Committee on Food Import and Export Inspection and Certification Systems (CCFICS28) of the Codex Alimentarius Commission (CAC). CCFICS28 will be held in Perth, Australia, from October 12-17, 2026. The U.S. Manager for Codex Alimentarius and the Under Secretary for Trade and Foreign Agricultural Affairs recognize the importance of providing interested parties the opportunity to obtain background information on the 28th Session of the CCFICS and to address items on the agenda.",
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Agriculture Department",
+      "U.S. Codex Office"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-17036/codex-alimentarius-commission-meeting-of-the-codex-committee-on-food-import-and-export-inspection",
+    "is_official": true
+  },
+  {
+    "id": "2026-16981",
+    "title": "Application for Relief From Disabilities Imposed by Federal Laws With Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms",
+    "publication_date": "2026-08-20",
+    "document_type": "Rule",
+    "abstract": "The Department of Justice (\"the Department\") is implementing criteria to guide determinations for granting relief from disabilities imposed by federal laws with respect to the acquisition, receipt, transfer, shipment, transportation, or possession of firearms. The criteria are designed to ensure that the fundamental right of the people to keep and bear arms is not unduly infringed, that those people granted relief are not likely to act in a manner dangerous to public safety, and that granting such relief would not be contrary to the public interest.",
+    "category": "Transport",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Justice Department",
+      "Alcohol, Tobacco, Firearms, and Explosives Bureau",
+      ""
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-16981/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition",
+    "is_official": true
+  },
+  {
+    "id": "2026-16929",
+    "title": "EnergySolutions, LLC and Bridgepoint Group, PLC; Approval of Transfer of Licenses",
+    "publication_date": "2026-08-20",
+    "document_type": "Notice",
+    "abstract": "The U.S. Nuclear Regulatory Commission (NRC) issued an order approving the indirect transfer of control of Radioactive Materials License No. 39-35044-01, License Nos. DPR-43, DPR-73, and Independent Spent Fuel Storage Installation general license No. 40, as well as Export Licenses XW010 and XW018 from EnergySolutions, LLC to ECP VI, LLC and its ultimate parent, Bridgepoint Group, PLC. The indirect transfer reflects an upstream change in ownership of the holding company of Energy Solutions.",
+    "category": "Energi",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Nuclear Regulatory Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-16929/energysolutions-llc-and-bridgepoint-group-plc-approval-of-transfer-of-licenses",
+    "is_official": true
+  },
+  {
+    "id": "2026-17042",
+    "title": "Small Business Size Standards",
+    "publication_date": "2026-08-20",
+    "document_type": "Proposed Rule",
+    "abstract": "The U.S. Small Business Administration (SBA or the Agency) is proposing new size standards for 338 industry groups and industries. The new size standards are designed to better reflect the nature of the markets in which small businesses compete. SBA seeks comments on its proposed changes to size standards.",
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Small Business Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-17042/small-business-size-standards",
+    "is_official": true
+  },
+  {
+    "id": "2026-16982",
+    "title": "Wagner-Peyser Act Employment Service Staffing",
+    "publication_date": "2026-08-20",
+    "document_type": "Rule",
+    "abstract": "The U.S. Department of Labor (DOL or the Department) is removing the requirement that States use State merit staff to provide Wagner-Peyser Employment Service (ES) services. This final rule allows States to use the staffing model that provides the required services with the most efficient and cost-effective model for their State.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Labor Department",
+      "Employment and Training Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-16982/wagner-peyser-act-employment-service-staffing",
+    "is_official": true
+  },
+  {
+    "id": "2026-16966",
+    "title": "Procurement List; Additions and Deletions",
+    "publication_date": "2026-08-20",
+    "document_type": "Notice",
+    "abstract": "This action adds service(s) to the Procurement List that will be furnished by nonprofit agencies employing persons who are blind or have other severe disabilities, and deletes service(s) from the Procurement List previously furnished by such agencies.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Committee for Purchase From People Who Are Blind or Severely Disabled"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-16966/procurement-list-additions-and-deletions",
+    "is_official": true
+  },
+  {
+    "id": "2026-16964",
+    "title": "Procurement List; Proposed Additions and Deletions",
+    "publication_date": "2026-08-20",
+    "document_type": "Notice",
+    "abstract": "The Committee is proposing to add products and service(s) to the Procurement List that will be furnished by nonprofit agencies employing persons who are blind or have other severe disabilities, and delete product(s) and service(s) previously furnished by such agencies.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Committee for Purchase From People Who Are Blind or Severely Disabled"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-16964/procurement-list-proposed-additions-and-deletions",
+    "is_official": true
+  },
+  {
     "id": "2026-16979",
     "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components Into the United States",
     "publication_date": "2026-08-19",
@@ -871,6 +1027,22 @@
     "is_official": true
   },
   {
+    "id": "2026-16850",
+    "title": "United States of America, et al. v. CRH PLC, et al. Proposed Final Judgment and Competitive Impact Statement",
+    "publication_date": "2026-08-19",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Justice Department",
+      "Antitrust Division"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/19/2026-16850/united-states-of-america-et-al-v-crh-plc-et-al-proposed-final-judgment-and-competitive-impact",
+    "is_official": true
+  },
+  {
     "id": "2026-16846",
     "title": "Establishing the National Fraud Enforcement Division",
     "publication_date": "2026-08-18",
@@ -878,7 +1050,7 @@
     "abstract": "This rule amends Part 0 of the Department of Justice's (\"Department\") organizational regulations in title 28 of the Code of Federal Regulations to establish the National Fraud Enforcement Division (\"Fraud Division\") and set forth its authorities.",
     "category": "Övrigt",
     "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
+    "search_term": "export controls",
     "agencies": [
       "Justice Department",
       ""
@@ -992,6 +1164,787 @@
       "International Trade Commission"
     ],
     "source_url": "https://www.federalregister.gov/documents/2026/08/18/2026-16789/certain-off-road-vehicles-and-components-thereof-notice-of-a-commission-determination-not-to-review",
+    "is_official": true
+  },
+  {
+    "id": "2026-16716",
+    "title": "Agency Information Collection Activities; Announcement of Office of Management and Budget Approvals",
+    "publication_date": "2026-08-17",
+    "document_type": "Notice",
+    "abstract": "The Food and Drug Administration (FDA) is publishing a list of information collections that have been approved by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995.",
+    "category": "Konsument",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Health and Human Services Department",
+      "Food and Drug Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/17/2026-16716/agency-information-collection-activities-announcement-of-office-of-management-and-budget-approvals",
+    "is_official": true
+  },
+  {
+    "id": "2026-16715",
+    "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Investigational New Drug Application Requirements",
+    "publication_date": "2026-08-17",
+    "document_type": "Notice",
+    "abstract": "The Food and Drug Administration (FDA) is announcing that a proposed collection of information has been submitted to the Office of Management and Budget (OMB) for review and clearance under the Paperwork Reduction Act of 1995.",
+    "category": "Konsument",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Health and Human Services Department",
+      "Food and Drug Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/17/2026-16715/agency-information-collection-activities-proposed-collection-comment-request-investigational-new",
+    "is_official": true
+  },
+  {
+    "id": "2026-16748",
+    "title": "Continuation of the National Emergency With Respect to Export Control Regulations",
+    "publication_date": "2026-08-14",
+    "document_type": "Presidential Document",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "export controls",
+    "agencies": [
+      "Executive Office of the President"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16748/continuation-of-the-national-emergency-with-respect-to-export-control-regulations",
+    "is_official": true
+  },
+  {
+    "id": "2026-16628",
+    "title": "Streamlining Export Controls for Drone Exports",
+    "publication_date": "2026-08-14",
+    "document_type": "Rule",
+    "abstract": "The Bureau of Industry and Security (BIS) is easing export controls on certain Unmanned Aerial Vehicles (UAVs or drones) and related parts, components, accessories, attachments, technology, and software under the Export Administration Regulations (EAR). Specifically, this rule: eliminates wind gust tolerance as a parameter for determining UAV controls under the EAR; increases the threshold for national security controls on certain UAVs from an endurance of 30 minutes to an endurance of 3 hours; makes conforming changes to remove national security controls on software and technology associated with UAVs with an endurance less than 3 hours; maintains military end-use and end-user controls on those lower endurance drones and associated software and technology; clarifies Commerce Control List (CCL) controls for certain UAVs specially designed for military use; and removes national security controls on certain specially designed parts, components, accessories, and attachments for such UAVs as they do not provide any significant military or intelligence capabilities.",
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Commerce Department",
+      "Industry and Security Bureau"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16628/streamlining-export-controls-for-drone-exports",
+    "is_official": true
+  },
+  {
+    "id": "2026-16603",
+    "title": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+    "publication_date": "2026-08-14",
+    "document_type": "Notice",
+    "abstract": "Publication of the 2026 Unified Agenda of Federal Regulatory and Deregulatory Actions represents a key component of the regulatory planning mechanism prescribed in Executive Order (\"E.O.\") 12866, \"Regulatory Planning and Review,\" (58 FR 51735, as amended) and reaffirmed in E.O. 13563, \"Improving Regulation and Regulatory Review,\" (76 FR 3821) and E.O. 14192, \"Unleashing Prosperity Through Deregulation.\" The Regulatory Flexibility Act requires that agencies publish semiannual regulatory agendas in the Federal Register describing regulatory actions they are developing that may have a significant economic impact on a substantial number of small entities (5 U.S.C. 602). The Unified Agenda of Federal Regulatory and Deregulatory Actions (Unified Agenda) helps agencies fulfill all of these requirements. All Federal regulatory agencies have chosen to publish their regulatory agendas as part of this publication. The complete publication of the 2026 Unified Agenda contains 78 Federal agency regulatory agendas available to the public at www.reginfo.gov. The 2026 Unified Agenda publication appearing in the Federal Register includes the agency Regulatory Flexibility Agendas, in accordance with the publication requirements of the Regulatory Flexibility Act. Agency Regulatory Flexibility Agendas contain only those Agenda entries for rules that are likely to have a significant economic impact on a substantial number of small entities and entries that have been selected for periodic review under section 610 of the Regulatory Flexibility Act.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Regulatory Information Service Center"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16603/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026",
+    "is_official": true
+  },
+  {
+    "id": "2026-16622",
+    "title": "Improving Government Regulations; Unified Agenda of Federal Regulatory and Deregulatory Actions",
+    "publication_date": "2026-08-14",
+    "document_type": "Notice",
+    "abstract": "This agenda announces the regulatory and deregulatory actions the DoW plans to take in the next 12 months and those regulatory and deregulatory actions completed since the publication of the Spring 2025 Unified Agenda. It was developed under the guidelines of Executive Order 12866, \"Regulatory Planning and Review,\" and Executive Order 13563, \"Improving Regulation and Regulatory Review.\" This agenda includes actions that support the Administration's priorities; the Secretary of Defense's top priorities to revive the warrior ethos, rebuild our military, and reestablish deterrence. Members of the public may submit comments on individual proposed and interim final rulemakings at www.regulations.gov during the comment period that follows publication in the Federal Register. This agenda updates the report published on September 22, 2025, and includes regulations expected to be issued or under review by DoW over the next 12 months. The complete Unified Agenda will be available online at www.reginfo.gov. In accordance with the Regulatory Flexibility Act (5 U.S.C. 602), which requires agencies to publish their regulatory flexibility agendas in the Federal Register, the DoW's printed agenda entries in the Federal Register include only: (1) Rules that are in the Agency's regulatory flexibility agenda, in accordance with the Regulatory Flexibility Act, because they are likely to have a significant economic impact on a substantial number of small entities; and (2) Any rules that the Agency has identified for periodic review under the Regulatory Flexibility Act (5 U.S.C. 610). Although printing of these entries is limited to fields that contain information required by the Regulatory Flexibility Act's agenda requirements, additional information on these entries is in the Unified Agenda available online.",
+    "category": "Försvar",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "defense procurement",
+    "agencies": [
+      ""
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16622/improving-government-regulations-unified-agenda-of-federal-regulatory-and-deregulatory-actions",
+    "is_official": true
+  },
+  {
+    "id": "2026-16607",
+    "title": "Department Regulatory and Deregulatory Agenda; Summary",
+    "publication_date": "2026-08-14",
+    "document_type": "Notice",
+    "abstract": "The Regulatory Agenda of the Department of Transportation (Department) is a summary of current, projected, and completed rulemakings, as well as reviews of existing regulations. The Regulatory Agenda provides the public with information about the Department's planned regulatory activity for the next 12 months. This information enables the public to participate in the Department's regulatory process more effectively. The public is encouraged to submit comments on any aspect of this Regulatory Agenda.",
+    "category": "Transport",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Transportation Department",
+      ""
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16607/department-regulatory-and-deregulatory-agenda-summary",
+    "is_official": true
+  },
+  {
+    "id": "2026-16601",
+    "title": "Unified Agenda of Federal Regulatory and Deregulatory Actions",
+    "publication_date": "2026-08-14",
+    "document_type": "Notice",
+    "abstract": "This agenda announces the proposed regulatory actions that GSA plans for the next 12 months and those that have been completed since the spring 2025 edition. This agenda was developed under the guidelines of Executive Orders 12866, \"Regulatory Planning and Review,\" Executive Order 13563, \"Improving Regulation and Regulatory Review,\" Executive Order 14219, \"Ensuring Lawful Governance and Implementing the President's `Department of Government Efficiency' Deregulatory Initiative,\" and Executive Order 14192, \"Unleashing Prosperity Through Deregulation.\" GSA's purpose in publishing this agenda is to allow interested people an opportunity to participate in the rulemaking process. GSA also invites interested people to recommend existing significant regulations for review to determine whether they should be modified or rescinded. The public may provide comments on rules via http://www.regulations.gov. The Unified Agenda, including previous versions, is available at www.reginfo.gov. Because publication in the Federal Register is mandated for the regulatory flexibility agendas required by the Regulatory Flexibility Act (5 U.S.C. 602), GSA's printed agenda entries include only: (1) Rules that are in the agency's regulatory flexibility agenda, in accordance with the Regulatory Flexibility Act, because they are likely to have a significant economic impact on a substantial number of small entities; and (2) Any rules that the agency has identified for periodic review under section 610 of the Regulatory Flexibility Act. Printing of these entries is limited to fields that contain information required by the Regulatory Flexibility Act's agenda requirements. Additional information on these entries is available in the Unified Agenda. In addition, for fall editions of the agenda, the entire Regulatory Plan will continue to be printed in the Federal Register, as in past years, including GSA's regulatory plan.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "General Services Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16601/unified-agenda-of-federal-regulatory-and-deregulatory-actions",
+    "is_official": true
+  },
+  {
+    "id": "2026-16590",
+    "title": "FCC To Review E-Rate Program To Ensure Congress's Vision",
+    "publication_date": "2026-08-14",
+    "document_type": "Proposed Rule",
+    "abstract": "In this document, the Federal Communications Commission (Commission) seeks comment on measures the Commission can take to better protect children when using E-Rate-funded networks, the Commission's progress in ensuring affordable access to high-speed broadband to and within schools and libraries, and whether the Commission's current interpretation of the Children's Internet Protection Act (CIPA) is the best reading of the statute. The Commission also proposes actions to strengthen E-Rate program integrity and streamline program administration.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Federal Communications Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16590/fcc-to-review-e-rate-program-to-ensure-congresss-vision",
+    "is_official": true
+  },
+  {
+    "id": "2026-16534",
+    "title": "Agency Information Collection Activities; Federal Fish and Wildlife Permit Applications and Reports-Migratory Birds",
+    "publication_date": "2026-08-13",
+    "document_type": "Notice",
+    "abstract": "In accordance with the Paperwork Reduction Act of 1995, we, the U.S. Fish and Wildlife Service (Service), are proposing to revise two existing information collections and proposing two new information collections.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "export controls",
+    "agencies": [
+      "Interior Department",
+      "Fish and Wildlife Service"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/13/2026-16534/agency-information-collection-activities-federal-fish-and-wildlife-permit-applications-and",
+    "is_official": true
+  },
+  {
+    "id": "2026-16476",
+    "title": "Notice of Request To Renew an Approved Information Collection: Egg Products Hazard Analysis and Critical Control Point and Sanitation Standard Operating Procedures",
+    "publication_date": "2026-08-13",
+    "document_type": "Notice",
+    "abstract": "In accordance with the Paperwork Reduction Act of 1995 and Office of Management and Budget (OMB) regulations, FSIS is announcing its intention to request renewal of the approved information collection related to egg products Hazard Analysis and Critical Control Point (HACCP) and Sanitation Standard Operating Procedures (Sanitation SOPs) requirements. There are no changes to the information collection. The current approval will expire on January 31, 2027.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "export controls",
+    "agencies": [
+      "Agriculture Department",
+      "Food Safety and Inspection Service"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/13/2026-16476/notice-of-request-to-renew-an-approved-information-collection-egg-products-hazard-analysis-and",
+    "is_official": true
+  },
+  {
+    "id": "2026-16451",
+    "title": "Submission for OMB Review; Comment Request",
+    "publication_date": "2026-08-13",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "export controls",
+    "agencies": [
+      "Agriculture Department"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/13/2026-16451/submission-for-omb-review-comment-request",
+    "is_official": true
+  },
+  {
+    "id": "2026-16504",
+    "title": "Airworthiness Directives; The Boeing Company Airplanes",
+    "publication_date": "2026-08-13",
+    "document_type": "Rule",
+    "abstract": "The FAA is superseding Airworthiness Directive (AD) 2018-11- 14, which applied to certain The Boeing Company Model 767-300 and -300F series airplanes with certain winglets installed. AD 2018-11-14 required high frequency eddy current (HFEC) inspections for cracking of the lower outboard wing skin and repair or modification if necessary. AD 2018-11-14 also required one of three follow-on actions: Repeating the HFEC inspections; modifying certain internal stringers and oversizing and plugging the existing fastener holes of the lower wing; or modifying the external doubler/tripler and doing repetitive post- modification inspections. This AD was prompted by reports of fatigue cracking in the lower outboard wing skin at the inboard fastener of stringer L-9.5, and the lower outboard wing skin of stringer L-6.5, on airplanes with winglets installed per Supplemental Type Certificate (STC) ST01920SE. This AD was also prompted by a determination that, for certain airplanes, the area of the lower wing skin in the vicinity of the critical inboard end fasteners of installed repair doublers must be inspected. This AD continues to require the actions in AD 2018-11-14, adds to the applicability airplanes that have had STC ST01920SE installed and the STC winglets removed, and, for certain airplanes, requires repetitive internal and external HFEC inspections of the lower outboard wing skin common to the external doubler repair at stringer L- 9.5 and repair if necessary. The FAA is issuing this AD to address the unsafe condition on these products.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Transportation Department",
+      "Federal Aviation Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/13/2026-16504/airworthiness-directives-the-boeing-company-airplanes",
+    "is_official": true
+  },
+  {
+    "id": "2026-16475",
+    "title": "Procurement List; Deletions",
+    "publication_date": "2026-08-13",
+    "document_type": "Notice",
+    "abstract": "This action deletes product(s) and service(s) from the Procurement List that were furnished by nonprofit agencies employing persons who are blind or have other severe disabilities.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Committee for Purchase From People Who Are Blind or Severely Disabled"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/13/2026-16475/procurement-list-deletions",
+    "is_official": true
+  },
+  {
+    "id": "2026-16474",
+    "title": "Procurement List; Proposed Deletions",
+    "publication_date": "2026-08-13",
+    "document_type": "Notice",
+    "abstract": "The Committee is proposing to delete products and service(s) from the Procurement List that were furnished by nonprofit agencies employing persons who are blind or have other severe disabilities.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Committee for Purchase From People Who Are Blind or Severely Disabled"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/13/2026-16474/procurement-list-proposed-deletions",
+    "is_official": true
+  },
+  {
+    "id": "2026-16413",
+    "title": "Schedules of Controlled Substances: Temporary Placement of O-Desmethyltramadol in Schedule I",
+    "publication_date": "2026-08-12",
+    "document_type": "Rule",
+    "abstract": "The Drug Enforcement Administration issues this temporary order to schedule O-desmethyltramadol (other names: O-DSMT; desmetramadol; 3-[(1R,2R)-2-[(dimethylamino)methyl]-1- hydroxycyclohexyl]phenol), including its isomers, esters, ethers, salts, and salts of isomers, esters and ethers, in schedule I of the Controlled Substances Act. DEA bases this action on a finding that placing O-DSMT in schedule I is necessary to avoid an imminent hazard to public safety. This order imposes the regulatory controls and administrative, civil, and criminal sanctions applicable to schedule I controlled substances on persons who handle (manufacture, distribute, reverse distribute, import, export, engage in research, conduct instructional activities or chemical analysis with, or possess) or propose to handle O-DSMT.",
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Justice Department",
+      "Drug Enforcement Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/12/2026-16413/schedules-of-controlled-substances-temporary-placement-of-o-desmethyltramadol-in-schedule-i",
+    "is_official": true
+  },
+  {
+    "id": "2026-16375",
+    "title": "Schedules of Controlled Substances: Rescheduling of Suvorexant, Lemborexant, and Daridorexant From Schedule IV Into Schedule V",
+    "publication_date": "2026-08-11",
+    "document_type": "Proposed Rule",
+    "abstract": "The Drug Enforcement Administration proposes to transfer suvorexant ([(7R)-4-(5-chloro-1,3-benzoxazol-2-yl)-7-methyl-1,4- diazepan-1-yl]-[5-methyl-2-(triazol-2-yl)phenyl]methanone), lemborexant ((1R,2S)-2-[(2,4-dimethylpyrimidin-5-yl)oxymethyl]-2-(3-fluorophenyl)- N-(5-fluoropyridin-2-yl)cyclopropane-1-carboxamide), and daridorexant ([(2S)-2-(5-chloro-4-methyl-1H-benzimidazol-2-yl)-2-methylpyrrolidin-1- yl]-[5-methoxy-2-(triazol-2-yl)phenyl]methanone) from schedule IV to schedule V of the Controlled Substances Act. If finalized, this action would impose the regulatory controls and administrative, civil, and criminal sanctions applicable to schedule V controlled substances on persons who handle (manufacture, distribute, reverse distribute, import, export, engage in research, conduct instructional activities or chemical analysis with, or possess) or propose to handle suvorexant, lemborexant, and daridorexant.",
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Justice Department",
+      "Drug Enforcement Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/11/2026-16375/schedules-of-controlled-substances-rescheduling-of-suvorexant-lemborexant-and-daridorexant-from",
+    "is_official": true
+  },
+  {
+    "id": "2026-16313",
+    "title": "Mandatory Electronic Filing (e-Filing)",
+    "publication_date": "2026-08-11",
+    "document_type": "Rule",
+    "abstract": "This interim final rule (IFR) amends U.S. Department of Homeland Security (DHS) regulations to provide: USCIS may require mandatory electronic filing (e-filing) of certain benefit requests; the process USCIS will follow to require a benefit request to be e-filed; and how a waiver of the e-filing requirement for those individuals unable to file electronically may be requested. This rule is intended to increase digital intake and processing to move USCIS and requestors from a mostly paper process to an electronic process and further enhance the integrity of the immigration system and the security of the United States.",
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Homeland Security Department"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/11/2026-16313/mandatory-electronic-filing-e-filing",
+    "is_official": true
+  },
+  {
+    "id": "2026-16290",
+    "title": "Adjudication of Civil Penalties Against International Marriage Brokers",
+    "publication_date": "2026-08-11",
+    "document_type": "Rule",
+    "abstract": "This interim final rule (\"IFR\") amends Department of Justice (\"Department\") regulations to specify the procedures for adjudicating alleged violations of the International Marriage Broker Regulation Act of 2005 (\"IMBRA\") by international marriage brokers (\"IMBs\") doing business in the United States that fail to provide required information to persons recruited for matchmaking services or that improperly disclose prohibited information. This IFR is necessary to deter fraudulent marriages and the exploitation of immigrants recruited by IMBs.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "export controls",
+    "agencies": [
+      "Justice Department"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/11/2026-16290/adjudication-of-civil-penalties-against-international-marriage-brokers",
+    "is_official": true
+  },
+  {
+    "id": "2026-16288",
+    "title": "English Language Proficiency; Out of Service Criteria",
+    "publication_date": "2026-08-10",
+    "document_type": "Proposed Rule",
+    "abstract": "FMCSA proposes to codify the English language proficiency (ELP) driver qualification requirement as an out-of-service (OOS) violation. The rulemaking would ensure uniform enforcement by aligning the Federal Motor Carrier Safety Regulations (FMCSR) with the current enforcement tolerances in the North American Standard Out-of-Service Criteria issued by the Commercial Vehicle Safety Alliance (CVSA). The rulemaking responds to a petition from CVSA.",
+    "category": "Transport",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Transportation Department",
+      "Federal Motor Carrier Safety Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/10/2026-16288/english-language-proficiency-out-of-service-criteria",
+    "is_official": true
+  },
+  {
+    "id": "2026-16265",
+    "title": "Initiation of Antidumping and Countervailing Duty Administrative Reviews",
+    "publication_date": "2026-08-10",
+    "document_type": "Notice",
+    "abstract": "The U.S. Department of Commerce (Commerce) has received requests to conduct administrative reviews of various antidumping duty (AD) and countervailing duty (CVD) orders with June anniversary dates. In accordance with Commerce's regulations, we are initiating those administrative reviews.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "export controls",
+    "agencies": [
+      "Commerce Department",
+      "International Trade Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/10/2026-16265/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
+    "is_official": true
+  },
+  {
+    "id": "2026-16262",
+    "title": "Agency Information Collection Activities; Comment Request on U.S. Business Income Tax Returns and Related Forms, Schedules, Attachments, and Published Guidance",
+    "publication_date": "2026-08-10",
+    "document_type": "Notice",
+    "abstract": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "export controls",
+    "agencies": [
+      "Treasury Department",
+      "Internal Revenue Service"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/10/2026-16262/agency-information-collection-activities-comment-request-on-us-business-income-tax-returns-and",
+    "is_official": true
+  },
+  {
+    "id": "2026-16197",
+    "title": "Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program",
+    "publication_date": "2026-08-07",
+    "document_type": "Proposed Rule",
+    "abstract": "The Federal Communications Commission (Commission or FCC) issues a Third Further Notice of Proposed Rulemaking seeking comment on a broad set of additional measures to strengthen the security and integrity of its equipment authorization program. The measures include bifurcating the Covered List into producer/provider-based and production location-based categories; addressing \"white labeling\" of covered equipment; hardware and software bill of materials (HBOM/SBOM) disclosure requirements; further prohibitions or presumptions against authorizing equipment containing Covered List components or software; certification requirements for devices in Covered List sectors; reforms to equipment importation, marketing, and pre-authorization operation rules; restrictions on use of the FCC logo; streamlined revocation procedures; codification of permissive-change waivers for software, firmware, and hardware updates to covered equipment; codified definitions for UAS, UAS critical components, and routers; term limits on equipment authorizations; registration of Supplier's Declaration of Conformity (SDoC) devices; modernization of the Commission's equipment authorization database; updates to submarine cable Covered List rules; and a proposal to require a U.S.-based liable party for FCC-certified equipment.",
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Federal Communications Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/07/2026-16197/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the",
+    "is_official": true
+  },
+  {
+    "id": "2026-16078",
+    "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
+    "publication_date": "2026-08-06",
+    "document_type": "Rule",
+    "abstract": "The Bureau of Industry and Security (\"BIS\") is publishing this temporary final rule to restrict the exportation of black mass and tungsten waste and scrap without a license. Specifically, as of August 27, 2026, U.S. persons engaged in the sale of black mass and tungsten waste and scrap must allocate 100 percent of monthly sales to U.S. persons, unless an adjustment or exception is obtained in advance from BIS. This action is taken pursuant to section 101 of the Defense Production Act of 1950, as amended (\"DPA\" or the \"Act\"), the Defense Priorities and Allocations System (15 CFR part 700) and Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials, dated July 30, 2026 (\"DPA Determination on Recoverable CMMs\"), in which the President authorized the Department of Commerce (\"Commerce\") to address the scarcity of recoverable critical minerals and materials (\"CMMs\"). BIS invites the public to submit comments on whether any additional sales requirements are necessary or appropriate to promote the national defense.",
+    "category": "Försvar",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Commerce Department",
+      "Industry and Security Bureau"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/06/2026-16078/dpas-directive-allocation-order-and-additional-requirements-for-recoverable-critical-minerals-and",
+    "is_official": true
+  },
+  {
+    "id": "2026-16056",
+    "title": "Certain Tissue Paper Products From the People's Republic of China: Initiation of Circumvention Inquiry of the Antidumping Duty Order",
+    "publication_date": "2026-08-06",
+    "document_type": "Notice",
+    "abstract": "In response to a request from Seaman Paper Company of Massachusetts, Inc. (Seaman, or the requester), the U.S. Department of Commerce (Commerce) is initiating a country-wide circumvention inquiry to determine whether imports of certain tissue paper products (tissue paper) completed in the Socialist Republic of Vietnam (Vietnam) using jumbo paper rolls manufactured in the People's Republic of China (China), are circumventing the antidumping duty (AD) order on tissue paper from China.",
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Commerce Department",
+      "International Trade Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/06/2026-16056/certain-tissue-paper-products-from-the-peoples-republic-of-china-initiation-of-circumvention-inquiry",
+    "is_official": true
+  },
+  {
+    "id": "2026-16053",
+    "title": "Disposable Aluminum Containers, Pans, Trays, and Lids From the People's Republic of China: Initiation of Circumvention Inquiries on the Antidumping and Countervailing Duty Orders",
+    "publication_date": "2026-08-06",
+    "document_type": "Notice",
+    "abstract": "In response to a request from the Aluminum Foil Containers Manufacturers Association (AFCMA) and the following individual members of AFCMA, Durable Packaging International; D&W Fine Pack, LLC; Handifoil Corp.; Penny Plate, LLC; Reynolds Consumer Products, LLC; Shah Foil Products, Inc.; Smart USA, Inc.; Trinidad/Benham Corp.; and Wyda Packaging Corp. (collectively, the requesters), the U.S. Department of Commerce (Commerce) is initiating country-wide circumvention inquiries to determine whether imports of disposable aluminum containers, pans, trays, and lids (aluminum containers) completed in Indonesia and Malaysia (collectively, the third countries) using aluminum foil manufactured in the People's Republic of China (China), are circumventing the antidumping duty (AD) and countervailing duty (CVD) orders on aluminum containers from China.",
+    "category": "Energi",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Commerce Department",
+      "International Trade Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/06/2026-16053/disposable-aluminum-containers-pans-trays-and-lids-from-the-peoples-republic-of-china-initiation-of",
+    "is_official": true
+  },
+  {
+    "id": "2026-15954",
+    "title": "Procurement List; Deletions",
+    "publication_date": "2026-08-06",
+    "document_type": "Notice",
+    "abstract": "This action deletes product(s) and service(s) from the Procurement List that were furnished by nonprofit agencies employing persons who are blind or have other severe disabilities.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Committee for Purchase From People Who Are Blind or Severely Disabled"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/06/2026-15954/procurement-list-deletions",
+    "is_official": true
+  },
+  {
+    "id": "2026-15953",
+    "title": "Oil and Gas and Sulfur Operations on the Outer Continental Shelf-Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf",
+    "publication_date": "2026-08-06",
+    "document_type": "Proposed Rule",
+    "abstract": "The Department of the Interior (DOI or Department), acting through BSEE and BOEM (collectively, \"the Bureaus\"), is proposing to revise its existing regulations for exploratory drilling and related operations on the Arctic Outer Continental Shelf (OCS), to reduce unnecessary burdens on stakeholders while ensuring that energy exploration on the Arctic OCS is safe and environmentally responsible.\\1\\ This proposed rule would revise certain requirements promulgated through the rule entitled, Oil and Gas and Sulfur Operations on the Outer Continental Shelf--Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf (\"2016 Arctic Exploratory Drilling Rule\") (see 81 FR 46478). This proposed rule would modify existing Arctic OCS blowout preventer (BOP) real-time monitoring requirements and add new provisions to BSEE's regulations pertaining to requirements for crane operations on artificial islands, suspensions of operations (SOO), and suspensions of production (SOP). This proposed rule would also revise certain parts of the Exploration Plan (EP) and Development and Production Plan (DPP) regulations implemented by BOEM. ---------------------------------------------------------------------------",
+    "category": "Energi",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Interior Department",
+      "Safety and Environmental Enforcement Bureau",
+      "Ocean Energy Management Bureau"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/06/2026-15953/oil-and-gas-and-sulfur-operations-on-the-outer-continental-shelf-revisions-to-the-requirements-for",
+    "is_official": true
+  },
+  {
+    "id": "2026-15952",
+    "title": "Procurement List; Proposed Additions and Deletions",
+    "publication_date": "2026-08-06",
+    "document_type": "Notice",
+    "abstract": "The Committee is proposing to add service(s) to the Procurement List that will be furnished by nonprofit agencies employing persons who are blind or have other severe disabilities, and delete product(s) previously furnished by such agencies.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Committee for Purchase From People Who Are Blind or Severely Disabled"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/06/2026-15952/procurement-list-proposed-additions-and-deletions",
+    "is_official": true
+  },
+  {
+    "id": "2026-15857",
+    "title": "Importation of Coffee Into Hawaii and Puerto Rico",
+    "publication_date": "2026-08-05",
+    "document_type": "Proposed Rule",
+    "abstract": "We are proposing to amend the regulations regarding the importation of unroasted coffee and related articles into Hawaii and Puerto Rico by establishing a notice-based process for changes to the prohibitions on importing such articles. We would also broaden language regarding coffee pests. We are proposing these amendments because they would allow the Agency to more efficiently respond to market access requests as well as to emerging pest situations. These amendments would allow us to use a streamlined approach to update the importation conditions for unroasted coffee and related articles while continuing to protect plant health.",
+    "category": "Hälsa",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Agriculture Department",
+      "Animal and Plant Health Inspection Service"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15857/importation-of-coffee-into-hawaii-and-puerto-rico",
+    "is_official": true
+  },
+  {
+    "id": "2026-15845",
+    "title": "National Poultry Improvement Plan and Auxiliary Provisions",
+    "publication_date": "2026-08-05",
+    "document_type": "Proposed Rule",
+    "abstract": "We are proposing to amend the regulations governing the National Poultry Improvement Plan (NPIP). These amendments would, among other things, clarify existing provisions of the regulations, fix editorial errors, and align the regulations more closely with current producer practices. These proposed changes were voted on and approved by the voting delegates at the NPIP's 2024 National Plan Conference.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "export controls",
+    "agencies": [
+      "Agriculture Department",
+      "Animal and Plant Health Inspection Service"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15845/national-poultry-improvement-plan-and-auxiliary-provisions",
+    "is_official": true
+  },
+  {
+    "id": "2026-15833",
+    "title": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; Other Policy Changes; and Adoption of Updated Versions of Certain Health Information Technology Standards",
+    "publication_date": "2026-08-04",
+    "document_type": "Rule",
+    "abstract": "This final rule will revise the Medicare hospital inpatient prospective payment systems (IPPS) for operating and capital-related costs of acute care hospitals; make changes relating to Medicare graduate medical education (GME) for teaching hospitals; update the payment policies and the annual payment rates for the Medicare prospective payment system (PPS) for inpatient hospital services provided by long-term care hospitals (LTCHs); update and make changes to requirements for certain quality programs; and make other policy- related changes. ONC also adopts certain health information technology (health IT) standards and specifications on behalf of HHS.",
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Health and Human Services Department",
+      "Centers for Medicare & Medicaid Services",
+      ""
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/04/2026-15833/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and",
+    "is_official": true
+  },
+  {
+    "id": "2026-15820",
+    "title": "Hazardous Materials: Adoption of Department of Transportation Special Permit 21478",
+    "publication_date": "2026-08-04",
+    "document_type": "Rule",
+    "abstract": "This final rule removes undue regulatory burdens by adopting the provisions of U.S. Department of Transportation (DOT) special permit (SP) 21478 to allow empty intermediate bulk containers (IBCs) that only contain the residue of a hazardous material to be transported without shipping papers, placards, and United Nations (UN) identification (ID) numbers.",
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Transportation Department",
+      "Pipeline and Hazardous Materials Safety Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/04/2026-15820/hazardous-materials-adoption-of-department-of-transportation-special-permit-21478",
+    "is_official": true
+  },
+  {
+    "id": "2026-15819",
+    "title": "Hazardous Materials: Adoption of Department of Transportation Special Permit 14175",
+    "publication_date": "2026-08-04",
+    "document_type": "Rule",
+    "abstract": "This final rule removes undue regulatory burdens by adopting the provisions of U.S. Department of Transportation (DOT) special permit (SP) 14175 to authorize a 10-year requalification period and the ultrasonic examination (UE) testing method for DOT specification 3A and 3AA cylinders in flammable and non-flammable, nonpoisonous gas service. This adoption reflects advances in testing technology and will relieve stakeholders of the burden of performing more frequent cylinder requalification.",
+    "category": "Energi",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Transportation Department",
+      "Pipeline and Hazardous Materials Safety Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/04/2026-15819/hazardous-materials-adoption-of-department-of-transportation-special-permit-14175",
+    "is_official": true
+  },
+  {
+    "id": "2026-15818",
+    "title": "Hazardous Materials: Adoption of Department of Transportation Special Permit 21379",
+    "publication_date": "2026-08-04",
+    "document_type": "Rule",
+    "abstract": "This final rule removes undue regulatory burdens by adopting the provisions of U.S. Department of Transportation (DOT) special permit (SP) 21379 to streamline the transportation of refrigerating machines and components containing certain low flammability refrigerant gases.",
+    "category": "Energi",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Transportation Department",
+      "Pipeline and Hazardous Materials Safety Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/04/2026-15818/hazardous-materials-adoption-of-department-of-transportation-special-permit-21379",
+    "is_official": true
+  },
+  {
+    "id": "2026-15817",
+    "title": "Hazardous Materials: Adoption of Department of Transportation Special Permit 21287",
+    "publication_date": "2026-08-04",
+    "document_type": "Rule",
+    "abstract": "This final rule removes undue regulatory burdens by adopting the provisions of U.S Department of Transportation (DOT) special permit (SP) 21287 to streamline the transportation of refrigerating machines-- including common household appliances like refrigerators, window- mounted air-conditioning units, and dehumidifiers--that contain small quantities of certain low flammability refrigerant gases.",
+    "category": "Energi",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Transportation Department",
+      "Pipeline and Hazardous Materials Safety Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/04/2026-15817/hazardous-materials-adoption-of-department-of-transportation-special-permit-21287",
+    "is_official": true
+  },
+  {
+    "id": "2026-15816",
+    "title": "Hazardous Materials: Adoption of Department of Transportation Special Permits 12412 and 11646 Into the Hazardous Materials Regulations",
+    "publication_date": "2026-08-04",
+    "document_type": "Rule",
+    "abstract": "PHMSA is amending the Hazardous Materials Regulations to adopt the provisions of U.S. Department of Transportation (DOT) special permit (SP) 12412 and DOT SP 11646. These amendments will provide greater regulatory flexibility and eliminate the need for special permit renewal requests, reducing paperwork burdens and facilitating commerce while maintaining an equivalent level of safety.",
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Transportation Department",
+      "Pipeline and Hazardous Materials Safety Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/04/2026-15816/hazardous-materials-adoption-of-department-of-transportation-special-permits-12412-and-11646-into",
+    "is_official": true
+  },
+  {
+    "id": "2026-15759",
+    "title": "Imposition of Nonproliferation Measures Against Foreign Persons, Including a Ban on U.S. Government Procurement",
+    "publication_date": "2026-08-04",
+    "document_type": "Notice",
+    "abstract": "A determination has been made that a number of foreign persons have engaged in activities that warrant the imposition of measures pursuant to the Iran, North Korea, and Syria Nonproliferation Act (INKSNA).",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "State Department"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/04/2026-15759/imposition-of-nonproliferation-measures-against-foreign-persons-including-a-ban-on-us-government",
+    "is_official": true
+  },
+  {
+    "id": "2026-15665",
+    "title": "Reduction in Force",
+    "publication_date": "2026-08-03",
+    "document_type": "Rule",
+    "abstract": "The Office of Personnel Management (OPM) is revising its reduction in force (RIF) regulations to make the RIF regulations more streamlined, efficient, and merit-based by prioritizing performance over tenure and length of service when determining which employees will be retained in a RIF and by modifying the types of employees who are excluded from RIF competition. OPM is also revising its regulations regarding the reemployment priority list (RPL), career transition assistance program (CTAP), the interagency career transition assistance program (ICTAP), and transfers of function.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Personnel Management Office"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15665/reduction-in-force",
+    "is_official": true
+  },
+  {
+    "id": "2026-15549",
+    "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 225, Foreign Acquisition and Related Clauses",
+    "publication_date": "2026-07-31",
+    "document_type": "Notice",
+    "abstract": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act.",
+    "category": "Försvar",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Defense Department",
+      "Defense Acquisition Regulations System"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15549/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-225",
+    "is_official": true
+  },
+  {
+    "id": "2026-15349",
+    "title": "Procurement List; Proposed Additions and Deletions",
+    "publication_date": "2026-07-30",
+    "document_type": "Notice",
+    "abstract": "The Committee is proposing to add service(s) to the Procurement List that will be furnished by nonprofit agencies employing persons who are blind or have other severe disabilities, and delete product(s) and service(s) previously furnished by such agencies.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Committee for Purchase From People Who Are Blind or Severely Disabled"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/07/30/2026-15349/procurement-list-proposed-additions-and-deletions",
+    "is_official": true
+  },
+  {
+    "id": "2026-15297",
+    "title": "Statement of Organization, Functions, and Delegations of Authority",
+    "publication_date": "2026-07-29",
+    "document_type": "Notice",
+    "abstract": "The Food and Drug Administration's (FDA) plans to centralize and enhance key functions across the agency. These changes will reduce redundancies, improve efficiency, and advance alignment to better serve the American public.",
+    "category": "Konsument",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Health and Human Services Department",
+      "Food and Drug Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/07/29/2026-15297/statement-of-organization-functions-and-delegations-of-authority",
+    "is_official": true
+  },
+  {
+    "id": "2026-15123",
+    "title": "Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks",
+    "publication_date": "2026-07-27",
+    "document_type": "Rule",
+    "abstract": "In this document, the Federal Communications Commission (Commission or FCC) adopted a Second Report and Order that promotes the deployment of submarine cables while strengthening national security interests in connection with their modern capabilities. The Second Report and Order establishes a regulatory regime for licensing owners and/or operators of submarine line terminal equipment (SLTE), including granting a blanket license to certain current and future SLTE owners and/or operators that are not currently a licensee. The Second Report and Order adopts certain routine conditions and outlines reporting requirements for SLTE owners and operators. The Second Report and Order also adopts further national security-related routine conditions and certification requirements. Finally, the Second Report and Order adopts an approach to expedite submarine cable deployment by presumptively exempting applications that meet ten national security standards from Commission referral to the Executive Branch agencies.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Federal Communications Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/07/27/2026-15123/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
+    "is_official": true
+  },
+  {
+    "id": "2026-15080",
+    "title": "Reducing Barriers to Medical Use Licensing",
+    "publication_date": "2026-07-27",
+    "document_type": "Proposed Rule",
+    "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is proposing to amend its regulations to reduce barriers to medical use licensing. This proposed rule responds to Executive Order 14300, \"Ordering the Reform of the Nuclear Regulatory Commission,\" which requires the NRC to conduct a review and wholesale revision of its regulations. This proposed rule, if adopted, would reduce overly prescriptive regulations, increase flexibility, and modernize radiation safety practices for the medical use of byproduct material. It also would enable more efficient and predictable licensing for emerging medical technologies and reduce unnecessary burden in training and experience requirements for medical authorized users. The NRC is revising guidance for this proposed rule. This proposed rule also would incorporate minor editorial corrections.",
+    "category": "Energi",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Nuclear Regulatory Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/07/27/2026-15080/reducing-barriers-to-medical-use-licensing",
+    "is_official": true
+  },
+  {
+    "id": "2026-15068",
+    "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement; Covered Defense Telecommunications Equipment or Services",
+    "publication_date": "2026-07-27",
+    "document_type": "Notice",
+    "abstract": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estimate of the burden of the proposed information collection; ways to enhance the quality, utility, and clarity of the information to be collected; and ways to minimize the burden of the information collection on respondents, including through the use of automated collection techniques or other forms of information technology. The Office of Management and Budget (OMB) has approved this information collection for use under Control Number 0750-0002 through October 31, 2026. DoD proposes that OMB approve an extension of the information collection requirement, to expire three years after the approval date.",
+    "category": "Försvar",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Defense Department",
+      "Defense Acquisition Regulations System"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/07/27/2026-15068/information-collection-requirement-defense-federal-acquisition-regulation-supplement-covered-defense",
+    "is_official": true
+  },
+  {
+    "id": "2026-14875",
+    "title": "Procurement List; Deletions",
+    "publication_date": "2026-07-23",
+    "document_type": "Notice",
+    "abstract": "This action deletes product(s) from the Procurement List that were furnished by nonprofit agencies employing persons who are blind or have other severe disabilities.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Committee for Purchase From People Who Are Blind or Severely Disabled"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/07/23/2026-14875/procurement-list-deletions",
+    "is_official": true
+  },
+  {
+    "id": "2026-14874",
+    "title": "Procurement List; Proposed Additions and Deletions",
+    "publication_date": "2026-07-23",
+    "document_type": "Notice",
+    "abstract": "The Committee is proposing to add service(s) to the Procurement List that will be furnished by nonprofit agencies employing persons who are blind or have other severe disabilities, and delete product(s) and service(s) previously furnished by such agencies.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Committee for Purchase From People Who Are Blind or Severely Disabled"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/07/23/2026-14874/procurement-list-proposed-additions-and-deletions",
+    "is_official": true
+  },
+  {
+    "id": "2026-14703",
+    "title": "Personnel Demonstration Project at the United States Army Communications-Electronics Command Software Engineering Center Science and Technology Reinvention Laboratory (STRL)",
+    "publication_date": "2026-07-22",
+    "document_type": "Notice",
+    "abstract": "This Federal Register Notice (FRN) serves as notice of the proposed adoption of a new personnel demonstration project plan and flexibilities by the STRL comprised of the United States Army Communications-Electronics Command (CECOM) Software Engineering Center (SEC), a successor STRL of the CECOM STRL. The CECOM STRL and, subsequent to reorganization, its two successor organizations--the CECOM SEC STRL and the Combat Capabilities Development Command (DEVCOM) Command, Control, Communications, Computers, Cyber, Intelligence, Surveillance, and Reconnaissance Center (C5ISR) STRL--have successfully implemented the personnel demonstration project plan since October 30, 2001. Because the successor STRLs operate under different commands and internal operating procedures, the CECOM SEC STRL proposes to independently adopt, with some modifications, a similar personnel demonstration project plan that is applicable only to the CECOM STRL.",
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Defense Department",
+      ""
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/07/22/2026-14703/personnel-demonstration-project-at-the-united-states-army-communications-electronics-command",
+    "is_official": true
+  },
+  {
+    "id": "2026-14550",
+    "title": "Endangered and Threatened Wildlife and Plants; Reclassification of the Hawaiian Stilt (Kukuluae'o or Ae'o) From Endangered to Threatened With a Section 4(d) Rule",
+    "publication_date": "2026-07-20",
+    "document_type": "Rule",
+    "abstract": "We, the U.S. Fish and Wildlife Service (Service), are reclassifying the Hawaiian stilt (kukuluae[revaps]o or ae[revaps]o, Himantopus mexicanus knudseni; a subspecies of the black-necked stilt (Himantopus mexicanus)) from endangered to threatened (downlist) under the Endangered Species Act of 1973, as amended (Act). This action is based on our evaluation of the best scientific and commercial data available, which indicates that the subspecies' status has improved such that it is not in danger of extinction throughout all or a significant portion of its range, but that it is still likely to become so within the foreseeable future. We also finalize protective regulations under the authority of section 4(d) of the Act that are necessary and advisable to provide for the conservation of the Hawaiian stilt. We recognize the Hawaiian names kukuluae[revaps]o and ae[revaps]o as additional common names.",
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Interior Department",
+      "Fish and Wildlife Service"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/07/20/2026-14550/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-hawaiian-stilt-kukuluaeo-or",
+    "is_official": true
+  },
+  {
+    "id": "2026-14461",
+    "title": "Implementing Voluntary Agreements Under the Defense Production Act",
+    "publication_date": "2026-07-17",
+    "document_type": "Rule",
+    "abstract": "The U.S. Department of Energy (\"DOE\") is adopting the interim final rule published on August 25, 2025, as final, without change. This final rule establishes the procedures for developing and carrying out voluntary agreements and plans of action under the Defense Production Act. The Defense Production Act provides a defense from antitrust laws with respect to any action taken to develop or carry out any voluntary agreement or plan of action when certain criteria are met.",
+    "category": "Försvar",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "defense procurement",
+    "agencies": [
+      "Energy Department"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/07/17/2026-14461/implementing-voluntary-agreements-under-the-defense-production-act",
     "is_official": true
   }
 ]
