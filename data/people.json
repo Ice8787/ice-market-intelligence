@@ -158,6 +158,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "290d927312efd1",
+    "name": "Karl Åberg",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 8,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "962187cd035f75",
     "name": "Thomas Reynaud",
     "person_type": "corporate_insider",
@@ -210,12 +226,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "65b8b611c9b572",
-    "name": "Sven-Olof Johansson",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
+    "id": "ee77efd8c68c9f",
+    "name": "Jörgen Karlsson",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
     "categories": [
-      "Övrigt"
+      "Finans"
     ],
     "history": {
       "tracked_buys": 6,
@@ -226,15 +242,15 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "ee77efd8c68c9f",
-    "name": "Jörgen Karlsson",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
+    "id": "65b8b611c9b572",
+    "name": "Sven-Olof Johansson",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
     "categories": [
-      "Finans"
+      "Övrigt"
     ],
     "history": {
-      "tracked_buys": 6,
+      "tracked_buys": 5,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -387,22 +403,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "eacfde566d570f",
-    "name": "Per Taube",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 2,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "b1f4ac6b303101",
     "name": "Emil Daniel Augusto Bergman",
     "person_type": "business_leader",
@@ -532,44 +532,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "76debbbf1e09a6",
-    "name": "Petter Stillström",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 2,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "3f3e49f9397fb6",
     "name": "Andreas Moritz",
     "person_type": "corporate_insider",
     "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
     "categories": [
       "Finans"
-    ],
-    "history": {
-      "tracked_buys": 2,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "5c6edf646140b3",
-    "name": "Per Åhlgren",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
-    "categories": [
-      "Övrigt"
     ],
     "history": {
       "tracked_buys": 2,
@@ -1094,22 +1062,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "148016eecb8310",
-    "name": "joen magnusson",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "f582b296da37bd",
     "name": "Alexander Svedulf",
     "person_type": "corporate_insider",
@@ -1178,22 +1130,6 @@
     "name": "Diego Teijeiro Ruiz",
     "person_type": "corporate_insider",
     "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "46357dc96a6de7",
-    "name": "Fiona Mullan",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
     "categories": [
       "Övrigt"
     ],
@@ -1430,6 +1366,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "76debbbf1e09a6",
+    "name": "Petter Stillström",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "f20b5cbcf217a4",
     "name": "Hans Johan Steene",
     "person_type": "business_leader",
@@ -1468,6 +1420,22 @@
     "primary_role": "Arbetstagarrepresentant i styrelsen eller arbetstagarsuppleant",
     "categories": [
       "Hälsa"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "5c6edf646140b3",
+    "name": "Per Åhlgren",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
+    "categories": [
+      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1546,22 +1514,6 @@
     "name": "Johan Sigfrid Rask",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "c63bd3db2582df",
-    "name": "Jonas Dahllöf",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
     "categories": [
       "Övrigt"
     ],
@@ -1720,6 +1672,22 @@
   {
     "id": "23cfb8ab85aa83",
     "name": "MK Capital Invest AB",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "eacfde566d570f",
+    "name": "Per Taube",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
     "categories": [
