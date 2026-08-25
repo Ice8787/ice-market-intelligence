@@ -1,19 +1,19 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-08-25T14:06:55.211909Z",
+  "generated_at": "2026-08-25T14:58:53.287770Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
-  "record_count": 651,
-  "people_count": 110,
+  "record_count": 655,
+  "people_count": 111,
   "political_trade_count": 411,
-  "policy_event_count": 125,
+  "policy_event_count": 35,
   "trend_count": 22,
   "daily_pick_count": 5,
   "top_per_market_category": 100,
   "group_counts": {
+    "Sverige|Övrigt|business_leader": 93,
     "Sverige|Övrigt|corporate_insider": 100,
-    "Sverige|Övrigt|business_leader": 92,
-    "Sverige|Industri|corporate_insider": 4,
+    "Sverige|Industri|corporate_insider": 7,
     "Sverige|Industri|business_leader": 5,
     "Sverige|Hälsa|corporate_insider": 13,
     "Sverige|Teknik|corporate_insider": 7,
@@ -31,8 +31,8 @@
     "USA|Energi|political": 58
   },
   "person_type_counts": {
-    "corporate_insider": 132,
-    "business_leader": 108,
+    "business_leader": 109,
+    "corporate_insider": 135,
     "political": 411
   },
   "source_status": {
@@ -42,7 +42,7 @@
     },
     "Sverige": {
       "ok": true,
-      "new_records": 39
+      "new_records": 40
     },
     "US politicians": {
       "ok": true,
@@ -81,23 +81,23 @@
       }
     },
     "Federal Register": {
-      "ok": true,
+      "ok": false,
       "terms": {
         "tariff": {
-          "ok": true,
-          "records": 35
+          "ok": false,
+          "error": "HTTP Error 503: Service Temporarily Unavailable"
         },
         "trade": {
-          "ok": true,
-          "records": 35
+          "ok": false,
+          "error": "HTTP Error 503: Service Temporarily Unavailable"
         },
         "export controls": {
           "ok": true,
           "records": 35
         },
         "defense procurement": {
-          "ok": true,
-          "records": 35
+          "ok": false,
+          "error": "HTTP Error 503: Service Temporarily Unavailable"
         }
       },
       "source": "Federal Register API"
