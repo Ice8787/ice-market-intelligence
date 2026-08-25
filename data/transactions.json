@@ -2152,65 +2152,6 @@
     "is_demo": false
   },
   {
-    "id": "6609229cfa8a944314",
-    "person_id": "ee8f42fb86974a",
-    "person_name": "Patrik Mellgren",
-    "person_role": "Verkställande direktör (VD)",
-    "person_type": "business_leader",
-    "issuer_cik": "",
-    "company": "Wästbygg Gruppen AB (publ)",
-    "ticker": "SE0014453874",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 63900.0,
-    "category": "Industri",
-    "subcategory": "Automatisk namnklassning – verifiera",
-    "transaction_date": "2026-08-21",
-    "filing_date": "2026-08-21",
-    "reporting_delay_days": 0,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "buy",
-    "transaction_code": "P",
-    "shares": 30000.0,
-    "purchase_price": 2.13,
-    "value_usd": 0.0,
-    "score": 47,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppet marknadsköp",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 2.13,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Industri",
-      "Verkställande direktör (VD)",
-      "Förvärv",
-      "egen rapport"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B772-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
     "id": "dbdd4f06ac78f7fafe",
     "person_id": "a7cc3a529b7e2a",
     "person_name": "Richard Ding",
@@ -2327,6 +2268,65 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B781-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "6609229cfa8a944314",
+    "person_id": "ee8f42fb86974a",
+    "person_name": "Patrik Mellgren",
+    "person_role": "Verkställande direktör (VD)",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "Wästbygg Gruppen AB (publ)",
+    "ticker": "SE0014453874",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 63900.0,
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-08-21",
+    "filing_date": "2026-08-21",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 30000.0,
+    "purchase_price": 2.13,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 2.13,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Industri",
+      "Verkställande direktör (VD)",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B772-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
@@ -3164,6 +3164,65 @@
     "is_demo": false
   },
   {
+    "id": "86f3d4863a46cb9a99",
+    "person_id": "c94baf4955368c",
+    "person_name": "Anders Bladh, Ribbskottet",
+    "person_role": "Styrelseledamot",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "XSpray Pharma AB (publ)",
+    "ticker": "SE0009973563",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 38745.0,
+    "category": "Hälsa",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-08-20",
+    "filing_date": "2026-08-20",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 3690.0,
+    "purchase_price": 10.5,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 10.5,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Hälsa",
+      "Styrelseledamot",
+      "Förvärv",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B742-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "0e3c29650c4aebfafb",
     "person_id": "ee8f42fb86974a",
     "person_name": "Patrik Mellgren",
@@ -3339,65 +3398,6 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B772-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
-    "id": "86f3d4863a46cb9a99",
-    "person_id": "c94baf4955368c",
-    "person_name": "Anders Bladh, Ribbskottet",
-    "person_role": "Styrelseledamot",
-    "person_type": "corporate_insider",
-    "issuer_cik": "",
-    "company": "XSpray Pharma AB (publ)",
-    "ticker": "SE0009973563",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 38745.0,
-    "category": "Hälsa",
-    "subcategory": "Automatisk namnklassning – verifiera",
-    "transaction_date": "2026-08-20",
-    "filing_date": "2026-08-20",
-    "reporting_delay_days": 0,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "buy",
-    "transaction_code": "P",
-    "shares": 3690.0,
-    "purchase_price": 10.5,
-    "value_usd": 0.0,
-    "score": 47,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppet marknadsköp",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 10.5,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Hälsa",
-      "Styrelseledamot",
-      "Förvärv",
-      "närstående"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B742-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
