@@ -23,7 +23,7 @@
     "abstract": "As required by the Paperwork Reduction Act of 1995 (PRA), the Surface Transportation Board (STB or Board) gives notice of its intent to seek approval from the Office of Management and Budget (OMB) for the extension (without change) of the collections required by statute for rail or water carrier equipment liens (recordations), water carrier tariffs, and rail agricultural contract summaries, as described in more detail below.",
     "category": "Transport",
     "subcategory": "Automatisk namnklassning – verifiera",
-    "search_term": "tariff",
+    "search_term": "trade",
     "agencies": [
       "Surface Transportation Board"
     ],
@@ -54,7 +54,7 @@
     "abstract": "Notice is hereby given that the U.S. International Trade Commission (\"Commission\") has determined not to review an initial determination (\"ID\") (Order No. 30) of the presiding administrative law judge (\"ALJ\") terminating the investigation based on withdrawal of the complaint. The investigation is hereby terminated.",
     "category": "Övrigt",
     "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
+    "search_term": "trade",
     "agencies": [
       "International Trade Commission"
     ],
@@ -69,7 +69,7 @@
     "abstract": "Notice is hereby given that the U.S. International Trade Commission has received a complaint entitled Certain Wearable Breast Pumps, Associated Milk Storage Containers, and Components Thereof, DN 3932; the Commission is soliciting comments on any public interest issues raised by the complaint or complainant's filing pursuant to the Commission's Rules of Practice and Procedure.",
     "category": "Övrigt",
     "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
+    "search_term": "trade",
     "agencies": [
       "International Trade Commission"
     ],
@@ -84,11 +84,166 @@
     "abstract": "The Commission hereby gives notice of the scheduling of expedited reviews pursuant to the Tariff Act of 1930 (\"the Act\") to determine whether revocation of the antidumping duty and countervailing duty orders on steel grating from China would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time.",
     "category": "Industri",
     "subcategory": "Automatisk namnklassning – verifiera",
-    "search_term": "tariff",
+    "search_term": "trade",
     "agencies": [
       "International Trade Commission"
     ],
     "source_url": "https://www.federalregister.gov/documents/2026/08/25/2026-17261/steel-grating-from-china-scheduling-of-expedited-five-year-reviews",
+    "is_official": true
+  },
+  {
+    "id": "2026-17374",
+    "title": "Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act",
+    "publication_date": "2026-08-25",
+    "document_type": "Presidential Document",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Executive Office of the President"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/25/2026-17374/continuation-of-the-exercise-of-certain-authorities-under-the-trading-with-the-enemy-act",
+    "is_official": true
+  },
+  {
+    "id": "2026-17331",
+    "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension",
+    "publication_date": "2026-08-25",
+    "document_type": "Notice",
+    "abstract": "In accordance with the Paperwork Reduction Act of 1995 (PRA), the Federal Trade Commission (FTC or Commission) is seeking public comment on its proposal to extend for an additional three years the information collection requirements contained in the agency's rule governing Standards for Safeguarding Customer Information (the Safeguards Rule). The current clearance expires on December 31, 2026.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Federal Trade Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/25/2026-17331/agency-information-collection-activities-proposed-collection-comment-request-extension",
+    "is_official": true
+  },
+  {
+    "id": "2026-17309",
+    "title": "Revising U.S. Standards for Grades of Mushrooms",
+    "publication_date": "2026-08-25",
+    "document_type": "Notice",
+    "abstract": "The Agricultural Marketing Service (AMS) of the Department of Agriculture (USDA) is revising the U.S. Standards for Grades of Mushrooms to add a grade for portabella mushrooms, remove size from the criteria for each grade and create a separate section for size, and revise the tolerances for defects consistent with modern production and handling practices. In addition, AMS is updating terminology, definitions, and defect scoring guides throughout the grade standards. These changes align the grade standards with modern harvesting practices and provide guidance for the effective utilization of this commodity.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Agriculture Department",
+      "Agricultural Marketing Service"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/25/2026-17309/revising-us-standards-for-grades-of-mushrooms",
+    "is_official": true
+  },
+  {
+    "id": "2026-17296",
+    "title": "Membership Adjustment of the Mushroom Council",
+    "publication_date": "2026-08-25",
+    "document_type": "Proposed Rule",
+    "abstract": "This proposed rule invites comments on realigning and reallocating representation on the Mushroom Council as prescribed in the Mushroom Promotion, Research, and Consumer Information Order by adjusting the states in Regions 1 and 3 and reallocating a member from Region 1 to Region 3.",
+    "category": "Konsument",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Agriculture Department",
+      "Agricultural Marketing Service"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/25/2026-17296/membership-adjustment-of-the-mushroom-council",
+    "is_official": true
+  },
+  {
+    "id": "2026-17292",
+    "title": "Agency Information Collection Activities; Comment Request on U.S. Individual Income Tax Returns and Related Forms, Schedules, Attachments, and Published Guidance",
+    "publication_date": "2026-08-25",
+    "document_type": "Notice",
+    "abstract": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Treasury Department",
+      "Internal Revenue Service"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/25/2026-17292/agency-information-collection-activities-comment-request-on-us-individual-income-tax-returns-and",
+    "is_official": true
+  },
+  {
+    "id": "2026-17283",
+    "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the CDS Instrument On-Boarding Policies and Procedures",
+    "publication_date": "2026-08-25",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Finans",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/25/2026-17283/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
+    "is_official": true
+  },
+  {
+    "id": "2026-17281",
+    "title": "Self-Regulatory Organizations; Investors Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Enhance Certain Aspects of the Activity-Based Risk Controls Applicable to IEX Options Members Set Forth in IEX Rule 22.250, and To Make Conforming and Typo Clean-Up Changes to IEX Rules 22.250 and 22.260",
+    "publication_date": "2026-08-25",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/25/2026-17281/self-regulatory-organizations-investors-exchange-llc-notice-of-filing-and-immediate-effectiveness-of",
+    "is_official": true
+  },
+  {
+    "id": "2026-17279",
+    "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Exchange Rule 4759 Regarding Sources of Data Used",
+    "publication_date": "2026-08-25",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/25/2026-17279/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate",
+    "is_official": true
+  },
+  {
+    "id": "2026-17267",
+    "title": "National Heart, Lung, and Blood Institute; Notice of Closed Meeting",
+    "publication_date": "2026-08-25",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Health and Human Services Department",
+      "National Institutes of Health"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/25/2026-17267/national-heart-lung-and-blood-institute-notice-of-closed-meeting",
+    "is_official": true
+  },
+  {
+    "id": "2026-17265",
+    "title": "Notice of OFAC Sanctions Action",
+    "publication_date": "2026-08-25",
+    "document_type": "Notice",
+    "abstract": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the names of one or more persons and vessels that have been placed on OFAC's Specially Designated Nationals and Blocked Persons List (SDN List) based on OFAC's determination that one or more applicable legal criteria were satisfied. All property and interests in property subject to U.S. jurisdiction of these persons are blocked, and U.S. persons are generally prohibited from engaging in transactions with them. The vessels placed on the SDN List have been identified as property in which a blocked person has an interest.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Treasury Department",
+      "Foreign Assets Control Office"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/25/2026-17265/notice-of-ofac-sanctions-action",
     "is_official": true
   },
   {
@@ -114,7 +269,7 @@
     "abstract": "",
     "category": "Konsument",
     "subcategory": "Automatisk namnklassning – verifiera",
-    "search_term": "tariff",
+    "search_term": "trade",
     "agencies": [
       "Executive Office of the President"
     ],
@@ -145,7 +300,7 @@
     "abstract": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on July 21, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of LG Energy Solution Ltd. of Korea and LG Energy Solution Arizona, Inc. of Queen Creek, Arizona. A supplement was filed on August 5, 2026. The complaint, as supplemented, alleges violations of section 337 based upon the importation into the United States, the sale for importation, and the sale within the United States after importation of certain secondary cylindrical batteries, components thereof, and products containing the same by reason of the infringement of certain claims of U.S. Patent No. 8,420,257 (\"the '257 patent\"); U.S. Patent No, 11,749,866 (\"the '866 patent\"); U.S. Patent No. 12,412,924 (\"the '924 patent\"); U.S. Patent No. 12,412,965 (\"the '965 patent\"); and U.S. Patent No. 12,646,735 (\"the '735 patent\"). The complaint, as supplemented, further alleges that an industry in the United States is in the process of being established as required by the applicable Federal Statute. The complainants request that the Commission institute an investigation and, after the investigation, issue a limited exclusion order and cease and desist orders.",
     "category": "Energi",
     "subcategory": "Automatisk namnklassning – verifiera",
-    "search_term": "tariff",
+    "search_term": "trade",
     "agencies": [
       "International Trade Commission"
     ],
@@ -160,11 +315,42 @@
     "abstract": "Notice is hereby given that on August 19, 2026, the presiding administrative law judge (\"ALJ\") issued a Recommended Determination regarding public interest should a violation be found in the above- captioned investigation. The Commission is extending the deadline for submissions on public interest issues should the Commission find a violation that was set in the notice dated August 11, 2026. This notice and the prior notice are soliciting comments from the public and interested government agencies only.",
     "category": "Övrigt",
     "subcategory": "Ej klassificerad",
-    "search_term": "tariff",
+    "search_term": "trade",
     "agencies": [
       "International Trade Commission"
     ],
     "source_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17196/certain-wi-fi-routers-wi-fi-devices-mesh-wi-fi-network-devices-and-components-thereof-notice-of",
+    "is_official": true
+  },
+  {
+    "id": "2026-17244",
+    "title": "Arizona Public Service Company; Palo Verde Nuclear Generating Station, Units 1, 2, and 3; Indirect Transfer of Control of Licenses",
+    "publication_date": "2026-08-24",
+    "document_type": "Notice",
+    "abstract": "The U.S. Nuclear Regulatory Commission (NRC, the Commission) is issuing an order approving the application dated April 24, 2026, filed by Arizona Public Service Company (APS), on behalf of Public Service Company of New Mexico (PNM), Troy ParentCo LLC (Troy ParentCo), and their corporate affiliates (together, Applicants). The application sought NRC consent to the indirect transfer of control of PNM's co- ownership of the Renewed Facility Operating License Nos. NPF-41, NPF- 51, and NPF-74 for the Palo Verde Nuclear Generating Station (Palo Verde), Units 1, 2, and 3, respectively, as well as the associated general license for the Palo Verde Independent Spent Fuel Storage Installation (ISFSI) (together, the facility). No physical changes or operational changes to the facility were proposed in the application.",
+    "category": "Energi",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Nuclear Regulatory Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17244/arizona-public-service-company-palo-verde-nuclear-generating-station-units-1-2-and-3-indirect",
+    "is_official": true
+  },
+  {
+    "id": "2026-17241",
+    "title": "Foreign-Trade Zone (FTZ) 183, Notification of Proposed Production Activity; Ichor Systems, Inc.; (Semiconductor Equipment); Austin, Texas",
+    "publication_date": "2026-08-24",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Commerce Department",
+      "Foreign-Trade Zones Board"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17241/foreign-trade-zone-ftz-183-notification-of-proposed-production-activity-ichor-systems-inc",
     "is_official": true
   },
   {
@@ -213,6 +399,158 @@
       "Industry and Security Bureau"
     ],
     "source_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17230/removal-from-the-entity-list",
+    "is_official": true
+  },
+  {
+    "id": "2026-17207",
+    "title": "Application for Final Commitment for a Long-Term Loan or Financial Guarantee in Excess of $100 Million: AP300125XX",
+    "publication_date": "2026-08-24",
+    "document_type": "Notice",
+    "abstract": "This Notice is to inform the public, in accordance with the Export-Import Bank Act of 1945, as amended, the Export-Import Bank of the United States (\"EXIM\") has received an application for final commitment for a long-term loan or financial guarantee in excess of $100 million. Comments received within the comment period specified below will be presented to the EXIM Board of Directors prior to final action on this Transaction.",
+    "category": "Finans",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Export-Import Bank"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17207/application-for-final-commitment-for-a-long-term-loan-or-financial-guarantee-in-excess-of-100",
+    "is_official": true
+  },
+  {
+    "id": "2026-17206",
+    "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rules 903G and 906G",
+    "publication_date": "2026-08-24",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17206/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for",
+    "is_official": true
+  },
+  {
+    "id": "2026-17205",
+    "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rules 5.32-O and 5.35-O",
+    "publication_date": "2026-08-24",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17205/self-regulatory-organizations-nyse-arca-inc-notice-of-designation-of-a-longer-period-for-commission",
+    "is_official": true
+  },
+  {
+    "id": "2026-17204",
+    "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Modify the NYSE Arca Options Fee Schedule To Eliminate Customer and Professional Customer Fees and Introduce a Floor Broker Incentive for Trading in Certain MSCI Related Index Options",
+    "publication_date": "2026-08-24",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17204/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-a",
+    "is_official": true
+  },
+  {
+    "id": "2026-17203",
+    "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Update Its Fees Schedule in Connection With Binary Options That Overlie the Mini-S&P 500 Index",
+    "publication_date": "2026-08-24",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17203/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a",
+    "is_official": true
+  },
+  {
+    "id": "2026-17202",
+    "title": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Exchange's Fee Schedule",
+    "publication_date": "2026-08-24",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17202/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed",
+    "is_official": true
+  },
+  {
+    "id": "2026-17201",
+    "title": "Self-Regulatory Organizations; Investors Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Correct an Internal Cross-Reference Error in Rule 23.150",
+    "publication_date": "2026-08-24",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17201/self-regulatory-organizations-investors-exchange-llc-notice-of-filing-and-immediate-effectiveness-of",
+    "is_official": true
+  },
+  {
+    "id": "2026-17195",
+    "title": "Foreign-Trade Zone (FTZ) 23, Notification of Proposed Production Activity; Niagara Specialty Metals; (Steel Sheets); Akron, New York",
+    "publication_date": "2026-08-24",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Commerce Department",
+      "Foreign-Trade Zones Board"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17195/foreign-trade-zone-ftz-23-notification-of-proposed-production-activity-niagara-specialty-metals",
+    "is_official": true
+  },
+  {
+    "id": "2026-17194",
+    "title": "Application for Final Commitment for a Long-Term Loan or Financial Guarantee in Excess of $100 Million: AP300003XX",
+    "publication_date": "2026-08-24",
+    "document_type": "Notice",
+    "abstract": "This Notice is to inform the public, in accordance with the Export-Import Bank Act of 1945, as amended, the Export-Import Bank of the United States (\"EXIM\") has received an application for final commitment for a long-term loan or financial guarantee in excess of $100 million. Comments received within the comment period specified below will be presented to the EXIM Board of Directors prior to final action on this Transaction.",
+    "category": "Finans",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Export-Import Bank"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17194/application-for-final-commitment-for-a-long-term-loan-or-financial-guarantee-in-excess-of-100",
+    "is_official": true
+  },
+  {
+    "id": "2026-17192",
+    "title": "International Pacific Halibut Commission Appointments",
+    "publication_date": "2026-08-24",
+    "document_type": "Notice",
+    "abstract": "NOAA is soliciting nominations for a resident of Alaska to serve as a United States Commissioner to the International Pacific Halibut Commission (IPHC). This action is necessary to ensure that the interests of the United States and all of its stakeholders in the Pacific halibut fishery are adequately represented. The intended effect of this solicitation is to ensure stakeholder participation in the process of filling a vacant Commissioner position.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Commerce Department",
+      "National Oceanic and Atmospheric Administration"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17192/international-pacific-halibut-commission-appointments",
     "is_official": true
   },
   {
@@ -325,6 +663,52 @@
       "International Trade Administration"
     ],
     "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17047/oleoresin-paprika-from-india-final-affirmative-determination-of-sales-at-less-than-fair-value-and",
+    "is_official": true
+  },
+  {
+    "id": "2026-17183",
+    "title": "Regulation Crypto Assets",
+    "publication_date": "2026-08-21",
+    "document_type": "Proposed Rule",
+    "abstract": "The Securities and Exchange Commission (\"Commission\") is proposing new rules to create a tailored offering regime for certain investment contracts involving crypto assets. The proposed offering regime is intended to facilitate capital formation and accommodate innovation within the crypto asset markets while, at the same time, ensuring that investors are adequately protected and provided with the information they need to make informed investment decisions. The proposed rules would be set forth in a new regulation titled \"Regulation Crypto Assets\" and would include two exemptions from the registration requirements of section 5 of the Securities Act of 1933. The first exemption would permit offerings of up to $5 million during a four-year period. The second exemption would permit offerings of up to $75 million during each 12-month period. Under both exemptions, issuers would be required to make certain principles-based narrative disclosures available to their investors. In addition, issuers under the second exemption would be required to provide financial statements and would be subject to ongoing reporting requirements. Issuers that rely on these exemptions would remain subject to the antifraud and antimanipulation provisions of the Federal securities laws. The proposed rules also would include a conditional safe harbor from the term \"investment contract\" in the definitions of \"security\" in the Securities Act of 1933 and the Securities Exchange Act of 1934. If the conditions of that proposed safe harbor are satisfied, then a crypto asset would be deemed not to be subject to an investment contract for purposes of those definitions of \"security.\"",
+    "category": "Finans",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Securities and Exchange Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17183/regulation-crypto-assets",
+    "is_official": true
+  },
+  {
+    "id": "2026-17163",
+    "title": "Request for Comment on the Listing of Compute Derivatives Contracts",
+    "publication_date": "2026-08-21",
+    "document_type": "Proposed Rule",
+    "abstract": "The Commodity Futures Trading Commission (\"CFTC\" or \"Commission\") is seeking public responses to this Request for Comment to better inform its understanding and oversight of derivatives markets in compute.",
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "trade",
+    "agencies": [
+      "Commodity Futures Trading Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17163/request-for-comment-on-the-listing-of-compute-derivatives-contracts",
+    "is_official": true
+  },
+  {
+    "id": "2026-17156",
+    "title": "Center for Scientific Review; Notice of Closed Meetings",
+    "publication_date": "2026-08-21",
+    "document_type": "Notice",
+    "abstract": "",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Health and Human Services Department",
+      "National Institutes of Health"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17156/center-for-scientific-review-notice-of-closed-meetings",
     "is_official": true
   },
   {
