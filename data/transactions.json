@@ -1,5 +1,65 @@
 [
   {
+    "id": "89ec215734081adc25",
+    "person_id": "7c4705fca91639",
+    "person_name": "Per Henrik Molin",
+    "person_role": "Verkställande direktör (VD)",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "PHYSITRACK PLC",
+    "ticker": "GB00BK80TJ35",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 991796.4,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-25",
+    "filing_date": "2026-08-25",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 118071.0,
+    "purchase_price": 8.4,
+    "value_usd": 0.0,
+    "score": 55,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Betydande transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 8.4,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Verkställande direktör (VD)",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B834-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "4e8b327eb6c612b7a3",
     "person_id": "3d274a11772f6f",
     "person_name": "Rutger Arnhult",
@@ -116,6 +176,65 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B824-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "4c33eb40bd8287ff3d",
+    "person_id": "7c4705fca91639",
+    "person_name": "Per Henrik Molin",
+    "person_role": "Verkställande direktör (VD)",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "PHYSITRACK PLC",
+    "ticker": "GB00BK80TJ35",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 0.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-25",
+    "filing_date": "2026-08-25",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 118071.0,
+    "purchase_price": 0.0,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": null,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Verkställande direktör (VD)",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B834-2?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {

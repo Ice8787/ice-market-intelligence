@@ -274,6 +274,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "7c4705fca91639",
+    "name": "Per Henrik Molin",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 4,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "d5d14b273ef8a1",
     "name": "Emil Henriksson",
     "person_type": "business_leader",
@@ -568,22 +584,6 @@
     "name": "Niclas Bagler",
     "person_type": "business_leader",
     "primary_role": "Vice VD",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 2,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "7c4705fca91639",
-    "name": "Per Henrik Molin",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Övrigt"
     ],
