@@ -540,6 +540,66 @@
     "is_demo": false
   },
   {
+    "id": "7c0d16bc1cc79f8197",
+    "person_id": "3315995299bc87",
+    "person_name": "Göran Westerberg",
+    "person_role": "Styrelseordförande",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Kjell Group AB (publ)",
+    "ticker": "SE0016797591",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 3000000.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-08-24",
+    "filing_date": "2026-08-25",
+    "reporting_delay_days": 1,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 200000.0,
+    "purchase_price": 15.0,
+    "value_usd": 0.0,
+    "score": 62,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 15.0,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Styrelseordförande",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B819-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "5cd17de2ba9ed5ce0b",
     "person_id": "abbfd5fb0a5af6",
     "person_name": "Anders Pettersson",
@@ -5314,66 +5374,6 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B670-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
-    "id": "ee1700c11325db330b",
-    "person_id": "cde5cb95d49294",
-    "person_name": "Mats Fredrik Wicksell",
-    "person_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
-    "person_type": "corporate_insider",
-    "issuer_cik": "",
-    "company": "SAAB Aktiebolag",
-    "ticker": "SE0021921269",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 846550.9092000001,
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "transaction_date": "2026-08-17",
-    "filing_date": "2026-08-18",
-    "reporting_delay_days": 1,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "sell",
-    "transaction_code": "S",
-    "shares": 1222.986,
-    "purchase_price": 692.2,
-    "value_usd": 0.0,
-    "score": 33,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppen marknadsförsäljning",
-      "Betydande transaktionsvärde",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 692.2,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Övrigt",
-      "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
-      "Avyttring",
-      "egen rapport"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B677-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
