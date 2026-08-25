@@ -1,21 +1,21 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-08-25T14:58:53.287770Z",
+  "generated_at": "2026-08-25T15:52:14.044444Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
-  "record_count": 655,
+  "record_count": 661,
   "people_count": 111,
   "political_trade_count": 411,
-  "policy_event_count": 35,
+  "policy_event_count": 125,
   "trend_count": 22,
   "daily_pick_count": 5,
   "top_per_market_category": 100,
   "group_counts": {
-    "Sverige|Övrigt|business_leader": 93,
+    "Sverige|Övrigt|business_leader": 95,
     "Sverige|Övrigt|corporate_insider": 100,
     "Sverige|Industri|corporate_insider": 7,
+    "Sverige|Hälsa|corporate_insider": 17,
     "Sverige|Industri|business_leader": 5,
-    "Sverige|Hälsa|corporate_insider": 13,
     "Sverige|Teknik|corporate_insider": 7,
     "Sverige|Finans|corporate_insider": 8,
     "Sverige|Hälsa|business_leader": 5,
@@ -31,8 +31,8 @@
     "USA|Energi|political": 58
   },
   "person_type_counts": {
-    "business_leader": 109,
-    "corporate_insider": 135,
+    "business_leader": 111,
+    "corporate_insider": 139,
     "political": 411
   },
   "source_status": {
@@ -42,7 +42,7 @@
     },
     "Sverige": {
       "ok": true,
-      "new_records": 40
+      "new_records": 43
     },
     "US politicians": {
       "ok": true,
@@ -81,23 +81,23 @@
       }
     },
     "Federal Register": {
-      "ok": false,
+      "ok": true,
       "terms": {
         "tariff": {
-          "ok": false,
-          "error": "HTTP Error 503: Service Temporarily Unavailable"
+          "ok": true,
+          "records": 35
         },
         "trade": {
-          "ok": false,
-          "error": "HTTP Error 503: Service Temporarily Unavailable"
+          "ok": true,
+          "records": 35
         },
         "export controls": {
           "ok": true,
           "records": 35
         },
         "defense procurement": {
-          "ok": false,
-          "error": "HTTP Error 503: Service Temporarily Unavailable"
+          "ok": true,
+          "records": 35
         }
       },
       "source": "Federal Register API"
