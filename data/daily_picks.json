@@ -8,7 +8,7 @@
     "current_price": 80.01000213623047,
     "momentum20": 13.65,
     "momentum60": -7.35,
-    "volume_ratio": 0.62,
+    "volume_ratio": 0.63,
     "rsi14": 68.6,
     "trend_score": 75,
     "reasons": [
@@ -80,7 +80,7 @@
     "current_price": 14.149999618530273,
     "momentum20": 2482.12,
     "momentum60": 1625.61,
-    "volume_ratio": 0.09,
+    "volume_ratio": 0.1,
     "rsi14": 63.6,
     "trend_score": 75,
     "reasons": [
@@ -109,7 +109,7 @@
     "current_price": 487.30999755859375,
     "momentum20": 25.24,
     "momentum60": 14.13,
-    "volume_ratio": 0.46,
+    "volume_ratio": 0.47,
     "rsi14": 46.2,
     "trend_score": 60,
     "reasons": [
@@ -145,7 +145,7 @@
     "current_price": 22.219999313354492,
     "momentum20": 6.01,
     "momentum60": 46.86,
-    "volume_ratio": 0.58,
+    "volume_ratio": 0.59,
     "rsi14": 47.8,
     "trend_score": 60,
     "reasons": [
