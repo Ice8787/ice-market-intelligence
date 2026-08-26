@@ -2,13 +2,14 @@
   {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
-    "title": "156 insiderköp inom Övrigt · Sverige",
+    "title": "157 insiderköp inom Övrigt · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Övrigt"
     ],
     "trade_ids": [
+      "b21799ba8279fcd655",
       "89ec215734081adc25",
       "4e8b327eb6c612b7a3",
       "04d40c1e014a599a6f",
@@ -166,7 +167,24 @@
       "7c29f4f4b039fb968d",
       "6d785e8daf1edeb21b"
     ],
-    "trade_count": 156,
+    "trade_count": 157,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-sverige-teknik",
+    "type": "Sektorkluster",
+    "title": "3 insiderköp inom Teknik · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Teknik"
+    ],
+    "trade_ids": [
+      "3dfb82cfb9af9bbbe6",
+      "b924ce5702d9fe90b9",
+      "0718acba193bfff358"
+    ],
+    "trade_count": 3,
     "median_return_90d": null
   },
   {
@@ -207,22 +225,6 @@
       "43b08354d57d355e14"
     ],
     "trade_count": 4,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-teknik",
-    "type": "Sektorkluster",
-    "title": "2 insiderköp inom Teknik · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Teknik"
-    ],
-    "trade_ids": [
-      "b924ce5702d9fe90b9",
-      "0718acba193bfff358"
-    ],
-    "trade_count": 2,
     "median_return_90d": null
   },
   {
