@@ -3998,6 +3998,66 @@
     "is_demo": false
   },
   {
+    "id": "9d984b4364b56f5679",
+    "person_id": "ff697c709695f4",
+    "person_name": "Patrick Lapveteläinen",
+    "person_role": "Styrelseledamot",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "NOBA BANK GROUP AB",
+    "ticker": "SE0023135298",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 1789600.0,
+    "category": "Finans",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-08-20",
+    "filing_date": "2026-08-21",
+    "reporting_delay_days": 1,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 20000.0,
+    "purchase_price": 89.48,
+    "value_usd": 0.0,
+    "score": 62,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 89.48,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Finans",
+      "Styrelseledamot",
+      "Förvärv",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B764-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "0e3c29650c4aebfafb",
     "person_id": "ee8f42fb86974a",
     "person_name": "Patrik Mellgren",
@@ -4173,66 +4233,6 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B772-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
-    "id": "9d984b4364b56f5679",
-    "person_id": "ff697c709695f4",
-    "person_name": "Patrick Lapveteläinen",
-    "person_role": "Styrelseledamot",
-    "person_type": "corporate_insider",
-    "issuer_cik": "",
-    "company": "NOBA BANK GROUP AB",
-    "ticker": "SE0023135298",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 1789600.0,
-    "category": "Finans",
-    "subcategory": "Automatisk namnklassning – verifiera",
-    "transaction_date": "2026-08-20",
-    "filing_date": "2026-08-21",
-    "reporting_delay_days": 1,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "buy",
-    "transaction_code": "P",
-    "shares": 20000.0,
-    "purchase_price": 89.48,
-    "value_usd": 0.0,
-    "score": 62,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppet marknadsköp",
-      "Stort transaktionsvärde",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 89.48,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Finans",
-      "Styrelseledamot",
-      "Förvärv",
-      "närstående"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B764-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
