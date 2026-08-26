@@ -2,23 +2,24 @@
   {
     "rank": 1,
     "ticker": "SBIO",
-    "as_of": "2026-08-25",
-    "watch_score": 76,
-    "label": "Stark bevakningssignal",
-    "current_price": 70.33000183105469,
-    "momentum20": 10.72,
-    "momentum60": 29.19,
-    "volume_ratio": 2.27,
-    "rsi14": 66.6,
-    "trend_score": 95,
+    "as_of": "2026-08-26",
+    "watch_score": 61,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 69.19999694824219,
+    "momentum20": 9.6,
+    "momentum60": 31.04,
+    "volume_ratio": 0.1,
+    "rsi14": 58.1,
+    "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
       "Positivt 20-dagars momentum",
-      "Ovanligt hög dagsvolym",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
@@ -36,21 +37,72 @@
   },
   {
     "rank": 2,
-    "ticker": "MSFT",
-    "as_of": "2026-08-25",
-    "watch_score": 64,
+    "ticker": "SRVR",
+    "as_of": "2026-08-26",
+    "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 491.7099914550781,
-    "momentum20": 25.01,
-    "momentum60": 9.21,
-    "volume_ratio": 0.54,
-    "rsi14": 53.0,
+    "current_price": 32.25,
+    "momentum20": 5.56,
+    "momentum60": -6.14,
+    "volume_ratio": 0.01,
+    "rsi14": 60.0,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-11-20",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
+      },
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-07-09",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/5345c140-beaa-43fa-af51-d269c1ef9eff/"
+      },
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-04-02",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/"
+      }
+    ],
+    "supporting_buy_count": 3,
+    "historical_median_30d": -0.14,
+    "historical_median_90d": 2.18,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 3,
+    "ticker": "MSFT",
+    "as_of": "2026-08-26",
+    "watch_score": 53,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 495.55999755859375,
+    "momentum20": 26.89,
+    "momentum60": 7.61,
+    "volume_ratio": 0.16,
+    "rsi14": 46.6,
+    "trend_score": 60,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum"
     ],
     "risk_flags": [
       "Volymen bekräftar inte rörelsen",
@@ -72,52 +124,25 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 3,
-    "ticker": "BYND",
-    "as_of": "2026-08-25",
-    "watch_score": 54,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 14.1899995803833,
-    "momentum20": 2522.92,
-    "momentum60": 1698.48,
-    "volume_ratio": 0.06,
-    "rsi14": 63.6,
-    "trend_score": 75,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen",
-      "Mycket snabb uppgång – förhöjd volatilitet",
-      "Ingen matchande offentlig köpsignal i datasetet"
-    ],
-    "supporting_buys": [],
-    "supporting_buy_count": 0,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
     "rank": 4,
     "ticker": "NFLX",
-    "as_of": "2026-08-25",
+    "as_of": "2026-08-26",
     "watch_score": 52,
     "label": "Måttlig bevakningssignal",
-    "current_price": 82.2300033569336,
-    "momentum20": 13.59,
-    "momentum60": -4.41,
-    "volume_ratio": 0.9,
-    "rsi14": 71.2,
+    "current_price": 81.87000274658203,
+    "momentum20": 11.19,
+    "momentum60": -4.64,
+    "volume_ratio": 0.17,
+    "rsi14": 71.8,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
       "Positivt 20-dagars momentum"
     ],
-    "risk_flags": [],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
     "supporting_buys": [
       {
         "person_name": "Pat Roberts",
@@ -135,15 +160,15 @@
   },
   {
     "rank": 5,
-    "ticker": "MRVL",
-    "as_of": "2026-08-25",
+    "ticker": "NTLA",
+    "as_of": "2026-08-26",
     "watch_score": 47,
     "label": "Svag bevakningssignal",
-    "current_price": 240.3800048828125,
-    "momentum20": 37.78,
-    "momentum60": 17.26,
-    "volume_ratio": 0.89,
-    "rsi14": 61.2,
+    "current_price": 13.202799797058105,
+    "momentum20": 22.25,
+    "momentum60": -3.84,
+    "volume_ratio": 0.18,
+    "rsi14": 65.5,
     "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -151,7 +176,7 @@
       "RSI visar styrka utan extrem överköpt nivå"
     ],
     "risk_flags": [
-      "Mycket snabb uppgång – förhöjd volatilitet"
+      "Volymen bekräftar inte rörelsen"
     ],
     "supporting_buys": [
       {

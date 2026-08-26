@@ -9,6 +9,7 @@
       "Övrigt"
     ],
     "trade_ids": [
+      "73a9fe40b1726116f8",
       "b21799ba8279fcd655",
       "ccf57598dfb583f8de",
       "89ec215734081adc25",
@@ -163,7 +164,6 @@
       "03a324ed025db59144",
       "f0d8200aa7de181d3b",
       "2a981cd4434cc6dc61",
-      "073b77485b2b0e9f08",
       "f609b24e3062f44a91",
       "c584ba748ca81e6d63",
       "7c29f4f4b039fb968d",
@@ -188,6 +188,33 @@
       "0718acba193bfff358"
     ],
     "trade_count": 4,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-sverige-finans",
+    "type": "Sektorkluster",
+    "title": "13 insiderköp inom Finans · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Finans"
+    ],
+    "trade_ids": [
+      "cbf3812f4c2a45b40f",
+      "9d984b4364b56f5679",
+      "3d3d714fa1826774a7",
+      "9df5aa6b502dc7eb2e",
+      "1138ef731ec3f0c5f7",
+      "16856f38fcd4a3b8df",
+      "0b3409ad17d4e741f6",
+      "20abb5a38fae10311f",
+      "a1fed62e1cb8e64680",
+      "0456139aa91a181f5a",
+      "ba0988c521b5e0e759",
+      "1bb00165c827e64db7",
+      "77b4812dbd3d61281b"
+    ],
+    "trade_count": 13,
     "median_return_90d": null
   },
   {
@@ -228,32 +255,6 @@
       "43b08354d57d355e14"
     ],
     "trade_count": 4,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-finans",
-    "type": "Sektorkluster",
-    "title": "12 insiderköp inom Finans · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Finans"
-    ],
-    "trade_ids": [
-      "9d984b4364b56f5679",
-      "3d3d714fa1826774a7",
-      "9df5aa6b502dc7eb2e",
-      "1138ef731ec3f0c5f7",
-      "16856f38fcd4a3b8df",
-      "0b3409ad17d4e741f6",
-      "20abb5a38fae10311f",
-      "a1fed62e1cb8e64680",
-      "0456139aa91a181f5a",
-      "ba0988c521b5e0e759",
-      "1bb00165c827e64db7",
-      "77b4812dbd3d61281b"
-    ],
-    "trade_count": 12,
     "median_return_90d": null
   },
   {
