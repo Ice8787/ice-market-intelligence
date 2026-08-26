@@ -5,11 +5,11 @@
     "as_of": "2026-08-26",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 69.58999633789062,
-    "momentum20": 10.22,
-    "momentum60": 31.77,
+    "current_price": 69.66000366210938,
+    "momentum20": 10.33,
+    "momentum60": 31.91,
     "volume_ratio": 0.59,
-    "rsi14": 60.0,
+    "rsi14": 60.3,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -44,7 +44,7 @@
     "current_price": 496.3699951171875,
     "momentum20": 27.1,
     "momentum60": 7.78,
-    "volume_ratio": 0.51,
+    "volume_ratio": 0.56,
     "rsi14": 47.2,
     "trend_score": 60,
     "reasons": [
@@ -80,7 +80,7 @@
     "current_price": 81.45999908447266,
     "momentum20": 10.63,
     "momentum60": -5.11,
-    "volume_ratio": 0.67,
+    "volume_ratio": 0.71,
     "rsi14": 70.3,
     "trend_score": 60,
     "reasons": [
@@ -108,24 +108,22 @@
   },
   {
     "rank": 4,
-    "ticker": "NTLA",
+    "ticker": "SI",
     "as_of": "2026-08-26",
     "watch_score": 47,
     "label": "Svag bevakningssignal",
-    "current_price": 13.1899995803833,
-    "momentum20": 22.13,
-    "momentum60": -3.93,
-    "volume_ratio": 0.75,
-    "rsi14": 65.4,
+    "current_price": 22.43000030517578,
+    "momentum20": -5.44,
+    "momentum60": 58.18,
+    "volume_ratio": 0.96,
+    "rsi14": 50.0,
     "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
-      "Positivt 20-dagars momentum",
+      "20-dagars trend över 50-dagars trend",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
@@ -143,15 +141,15 @@
   },
   {
     "rank": 5,
-    "ticker": "MRVL",
+    "ticker": "NTLA",
     "as_of": "2026-08-26",
     "watch_score": 47,
     "label": "Svag bevakningssignal",
-    "current_price": 245.11000061035156,
-    "momentum20": 50.01,
-    "momentum60": 11.7,
-    "volume_ratio": 0.58,
-    "rsi14": 62.8,
+    "current_price": 13.1899995803833,
+    "momentum20": 22.13,
+    "momentum60": -3.93,
+    "volume_ratio": 0.76,
+    "rsi14": 65.4,
     "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -159,8 +157,7 @@
       "RSI visar styrka utan extrem överköpt nivå"
     ],
     "risk_flags": [
-      "Volymen bekräftar inte rörelsen",
-      "Mycket snabb uppgång – förhöjd volatilitet"
+      "Volymen bekräftar inte rörelsen"
     ],
     "supporting_buys": [
       {
