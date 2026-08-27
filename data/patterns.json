@@ -2,22 +2,26 @@
   {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
-    "title": "160 insiderköp inom Övrigt · Sverige",
+    "title": "145 insiderköp inom Övrigt · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Övrigt"
     ],
     "trade_ids": [
+      "509e970b65a1071ce8",
+      "2c2abd7abd1fea2dc1",
+      "b0fd0d00163123b33d",
+      "db8da68842dab35181",
       "73a9fe40b1726116f8",
+      "1b02a4bb2e249dd0cd",
+      "7c3850671ef553f1ad",
       "7a18f1b6f4517070e6",
-      "782f205d7ed6079d14",
       "b21799ba8279fcd655",
       "ccf57598dfb583f8de",
       "89ec215734081adc25",
       "4e8b327eb6c612b7a3",
       "04d40c1e014a599a6f",
-      "4c33eb40bd8287ff3d",
       "84e45e55b6c4ed8cdf",
       "ea1d8fdec03af58030",
       "3279b490bf931663b6",
@@ -33,17 +37,13 @@
       "b72ecd27451b27b275",
       "91df8c6a764ff07bb3",
       "c7e6b274b3477bf337",
-      "b7967e6d34afafa187",
       "52ff71711947fb811b",
       "e2d935b00be60cd575",
       "cde6a105517fa66123",
       "015f1fee55856f6c21",
-      "8bcbf2526817d88eb7",
-      "c10c72e16f6fae2b94",
       "2e83f8ebcb99291e7e",
       "eb0d5c95caa80d6271",
       "98e9295b5559dae877",
-      "8dcb6e2ecb451f22e5",
       "90f4a53bb3141240a3",
       "d0afcea0b9d6fc5f5a",
       "eada5fda7ca3635c09",
@@ -53,7 +53,6 @@
       "73a2f0adc1e094ec19",
       "630c1476189926dd23",
       "aa184d1273696c63c3",
-      "e49fd896ba0a2474d2",
       "98772a3b8ee1340b78",
       "277d8cc1f6cf8a2e9b",
       "94581d8c22fa49f463",
@@ -69,15 +68,11 @@
       "11768ce092d46f26b8",
       "796d7b394ab895cbbf",
       "cb3afb7011b6d53e39",
-      "113789f6beb32d6bb6",
       "d70202661edd6a3d35",
       "cc023bd2382ad31970",
       "8eb2895720418b9151",
       "ba7ebe2333e9cf0616",
-      "9e23b64e2691f07e26",
       "9d542540043751a454",
-      "fc7c256c532fc80fb1",
-      "50288b5a3c463f6a1d",
       "28cd549960a902d7ca",
       "5d45d6b8cf9a40a41c",
       "7e7a2374eee3ecf13d",
@@ -85,21 +80,14 @@
       "1e89e57cb87cdb2b56",
       "b8f90e1546eb7afc45",
       "49ea907361e39ae6b1",
-      "4c8b59df926eac2cfe",
-      "28500918986f30c8a8",
-      "5fac00230c7b5b1c8f",
-      "083e19b8d65ce66ded",
-      "55b0683abefc8fbe4c",
       "aba0f1eb56c67e16d7",
       "dbffdcc58d7133ff94",
       "12746b0520863900c6",
       "964e1cb84956880063",
       "262c7e784986680ca5",
       "ac519041fb7d94916d",
-      "9ce343c3cf792f9e9e",
       "8ab7619d54cee556e8",
       "b0f8a54489f90976bd",
-      "a9340f5dd462f67cf6",
       "fed88e3db5483b8d40",
       "55f50807d958bd7dc2",
       "ee165bf495a2a203c3",
@@ -107,7 +95,6 @@
       "57d72bd58e533c0d77",
       "643bb1b98b78f44f5d",
       "fb628f4a4ed3160918",
-      "646dcba0e89a4c9b3d",
       "186e27fd6e67700b15",
       "31c2f16bc8603d1b97",
       "7e16311dc5cb94ddc2",
@@ -115,8 +102,6 @@
       "f786e907bc8d8bfa5d",
       "68c0e058ff671545b3",
       "f33b899272b261856b",
-      "b99957a2d01b1c53f2",
-      "8a8e5b1d0dae6dc0f6",
       "aa500dcbbdde9d898f",
       "21909c4a8eb8f83168",
       "cbb7b692422c52e24d",
@@ -145,15 +130,12 @@
       "e7126956a11232fe58",
       "7a1a5c62c2b035cb68",
       "bbce6d724e9ae322ae",
-      "4391f8892cd1853c6c",
       "2149d7ed21da462369",
       "bf79ed93064003cb52",
       "03ba08fab7ea253eea",
       "f527edf4bb3069511d",
-      "489d566f871afd5551",
       "afa36adab68c648dd4",
       "c971ba60a2341fde1b",
-      "2621643564e3f3514b",
       "e429e744be4ddf6f22",
       "1bdcffc4be1ab8ad13",
       "4436923421bfc2927e",
@@ -165,12 +147,15 @@
       "03a324ed025db59144",
       "f0d8200aa7de181d3b",
       "2a981cd4434cc6dc61",
+      "074a58c8d1bea3bb8c",
+      "ed6a95ea3b7e107caf",
+      "6018e1a170de1a98e0",
       "f609b24e3062f44a91",
       "c584ba748ca81e6d63",
       "7c29f4f4b039fb968d",
       "6d785e8daf1edeb21b"
     ],
-    "trade_count": 160,
+    "trade_count": 145,
     "median_return_90d": null
   },
   {
@@ -354,7 +339,7 @@
       "6aa4ebbac47f25ff60"
     ],
     "trade_count": 39,
-    "median_return_90d": 6.77
+    "median_return_90d": 4.475
   },
   {
     "id": "category-usa-finans",
@@ -390,7 +375,7 @@
       "4ac7548e632e65ec2d"
     ],
     "trade_count": 22,
-    "median_return_90d": 7.25
+    "median_return_90d": null
   },
   {
     "id": "category-usa-konsument",
@@ -473,7 +458,7 @@
       "a1df676d93eac603e0"
     ],
     "trade_count": 31,
-    "median_return_90d": 8.14
+    "median_return_90d": null
   },
   {
     "id": "category-usa-transport",
@@ -495,7 +480,7 @@
       "d26992b3f2a55d35d5"
     ],
     "trade_count": 8,
-    "median_return_90d": -2.2649999999999997
+    "median_return_90d": null
   },
   {
     "id": "category-usa-industri",
@@ -523,7 +508,7 @@
       "1283f539be929d3b34"
     ],
     "trade_count": 14,
-    "median_return_90d": 33.9
+    "median_return_90d": null
   },
   {
     "id": "category-usa-energi",
