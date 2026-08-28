@@ -5,11 +5,11 @@
     "as_of": "2026-08-27",
     "watch_score": 64,
     "label": "Måttlig bevakningssignal",
-    "current_price": 502.3699951171875,
-    "momentum20": 11.37,
-    "momentum60": 13.84,
-    "volume_ratio": 0.35,
-    "rsi14": 51.7,
+    "current_price": 505.05999755859375,
+    "momentum20": 11.96,
+    "momentum60": 14.45,
+    "volume_ratio": 0.84,
+    "rsi14": 53.5,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -17,9 +17,7 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Ron L Wyden",
@@ -41,11 +39,11 @@
     "as_of": "2026-08-27",
     "watch_score": 63,
     "label": "Måttlig bevakningssignal",
-    "current_price": 79.61499786376953,
-    "momentum20": 8.81,
-    "momentum60": -4.46,
-    "volume_ratio": 0.39,
-    "rsi14": 63.3,
+    "current_price": 79.83999633789062,
+    "momentum20": 9.12,
+    "momentum60": -4.19,
+    "volume_ratio": 0.88,
+    "rsi14": 64.0,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -53,9 +51,7 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Pat Roberts",
@@ -73,59 +69,23 @@
   },
   {
     "rank": 3,
-    "ticker": "SBIO",
+    "ticker": "MRVL",
     "as_of": "2026-08-27",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 69.68499755859375,
-    "momentum20": 6.88,
-    "momentum60": 38.51,
-    "volume_ratio": 0.38,
-    "rsi14": 59.0,
+    "current_price": 241.4499969482422,
+    "momentum20": 31.72,
+    "momentum60": -16.97,
+    "volume_ratio": 1.54,
+    "rsi14": 58.7,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
       "Positivt 20-dagars momentum",
+      "Ovanligt hög dagsvolym",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
     "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 4,
-    "ticker": "MRVL",
-    "as_of": "2026-08-27",
-    "watch_score": 47,
-    "label": "Svag bevakningssignal",
-    "current_price": 242.95989990234375,
-    "momentum20": 32.55,
-    "momentum60": -16.45,
-    "volume_ratio": 0.61,
-    "rsi14": 59.4,
-    "trend_score": 55,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "Positivt 20-dagars momentum",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen",
       "Mycket snabb uppgång – förhöjd volatilitet"
     ],
     "supporting_buys": [
@@ -144,19 +104,20 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 5,
-    "ticker": "NTLA",
+    "rank": 4,
+    "ticker": "SBIO",
     "as_of": "2026-08-27",
-    "watch_score": 47,
-    "label": "Svag bevakningssignal",
-    "current_price": 13.229999542236328,
-    "momentum20": 19.3,
-    "momentum60": 0.76,
-    "volume_ratio": 0.23,
-    "rsi14": 61.4,
-    "trend_score": 55,
+    "watch_score": 61,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 69.51000213623047,
+    "momentum20": 6.61,
+    "momentum60": 38.16,
+    "volume_ratio": 0.61,
+    "rsi14": 58.1,
+    "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
@@ -174,6 +135,70 @@
       }
     ],
     "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 5,
+    "ticker": "BAC",
+    "as_of": "2026-08-27",
+    "watch_score": 52,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 61.16999816894531,
+    "momentum20": -0.91,
+    "momentum60": 16.56,
+    "volume_ratio": 1.69,
+    "rsi14": 37.9,
+    "trend_score": 40,
+    "reasons": [
+      "20-dagars trend över 50-dagars trend",
+      "Ovanligt hög dagsvolym"
+    ],
+    "risk_flags": [],
+    "supporting_buys": [
+      {
+        "person_name": "Jerry Moran,",
+        "person_type": "political",
+        "date": "2020-08-21",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/5809a671-cb5c-46c3-a6ec-35481814e274/"
+      },
+      {
+        "person_name": "David A Perdue , Jr",
+        "person_type": "political",
+        "date": "2020-03-23",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/0b6c2641-eca3-4bdf-9c14-9208c0239a1b/"
+      },
+      {
+        "person_name": "David A Perdue , Jr",
+        "person_type": "political",
+        "date": "2020-03-18",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/0b6c2641-eca3-4bdf-9c14-9208c0239a1b/"
+      },
+      {
+        "person_name": "Sheldon Whitehouse",
+        "person_type": "political",
+        "date": "2015-05-27",
+        "value": 32500.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/d16a03dd-c7ee-4bf8-b760-bccb5d5677c2/"
+      },
+      {
+        "person_name": "Pat Roberts",
+        "person_type": "political",
+        "date": "2014-03-14",
+        "value": 32500.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/f7835d2e-ed40-4319-bfd7-0f8660e43c35/"
+      }
+    ],
+    "supporting_buy_count": 6,
     "historical_median_30d": null,
     "historical_median_90d": null,
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
