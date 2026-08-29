@@ -15,7 +15,7 @@
     "history": {
       "tracked_buys": 30,
       "positive_90d_rate": 100,
-      "median_return_90d": 7.25,
+      "median_return_90d": 2.065,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -55,8 +55,8 @@
     ],
     "history": {
       "tracked_buys": 24,
-      "positive_90d_rate": 100,
-      "median_return_90d": 11.14,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -75,8 +75,8 @@
     ],
     "history": {
       "tracked_buys": 22,
-      "positive_90d_rate": 83,
-      "median_return_90d": 8.445,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -199,8 +199,8 @@
     ],
     "history": {
       "tracked_buys": 9,
-      "positive_90d_rate": 50,
-      "median_return_90d": -2.2649999999999997,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -267,22 +267,6 @@
     ],
     "history": {
       "tracked_buys": 6,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "44ac0385c7d0f0",
-    "name": "Johan Knaust",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 4,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -360,6 +344,22 @@
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Finans"
+    ],
+    "history": {
+      "tracked_buys": 3,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "44ac0385c7d0f0",
+    "name": "Johan Knaust",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
     ],
     "history": {
       "tracked_buys": 3,
@@ -460,6 +460,22 @@
     ],
     "history": {
       "tracked_buys": 3,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "45474ca49fe554",
+    "name": "Carl-Johan Zetterberg Boudrie",
+    "person_type": "business_leader",
+    "primary_role": "Vice VD",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 2,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
