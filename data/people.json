@@ -467,6 +467,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "d42f8e6786daee",
+    "name": "Alireza Tajbakhsh",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "45474ca49fe554",
     "name": "Carl-Johan Zetterberg Boudrie",
     "person_type": "business_leader",
@@ -1144,22 +1160,6 @@
   {
     "id": "57dca4a8f2a3e0",
     "name": "Bengt Torkel Östling",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "471f691bc517a1",
-    "name": "Fredrik Bergsten",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
