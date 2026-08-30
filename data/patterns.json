@@ -204,6 +204,28 @@
     "median_return_90d": null
   },
   {
+    "id": "category-sverige-teknik",
+    "type": "Sektorkluster",
+    "title": "8 insiderköp inom Teknik · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Teknik"
+    ],
+    "trade_ids": [
+      "c2429ca643eae1b03c",
+      "09c812b88703901544",
+      "3dfb82cfb9af9bbbe6",
+      "56a527986bfe262694",
+      "f7ef47ddc3c5a8bac4",
+      "83e3d377be4610bc4a",
+      "b924ce5702d9fe90b9",
+      "0718acba193bfff358"
+    ],
+    "trade_count": 8,
+    "median_return_90d": null
+  },
+  {
     "id": "category-sverige-hälsa",
     "type": "Sektorkluster",
     "title": "6 insiderköp inom Hälsa · Sverige",
@@ -221,24 +243,6 @@
       "43b08354d57d355e14"
     ],
     "trade_count": 6,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-teknik",
-    "type": "Sektorkluster",
-    "title": "4 insiderköp inom Teknik · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Teknik"
-    ],
-    "trade_ids": [
-      "3dfb82cfb9af9bbbe6",
-      "f7ef47ddc3c5a8bac4",
-      "b924ce5702d9fe90b9",
-      "0718acba193bfff358"
-    ],
-    "trade_count": 4,
     "median_return_90d": null
   },
   {
