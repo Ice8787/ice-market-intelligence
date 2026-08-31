@@ -1,59 +1,17 @@
 [
   {
-    "id": "category-sverige-finans",
-    "type": "Sektorkluster",
-    "title": "30 insiderköp inom Finans · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Finans"
-    ],
-    "trade_ids": [
-      "897f1ab6d9c0017255",
-      "20b8b21bb0dc8d68a6",
-      "efb2bcb1532372aa85",
-      "bfaac99b99912bcd4f",
-      "f450f997d21e01d8cc",
-      "a6d4fbac680a256bad",
-      "ea41aeed136a07769e",
-      "46fa692c0f5ce8e473",
-      "0482938ebe34c080c4",
-      "2f75e4915d80f8991c",
-      "02b353cb2c8ab3ab56",
-      "97fc17688047ee52b1",
-      "947d65e090010cce0c",
-      "1fef621c08662cc98d",
-      "291b34f8c77f64acd7",
-      "03684364282c9f485e",
-      "cbf3812f4c2a45b40f",
-      "d50d57eab1a637a845",
-      "9d984b4364b56f5679",
-      "3d3d714fa1826774a7",
-      "9df5aa6b502dc7eb2e",
-      "1138ef731ec3f0c5f7",
-      "16856f38fcd4a3b8df",
-      "0b3409ad17d4e741f6",
-      "20abb5a38fae10311f",
-      "a1fed62e1cb8e64680",
-      "0456139aa91a181f5a",
-      "ba0988c521b5e0e759",
-      "1bb00165c827e64db7",
-      "77b4812dbd3d61281b"
-    ],
-    "trade_count": 30,
-    "median_return_90d": null
-  },
-  {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
-    "title": "146 insiderköp inom Övrigt · Sverige",
+    "title": "142 insiderköp inom Övrigt · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Övrigt"
     ],
     "trade_ids": [
+      "f4a215faa3608f70bb",
       "c873e6725412db412e",
+      "58f6a6f116f1b78500",
       "1876e173a30063a242",
       "39eff9e9395d65c90f",
       "c63c6bf2ca5ec4ce4d",
@@ -62,6 +20,8 @@
       "a2dd787571d598c2bc",
       "461c1376c988b90994",
       "67106757e7a2cc0a31",
+      "c7577d99db74fb1ab7",
+      "f6c55f4da1e16c1317",
       "db8da68842dab35181",
       "f11f98bc826f50d96c",
       "a5f6b75afbcb2f6eeb",
@@ -71,7 +31,8 @@
       "b0fd0d00163123b33d",
       "f773ae835f1a01d17a",
       "7a18f1b6f4517070e6",
-      "aebfe5da532d19993d",
+      "c5910b23cf2617ec83",
+      "f279b6b6b859067fa2",
       "73a9fe40b1726116f8",
       "4d71087eaf5425c639",
       "1b02a4bb2e249dd0cd",
@@ -91,8 +52,6 @@
       "f6f5680a7fa8304492",
       "1080a9028c49096ee3",
       "7c0d16bc1cc79f8197",
-      "80985b4211e2c57f2e",
-      "b72ecd27451b27b275",
       "84e45e55b6c4ed8cdf",
       "2e83f8ebcb99291e7e",
       "eb0d5c95caa80d6271",
@@ -118,11 +77,9 @@
       "a77a61c166c6d8e76c",
       "55bad3115c11340e28",
       "277d8cc1f6cf8a2e9b",
-      "94581d8c22fa49f463",
       "d70202661edd6a3d35",
       "cc023bd2382ad31970",
       "796d7b394ab895cbbf",
-      "cb3afb7011b6d53e39",
       "28cd549960a902d7ca",
       "5d45d6b8cf9a40a41c",
       "7e7a2374eee3ecf13d",
@@ -155,7 +112,6 @@
       "6fcba6fa716d85dd05",
       "7f28f3a1f69a903d93",
       "bbf621af24c66e0e1f",
-      "63ae6d16db6a326f9b",
       "aa500dcbbdde9d898f",
       "21909c4a8eb8f83168",
       "cbb7b692422c52e24d",
@@ -166,7 +122,6 @@
       "198b928bc4a897cf53",
       "0fb38043fa37d0ab79",
       "094c48dc3451c6a6e4",
-      "d5133de5739a295f80",
       "e49f21e84d967648fc",
       "bef3eed774c0f904b1",
       "ce7f748e8d5be31d40",
@@ -180,18 +135,15 @@
       "7a1a5c62c2b035cb68",
       "bbce6d724e9ae322ae",
       "afa36adab68c648dd4",
-      "c971ba60a2341fde1b",
       "03ba08fab7ea253eea",
       "f527edf4bb3069511d",
       "e429e744be4ddf6f22",
       "1bdcffc4be1ab8ad13",
-      "2330371b6652996b1e",
       "4436923421bfc2927e",
       "316365db9bb8153fd9",
       "c2407c4581c0183590",
       "3970c768040f0f5ecb",
       "027404782a1841d461",
-      "03a324ed025db59144",
       "2a981cd4434cc6dc61",
       "074a58c8d1bea3bb8c",
       "ed6a95ea3b7e107caf",
@@ -200,7 +152,54 @@
       "7c29f4f4b039fb968d",
       "6d785e8daf1edeb21b"
     ],
-    "trade_count": 146,
+    "trade_count": 142,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-sverige-finans",
+    "type": "Sektorkluster",
+    "title": "33 insiderköp inom Finans · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Finans"
+    ],
+    "trade_ids": [
+      "479d4844b048799048",
+      "c5ff1672705476afc3",
+      "f4b4e8a273229bcd86",
+      "897f1ab6d9c0017255",
+      "20b8b21bb0dc8d68a6",
+      "efb2bcb1532372aa85",
+      "bfaac99b99912bcd4f",
+      "f450f997d21e01d8cc",
+      "a6d4fbac680a256bad",
+      "ea41aeed136a07769e",
+      "46fa692c0f5ce8e473",
+      "0482938ebe34c080c4",
+      "2f75e4915d80f8991c",
+      "02b353cb2c8ab3ab56",
+      "97fc17688047ee52b1",
+      "947d65e090010cce0c",
+      "1fef621c08662cc98d",
+      "291b34f8c77f64acd7",
+      "03684364282c9f485e",
+      "cbf3812f4c2a45b40f",
+      "d50d57eab1a637a845",
+      "9d984b4364b56f5679",
+      "3d3d714fa1826774a7",
+      "9df5aa6b502dc7eb2e",
+      "1138ef731ec3f0c5f7",
+      "16856f38fcd4a3b8df",
+      "0b3409ad17d4e741f6",
+      "20abb5a38fae10311f",
+      "a1fed62e1cb8e64680",
+      "0456139aa91a181f5a",
+      "ba0988c521b5e0e759",
+      "1bb00165c827e64db7",
+      "77b4812dbd3d61281b"
+    ],
+    "trade_count": 33,
     "median_return_90d": null
   },
   {
@@ -376,7 +375,7 @@
       "6aa4ebbac47f25ff60"
     ],
     "trade_count": 39,
-    "median_return_90d": 6.77
+    "median_return_90d": 4.475
   },
   {
     "id": "category-usa-finans",
@@ -412,7 +411,7 @@
       "4ac7548e632e65ec2d"
     ],
     "trade_count": 22,
-    "median_return_90d": 7.25
+    "median_return_90d": null
   },
   {
     "id": "category-usa-konsument",
@@ -495,7 +494,7 @@
       "a1df676d93eac603e0"
     ],
     "trade_count": 31,
-    "median_return_90d": 8.14
+    "median_return_90d": null
   },
   {
     "id": "category-usa-transport",
@@ -517,7 +516,7 @@
       "d26992b3f2a55d35d5"
     ],
     "trade_count": 8,
-    "median_return_90d": -2.2649999999999997
+    "median_return_90d": null
   },
   {
     "id": "category-usa-industri",
@@ -545,7 +544,7 @@
       "1283f539be929d3b34"
     ],
     "trade_count": 14,
-    "median_return_90d": 33.9
+    "median_return_90d": null
   },
   {
     "id": "category-usa-energi",
