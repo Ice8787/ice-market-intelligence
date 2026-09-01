@@ -169,24 +169,6 @@
     "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
   },
   {
-    "ticker": "ABYIX",
-    "as_of": "2026-08-28",
-    "current_price": 11.84000015258789,
-    "sma20": 11.64,
-    "sma50": 11.66,
-    "momentum20": 2.25,
-    "momentum60": -0.59,
-    "volume_ratio": 0.0,
-    "rsi14": 67.8,
-    "trend_score": 35,
-    "label": "Neutral/svag trend",
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
-  },
-  {
     "ticker": "SI",
     "as_of": "2026-08-31",
     "current_price": 20.959999084472656,
@@ -235,6 +217,23 @@
     "label": "Neutral/svag trend",
     "reasons": [
       "20-dagars trend över 50-dagars trend"
+    ],
+    "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
+  },
+  {
+    "ticker": "ABYIX",
+    "as_of": "2026-08-31",
+    "current_price": 11.869999885559082,
+    "sma20": 11.66,
+    "sma50": 11.66,
+    "momentum20": 3.31,
+    "momentum60": 0.0,
+    "volume_ratio": 0.0,
+    "rsi14": 70.5,
+    "trend_score": 20,
+    "label": "Neutral/svag trend",
+    "reasons": [
+      "Kurs över 20-dagars medelvärde"
     ],
     "warning": "Trendpoäng beskriver historiskt pris och volym. Den förutsäger inte en GameStop-liknande uppgång och innehåller inte realtidsorderbok eller verifierad blankningsgrad."
   },
