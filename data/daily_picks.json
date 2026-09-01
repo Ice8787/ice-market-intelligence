@@ -35,41 +35,6 @@
   },
   {
     "rank": 2,
-    "ticker": "ICE",
-    "as_of": "2026-08-31",
-    "watch_score": 54,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 160.6999969482422,
-    "momentum20": 5.86,
-    "momentum60": 13.12,
-    "volume_ratio": 1.21,
-    "rsi14": 75.7,
-    "trend_score": 60,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum"
-    ],
-    "risk_flags": [
-      "Hög RSI – rekylrisk"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Kelly Loeffler",
-        "person_type": "political",
-        "date": "2020-05-20",
-        "value": 3000000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/c4c59219-79bf-4035-8f99-7b6a0aa03f05/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 3,
     "ticker": "BYND",
     "as_of": "2026-08-31",
     "watch_score": 54,
@@ -98,15 +63,15 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 4,
+    "rank": 3,
     "ticker": "BAC",
     "as_of": "2026-08-31",
     "watch_score": 52,
     "label": "Måttlig bevakningssignal",
     "current_price": 61.939998626708984,
-    "momentum20": -0.86,
-    "momentum60": 14.34,
-    "volume_ratio": 1.56,
+    "momentum20": -0.02,
+    "momentum60": 18.21,
+    "volume_ratio": 1.58,
     "rsi14": 38.5,
     "trend_score": 40,
     "reasons": [
@@ -162,7 +127,7 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 5,
+    "rank": 4,
     "ticker": "MSFT",
     "as_of": "2026-08-31",
     "watch_score": 50,
@@ -187,6 +152,42 @@
         "value": 175000.5,
         "currency": "USD",
         "source_url": "https://efdsearch.senate.gov/search/view/ptr/e29a0a93-7153-42f3-97c5-e9f68fe47820/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 5,
+    "ticker": "ICE",
+    "as_of": "2026-08-31",
+    "watch_score": 47,
+    "label": "Svag bevakningssignal",
+    "current_price": 160.6999969482422,
+    "momentum20": 5.39,
+    "momentum60": 16.07,
+    "volume_ratio": 1.16,
+    "rsi14": 80.1,
+    "trend_score": 50,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum",
+      "Mycket hög RSI – rekylrisk"
+    ],
+    "risk_flags": [
+      "Hög RSI – rekylrisk"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Kelly Loeffler",
+        "person_type": "political",
+        "date": "2020-05-20",
+        "value": 3000000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/c4c59219-79bf-4035-8f99-7b6a0aa03f05/"
       }
     ],
     "supporting_buy_count": 1,
