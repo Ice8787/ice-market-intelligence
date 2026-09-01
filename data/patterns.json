@@ -9,6 +9,7 @@
       "Övrigt"
     ],
     "trade_ids": [
+      "5f6c164cd86e4f5629",
       "409cb6a319c8b79e5c",
       "689ae84b762201d9de",
       "a8322b853f2148ee17",
@@ -16,6 +17,7 @@
       "f4a215faa3608f70bb",
       "65271bd2365a44968e",
       "4fc7a1b3e972f74f7c",
+      "e6aadd8c0b74a28416",
       "c700eb4c7c1f1c11af",
       "8552a4bb2fc49321bc",
       "1876e173a30063a242",
@@ -51,7 +53,6 @@
       "89ec215734081adc25",
       "4e8b327eb6c612b7a3",
       "04d40c1e014a599a6f",
-      "8e6a45a0fd179e7342",
       "a39786fa218554f14a",
       "84e45e55b6c4ed8cdf",
       "3279b490bf931663b6",
@@ -139,7 +140,6 @@
       "f527edf4bb3069511d",
       "afa36adab68c648dd4",
       "e429e744be4ddf6f22",
-      "1bdcffc4be1ab8ad13",
       "4436923421bfc2927e",
       "316365db9bb8153fd9",
       "c2407c4581c0183590",
@@ -153,6 +153,22 @@
       "6d785e8daf1edeb21b"
     ],
     "trade_count": 142,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-sverige-transport",
+    "type": "Sektorkluster",
+    "title": "2 insiderköp inom Transport · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Transport"
+    ],
+    "trade_ids": [
+      "86eac52ff00e47b3d3",
+      "da8ca8472d5e568143"
+    ],
+    "trade_count": 2,
     "median_return_90d": null
   },
   {
@@ -207,7 +223,7 @@
   {
     "id": "category-sverige-teknik",
     "type": "Sektorkluster",
-    "title": "8 insiderköp inom Teknik · Sverige",
+    "title": "9 insiderköp inom Teknik · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
@@ -215,6 +231,7 @@
     ],
     "trade_ids": [
       "c2429ca643eae1b03c",
+      "e52b253511ba81c793",
       "09c812b88703901544",
       "3dfb82cfb9af9bbbe6",
       "56a527986bfe262694",
@@ -223,7 +240,7 @@
       "b924ce5702d9fe90b9",
       "0718acba193bfff358"
     ],
-    "trade_count": 8,
+    "trade_count": 9,
     "median_return_90d": null
   },
   {
