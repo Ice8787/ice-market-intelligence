@@ -387,22 +387,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "44ac0385c7d0f0",
-    "name": "Johan Knaust",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 3,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "1e018c80f51a56",
     "name": "Tomas Klevbo",
     "person_type": "corporate_insider",
@@ -630,6 +614,22 @@
   {
     "id": "7c4705fca91639",
     "name": "Per Henrik Molin",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "44ac0385c7d0f0",
+    "name": "Johan Knaust",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
@@ -921,6 +921,22 @@
   {
     "id": "ccd7e3dd70d353",
     "name": "Anders Liljeblad",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "90491adbdd5d37",
+    "name": "Erik Flinck",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
