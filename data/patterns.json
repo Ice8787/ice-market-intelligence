@@ -255,7 +255,7 @@
   {
     "id": "category-sverige-energi",
     "type": "Sektorkluster",
-    "title": "14 insiderköp inom Energi · Sverige",
+    "title": "15 insiderköp inom Energi · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
@@ -265,6 +265,7 @@
       "24ca64a8616936fc1a",
       "70c6fce4b94655eff5",
       "e74466e3131516e61b",
+      "643e8f6b037196b9e0",
       "a3f74a330ccef56e52",
       "58f60f953991f076d1",
       "5d11bbbd45fdb68f10",
@@ -277,7 +278,7 @@
       "1de43a917bf84ba776",
       "86f5b304ff9a493873"
     ],
-    "trade_count": 14,
+    "trade_count": 15,
     "median_return_90d": null
   },
   {
