@@ -2,7 +2,7 @@
   {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
-    "title": "141 insiderköp inom Övrigt · Sverige",
+    "title": "140 insiderköp inom Övrigt · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
@@ -51,7 +51,6 @@
       "c7577d99db74fb1ab7",
       "f6c55f4da1e16c1317",
       "aea2eca8deebef8dfa",
-      "db8da68842dab35181",
       "f279b6b6b859067fa2",
       "73a9fe40b1726116f8",
       "4d71087eaf5425c639",
@@ -151,7 +150,7 @@
       "7c29f4f4b039fb968d",
       "6d785e8daf1edeb21b"
     ],
-    "trade_count": 141,
+    "trade_count": 140,
     "median_return_90d": null
   },
   {
@@ -256,7 +255,7 @@
   {
     "id": "category-sverige-energi",
     "type": "Sektorkluster",
-    "title": "13 insiderköp inom Energi · Sverige",
+    "title": "14 insiderköp inom Energi · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
@@ -265,6 +264,7 @@
     "trade_ids": [
       "24ca64a8616936fc1a",
       "70c6fce4b94655eff5",
+      "e74466e3131516e61b",
       "a3f74a330ccef56e52",
       "58f60f953991f076d1",
       "5d11bbbd45fdb68f10",
@@ -277,7 +277,7 @@
       "1de43a917bf84ba776",
       "86f5b304ff9a493873"
     ],
-    "trade_count": 13,
+    "trade_count": 14,
     "median_return_90d": null
   },
   {
