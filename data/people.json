@@ -15,7 +15,7 @@
     "history": {
       "tracked_buys": 30,
       "positive_90d_rate": 100,
-      "median_return_90d": 7.25,
+      "median_return_90d": 2.065,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -55,8 +55,8 @@
     ],
     "history": {
       "tracked_buys": 24,
-      "positive_90d_rate": 100,
-      "median_return_90d": 11.14,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -75,8 +75,8 @@
     ],
     "history": {
       "tracked_buys": 22,
-      "positive_90d_rate": 83,
-      "median_return_90d": 8.445,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -199,8 +199,8 @@
     ],
     "history": {
       "tracked_buys": 9,
-      "positive_90d_rate": 50,
-      "median_return_90d": -2.2649999999999997,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -871,6 +871,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "681f9dc1d2b5df",
+    "name": "Samuel Alteborg",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "6a67d10d6f0f61",
     "name": "Robert Larsson",
     "person_type": "business_leader",
@@ -909,6 +925,22 @@
     "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
     "categories": [
       "Finans"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "6715aa11ffa7aa",
+    "name": "Jovitech Invest AB",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
+    "categories": [
+      "Energi"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1037,6 +1069,38 @@
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "7c270d02e0cbc4",
+    "name": "Tomas Ståhl",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "56387f3b351149",
+    "name": "Nicklas Westerholm",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Hälsa"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1945,22 +2009,6 @@
   {
     "id": "2d51c2f698e167",
     "name": "William Axel Walter Lundin",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "eba2c245687bdf",
-    "name": "Jonas Söderqvist",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
