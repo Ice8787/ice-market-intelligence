@@ -9,6 +9,7 @@
       "Övrigt"
     ],
     "trade_ids": [
+      "12654a08ba26824a01",
       "727b73a1948b3e8a11",
       "c30f1280e1780819a9",
       "415fdca3b548521842",
@@ -117,7 +118,6 @@
       "ffc0a34ea4deadfad2",
       "57d72bd58e533c0d77",
       "643bb1b98b78f44f5d",
-      "fb628f4a4ed3160918",
       "186e27fd6e67700b15",
       "31c2f16bc8603d1b97",
       "7e16311dc5cb94ddc2",
@@ -160,13 +160,15 @@
   {
     "id": "category-sverige-teknik",
     "type": "Sektorkluster",
-    "title": "12 insiderköp inom Teknik · Sverige",
+    "title": "14 insiderköp inom Teknik · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Teknik"
     ],
     "trade_ids": [
+      "01e3db649ceca7dd1f",
+      "724cef6b3275977936",
       "0a5bdb8755d56f2af8",
       "01d83701f779ce9c61",
       "fe94636002e11b5cce",
@@ -180,7 +182,7 @@
       "b924ce5702d9fe90b9",
       "0718acba193bfff358"
     ],
-    "trade_count": 12,
+    "trade_count": 14,
     "median_return_90d": null
   },
   {
@@ -412,7 +414,7 @@
       "6aa4ebbac47f25ff60"
     ],
     "trade_count": 39,
-    "median_return_90d": 6.77
+    "median_return_90d": 4.475
   },
   {
     "id": "category-usa-finans",
@@ -448,7 +450,7 @@
       "4ac7548e632e65ec2d"
     ],
     "trade_count": 22,
-    "median_return_90d": 7.25
+    "median_return_90d": null
   },
   {
     "id": "category-usa-konsument",
@@ -531,7 +533,7 @@
       "a1df676d93eac603e0"
     ],
     "trade_count": 31,
-    "median_return_90d": 8.14
+    "median_return_90d": null
   },
   {
     "id": "category-usa-transport",
@@ -553,7 +555,7 @@
       "d26992b3f2a55d35d5"
     ],
     "trade_count": 8,
-    "median_return_90d": -2.2649999999999997
+    "median_return_90d": null
   },
   {
     "id": "category-usa-industri",
@@ -581,7 +583,7 @@
       "1283f539be929d3b34"
     ],
     "trade_count": 14,
-    "median_return_90d": 33.9
+    "median_return_90d": null
   },
   {
     "id": "category-usa-energi",
