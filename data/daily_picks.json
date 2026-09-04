@@ -1,15 +1,15 @@
 [
   {
     "rank": 1,
-    "ticker": "NFLX",
-    "as_of": "2026-09-03",
-    "watch_score": 63,
+    "ticker": "ICE",
+    "as_of": "2026-09-04",
+    "watch_score": 65,
     "label": "Måttlig bevakningssignal",
-    "current_price": 82.66999816894531,
-    "momentum20": 12.19,
-    "momentum60": 1.55,
-    "volume_ratio": 0.87,
-    "rsi14": 63.4,
+    "current_price": 161.63499450683594,
+    "momentum20": 7.54,
+    "momentum60": 15.17,
+    "volume_ratio": 0.35,
+    "rsi14": 64.1,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -17,40 +17,9 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [],
-    "supporting_buys": [
-      {
-        "person_name": "Pat Roberts",
-        "person_type": "political",
-        "date": "2020-09-04",
-        "value": 75000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/6f691f61-e375-42ab-af01-72da4328447c/"
-      }
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
     ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 2,
-    "ticker": "ICE",
-    "as_of": "2026-09-03",
-    "watch_score": 54,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 164.58999633789062,
-    "momentum20": 9.91,
-    "momentum60": 16.27,
-    "volume_ratio": 1.45,
-    "rsi14": 71.0,
-    "trend_score": 60,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum"
-    ],
-    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Kelly Loeffler",
@@ -67,87 +36,25 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 3,
-    "ticker": "BAC",
-    "as_of": "2026-09-03",
-    "watch_score": 52,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 63.040000915527344,
-    "momentum20": 0.06,
-    "momentum60": 15.84,
-    "volume_ratio": 1.05,
-    "rsi14": 41.1,
-    "trend_score": 40,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend"
-    ],
-    "risk_flags": [],
-    "supporting_buys": [
-      {
-        "person_name": "Jerry Moran,",
-        "person_type": "political",
-        "date": "2020-08-21",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/5809a671-cb5c-46c3-a6ec-35481814e274/"
-      },
-      {
-        "person_name": "David A Perdue , Jr",
-        "person_type": "political",
-        "date": "2020-03-23",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/0b6c2641-eca3-4bdf-9c14-9208c0239a1b/"
-      },
-      {
-        "person_name": "David A Perdue , Jr",
-        "person_type": "political",
-        "date": "2020-03-18",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/0b6c2641-eca3-4bdf-9c14-9208c0239a1b/"
-      },
-      {
-        "person_name": "Sheldon Whitehouse",
-        "person_type": "political",
-        "date": "2015-05-27",
-        "value": 32500.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/d16a03dd-c7ee-4bf8-b760-bccb5d5677c2/"
-      },
-      {
-        "person_name": "Pat Roberts",
-        "person_type": "political",
-        "date": "2014-03-14",
-        "value": 32500.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/f7835d2e-ed40-4319-bfd7-0f8660e43c35/"
-      }
-    ],
-    "supporting_buy_count": 6,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 4,
+    "rank": 2,
     "ticker": "MSFT",
-    "as_of": "2026-09-03",
+    "as_of": "2026-09-04",
     "watch_score": 50,
     "label": "Måttlig bevakningssignal",
-    "current_price": 510.1199951171875,
-    "momentum20": 2.05,
-    "momentum60": 26.45,
-    "volume_ratio": 1.0,
-    "rsi14": 58.7,
+    "current_price": 500.5,
+    "momentum20": 0.1,
+    "momentum60": 25.96,
+    "volume_ratio": 0.31,
+    "rsi14": 62.7,
     "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
     "supporting_buys": [
       {
         "person_name": "Ron L Wyden",
@@ -164,23 +71,95 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 5,
+    "rank": 3,
+    "ticker": "NFLX",
+    "as_of": "2026-09-04",
+    "watch_score": 48,
+    "label": "Svag bevakningssignal",
+    "current_price": 79.13500213623047,
+    "momentum20": 6.74,
+    "momentum60": -3.49,
+    "volume_ratio": 0.75,
+    "rsi14": 58.6,
+    "trend_score": 55,
+    "reasons": [
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Pat Roberts",
+        "person_type": "political",
+        "date": "2020-09-04",
+        "value": 75000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/6f691f61-e375-42ab-af01-72da4328447c/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 4,
     "ticker": "NTLA",
-    "as_of": "2026-09-03",
+    "as_of": "2026-09-04",
     "watch_score": 47,
     "label": "Svag bevakningssignal",
-    "current_price": 12.680000305175781,
-    "momentum20": 12.81,
-    "momentum60": -1.63,
-    "volume_ratio": 0.92,
-    "rsi14": 56.6,
+    "current_price": 12.795000076293945,
+    "momentum20": 7.16,
+    "momentum60": 4.88,
+    "volume_ratio": 0.46,
+    "rsi14": 56.1,
     "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-11-20",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 5,
+    "ticker": "ABYIX",
+    "as_of": "2026-09-03",
+    "watch_score": 47,
+    "label": "Svag bevakningssignal",
+    "current_price": 11.899999618530273,
+    "momentum20": 3.3,
+    "momentum60": 1.19,
+    "volume_ratio": 0.0,
+    "rsi14": 67.7,
+    "trend_score": 55,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
