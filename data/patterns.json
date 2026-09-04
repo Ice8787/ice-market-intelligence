@@ -17,6 +17,7 @@
       "af4a9af2f8ad772ce1",
       "d41455c051fad2b0c7",
       "14dda7e32ad53ccb21",
+      "09d1f378cce92dc44b",
       "959f0f48822bbc08e1",
       "032ffa4d4ebb5f4d7d",
       "00e60ec92a8abfeaa3",
@@ -133,7 +134,6 @@
       "6fcba6fa716d85dd05",
       "7f28f3a1f69a903d93",
       "7156ae0ac81462aded",
-      "198b928bc4a897cf53",
       "7821191db064ef0398",
       "e49f21e84d967648fc",
       "ce7f748e8d5be31d40",
@@ -186,33 +186,16 @@
     "median_return_90d": null
   },
   {
-    "id": "category-sverige-transport",
-    "type": "Sektorkluster",
-    "title": "4 insiderköp inom Transport · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Transport"
-    ],
-    "trade_ids": [
-      "996efe70151edd9f49",
-      "356325b792439d599d",
-      "86eac52ff00e47b3d3",
-      "da8ca8472d5e568143"
-    ],
-    "trade_count": 4,
-    "median_return_90d": null
-  },
-  {
     "id": "category-sverige-finans",
     "type": "Sektorkluster",
-    "title": "36 insiderköp inom Finans · Sverige",
+    "title": "37 insiderköp inom Finans · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Finans"
     ],
     "trade_ids": [
+      "8a8ff6a8174f07c7db",
       "5d88c2d5158f0739a9",
       "a101a23205878effe3",
       "479d4844b048799048",
@@ -250,7 +233,50 @@
       "1bb00165c827e64db7",
       "77b4812dbd3d61281b"
     ],
-    "trade_count": 36,
+    "trade_count": 37,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-sverige-hälsa",
+    "type": "Sektorkluster",
+    "title": "11 insiderköp inom Hälsa · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Hälsa"
+    ],
+    "trade_ids": [
+      "cedb213a8dae055e7e",
+      "f1bb81ef2036d90c6d",
+      "33887c0b24e789ad09",
+      "926062905f40ccc614",
+      "07e13f7bbf191fb2cf",
+      "4ade7cb2d03c2ec081",
+      "b102fdd14d822830c4",
+      "89ff6708577df1e3be",
+      "86f3d4863a46cb9a99",
+      "fd0aa2bffad2c71089",
+      "43b08354d57d355e14"
+    ],
+    "trade_count": 11,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-sverige-transport",
+    "type": "Sektorkluster",
+    "title": "4 insiderköp inom Transport · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Transport"
+    ],
+    "trade_ids": [
+      "996efe70151edd9f49",
+      "356325b792439d599d",
+      "86eac52ff00e47b3d3",
+      "da8ca8472d5e568143"
+    ],
+    "trade_count": 4,
     "median_return_90d": null
   },
   {
@@ -304,30 +330,6 @@
       "86f5b304ff9a493873"
     ],
     "trade_count": 16,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-hälsa",
-    "type": "Sektorkluster",
-    "title": "10 insiderköp inom Hälsa · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Hälsa"
-    ],
-    "trade_ids": [
-      "f1bb81ef2036d90c6d",
-      "33887c0b24e789ad09",
-      "926062905f40ccc614",
-      "07e13f7bbf191fb2cf",
-      "4ade7cb2d03c2ec081",
-      "b102fdd14d822830c4",
-      "89ff6708577df1e3be",
-      "86f3d4863a46cb9a99",
-      "fd0aa2bffad2c71089",
-      "43b08354d57d355e14"
-    ],
-    "trade_count": 10,
     "median_return_90d": null
   },
   {
