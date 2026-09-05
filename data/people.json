@@ -1479,22 +1479,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "3ad22f8c491446",
-    "name": "Mikael Malmgren",
-    "person_type": "corporate_insider",
-    "primary_role": "Ekonomichef/finanschef/finansdirektör",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "204767a55d43cd",
     "name": "Christian Byhmer",
     "person_type": "business_leader",
@@ -2107,6 +2091,22 @@
     "name": "Carl-Fredrik Streiby",
     "person_type": "business_leader",
     "primary_role": "Vice VD",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "ea26a9f0c3ed29",
+    "name": "Magnus Mivér",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
     "categories": [
       "Övrigt"
     ],
