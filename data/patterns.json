@@ -1,5 +1,35 @@
 [
   {
+    "id": "category-sverige-teknik",
+    "type": "Sektorkluster",
+    "title": "16 insiderköp inom Teknik · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Teknik"
+    ],
+    "trade_ids": [
+      "7dd1505a011f01ed06",
+      "e029e53978f6c6da47",
+      "01e3db649ceca7dd1f",
+      "724cef6b3275977936",
+      "0a5bdb8755d56f2af8",
+      "01d83701f779ce9c61",
+      "fe94636002e11b5cce",
+      "c2429ca643eae1b03c",
+      "e52b253511ba81c793",
+      "09c812b88703901544",
+      "3dfb82cfb9af9bbbe6",
+      "56a527986bfe262694",
+      "f7ef47ddc3c5a8bac4",
+      "83e3d377be4610bc4a",
+      "b924ce5702d9fe90b9",
+      "0718acba193bfff358"
+    ],
+    "trade_count": 16,
+    "median_return_90d": null
+  },
+  {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
     "title": "142 insiderköp inom Övrigt · Sverige",
@@ -9,6 +39,7 @@
       "Övrigt"
     ],
     "trade_ids": [
+      "bad05d5f15f9847d6b",
       "12654a08ba26824a01",
       "f181ee90acf074392b",
       "55339de074bf359d45",
@@ -98,7 +129,6 @@
       "7c4ebb46efa5711833",
       "a77a61c166c6d8e76c",
       "d70202661edd6a3d35",
-      "cc023bd2382ad31970",
       "28cd549960a902d7ca",
       "5d45d6b8cf9a40a41c",
       "7e7a2374eee3ecf13d",
@@ -153,34 +183,6 @@
       "6d785e8daf1edeb21b"
     ],
     "trade_count": 142,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-teknik",
-    "type": "Sektorkluster",
-    "title": "14 insiderköp inom Teknik · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Teknik"
-    ],
-    "trade_ids": [
-      "01e3db649ceca7dd1f",
-      "724cef6b3275977936",
-      "0a5bdb8755d56f2af8",
-      "01d83701f779ce9c61",
-      "fe94636002e11b5cce",
-      "c2429ca643eae1b03c",
-      "e52b253511ba81c793",
-      "09c812b88703901544",
-      "3dfb82cfb9af9bbbe6",
-      "56a527986bfe262694",
-      "f7ef47ddc3c5a8bac4",
-      "83e3d377be4610bc4a",
-      "b924ce5702d9fe90b9",
-      "0718acba193bfff358"
-    ],
-    "trade_count": 14,
     "median_return_90d": null
   },
   {
