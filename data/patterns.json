@@ -14,6 +14,7 @@
       "db5299e4cbdb9bb54b",
       "2f5a587bf1667feb9a",
       "12654a08ba26824a01",
+      "52bed8de2c81418ce0",
       "f181ee90acf074392b",
       "727b73a1948b3e8a11",
       "c30f1280e1780819a9",
@@ -55,7 +56,6 @@
       "c63c6bf2ca5ec4ce4d",
       "8071ea20971486bb69",
       "1fe29fa7c91b10c761",
-      "4b3299668fccd82ee0",
       "c873e6725412db412e",
       "1e97e94d117b2317ac",
       "3fd840a1babee63729",
@@ -152,6 +152,25 @@
       "6d785e8daf1edeb21b"
     ],
     "trade_count": 141,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-sverige-transport",
+    "type": "Sektorkluster",
+    "title": "5 insiderköp inom Transport · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Transport"
+    ],
+    "trade_ids": [
+      "e32abdfb96a82a5647",
+      "996efe70151edd9f49",
+      "356325b792439d599d",
+      "86eac52ff00e47b3d3",
+      "da8ca8472d5e568143"
+    ],
+    "trade_count": 5,
     "median_return_90d": null
   },
   {
@@ -258,24 +277,6 @@
       "43b08354d57d355e14"
     ],
     "trade_count": 11,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-transport",
-    "type": "Sektorkluster",
-    "title": "4 insiderköp inom Transport · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Transport"
-    ],
-    "trade_ids": [
-      "996efe70151edd9f49",
-      "356325b792439d599d",
-      "86eac52ff00e47b3d3",
-      "da8ca8472d5e568143"
-    ],
-    "trade_count": 4,
     "median_return_90d": null
   },
   {
