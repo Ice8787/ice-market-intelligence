@@ -5,20 +5,18 @@
     "as_of": "2026-09-09",
     "watch_score": 50,
     "label": "Måttlig bevakningssignal",
-    "current_price": 236.3300018310547,
-    "momentum20": 11.31,
-    "momentum60": -15.51,
-    "volume_ratio": 0.62,
-    "rsi14": 49.6,
+    "current_price": 235.00999450683594,
+    "momentum20": 10.69,
+    "momentum60": -15.98,
+    "volume_ratio": 0.82,
+    "rsi14": 49.0,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
       "Positivt 20-dagars momentum"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
@@ -40,19 +38,17 @@
     "as_of": "2026-09-09",
     "watch_score": 40,
     "label": "Svag bevakningssignal",
-    "current_price": 95.38999938964844,
-    "momentum20": 2.02,
-    "momentum60": -6.44,
-    "volume_ratio": 0.43,
-    "rsi14": 56.9,
+    "current_price": 95.37999725341797,
+    "momentum20": 2.01,
+    "momentum60": -6.45,
+    "volume_ratio": 0.93,
+    "rsi14": 56.8,
     "trend_score": 35,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Jerry Moran,",
@@ -106,18 +102,16 @@
     "as_of": "2026-09-09",
     "watch_score": 37,
     "label": "Svag bevakningssignal",
-    "current_price": 62.619998931884766,
-    "momentum20": -2.16,
-    "momentum60": 11.78,
-    "volume_ratio": 0.59,
-    "rsi14": 46.1,
+    "current_price": 62.66999816894531,
+    "momentum20": -2.08,
+    "momentum60": 11.87,
+    "volume_ratio": 1.2,
+    "rsi14": 46.4,
     "trend_score": 20,
     "reasons": [
       "20-dagars trend över 50-dagars trend"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Jerry Moran,",
@@ -171,20 +165,17 @@
     "as_of": "2026-09-09",
     "watch_score": 36,
     "label": "Svag bevakningssignal",
-    "current_price": 9.71500015258789,
-    "momentum20": 9.28,
-    "momentum60": 8.43,
-    "volume_ratio": 0.72,
-    "rsi14": 74.9,
+    "current_price": 9.609999656677246,
+    "momentum20": 8.1,
+    "momentum60": 7.25,
+    "volume_ratio": 1.27,
+    "rsi14": 71.6,
     "trend_score": 40,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "Positivt 20-dagars momentum"
     ],
-    "risk_flags": [
-      "Hög RSI – rekylrisk",
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
