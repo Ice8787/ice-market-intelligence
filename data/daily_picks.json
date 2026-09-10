@@ -8,7 +8,7 @@
     "current_price": 326.57000732421875,
     "momentum20": 8.05,
     "momentum60": 10.17,
-    "volume_ratio": 1.66,
+    "volume_ratio": 1.72,
     "rsi14": 64.7,
     "trend_score": 75,
     "reasons": [
@@ -32,19 +32,17 @@
     "as_of": "2026-09-10",
     "watch_score": 48,
     "label": "Svag bevakningssignal",
-    "current_price": 62.56999969482422,
-    "momentum20": -3.46,
-    "momentum60": 11.99,
-    "volume_ratio": 0.69,
-    "rsi14": 56.1,
+    "current_price": 62.560001373291016,
+    "momentum20": -3.47,
+    "momentum60": 11.97,
+    "volume_ratio": 0.88,
+    "rsi14": 56.0,
     "trend_score": 35,
     "reasons": [
       "20-dagars trend över 50-dagars trend",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Jerry Moran,",
@@ -94,6 +92,32 @@
   },
   {
     "rank": 3,
+    "ticker": "OHI",
+    "as_of": "2026-09-10",
+    "watch_score": 40,
+    "label": "Svag bevakningssignal",
+    "current_price": 46.95000076293945,
+    "momentum20": 2.35,
+    "momentum60": 3.85,
+    "volume_ratio": 1.55,
+    "rsi14": 52.1,
+    "trend_score": 55,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "Ovanligt hög dagsvolym",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [
+      "Ingen matchande offentlig köpsignal i datasetet"
+    ],
+    "supporting_buys": [],
+    "supporting_buy_count": 0,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 4,
     "ticker": "CVS",
     "as_of": "2026-09-10",
     "watch_score": 40,
@@ -101,7 +125,7 @@
     "current_price": 95.29000091552734,
     "momentum20": 0.6,
     "momentum60": -5.35,
-    "volume_ratio": 0.44,
+    "volume_ratio": 0.6,
     "rsi14": 56.4,
     "trend_score": 35,
     "reasons": [
@@ -159,7 +183,7 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 4,
+    "rank": 5,
     "ticker": "ABYIX",
     "as_of": "2026-09-09",
     "watch_score": 36,
@@ -186,40 +210,6 @@
         "value": 8000.5,
         "currency": "USD",
         "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 5,
-    "ticker": "MSFT",
-    "as_of": "2026-09-10",
-    "watch_score": 35,
-    "label": "Svag bevakningssignal",
-    "current_price": 492.44000244140625,
-    "momentum20": 0.0,
-    "momentum60": 23.18,
-    "volume_ratio": 0.66,
-    "rsi14": 56.9,
-    "trend_score": 35,
-    "reasons": [
-      "20-dagars trend över 50-dagars trend",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Ron L Wyden",
-        "person_type": "political",
-        "date": "2020-07-23",
-        "value": 175000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/e29a0a93-7153-42f3-97c5-e9f68fe47820/"
       }
     ],
     "supporting_buy_count": 1,
