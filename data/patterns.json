@@ -185,20 +185,52 @@
   {
     "id": "category-sverige-transport",
     "type": "Sektorkluster",
-    "title": "5 insiderköp inom Transport · Sverige",
+    "title": "6 insiderköp inom Transport · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Transport"
     ],
     "trade_ids": [
+      "04a8bd45c7fb6d6583",
       "e32abdfb96a82a5647",
       "996efe70151edd9f49",
       "356325b792439d599d",
       "86eac52ff00e47b3d3",
       "da8ca8472d5e568143"
     ],
-    "trade_count": 5,
+    "trade_count": 6,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-sverige-energi",
+    "type": "Sektorkluster",
+    "title": "17 insiderköp inom Energi · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Energi"
+    ],
+    "trade_ids": [
+      "6ba4de5b92454d8e9c",
+      "d626d314ea114fcaea",
+      "24ca64a8616936fc1a",
+      "70c6fce4b94655eff5",
+      "e74466e3131516e61b",
+      "643e8f6b037196b9e0",
+      "a3f74a330ccef56e52",
+      "58f60f953991f076d1",
+      "5d11bbbd45fdb68f10",
+      "aeeef541a6643a5d87",
+      "218add9f4359e1c040",
+      "b290e3d1f3f0c20b98",
+      "453a7a4b8a15a972ee",
+      "f6615c6deac8c86b04",
+      "40b4bf78e67d1846ac",
+      "1de43a917bf84ba776",
+      "86f5b304ff9a493873"
+    ],
+    "trade_count": 17,
     "median_return_90d": null
   },
   {
@@ -306,36 +338,6 @@
       "77b4812dbd3d61281b"
     ],
     "trade_count": 37,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-energi",
-    "type": "Sektorkluster",
-    "title": "16 insiderköp inom Energi · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Energi"
-    ],
-    "trade_ids": [
-      "d626d314ea114fcaea",
-      "24ca64a8616936fc1a",
-      "70c6fce4b94655eff5",
-      "e74466e3131516e61b",
-      "643e8f6b037196b9e0",
-      "a3f74a330ccef56e52",
-      "58f60f953991f076d1",
-      "5d11bbbd45fdb68f10",
-      "aeeef541a6643a5d87",
-      "218add9f4359e1c040",
-      "b290e3d1f3f0c20b98",
-      "453a7a4b8a15a972ee",
-      "f6615c6deac8c86b04",
-      "40b4bf78e67d1846ac",
-      "1de43a917bf84ba776",
-      "86f5b304ff9a493873"
-    ],
-    "trade_count": 16,
     "median_return_90d": null
   },
   {
