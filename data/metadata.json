@@ -1,10 +1,10 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-09-11T17:18:37.399210Z",
+  "generated_at": "2026-09-11T19:47:21.355498Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
   "record_count": 763,
-  "people_count": 139,
+  "people_count": 138,
   "political_trade_count": 411,
   "policy_event_count": 127,
   "trend_count": 22,

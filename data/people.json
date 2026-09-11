@@ -1207,6 +1207,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "10f1efb78c6b02",
+    "name": "Ulf Liljedahl",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "6715aa11ffa7aa",
     "name": "Jovitech Invest AB",
     "person_type": "corporate_insider",
@@ -1277,22 +1293,6 @@
     "primary_role": "Styrelseledamot",
     "categories": [
       "Energi"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "10f1efb78c6b02",
-    "name": "Ulf Liljedahl",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
-    "categories": [
-      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1867,22 +1867,6 @@
     "name": "Frode Nilsen",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "b77cfed4ca7f27",
-    "name": "Oskar Hellström",
-    "person_type": "corporate_insider",
-    "primary_role": "Ekonomichef/finanschef/finansdirektör",
     "categories": [
       "Övrigt"
     ],
