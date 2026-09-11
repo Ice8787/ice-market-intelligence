@@ -1,46 +1,148 @@
 [
   {
     "rank": 1,
-    "ticker": "AAPL",
-    "as_of": "2026-09-10",
-    "watch_score": 54,
+    "ticker": "PAGS",
+    "as_of": "2026-09-09",
+    "watch_score": 50,
     "label": "Måttlig bevakningssignal",
-    "current_price": 326.57000732421875,
-    "momentum20": 8.05,
-    "momentum60": 10.17,
-    "volume_ratio": 1.72,
-    "rsi14": 64.7,
-    "trend_score": 75,
+    "current_price": 9.609999656677246,
+    "momentum20": 8.1,
+    "momentum60": 7.25,
+    "volume_ratio": 1.69,
+    "rsi14": 71.6,
+    "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "Positivt 20-dagars momentum",
-      "Ovanligt hög dagsvolym",
-      "RSI visar styrka utan extrem överköpt nivå"
+      "Ovanligt hög dagsvolym"
     ],
-    "risk_flags": [
-      "Ingen matchande offentlig köpsignal i datasetet"
+    "risk_flags": [],
+    "supporting_buys": [
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-11-20",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
+      }
     ],
-    "supporting_buys": [],
-    "supporting_buy_count": 0,
+    "supporting_buy_count": 1,
     "historical_median_30d": null,
     "historical_median_90d": null,
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
     "rank": 2,
-    "ticker": "BAC",
-    "as_of": "2026-09-10",
-    "watch_score": 48,
+    "ticker": "MRVL",
+    "as_of": "2026-09-09",
+    "watch_score": 50,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 235.00999450683594,
+    "momentum20": 10.69,
+    "momentum60": -15.98,
+    "volume_ratio": 0.84,
+    "rsi14": 49.0,
+    "trend_score": 60,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum"
+    ],
+    "risk_flags": [],
+    "supporting_buys": [
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-11-20",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 3,
+    "ticker": "CVS",
+    "as_of": "2026-09-09",
+    "watch_score": 40,
     "label": "Svag bevakningssignal",
-    "current_price": 62.560001373291016,
-    "momentum20": -3.47,
-    "momentum60": 11.97,
-    "volume_ratio": 0.88,
-    "rsi14": 56.0,
+    "current_price": 95.37999725341797,
+    "momentum20": 2.01,
+    "momentum60": -6.45,
+    "volume_ratio": 0.93,
+    "rsi14": 56.8,
     "trend_score": 35,
     "reasons": [
-      "20-dagars trend över 50-dagars trend",
+      "Kurs över 20-dagars medelvärde",
       "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [],
+    "supporting_buys": [
+      {
+        "person_name": "Jerry Moran,",
+        "person_type": "political",
+        "date": "2020-08-21",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/5809a671-cb5c-46c3-a6ec-35481814e274/"
+      },
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-04-14",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/"
+      },
+      {
+        "person_name": "Kelly Loeffler",
+        "person_type": "political",
+        "date": "2020-04-07",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b47d301-0318-4604-bd14-a0b9c1b8437f/"
+      },
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-04-02",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/"
+      },
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-03-27",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/6beec58d-0b48-4346-9d9e-2f4cb6e88264/"
+      }
+    ],
+    "supporting_buy_count": 6,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 4,
+    "ticker": "BAC",
+    "as_of": "2026-09-09",
+    "watch_score": 37,
+    "label": "Svag bevakningssignal",
+    "current_price": 62.66999816894531,
+    "momentum20": -2.08,
+    "momentum60": 11.87,
+    "volume_ratio": 1.23,
+    "rsi14": 46.4,
+    "trend_score": 20,
+    "reasons": [
+      "20-dagars trend över 50-dagars trend"
     ],
     "risk_flags": [],
     "supporting_buys": [
@@ -83,98 +185,6 @@
         "value": 32500.5,
         "currency": "USD",
         "source_url": "https://efdsearch.senate.gov/search/view/ptr/f7835d2e-ed40-4319-bfd7-0f8660e43c35/"
-      }
-    ],
-    "supporting_buy_count": 6,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 3,
-    "ticker": "OHI",
-    "as_of": "2026-09-10",
-    "watch_score": 40,
-    "label": "Svag bevakningssignal",
-    "current_price": 46.95000076293945,
-    "momentum20": 2.35,
-    "momentum60": 3.85,
-    "volume_ratio": 1.55,
-    "rsi14": 52.1,
-    "trend_score": 55,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "Ovanligt hög dagsvolym",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [
-      "Ingen matchande offentlig köpsignal i datasetet"
-    ],
-    "supporting_buys": [],
-    "supporting_buy_count": 0,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 4,
-    "ticker": "CVS",
-    "as_of": "2026-09-10",
-    "watch_score": 40,
-    "label": "Svag bevakningssignal",
-    "current_price": 95.29000091552734,
-    "momentum20": 0.6,
-    "momentum60": -5.35,
-    "volume_ratio": 0.6,
-    "rsi14": 56.4,
-    "trend_score": 35,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Jerry Moran,",
-        "person_type": "political",
-        "date": "2020-08-21",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/5809a671-cb5c-46c3-a6ec-35481814e274/"
-      },
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-04-14",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/"
-      },
-      {
-        "person_name": "Kelly Loeffler",
-        "person_type": "political",
-        "date": "2020-04-07",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b47d301-0318-4604-bd14-a0b9c1b8437f/"
-      },
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-04-02",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/"
-      },
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-03-27",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/6beec58d-0b48-4346-9d9e-2f4cb6e88264/"
       }
     ],
     "supporting_buy_count": 6,
