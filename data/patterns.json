@@ -43,6 +43,7 @@
       "Övrigt"
     ],
     "trade_ids": [
+      "533dca6a40ba99460e",
       "6cda303731f2535033",
       "452de730d9881b55e0",
       "10d08b57eee777da93",
@@ -64,7 +65,6 @@
       "a8bd42c91c1c98075b",
       "d3659ea78f44c4c3eb",
       "e5e7ff8df3de01e785",
-      "4f4d94c2ec01493d23",
       "db5299e4cbdb9bb54b",
       "53802a6a4dd077df33",
       "2e0d08caf29aa46584",
@@ -190,6 +190,31 @@
     "median_return_90d": null
   },
   {
+    "id": "category-sverige-transport",
+    "type": "Sektorkluster",
+    "title": "11 insiderköp inom Transport · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Transport"
+    ],
+    "trade_ids": [
+      "8d97d4bbf23333a94a",
+      "cde4fae109cc6994bd",
+      "5f278b29b8ac028247",
+      "ef8096af68330be700",
+      "eeb5db6aa05150df28",
+      "04a8bd45c7fb6d6583",
+      "e32abdfb96a82a5647",
+      "996efe70151edd9f49",
+      "356325b792439d599d",
+      "86eac52ff00e47b3d3",
+      "da8ca8472d5e568143"
+    ],
+    "trade_count": 11,
+    "median_return_90d": null
+  },
+  {
     "id": "category-sverige-hälsa",
     "type": "Sektorkluster",
     "title": "16 insiderköp inom Hälsa · Sverige",
@@ -270,26 +295,6 @@
       "77b4812dbd3d61281b"
     ],
     "trade_count": 39,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-transport",
-    "type": "Sektorkluster",
-    "title": "6 insiderköp inom Transport · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Transport"
-    ],
-    "trade_ids": [
-      "04a8bd45c7fb6d6583",
-      "e32abdfb96a82a5647",
-      "996efe70151edd9f49",
-      "356325b792439d599d",
-      "86eac52ff00e47b3d3",
-      "da8ca8472d5e568143"
-    ],
-    "trade_count": 6,
     "median_return_90d": null
   },
   {
