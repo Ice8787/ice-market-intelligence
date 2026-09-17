@@ -2,7 +2,7 @@
   {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
-    "title": "142 insiderköp inom Övrigt · Sverige",
+    "title": "140 insiderköp inom Övrigt · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
@@ -11,6 +11,7 @@
     "trade_ids": [
       "1f0ca8b108d5e2d4ba",
       "533dca6a40ba99460e",
+      "ee0bed93cdc548b9f3",
       "6cda303731f2535033",
       "452de730d9881b55e0",
       "10d08b57eee777da93",
@@ -39,7 +40,6 @@
       "52bed8de2c81418ce0",
       "727b73a1948b3e8a11",
       "c30f1280e1780819a9",
-      "6841b0b9fbea881ba3",
       "af4a9af2f8ad772ce1",
       "d41455c051fad2b0c7",
       "14dda7e32ad53ccb21",
@@ -63,7 +63,6 @@
       "65271bd2365a44968e",
       "4fc7a1b3e972f74f7c",
       "e6aadd8c0b74a28416",
-      "809fd369e51221fabe",
       "c700eb4c7c1f1c11af",
       "f86396431bd2c3dc65",
       "8552a4bb2fc49321bc",
@@ -95,7 +94,6 @@
       "48dd2b10d1f3ec554d",
       "5dce23f3a5ce12cb5d",
       "f6f5680a7fa8304492",
-      "1080a9028c49096ee3",
       "52ff71711947fb811b",
       "2e83f8ebcb99291e7e",
       "90f4a53bb3141240a3",
@@ -152,7 +150,7 @@
       "f609b24e3062f44a91",
       "c584ba748ca81e6d63"
     ],
-    "trade_count": 142,
+    "trade_count": 140,
     "median_return_90d": null
   },
   {
@@ -439,7 +437,7 @@
       "6aa4ebbac47f25ff60"
     ],
     "trade_count": 39,
-    "median_return_90d": 6.77
+    "median_return_90d": 4.475
   },
   {
     "id": "category-usa-finans",
@@ -475,7 +473,7 @@
       "4ac7548e632e65ec2d"
     ],
     "trade_count": 22,
-    "median_return_90d": 7.25
+    "median_return_90d": null
   },
   {
     "id": "category-usa-konsument",
@@ -558,7 +556,7 @@
       "a1df676d93eac603e0"
     ],
     "trade_count": 31,
-    "median_return_90d": 8.14
+    "median_return_90d": null
   },
   {
     "id": "category-usa-transport",
@@ -580,7 +578,7 @@
       "d26992b3f2a55d35d5"
     ],
     "trade_count": 8,
-    "median_return_90d": -2.2649999999999997
+    "median_return_90d": null
   },
   {
     "id": "category-usa-industri",
@@ -608,7 +606,7 @@
       "1283f539be929d3b34"
     ],
     "trade_count": 14,
-    "median_return_90d": 33.9
+    "median_return_90d": null
   },
   {
     "id": "category-usa-energi",
