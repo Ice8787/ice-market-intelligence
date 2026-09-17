@@ -2,14 +2,14 @@
   {
     "rank": 1,
     "ticker": "PAGS",
-    "as_of": "2026-09-16",
+    "as_of": "2026-09-15",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 9.470000267028809,
-    "momentum20": 12.2,
-    "momentum60": 7.49,
-    "volume_ratio": 1.17,
-    "rsi14": 57.7,
+    "current_price": 9.619999885559082,
+    "momentum20": 11.09,
+    "momentum60": 9.07,
+    "volume_ratio": 0.94,
+    "rsi14": 61.1,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -98,14 +98,14 @@
   {
     "rank": 4,
     "ticker": "SBIO",
-    "as_of": "2026-09-16",
+    "as_of": "2026-09-15",
     "watch_score": 36,
     "label": "Svag bevakningssignal",
-    "current_price": 62.385101318359375,
-    "momentum20": -9.7,
-    "momentum60": 6.35,
-    "volume_ratio": 2.12,
-    "rsi14": 16.8,
+    "current_price": 62.540000915527344,
+    "momentum20": -7.78,
+    "momentum60": 13.48,
+    "volume_ratio": 2.11,
+    "rsi14": 16.0,
     "trend_score": 40,
     "reasons": [
       "20-dagars trend över 50-dagars trend",
@@ -130,22 +130,20 @@
   {
     "rank": 5,
     "ticker": "DDOG",
-    "as_of": "2026-09-16",
+    "as_of": "2026-09-15",
     "watch_score": 32,
     "label": "Svag bevakningssignal",
-    "current_price": 230.7899932861328,
-    "momentum20": -6.18,
-    "momentum60": 4.26,
-    "volume_ratio": 0.75,
-    "rsi14": 51.8,
+    "current_price": 230.27000427246094,
+    "momentum20": -6.89,
+    "momentum60": 3.26,
+    "volume_ratio": 1.09,
+    "rsi14": 54.0,
     "trend_score": 35,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
