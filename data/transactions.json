@@ -1,5 +1,65 @@
 [
   {
+    "id": "edf21a06f2b77dc713",
+    "person_id": "78d1e2a5126f21",
+    "person_name": "Ole Jødahl",
+    "person_role": "Verkställande direktör (VD)",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "Alimak Group AB (publ)",
+    "ticker": "Call option 2026/2030",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 1276000.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-09-17",
+    "filing_date": "2026-09-17",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 100000.0,
+    "purchase_price": 12.76,
+    "value_usd": 0.0,
+    "score": 62,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 12.76,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Verkställande direktör (VD)",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004C551-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "1f0ca8b108d5e2d4ba",
     "person_id": "db324c527768fe",
     "person_name": "Torsten Jansson",
@@ -476,7 +536,7 @@
       "egen rapport"
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004C517-1?s%C3%B6kfunktion=Insyn",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004C517-2?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
@@ -7528,66 +7588,6 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B992-2?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
-    "id": "4fc7a1b3e972f74f7c",
-    "person_id": "0871f343ed890f",
-    "person_name": "Helene Mellquist",
-    "person_role": "Vice VD",
-    "person_type": "business_leader",
-    "issuer_cik": "",
-    "company": "Investmentaktiebolaget Latour",
-    "ticker": "SE0000106320",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 353500.0,
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "transaction_date": "2026-08-31",
-    "filing_date": "2026-08-31",
-    "reporting_delay_days": 0,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "buy",
-    "transaction_code": "P",
-    "shares": 1750.0,
-    "purchase_price": 202.0,
-    "value_usd": 0.0,
-    "score": 55,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppet marknadsköp",
-      "Betydande transaktionsvärde",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 202.0,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Övrigt",
-      "Vice VD",
-      "Förvärv",
-      "egen rapport"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B992-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
