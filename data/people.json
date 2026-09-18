@@ -82,6 +82,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "962187cd035f75",
+    "name": "Thomas Reynaud",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 17,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "a83ae512ae3053",
     "name": "Sheldon Whitehouse",
     "person_type": "political",
@@ -117,22 +133,6 @@
       "tracked_buys": 16,
       "positive_90d_rate": 100,
       "median_return_90d": 6.77,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "962187cd035f75",
-    "name": "Thomas Reynaud",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 15,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -1927,6 +1927,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "d845750c9c0a8f",
+    "name": "James Axel Ahrgren",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Industri"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "53290aefb8b636",
     "name": "Andreas Wahlén",
     "person_type": "business_leader",
@@ -1959,10 +1975,10 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "d845750c9c0a8f",
-    "name": "James Axel Ahrgren",
+    "id": "4a63bed400a79e",
+    "name": "Jakob Mörndal",
     "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
+    "primary_role": "Styrelseordförande",
     "categories": [
       "Industri"
     ],
@@ -2007,10 +2023,10 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "4a63bed400a79e",
-    "name": "Jakob Mörndal",
+    "id": "f582b296da37bd",
+    "name": "Alexander Svedulf",
     "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
+    "primary_role": "Styrelseledamot",
     "categories": [
       "Industri"
     ],
@@ -2029,22 +2045,6 @@
     "primary_role": "Styrelseledamot",
     "categories": [
       "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "f582b296da37bd",
-    "name": "Alexander Svedulf",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Industri"
     ],
     "history": {
       "tracked_buys": 1,
