@@ -1,5 +1,30 @@
 [
   {
+    "id": "category-sverige-industri",
+    "type": "Sektorkluster",
+    "title": "11 insiderköp inom Industri · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Industri"
+    ],
+    "trade_ids": [
+      "6f3c6febae648e0b30",
+      "ee2d474d69ef055fe0",
+      "25ed3fb04d380adfb1",
+      "ef86fbfd8190ac9e0c",
+      "6609229cfa8a944314",
+      "790da07ae6ac690372",
+      "0e3c29650c4aebfafb",
+      "0d3d378684ba58f319",
+      "2295904484f58f2c3d",
+      "f61cfa01020598b270",
+      "5f043530bc9ad5acff"
+    ],
+    "trade_count": 11,
+    "median_return_90d": null
+  },
+  {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
     "title": "140 insiderköp inom Övrigt · Sverige",
@@ -327,30 +352,6 @@
       "86f5b304ff9a493873"
     ],
     "trade_count": 19,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-industri",
-    "type": "Sektorkluster",
-    "title": "10 insiderköp inom Industri · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Industri"
-    ],
-    "trade_ids": [
-      "ee2d474d69ef055fe0",
-      "25ed3fb04d380adfb1",
-      "ef86fbfd8190ac9e0c",
-      "6609229cfa8a944314",
-      "790da07ae6ac690372",
-      "0e3c29650c4aebfafb",
-      "0d3d378684ba58f319",
-      "2295904484f58f2c3d",
-      "f61cfa01020598b270",
-      "5f043530bc9ad5acff"
-    ],
-    "trade_count": 10,
     "median_return_90d": null
   },
   {
