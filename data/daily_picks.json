@@ -2,14 +2,14 @@
   {
     "rank": 1,
     "ticker": "PAGS",
-    "as_of": "2026-09-17",
+    "as_of": "2026-09-16",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 9.5600004196167,
-    "momentum20": 11.29,
-    "momentum60": 9.13,
-    "volume_ratio": 1.25,
-    "rsi14": 61.4,
+    "current_price": 9.470000267028809,
+    "momentum20": 12.2,
+    "momentum60": 7.49,
+    "volume_ratio": 1.17,
+    "rsi14": 57.7,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -36,14 +36,14 @@
   {
     "rank": 2,
     "ticker": "AAPL",
-    "as_of": "2026-09-17",
+    "as_of": "2026-09-16",
     "watch_score": 54,
     "label": "Måttlig bevakningssignal",
-    "current_price": 337.0,
-    "momentum20": 6.37,
-    "momentum60": 14.51,
-    "volume_ratio": 0.87,
-    "rsi14": 69.4,
+    "current_price": 332.4100036621094,
+    "momentum20": 7.22,
+    "momentum60": 11.92,
+    "volume_ratio": 0.84,
+    "rsi14": 67.5,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -62,29 +62,32 @@
   },
   {
     "rank": 3,
-    "ticker": "MSFT",
-    "as_of": "2026-09-17",
-    "watch_score": 39,
-    "label": "Svag bevakningssignal",
-    "current_price": 497.75,
-    "momentum20": 2.78,
-    "momentum60": 33.11,
-    "volume_ratio": 0.88,
-    "rsi14": 46.1,
-    "trend_score": 40,
+    "ticker": "MRVL",
+    "as_of": "2026-09-16",
+    "watch_score": 50,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 229.7100067138672,
+    "momentum20": 6.35,
+    "momentum60": -25.38,
+    "volume_ratio": 0.68,
+    "rsi14": 43.2,
+    "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend"
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum"
     ],
-    "risk_flags": [],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
     "supporting_buys": [
       {
-        "person_name": "Ron L Wyden",
+        "person_name": "Thomas R Carper",
         "person_type": "political",
-        "date": "2020-07-23",
-        "value": 175000.5,
+        "date": "2020-11-20",
+        "value": 8000.5,
         "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/e29a0a93-7153-42f3-97c5-e9f68fe47820/"
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
       }
     ],
     "supporting_buy_count": 1,
@@ -94,15 +97,15 @@
   },
   {
     "rank": 4,
-    "ticker": "NTLA",
-    "as_of": "2026-09-17",
+    "ticker": "SBIO",
+    "as_of": "2026-09-16",
     "watch_score": 36,
     "label": "Svag bevakningssignal",
-    "current_price": 12.260000228881836,
-    "momentum20": -7.68,
-    "momentum60": -19.61,
-    "volume_ratio": 1.62,
-    "rsi14": 36.6,
+    "current_price": 62.3849983215332,
+    "momentum20": -9.7,
+    "momentum60": 6.35,
+    "volume_ratio": 2.12,
+    "rsi14": 16.8,
     "trend_score": 40,
     "reasons": [
       "20-dagars trend över 50-dagars trend",
@@ -126,21 +129,23 @@
   },
   {
     "rank": 5,
-    "ticker": "MRVL",
-    "as_of": "2026-09-17",
-    "watch_score": 36,
+    "ticker": "DDOG",
+    "as_of": "2026-09-16",
+    "watch_score": 32,
     "label": "Svag bevakningssignal",
-    "current_price": 240.75999450683594,
-    "momentum20": 1.47,
-    "momentum60": -13.72,
-    "volume_ratio": 0.88,
-    "rsi14": 49.7,
-    "trend_score": 40,
+    "current_price": 230.7899932861328,
+    "momentum20": -6.18,
+    "momentum60": 4.26,
+    "volume_ratio": 0.75,
+    "rsi14": 51.8,
+    "trend_score": 35,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend"
+      "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
