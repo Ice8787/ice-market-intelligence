@@ -2,7 +2,7 @@
   {
     "id": "category-sverige-industri",
     "type": "Sektorkluster",
-    "title": "11 insiderköp inom Industri · Sverige",
+    "title": "12 insiderköp inom Industri · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
@@ -10,6 +10,7 @@
     ],
     "trade_ids": [
       "6f3c6febae648e0b30",
+      "2834c78809f2fa94e1",
       "ee2d474d69ef055fe0",
       "25ed3fb04d380adfb1",
       "ef86fbfd8190ac9e0c",
@@ -21,7 +22,7 @@
       "f61cfa01020598b270",
       "5f043530bc9ad5acff"
     ],
-    "trade_count": 11,
+    "trade_count": 12,
     "median_return_90d": null
   },
   {
@@ -36,6 +37,7 @@
     "trade_ids": [
       "7dd34efd0b48e2d27b",
       "b3c5d50743711d874c",
+      "c87b35e09cf7f8f2bc",
       "edf21a06f2b77dc713",
       "476b6b618a6a0a96da",
       "1f0ca8b108d5e2d4ba",
@@ -106,7 +108,6 @@
       "c7577d99db74fb1ab7",
       "f6c55f4da1e16c1317",
       "1e97e94d117b2317ac",
-      "3fd840a1babee63729",
       "f773ae835f1a01d17a",
       "7a18f1b6f4517070e6",
       "f279b6b6b859067fa2",
@@ -440,7 +441,7 @@
       "6aa4ebbac47f25ff60"
     ],
     "trade_count": 39,
-    "median_return_90d": 6.77
+    "median_return_90d": 4.475
   },
   {
     "id": "category-usa-finans",
@@ -476,7 +477,7 @@
       "4ac7548e632e65ec2d"
     ],
     "trade_count": 22,
-    "median_return_90d": 7.25
+    "median_return_90d": null
   },
   {
     "id": "category-usa-konsument",
@@ -559,7 +560,7 @@
       "a1df676d93eac603e0"
     ],
     "trade_count": 31,
-    "median_return_90d": 8.14
+    "median_return_90d": null
   },
   {
     "id": "category-usa-transport",
@@ -581,7 +582,7 @@
       "d26992b3f2a55d35d5"
     ],
     "trade_count": 8,
-    "median_return_90d": -2.2649999999999997
+    "median_return_90d": null
   },
   {
     "id": "category-usa-industri",
@@ -609,7 +610,7 @@
       "1283f539be929d3b34"
     ],
     "trade_count": 14,
-    "median_return_90d": 33.9
+    "median_return_90d": null
   },
   {
     "id": "category-usa-energi",
