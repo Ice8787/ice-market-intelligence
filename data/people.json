@@ -306,6 +306,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "84a291396aaa5f",
+    "name": "Gabriel Fitzgerald",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 5,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "742e5b44df177a",
     "name": "Remco Westermann",
     "person_type": "business_leader",
@@ -342,22 +358,6 @@
     "name": "Emil Sallnäs",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 4,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "84a291396aaa5f",
-    "name": "Gabriel Fitzgerald",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
     "categories": [
       "Övrigt"
     ],
@@ -1047,6 +1047,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "2fe2d026e6aae5",
+    "name": "Johan Falk",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Hälsa"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "ccd29474ebb4c0",
     "name": "Henrik Milton",
     "person_type": "corporate_insider",
@@ -1069,22 +1085,6 @@
     "primary_role": "Styrelseledamot",
     "categories": [
       "Finans"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "2fe2d026e6aae5",
-    "name": "Johan Falk",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Hälsa"
     ],
     "history": {
       "tracked_buys": 1,
