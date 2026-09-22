@@ -5,11 +5,11 @@
     "as_of": "2026-09-22",
     "watch_score": 54,
     "label": "Måttlig bevakningssignal",
-    "current_price": 342.5799865722656,
-    "momentum20": 10.39,
-    "momentum60": 20.72,
-    "volume_ratio": 0.47,
-    "rsi14": 67.9,
+    "current_price": 339.5350036621094,
+    "momentum20": 9.41,
+    "momentum60": 19.65,
+    "volume_ratio": 0.66,
+    "rsi14": 65.8,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -33,11 +33,11 @@
     "as_of": "2026-09-22",
     "watch_score": 50,
     "label": "Måttlig bevakningssignal",
-    "current_price": 263.42999267578125,
-    "momentum20": 14.89,
-    "momentum60": -1.25,
-    "volume_ratio": 0.42,
-    "rsi14": 73.8,
+    "current_price": 263.1300048828125,
+    "momentum20": 14.76,
+    "momentum60": -1.36,
+    "volume_ratio": 0.67,
+    "rsi14": 73.7,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -69,20 +69,18 @@
     "as_of": "2026-09-22",
     "watch_score": 47,
     "label": "Svag bevakningssignal",
-    "current_price": 9.25,
-    "momentum20": 6.32,
-    "momentum60": 1.98,
-    "volume_ratio": 0.63,
-    "rsi14": 51.7,
+    "current_price": 9.354999542236328,
+    "momentum20": 7.53,
+    "momentum60": 3.14,
+    "volume_ratio": 1.0,
+    "rsi14": 53.5,
     "trend_score": 55,
     "reasons": [
       "20-dagars trend över 50-dagars trend",
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
@@ -100,24 +98,22 @@
   },
   {
     "rank": 4,
-    "ticker": "DDOG",
+    "ticker": "NTLA",
     "as_of": "2026-09-22",
     "watch_score": 47,
     "label": "Svag bevakningssignal",
-    "current_price": 246.5,
-    "momentum20": 9.18,
-    "momentum60": 2.81,
-    "volume_ratio": 0.32,
-    "rsi14": 63.9,
+    "current_price": 12.744999885559082,
+    "momentum20": 1.47,
+    "momentum60": -23.59,
+    "volume_ratio": 0.83,
+    "rsi14": 50.9,
     "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
-      "Positivt 20-dagars momentum",
+      "20-dagars trend över 50-dagars trend",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
@@ -135,19 +131,20 @@
   },
   {
     "rank": 5,
-    "ticker": "NTLA",
+    "ticker": "DDOG",
     "as_of": "2026-09-22",
-    "watch_score": 36,
+    "watch_score": 47,
     "label": "Svag bevakningssignal",
-    "current_price": 12.649999618530273,
-    "momentum20": 0.72,
-    "momentum60": -24.16,
-    "volume_ratio": 0.57,
-    "rsi14": 49.5,
-    "trend_score": 40,
+    "current_price": 247.44000244140625,
+    "momentum20": 9.6,
+    "momentum60": 3.2,
+    "volume_ratio": 0.55,
+    "rsi14": 64.4,
+    "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend"
+      "Positivt 20-dagars momentum",
+      "RSI visar styrka utan extrem överköpt nivå"
     ],
     "risk_flags": [
       "Volymen bekräftar inte rörelsen"
