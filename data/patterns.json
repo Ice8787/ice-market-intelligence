@@ -1,5 +1,33 @@
 [
   {
+    "id": "category-sverige-industri",
+    "type": "Sektorkluster",
+    "title": "14 insiderköp inom Industri · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Industri"
+    ],
+    "trade_ids": [
+      "4043728293e458590e",
+      "9da0492d567061b9c5",
+      "6f3c6febae648e0b30",
+      "2834c78809f2fa94e1",
+      "ee2d474d69ef055fe0",
+      "25ed3fb04d380adfb1",
+      "ef86fbfd8190ac9e0c",
+      "6609229cfa8a944314",
+      "790da07ae6ac690372",
+      "0e3c29650c4aebfafb",
+      "0d3d378684ba58f319",
+      "2295904484f58f2c3d",
+      "f61cfa01020598b270",
+      "5f043530bc9ad5acff"
+    ],
+    "trade_count": 14,
+    "median_return_90d": null
+  },
+  {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
     "title": "144 insiderköp inom Övrigt · Sverige",
@@ -20,6 +48,7 @@
       "1f0ca8b108d5e2d4ba",
       "38a01ae9a02df881b0",
       "476b6b618a6a0a96da",
+      "bc4be44bea61e19c9f",
       "0330813998e31767c1",
       "533dca6a40ba99460e",
       "ee0bed93cdc548b9f3",
@@ -58,7 +87,6 @@
       "032ffa4d4ebb5f4d7d",
       "00e60ec92a8abfeaa3",
       "e35c84fb0c6e821d04",
-      "9232961b2444b149e8",
       "8fa68ef66cba641e90",
       "e9a1ac5d90db3fafc7",
       "e1ef8d0150f02e034b",
@@ -155,32 +183,6 @@
       "c584ba748ca81e6d63"
     ],
     "trade_count": 144,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-industri",
-    "type": "Sektorkluster",
-    "title": "12 insiderköp inom Industri · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Industri"
-    ],
-    "trade_ids": [
-      "6f3c6febae648e0b30",
-      "2834c78809f2fa94e1",
-      "ee2d474d69ef055fe0",
-      "25ed3fb04d380adfb1",
-      "ef86fbfd8190ac9e0c",
-      "6609229cfa8a944314",
-      "790da07ae6ac690372",
-      "0e3c29650c4aebfafb",
-      "0d3d378684ba58f319",
-      "2295904484f58f2c3d",
-      "f61cfa01020598b270",
-      "5f043530bc9ad5acff"
-    ],
-    "trade_count": 12,
     "median_return_90d": null
   },
   {
