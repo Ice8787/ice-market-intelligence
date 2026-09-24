@@ -5,11 +5,11 @@
     "as_of": "2026-09-24",
     "watch_score": 54,
     "label": "Måttlig bevakningssignal",
-    "current_price": 336.20001220703125,
-    "momentum20": 7.26,
-    "momentum60": 16.19,
-    "volume_ratio": 0.15,
-    "rsi14": 58.7,
+    "current_price": 337.30999755859375,
+    "momentum20": 7.61,
+    "momentum60": 16.57,
+    "volume_ratio": 0.35,
+    "rsi14": 60.0,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -31,19 +31,21 @@
     "rank": 2,
     "ticker": "MRVL",
     "as_of": "2026-09-24",
-    "watch_score": 36,
-    "label": "Svag bevakningssignal",
-    "current_price": 254.2550048828125,
-    "momentum20": 3.73,
-    "momentum60": -14.65,
-    "volume_ratio": 0.17,
-    "rsi14": 70.2,
-    "trend_score": 40,
+    "watch_score": 50,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 261.4049987792969,
+    "momentum20": 6.65,
+    "momentum60": -12.25,
+    "volume_ratio": 0.38,
+    "rsi14": 74.8,
+    "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend"
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum"
     ],
     "risk_flags": [
+      "Hög RSI – rekylrisk",
       "Volymen bekräftar inte rörelsen"
     ],
     "supporting_buys": [
@@ -102,19 +104,17 @@
     "as_of": "2026-09-24",
     "watch_score": 32,
     "label": "Svag bevakningssignal",
-    "current_price": 13.164999961853027,
-    "momentum20": -4.88,
-    "momentum60": -27.14,
-    "volume_ratio": 0.15,
-    "rsi14": 53.9,
+    "current_price": 13.469900131225586,
+    "momentum20": -2.67,
+    "momentum60": -25.46,
+    "volume_ratio": 0.98,
+    "rsi14": 60.2,
     "trend_score": 35,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Pat Roberts",
@@ -144,11 +144,11 @@
     "as_of": "2026-09-24",
     "watch_score": 29,
     "label": "Svag bevakningssignal",
-    "current_price": 254.1300048828125,
-    "momentum20": 13.96,
-    "momentum60": 2.24,
-    "volume_ratio": 0.18,
-    "rsi14": 80.2,
+    "current_price": 256.5899963378906,
+    "momentum20": 15.07,
+    "momentum60": 3.23,
+    "volume_ratio": 0.45,
+    "rsi14": 80.9,
     "trend_score": 30,
     "reasons": [
       "Kurs över 20-dagars medelvärde",

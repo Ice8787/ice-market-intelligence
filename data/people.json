@@ -238,6 +238,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "1e018c80f51a56",
+    "name": "Tomas Klevbo",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
+    "categories": [
+      "Teknik"
+    ],
+    "history": {
+      "tracked_buys": 7,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "74d63af535e788",
     "name": "Susan M Collins",
     "person_type": "political",
@@ -251,22 +267,6 @@
     ],
     "history": {
       "tracked_buys": 7,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "1e018c80f51a56",
-    "name": "Tomas Klevbo",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
-    "categories": [
-      "Teknik"
-    ],
-    "history": {
-      "tracked_buys": 6,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -839,6 +839,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "c0046dc524c2d6",
+    "name": "Johan Lannebo",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Industri"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "91185c62396b0c",
     "name": "Anna Stiwne",
     "person_type": "corporate_insider",
@@ -1351,6 +1367,38 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "494c26ad52b387",
+    "name": "Fredrik Sävenstrand",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
+    "categories": [
+      "Energi"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "0e641ab21b6233",
+    "name": "Hans Andréasson",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
+    "categories": [
+      "Energi"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "cac4f7d9372692",
     "name": "Investment Aktiebolaget Spiltan",
     "person_type": "business_leader",
@@ -1389,38 +1437,6 @@
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Hälsa"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "494c26ad52b387",
-    "name": "Fredrik Sävenstrand",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
-    "categories": [
-      "Energi"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "0e641ab21b6233",
-    "name": "Hans Andréasson",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
-    "categories": [
-      "Energi"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1575,38 +1591,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "10f1efb78c6b02",
-    "name": "Ulf Liljedahl",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "9c176f1f2c8771",
-    "name": "Vilma Sool",
-    "person_type": "corporate_insider",
-    "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
-    "categories": [
-      "Finans"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "c2272628c8b7fb",
     "name": "Sara Davidsson",
     "person_type": "corporate_insider",
@@ -1661,6 +1645,38 @@
     "primary_role": "Styrelseledamot",
     "categories": [
       "Energi"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "10f1efb78c6b02",
+    "name": "Ulf Liljedahl",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "9c176f1f2c8771",
+    "name": "Vilma Sool",
+    "person_type": "corporate_insider",
+    "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
+    "categories": [
+      "Finans"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2141,22 +2157,6 @@
     "primary_role": "Styrelseledamot",
     "categories": [
       "Industri"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "9ed9e24af896c6",
-    "name": "Frode Nilsen",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
