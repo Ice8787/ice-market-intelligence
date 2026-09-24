@@ -1,5 +1,41 @@
 [
   {
+    "id": "category-sverige-energi",
+    "type": "Sektorkluster",
+    "title": "22 insiderköp inom Energi · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Energi"
+    ],
+    "trade_ids": [
+      "e8b193cbcfa6305a75",
+      "38e7c39fb43485e2e7",
+      "ec12f2288a3efeaec5",
+      "4f755125e68401b25e",
+      "9b578513336cf0f8c5",
+      "6ba4de5b92454d8e9c",
+      "d626d314ea114fcaea",
+      "24ca64a8616936fc1a",
+      "70c6fce4b94655eff5",
+      "e74466e3131516e61b",
+      "643e8f6b037196b9e0",
+      "a3f74a330ccef56e52",
+      "58f60f953991f076d1",
+      "5d11bbbd45fdb68f10",
+      "aeeef541a6643a5d87",
+      "218add9f4359e1c040",
+      "b290e3d1f3f0c20b98",
+      "453a7a4b8a15a972ee",
+      "f6615c6deac8c86b04",
+      "40b4bf78e67d1846ac",
+      "1de43a917bf84ba776",
+      "86f5b304ff9a493873"
+    ],
+    "trade_count": 22,
+    "median_return_90d": null
+  },
+  {
     "id": "category-sverige-industri",
     "type": "Sektorkluster",
     "title": "15 insiderköp inom Industri · Sverige",
@@ -329,39 +365,6 @@
       "da8ca8472d5e568143"
     ],
     "trade_count": 11,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-energi",
-    "type": "Sektorkluster",
-    "title": "19 insiderköp inom Energi · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Energi"
-    ],
-    "trade_ids": [
-      "4f755125e68401b25e",
-      "9b578513336cf0f8c5",
-      "6ba4de5b92454d8e9c",
-      "d626d314ea114fcaea",
-      "24ca64a8616936fc1a",
-      "70c6fce4b94655eff5",
-      "e74466e3131516e61b",
-      "643e8f6b037196b9e0",
-      "a3f74a330ccef56e52",
-      "58f60f953991f076d1",
-      "5d11bbbd45fdb68f10",
-      "aeeef541a6643a5d87",
-      "218add9f4359e1c040",
-      "b290e3d1f3f0c20b98",
-      "453a7a4b8a15a972ee",
-      "f6615c6deac8c86b04",
-      "40b4bf78e67d1846ac",
-      "1de43a917bf84ba776",
-      "86f5b304ff9a493873"
-    ],
-    "trade_count": 19,
     "median_return_90d": null
   },
   {
