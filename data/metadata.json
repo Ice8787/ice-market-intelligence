@@ -1,19 +1,19 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-09-24T05:19:33.277547Z",
+  "generated_at": "2026-09-24T10:09:15.419079Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
-  "record_count": 789,
-  "people_count": 153,
+  "record_count": 792,
+  "people_count": 154,
   "political_trade_count": 411,
   "policy_event_count": 119,
   "trend_count": 22,
   "daily_pick_count": 5,
   "top_per_market_category": 100,
   "group_counts": {
-    "Sverige|Industri|corporate_insider": 13,
+    "Sverige|Industri|corporate_insider": 15,
+    "Sverige|Hälsa|corporate_insider": 32,
     "Sverige|Övrigt|business_leader": 100,
-    "Sverige|Hälsa|corporate_insider": 31,
     "Sverige|Övrigt|corporate_insider": 100,
     "Sverige|Hälsa|business_leader": 14,
     "Sverige|Finans|corporate_insider": 49,
@@ -35,7 +35,7 @@
     "USA|Energi|political": 58
   },
   "person_type_counts": {
-    "corporate_insider": 234,
+    "corporate_insider": 237,
     "business_leader": 144,
     "political": 411
   },
@@ -46,7 +46,7 @@
     },
     "Sverige": {
       "ok": true,
-      "new_records": 38
+      "new_records": 33
     },
     "US politicians": {
       "ok": true,
@@ -54,7 +54,7 @@
       "providers": {
         "House Stock Watcher": {
           "ok": false,
-          "error": "HTTP Error 403: Forbidden"
+          "error": "HTTP Error 503: Service Unavailable"
         },
         "Senate Stock Watcher": {
           "ok": true,

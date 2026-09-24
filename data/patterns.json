@@ -2,13 +2,14 @@
   {
     "id": "category-sverige-industri",
     "type": "Sektorkluster",
-    "title": "14 insiderköp inom Industri · Sverige",
+    "title": "15 insiderköp inom Industri · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Industri"
     ],
     "trade_ids": [
+      "2401c0056230b12f5c",
       "4043728293e458590e",
       "9da0492d567061b9c5",
       "6f3c6febae648e0b30",
@@ -24,7 +25,39 @@
       "f61cfa01020598b270",
       "5f043530bc9ad5acff"
     ],
-    "trade_count": 14,
+    "trade_count": 15,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-sverige-hälsa",
+    "type": "Sektorkluster",
+    "title": "18 insiderköp inom Hälsa · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Hälsa"
+    ],
+    "trade_ids": [
+      "f0ad41f87fa64e9809",
+      "5183dcb45600c116fc",
+      "cb8bcae1a92acf56e0",
+      "ec044b66aaad1d614b",
+      "17f49d706e92cdc910",
+      "8f35a18ffc5276f91f",
+      "d3881b0b28e7b367bd",
+      "cedb213a8dae055e7e",
+      "f1bb81ef2036d90c6d",
+      "33887c0b24e789ad09",
+      "926062905f40ccc614",
+      "07e13f7bbf191fb2cf",
+      "4ade7cb2d03c2ec081",
+      "b102fdd14d822830c4",
+      "89ff6708577df1e3be",
+      "86f3d4863a46cb9a99",
+      "fd0aa2bffad2c71089",
+      "43b08354d57d355e14"
+    ],
+    "trade_count": 18,
     "median_return_90d": null
   },
   {
@@ -183,37 +216,6 @@
       "c584ba748ca81e6d63"
     ],
     "trade_count": 144,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-hälsa",
-    "type": "Sektorkluster",
-    "title": "17 insiderköp inom Hälsa · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Hälsa"
-    ],
-    "trade_ids": [
-      "5183dcb45600c116fc",
-      "cb8bcae1a92acf56e0",
-      "ec044b66aaad1d614b",
-      "17f49d706e92cdc910",
-      "8f35a18ffc5276f91f",
-      "d3881b0b28e7b367bd",
-      "cedb213a8dae055e7e",
-      "f1bb81ef2036d90c6d",
-      "33887c0b24e789ad09",
-      "926062905f40ccc614",
-      "07e13f7bbf191fb2cf",
-      "4ade7cb2d03c2ec081",
-      "b102fdd14d822830c4",
-      "89ff6708577df1e3be",
-      "86f3d4863a46cb9a99",
-      "fd0aa2bffad2c71089",
-      "43b08354d57d355e14"
-    ],
-    "trade_count": 17,
     "median_return_90d": null
   },
   {
@@ -446,7 +448,7 @@
       "6aa4ebbac47f25ff60"
     ],
     "trade_count": 39,
-    "median_return_90d": 6.77
+    "median_return_90d": 4.475
   },
   {
     "id": "category-usa-finans",
@@ -482,7 +484,7 @@
       "4ac7548e632e65ec2d"
     ],
     "trade_count": 22,
-    "median_return_90d": 7.25
+    "median_return_90d": null
   },
   {
     "id": "category-usa-konsument",
@@ -565,7 +567,7 @@
       "a1df676d93eac603e0"
     ],
     "trade_count": 31,
-    "median_return_90d": 8.14
+    "median_return_90d": null
   },
   {
     "id": "category-usa-transport",
@@ -587,7 +589,7 @@
       "d26992b3f2a55d35d5"
     ],
     "trade_count": 8,
-    "median_return_90d": -2.2649999999999997
+    "median_return_90d": null
   },
   {
     "id": "category-usa-industri",
@@ -615,7 +617,7 @@
       "1283f539be929d3b34"
     ],
     "trade_count": 14,
-    "median_return_90d": 33.9
+    "median_return_90d": null
   },
   {
     "id": "category-usa-energi",
