@@ -1,5 +1,42 @@
 [
   {
+    "id": "category-sverige-teknik",
+    "type": "Sektorkluster",
+    "title": "23 insiderköp inom Teknik · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Teknik"
+    ],
+    "trade_ids": [
+      "6ec7b8abbbfc158163",
+      "af571b5c14239a1873",
+      "bf8132c5a86bf8e33d",
+      "c097ffd6f993b26986",
+      "f3a8bd8c47c1431fad",
+      "7dd1505a011f01ed06",
+      "1003e9b0b6e387ad8d",
+      "e029e53978f6c6da47",
+      "c025181900739e20a6",
+      "01e3db649ceca7dd1f",
+      "724cef6b3275977936",
+      "0a5bdb8755d56f2af8",
+      "01d83701f779ce9c61",
+      "fe94636002e11b5cce",
+      "c2429ca643eae1b03c",
+      "e52b253511ba81c793",
+      "09c812b88703901544",
+      "3dfb82cfb9af9bbbe6",
+      "56a527986bfe262694",
+      "f7ef47ddc3c5a8bac4",
+      "83e3d377be4610bc4a",
+      "b924ce5702d9fe90b9",
+      "0718acba193bfff358"
+    ],
+    "trade_count": 23,
+    "median_return_90d": null
+  },
+  {
     "id": "category-sverige-energi",
     "type": "Sektorkluster",
     "title": "22 insiderköp inom Energi · Sverige",
@@ -66,41 +103,6 @@
     "median_return_90d": null
   },
   {
-    "id": "category-sverige-teknik",
-    "type": "Sektorkluster",
-    "title": "21 insiderköp inom Teknik · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Teknik"
-    ],
-    "trade_ids": [
-      "af571b5c14239a1873",
-      "bf8132c5a86bf8e33d",
-      "c097ffd6f993b26986",
-      "f3a8bd8c47c1431fad",
-      "7dd1505a011f01ed06",
-      "e029e53978f6c6da47",
-      "c025181900739e20a6",
-      "01e3db649ceca7dd1f",
-      "724cef6b3275977936",
-      "0a5bdb8755d56f2af8",
-      "01d83701f779ce9c61",
-      "fe94636002e11b5cce",
-      "c2429ca643eae1b03c",
-      "e52b253511ba81c793",
-      "09c812b88703901544",
-      "3dfb82cfb9af9bbbe6",
-      "56a527986bfe262694",
-      "f7ef47ddc3c5a8bac4",
-      "83e3d377be4610bc4a",
-      "b924ce5702d9fe90b9",
-      "0718acba193bfff358"
-    ],
-    "trade_count": 21,
-    "median_return_90d": null
-  },
-  {
     "id": "category-sverige-hälsa",
     "type": "Sektorkluster",
     "title": "18 insiderköp inom Hälsa · Sverige",
@@ -135,7 +137,7 @@
   {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
-    "title": "143 insiderköp inom Övrigt · Sverige",
+    "title": "142 insiderköp inom Övrigt · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
@@ -270,7 +272,6 @@
       "c1a5d7446e74272371",
       "7f5f77473400a9c374",
       "6fcba6fa716d85dd05",
-      "7f28f3a1f69a903d93",
       "aa500dcbbdde9d898f",
       "21909c4a8eb8f83168",
       "cbb7b692422c52e24d",
@@ -286,7 +287,7 @@
       "f609b24e3062f44a91",
       "c584ba748ca81e6d63"
     ],
-    "trade_count": 143,
+    "trade_count": 142,
     "median_return_90d": null
   },
   {
@@ -452,7 +453,7 @@
       "6aa4ebbac47f25ff60"
     ],
     "trade_count": 39,
-    "median_return_90d": 6.77
+    "median_return_90d": 4.475
   },
   {
     "id": "category-usa-finans",
@@ -488,7 +489,7 @@
       "4ac7548e632e65ec2d"
     ],
     "trade_count": 22,
-    "median_return_90d": 7.25
+    "median_return_90d": null
   },
   {
     "id": "category-usa-konsument",
@@ -571,7 +572,7 @@
       "a1df676d93eac603e0"
     ],
     "trade_count": 31,
-    "median_return_90d": 8.14
+    "median_return_90d": null
   },
   {
     "id": "category-usa-transport",
@@ -593,7 +594,7 @@
       "d26992b3f2a55d35d5"
     ],
     "trade_count": 8,
-    "median_return_90d": -2.2649999999999997
+    "median_return_90d": null
   },
   {
     "id": "category-usa-industri",
@@ -621,7 +622,7 @@
       "1283f539be929d3b34"
     ],
     "trade_count": 14,
-    "median_return_90d": 33.9
+    "median_return_90d": null
   },
   {
     "id": "category-usa-energi",
