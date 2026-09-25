@@ -903,22 +903,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "c0046dc524c2d6",
-    "name": "Johan Lannebo",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Industri"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "19d5fa297b181e",
     "name": "Mikael Vinje",
     "person_type": "corporate_insider",
@@ -935,10 +919,10 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "91185c62396b0c",
-    "name": "Anna Stiwne",
+    "id": "c0046dc524c2d6",
+    "name": "Johan Lannebo",
     "person_type": "corporate_insider",
-    "primary_role": "Arbetstagarrepresentant i styrelsen eller arbetstagarsuppleant",
+    "primary_role": "Styrelseledamot",
     "categories": [
       "Industri"
     ],
@@ -957,6 +941,22 @@
     "primary_role": "Annan ledande befattningshavare",
     "categories": [
       "Hälsa"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "91185c62396b0c",
+    "name": "Anna Stiwne",
+    "person_type": "corporate_insider",
+    "primary_role": "Arbetstagarrepresentant i styrelsen eller arbetstagarsuppleant",
+    "categories": [
+      "Industri"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1015,6 +1015,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "2223b4739074b4",
+    "name": "Paulo Gaspar",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "4c74b45d4d95b1",
     "name": "Anders Berggren",
     "person_type": "corporate_insider",
@@ -1037,22 +1053,6 @@
     "primary_role": "Ekonomichef/finanschef/finansdirektör",
     "categories": [
       "Industri"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "2223b4739074b4",
-    "name": "Paulo Gaspar",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2119,12 +2119,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "d845750c9c0a8f",
-    "name": "James Axel Ahrgren",
+    "id": "a7cc3a529b7e2a",
+    "name": "Richard Ding",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
     "categories": [
-      "Industri"
+      "Hälsa"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2135,12 +2135,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "a7cc3a529b7e2a",
-    "name": "Richard Ding",
+    "id": "d845750c9c0a8f",
+    "name": "James Axel Ahrgren",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
     "categories": [
-      "Hälsa"
+      "Industri"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2167,12 +2167,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "4a63bed400a79e",
-    "name": "Jakob Mörndal",
+    "id": "c94baf4955368c",
+    "name": "Anders Bladh, Ribbskottet",
     "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
+    "primary_role": "Styrelseledamot",
     "categories": [
-      "Industri"
+      "Hälsa"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2183,12 +2183,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "c94baf4955368c",
-    "name": "Anders Bladh, Ribbskottet",
+    "id": "4a63bed400a79e",
+    "name": "Jakob Mörndal",
     "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
+    "primary_role": "Styrelseordförande",
     "categories": [
-      "Hälsa"
+      "Industri"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2215,12 +2215,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "f582b296da37bd",
-    "name": "Alexander Svedulf",
+    "id": "2f376dc585b5e8",
+    "name": "Ludvig Paulsson",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
     "categories": [
-      "Industri"
+      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2231,12 +2231,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "2f376dc585b5e8",
-    "name": "Ludvig Paulsson",
+    "id": "f582b296da37bd",
+    "name": "Alexander Svedulf",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
     "categories": [
-      "Övrigt"
+      "Industri"
     ],
     "history": {
       "tracked_buys": 1,
