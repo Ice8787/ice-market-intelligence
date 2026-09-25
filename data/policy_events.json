@@ -141,6 +141,22 @@
     "is_official": true
   },
   {
+    "id": "2026-19691",
+    "title": "Explosives Magazine Safety Requirements",
+    "publication_date": "2026-09-25",
+    "document_type": "Proposed Rule",
+    "abstract": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (\"ATF\") proposes amending Department of Justice (\"Department\") regulations to streamline requirements for maintaining structures used for storing explosives, called \"magazines.\" ATF proposes consolidating many requirements from four regulatory sections into one, while eliminating other provisions within those sections. The new section would address three topics: safety requirements outside a magazine, inside a magazine, and storing requirements. This proposal would remove unnecessary provisions and examples confusing to the public; update other provisions; and rescind two regulatory sections. The consolidated regulation would also incorporate ATF guidance authorizing alternative methods for storing explosives within containers.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "export controls",
+    "agencies": [
+      "Justice Department",
+      "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/09/25/2026-19691/explosives-magazine-safety-requirements",
+    "is_official": true
+  },
+  {
     "id": "2026-19688",
     "title": "Disadvantaged Business Enterprise and Airport Concession Disadvantaged Business Enterprise Program Revisions",
     "publication_date": "2026-09-25",
@@ -475,6 +491,22 @@
       "Alcohol, Tobacco, Firearms, and Explosives Bureau"
     ],
     "source_url": "https://www.federalregister.gov/documents/2026/09/25/2026-19694/annual-notices-on-explosive-materials-storage-facilities-to-local-fire-authority",
+    "is_official": true
+  },
+  {
+    "id": "2026-19692",
+    "title": "Revising Requirements and Exceptions for Storing Explosives",
+    "publication_date": "2026-09-25",
+    "document_type": "Proposed Rule",
+    "abstract": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (\"ATF\") proposes amending Department of Justice regulations listing exceptions to the requirement that explosive materials must be stored in locked magazines. Specifically, ATF proposes adding a testing exception; removing restrictions limiting existing exceptions to materials being physically handled or transported to a site for storing or using; excepting materials to be imminently used or transported; and adopting a perforating gun exception. These changes would streamline on-site operations, acknowledge developments in industry practices, increase safety during these activities by reducing how often explosives are moved, and eliminate the requirement for type 3 magazines.",
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "search_term": "export controls",
+    "agencies": [
+      "Justice Department",
+      "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/09/25/2026-19692/revising-requirements-and-exceptions-for-storing-explosives",
     "is_official": true
   },
   {
@@ -834,22 +866,6 @@
       "Foreign-Trade Zones Board"
     ],
     "source_url": "https://www.federalregister.gov/documents/2026/09/24/2026-19591/foreign-trade-zone-ftz-272-notification-of-proposed-production-activity-infinera-corporation",
-    "is_official": true
-  },
-  {
-    "id": "2026-19590",
-    "title": "Foreign-Trade Zone (FTZ) 49, Notification of Proposed Production Activity; Merck, Sharp & Dohme LLC; (Drug Products and Intermediates); Rahway, New Jersey",
-    "publication_date": "2026-09-24",
-    "document_type": "Notice",
-    "abstract": "",
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "search_term": "trade",
-    "agencies": [
-      "Commerce Department",
-      "Foreign-Trade Zones Board"
-    ],
-    "source_url": "https://www.federalregister.gov/documents/2026/09/24/2026-19590/foreign-trade-zone-ftz-49-notification-of-proposed-production-activity-merck-sharp-and-dohme-llc",
     "is_official": true
   },
   {
@@ -1584,38 +1600,6 @@
       "Environmental Protection Agency"
     ],
     "source_url": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units",
-    "is_official": true
-  },
-  {
-    "id": "2026-19021",
-    "title": "Azur Air, Office 29, Vzletnaya St. 57, Krasnoyarsk, Russia 660020; Order Renewing Temporary Denial of Export Privileges",
-    "publication_date": "2026-09-17",
-    "document_type": "Notice",
-    "abstract": "",
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "search_term": "export controls",
-    "agencies": [
-      "Commerce Department",
-      "Industry and Security Bureau"
-    ],
-    "source_url": "https://www.federalregister.gov/documents/2026/09/17/2026-19021/azur-air-office-29-vzletnaya-st-57-krasnoyarsk-russia-660020-order-renewing-temporary-denial-of",
-    "is_official": true
-  },
-  {
-    "id": "2026-19020",
-    "title": "PJSC Aeroflot, 1 Arbat St., 119019, Moscow, Russia; Order Renewing Temporary Denial of Export Privileges",
-    "publication_date": "2026-09-17",
-    "document_type": "Notice",
-    "abstract": "",
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "search_term": "export controls",
-    "agencies": [
-      "Commerce Department",
-      "Industry and Security Bureau"
-    ],
-    "source_url": "https://www.federalregister.gov/documents/2026/09/17/2026-19020/pjsc-aeroflot-1-arbat-st-119019-moscow-russia-order-renewing-temporary-denial-of-export-privileges",
     "is_official": true
   },
   {
