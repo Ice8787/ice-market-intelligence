@@ -466,12 +466,11 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "f01202bddb023d",
-    "name": "Erik Selin",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
+    "id": "42be8d8ecaba0b",
+    "name": "Emil Sallnas",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
     "categories": [
-      "Finans",
       "Övrigt"
     ],
     "history": {
@@ -483,11 +482,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "42be8d8ecaba0b",
-    "name": "Emil Sallnas",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
+    "id": "f01202bddb023d",
+    "name": "Erik Selin",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
     "categories": [
+      "Finans",
       "Övrigt"
     ],
     "history": {
@@ -887,6 +887,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "794a6f7a8cbdec",
+    "name": "Niklas Stenberg",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "66169f7173d1cd",
     "name": "Monika Gutén",
     "person_type": "corporate_insider",
@@ -967,6 +983,38 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "8fadf8787976ec",
+    "name": "Tony Buss",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "68d1277b5c491d",
+    "name": "Johan Henrikson",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "6b49d556976242",
     "name": "Mattias Jaran",
     "person_type": "corporate_insider",
@@ -999,8 +1047,8 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "8fadf8787976ec",
-    "name": "Tony Buss",
+    "id": "819ddaf789d3c4",
+    "name": "David Pagels",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
@@ -1021,22 +1069,6 @@
     "primary_role": "Styrelseledamot",
     "categories": [
       "Hälsa"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "819ddaf789d3c4",
-    "name": "David Pagels",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1127,10 +1159,10 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "8da4323bcb4b07",
-    "name": "Carl Rydin",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
+    "id": "db324c527768fe",
+    "name": "Torsten Jansson",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD), Styrelseledamot",
     "categories": [
       "Övrigt"
     ],
@@ -1143,10 +1175,10 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "db324c527768fe",
-    "name": "Torsten Jansson",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD), Styrelseledamot",
+    "id": "8da4323bcb4b07",
+    "name": "Carl Rydin",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
     "categories": [
       "Övrigt"
     ],
@@ -1239,22 +1271,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "c16a20150d9d76",
-    "name": "Eric Douglas",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "512dafccc05886",
     "name": "Pascal Soriot",
     "person_type": "business_leader",
@@ -1307,6 +1323,22 @@
     "name": "Christian Cederholm",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "c16a20150d9d76",
+    "name": "Eric Douglas",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
     "categories": [
       "Övrigt"
     ],
@@ -1383,6 +1415,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "1904b11cb686c6",
+    "name": "Karl Tobieson",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "fee120bd9d96f7",
     "name": "Anders Forsén",
     "person_type": "corporate_insider",
@@ -1421,22 +1469,6 @@
     "primary_role": "Styrelseordförande",
     "categories": [
       "Hälsa"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "1904b11cb686c6",
-    "name": "Karl Tobieson",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1543,22 +1575,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "685f9e0d6a92ba",
-    "name": "Arvid Liepe",
-    "person_type": "corporate_insider",
-    "primary_role": "Ekonomichef/finanschef/finansdirektör",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "276d9ae3e76f84",
     "name": "Christian Manhusen",
     "person_type": "business_leader",
@@ -1575,10 +1591,10 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "12b601546f15e0",
-    "name": "Anna Söderberg",
-    "person_type": "business_leader",
-    "primary_role": "Vice VD",
+    "id": "685f9e0d6a92ba",
+    "name": "Arvid Liepe",
+    "person_type": "corporate_insider",
+    "primary_role": "Ekonomichef/finanschef/finansdirektör",
     "categories": [
       "Övrigt"
     ],
@@ -1623,12 +1639,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "854eeb99ed2550",
-    "name": "Ove Mattsson",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
+    "id": "71d8c88f7babe4",
+    "name": "Lucas Petersson",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
     "categories": [
-      "Hälsa"
+      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1639,12 +1655,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "71d8c88f7babe4",
-    "name": "Lucas Petersson",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
+    "id": "854eeb99ed2550",
+    "name": "Ove Mattsson",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
     "categories": [
-      "Övrigt"
+      "Hälsa"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1783,54 +1799,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "f2fb4b0636d6fe",
-    "name": "Henrik Krook",
-    "person_type": "corporate_insider",
-    "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
-    "categories": [
-      "Hälsa"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "dfbb535e9fe98a",
-    "name": "Yilmaz Mahshid",
-    "person_type": "corporate_insider",
-    "primary_role": "Ekonomichef/finanschef/finansdirektör",
-    "categories": [
-      "Hälsa"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "17f51736545854",
-    "name": "Christian Sonesson",
-    "person_type": "corporate_insider",
-    "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
-    "categories": [
-      "Hälsa"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "cde6bc895da2fe",
     "name": "Jacob Karlsson",
     "person_type": "business_leader",
@@ -1879,6 +1847,54 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "f2fb4b0636d6fe",
+    "name": "Henrik Krook",
+    "person_type": "corporate_insider",
+    "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
+    "categories": [
+      "Hälsa"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "dfbb535e9fe98a",
+    "name": "Yilmaz Mahshid",
+    "person_type": "corporate_insider",
+    "primary_role": "Ekonomichef/finanschef/finansdirektör",
+    "categories": [
+      "Hälsa"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "17f51736545854",
+    "name": "Christian Sonesson",
+    "person_type": "corporate_insider",
+    "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
+    "categories": [
+      "Hälsa"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "56387f3b351149",
     "name": "Nicklas Westerholm",
     "person_type": "business_leader",
@@ -1901,22 +1917,6 @@
     "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
     "categories": [
       "Teknik"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "d42f8e6786daee",
-    "name": "Alireza Tajbakhsh",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1975,22 +1975,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "114b738b14abfc",
-    "name": "Maria Wester",
-    "person_type": "corporate_insider",
-    "primary_role": "Ekonomichef/finanschef/finansdirektör",
-    "categories": [
-      "Hälsa"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "33c148dec8d016",
     "name": "Marcus Pettersson Berver",
     "person_type": "business_leader",
@@ -2007,10 +1991,10 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "eeffeadd31f743",
-    "name": "Joakim Nydemark",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
+    "id": "114b738b14abfc",
+    "name": "Maria Wester",
+    "person_type": "corporate_insider",
+    "primary_role": "Ekonomichef/finanschef/finansdirektör",
     "categories": [
       "Hälsa"
     ],
@@ -2023,12 +2007,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "adbb47069548b0",
-    "name": "Lars Wingefors",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
+    "id": "eeffeadd31f743",
+    "name": "Joakim Nydemark",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
     "categories": [
-      "Övrigt"
+      "Hälsa"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2059,6 +2043,22 @@
     "name": "Jörgen Qwist",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "adbb47069548b0",
+    "name": "Lars Wingefors",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
     "categories": [
       "Övrigt"
     ],
@@ -2151,6 +2151,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "53290aefb8b636",
+    "name": "Andreas Wahlén",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "a7cc3a529b7e2a",
     "name": "Richard Ding",
     "person_type": "corporate_insider",
@@ -2173,22 +2189,6 @@
     "primary_role": "Styrelseledamot",
     "categories": [
       "Industri"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "53290aefb8b636",
-    "name": "Andreas Wahlén",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2295,12 +2295,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "28ca903c151d74",
-    "name": "Allan Sylvest Aasberg",
-    "person_type": "corporate_insider",
-    "primary_role": "Ekonomichef/finanschef/finansdirektör",
+    "id": "165ed5fcab4840",
+    "name": "Bent Oustad",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
     "categories": [
-      "Hälsa"
+      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2311,12 +2311,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "165ed5fcab4840",
-    "name": "Bent Oustad",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
+    "id": "28ca903c151d74",
+    "name": "Allan Sylvest Aasberg",
+    "person_type": "corporate_insider",
+    "primary_role": "Ekonomichef/finanschef/finansdirektör",
     "categories": [
-      "Övrigt"
+      "Hälsa"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2345,6 +2345,22 @@
   {
     "id": "90675ad0502953",
     "name": "Peter Strömberg",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "f20b5cbcf217a4",
+    "name": "Hans Johan Steene",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
@@ -2423,8 +2439,8 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "f20b5cbcf217a4",
-    "name": "Hans Johan Steene",
+    "id": "6553d730b651c2",
+    "name": "David Mindus",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
@@ -2455,8 +2471,8 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "6553d730b651c2",
-    "name": "David Mindus",
+    "id": "3572356e45fad1",
+    "name": "Nicklas Arne Paulson",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
@@ -2471,8 +2487,8 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "3572356e45fad1",
-    "name": "Nicklas Arne Paulson",
+    "id": "2d51c2f698e167",
+    "name": "William Axel Walter Lundin",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
@@ -2491,22 +2507,6 @@
     "name": "Jens-Fredrik Jalland",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "2d51c2f698e167",
-    "name": "William Axel Walter Lundin",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Övrigt"
     ],
