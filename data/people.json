@@ -274,6 +274,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "6715aa11ffa7aa",
+    "name": "Jovitech Invest AB",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
+    "categories": [
+      "Energi"
+    ],
+    "history": {
+      "tracked_buys": 6,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "290d927312efd1",
     "name": "Karl Åberg",
     "person_type": "corporate_insider",
@@ -354,22 +370,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "6715aa11ffa7aa",
-    "name": "Jovitech Invest AB",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
-    "categories": [
-      "Energi"
-    ],
-    "history": {
-      "tracked_buys": 4,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "956f9627e45e54",
     "name": "Emil Sallnäs",
     "person_type": "business_leader",
@@ -395,6 +395,22 @@
     ],
     "history": {
       "tracked_buys": 4,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "7548298a9efeec",
+    "name": "Peter Nilsson",
+    "person_type": "corporate_insider",
+    "primary_role": "Annan ledande befattningshavare",
+    "categories": [
+      "Hälsa"
+    ],
+    "history": {
+      "tracked_buys": 3,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -598,22 +614,6 @@
   {
     "id": "cff61cb3bcf435",
     "name": "Andreas Linderoth Norlin",
-    "person_type": "corporate_insider",
-    "primary_role": "Annan ledande befattningshavare",
-    "categories": [
-      "Hälsa"
-    ],
-    "history": {
-      "tracked_buys": 2,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "7548298a9efeec",
-    "name": "Peter Nilsson",
     "person_type": "corporate_insider",
     "primary_role": "Annan ledande befattningshavare",
     "categories": [
