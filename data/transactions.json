@@ -1252,6 +1252,66 @@
     "is_demo": false
   },
   {
+    "id": "4a1e12e4adeac9b2e7",
+    "person_id": "7548298a9efeec",
+    "person_name": "Peter Nilsson",
+    "person_role": "Annan ledande befattningshavare",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Asker Healthcare group AB (publ)",
+    "ticker": "SE0024171458",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 166050.0,
+    "category": "Hälsa",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-09-24",
+    "filing_date": "2026-09-29",
+    "reporting_delay_days": 5,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 2700.0,
+    "purchase_price": 61.5,
+    "value_usd": 0.0,
+    "score": 55,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Betydande transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 61.5,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Hälsa",
+      "Annan ledande befattningshavare",
+      "Förvärv",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004C794-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "b21c5d752311473772",
     "person_id": "7548298a9efeec",
     "person_name": "Peter Nilsson",
