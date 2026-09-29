@@ -49,6 +49,7 @@
     ],
     "trade_ids": [
       "c5a6e9ab12d0711135",
+      "7fdc24342fbf97ef07",
       "61cc8b627abff6a05d",
       "e9bbe72a6c0319ce09",
       "2f6dfc250ee31adeba",
@@ -92,7 +93,6 @@
       "744aaf1d099015208c",
       "d4079ea138e9c32c7a",
       "a8bd42c91c1c98075b",
-      "d3659ea78f44c4c3eb",
       "db5299e4cbdb9bb54b",
       "53802a6a4dd077df33",
       "2e0d08caf29aa46584",
@@ -197,19 +197,21 @@
   {
     "id": "category-sverige-hälsa",
     "type": "Sektorkluster",
-    "title": "27 insiderköp inom Hälsa · Sverige",
+    "title": "29 insiderköp inom Hälsa · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Hälsa"
     ],
     "trade_ids": [
+      "30ed3ad4d2798f682e",
       "af85344c25acd3b9ff",
       "946a69d913e4ddb98b",
       "3c68c088e19cbc47e4",
       "0ba29a68a6e71b5bf8",
       "194b15a1a4f0aa2577",
       "ab26bd429359411fbc",
+      "4604af4a1ac00ede2b",
       "4a1e12e4adeac9b2e7",
       "b21c5d752311473772",
       "f0ad41f87fa64e9809",
@@ -232,7 +234,7 @@
       "fd0aa2bffad2c71089",
       "43b08354d57d355e14"
     ],
-    "trade_count": 27,
+    "trade_count": 29,
     "median_return_90d": null
   },
   {
