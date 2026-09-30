@@ -112,6 +112,21 @@
     "is_official": true
   },
   {
+    "id": "2026-20078",
+    "title": "Petition for Rulemaking of Malik Tony Singleton",
+    "publication_date": "2026-09-30",
+    "document_type": "Proposed Rule",
+    "abstract": "Please take notice that the Federal Trade Commission (\"Commission\") received a petition for rulemaking from Malik Tony Singleton, and has published that petition online at https:// www.regulations.gov. The Commission invites written comments concerning the petition. Publication of this petition is pursuant to the Commission's Rules of Practice and Procedure and does not affect the legal status of the petition or its final disposition.",
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "search_term": "trade",
+    "agencies": [
+      "Federal Trade Commission"
+    ],
+    "source_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20078/petition-for-rulemaking-of-malik-tony-singleton",
+    "is_official": true
+  },
+  {
     "id": "2026-20056",
     "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 10c-1a",
     "publication_date": "2026-09-30",
@@ -570,7 +585,7 @@
     "abstract": "",
     "category": "Energi",
     "subcategory": "Automatisk namnklassning – verifiera",
-    "search_term": "trade",
+    "search_term": "tariff",
     "agencies": [
       "International Trade Commission"
     ],
