@@ -1,85 +1,15 @@
 [
   {
     "rank": 1,
-    "ticker": "NTLA",
-    "as_of": "2026-10-01",
-    "watch_score": 61,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 12.119999885559082,
-    "momentum20": -5.02,
-    "momentum60": -28.03,
-    "volume_ratio": 1.77,
-    "rsi14": 54.5,
-    "trend_score": 75,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Ovanligt hög dagsvolym",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [],
-    "supporting_buys": [
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 2,
-    "ticker": "MRVL",
-    "as_of": "2026-10-01",
-    "watch_score": 61,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 268.0799865722656,
-    "momentum20": 29.83,
-    "momentum60": 15.7,
-    "volume_ratio": 1.08,
-    "rsi14": 67.1,
-    "trend_score": 75,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [
-      "Mycket snabb uppgång – förhöjd volatilitet"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 3,
     "ticker": "MSFT",
-    "as_of": "2026-10-01",
+    "as_of": "2026-10-02",
     "watch_score": 50,
     "label": "Måttlig bevakningssignal",
-    "current_price": 512.7999877929688,
-    "momentum20": 3.22,
-    "momentum60": 33.77,
-    "volume_ratio": 0.92,
-    "rsi14": 60.4,
+    "current_price": 517.530029296875,
+    "momentum20": 1.45,
+    "momentum60": 34.65,
+    "volume_ratio": 0.83,
+    "rsi14": 57.8,
     "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -103,20 +33,20 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 4,
-    "ticker": "SI",
-    "as_of": "2026-10-01",
+    "rank": 2,
+    "ticker": "NTLA",
+    "as_of": "2026-10-02",
     "watch_score": 47,
     "label": "Svag bevakningssignal",
-    "current_price": 18.75,
-    "momentum20": -9.16,
-    "momentum60": -7.64,
-    "volume_ratio": 1.64,
-    "rsi14": 52.4,
+    "current_price": 12.260000228881836,
+    "momentum20": -3.31,
+    "momentum60": -20.6,
+    "volume_ratio": 1.02,
+    "rsi14": 54.7,
     "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
-      "Ovanligt hög dagsvolym",
+      "20-dagars trend över 50-dagars trend",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
     "risk_flags": [],
@@ -136,24 +66,90 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 5,
-    "ticker": "ABYIX",
-    "as_of": "2026-10-01",
-    "watch_score": 47,
+    "rank": 3,
+    "ticker": "CSCO",
+    "as_of": "2026-10-02",
+    "watch_score": 43,
     "label": "Svag bevakningssignal",
-    "current_price": 12.210000038146973,
-    "momentum20": 2.09,
-    "momentum60": 5.17,
-    "volume_ratio": 0.0,
-    "rsi14": 53.3,
-    "trend_score": 55,
+    "current_price": 112.19999694824219,
+    "momentum20": 3.31,
+    "momentum60": -5.16,
+    "volume_ratio": 0.96,
+    "rsi14": 55.7,
+    "trend_score": 35,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [],
+    "supporting_buys": [
+      {
+        "person_name": "Kelly Loeffler",
+        "person_type": "political",
+        "date": "2020-04-07",
+        "value": 32500.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b47d301-0318-4604-bd14-a0b9c1b8437f/"
+      },
+      {
+        "person_name": "Ron L Wyden",
+        "person_type": "political",
+        "date": "2020-04-06",
+        "value": 32500.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/d411d8c3-b780-4e4e-8490-aa790811fa5f/"
+      },
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-03-24",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/6beec58d-0b48-4346-9d9e-2f4cb6e88264/"
+      },
+      {
+        "person_name": "Kelly Loeffler",
+        "person_type": "political",
+        "date": "2020-03-20",
+        "value": 75000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b47d301-0318-4604-bd14-a0b9c1b8437f/"
+      },
+      {
+        "person_name": "Kelly Loeffler",
+        "person_type": "political",
+        "date": "2020-03-13",
+        "value": 175000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b47d301-0318-4604-bd14-a0b9c1b8437f/"
+      }
+    ],
+    "supporting_buy_count": 6,
+    "historical_median_30d": 0.65,
+    "historical_median_90d": 6.77,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 4,
+    "ticker": "MRVL",
+    "as_of": "2026-10-02",
+    "watch_score": 43,
+    "label": "Svag bevakningssignal",
+    "current_price": 272.2900085449219,
+    "momentum20": 30.39,
+    "momentum60": 11.93,
+    "volume_ratio": 0.89,
+    "rsi14": 83.3,
+    "trend_score": 50,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
-      "RSI visar styrka utan extrem överköpt nivå"
+      "Positivt 20-dagars momentum",
+      "Mycket hög RSI – rekylrisk"
     ],
     "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
+      "Hög RSI – rekylrisk",
+      "Mycket snabb uppgång – förhöjd volatilitet"
     ],
     "supporting_buys": [
       {
@@ -166,6 +162,33 @@
       }
     ],
     "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 5,
+    "ticker": "AAPL",
+    "as_of": "2026-10-02",
+    "watch_score": 40,
+    "label": "Svag bevakningssignal",
+    "current_price": 333.69000244140625,
+    "momentum20": 1.67,
+    "momentum60": 5.52,
+    "volume_ratio": 0.78,
+    "rsi14": 50.7,
+    "trend_score": 55,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen",
+      "Ingen matchande offentlig köpsignal i datasetet"
+    ],
+    "supporting_buys": [],
+    "supporting_buy_count": 0,
     "historical_median_30d": null,
     "historical_median_90d": null,
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
