@@ -238,6 +238,66 @@
     "is_demo": false
   },
   {
+    "id": "bd84f1262dd14ed532",
+    "person_id": "119b436ac1802e",
+    "person_name": "Jonas Ahlberg",
+    "person_role": "Vice VD",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "Lagercrantz Group AB",
+    "ticker": "Optionsprogram 2026/30",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 2023000.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-10-01",
+    "filing_date": "2026-10-04",
+    "reporting_delay_days": 3,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 70000.0,
+    "purchase_price": 28.9,
+    "value_usd": 0.0,
+    "score": 62,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 28.9,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Vice VD",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004C929-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "77c2821a983fd76b48",
     "person_id": "4d6b0da5750d67",
     "person_name": "Bent Frandsen",
@@ -11522,66 +11582,6 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B986-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
-    "id": "f4a215faa3608f70bb",
-    "person_id": "ccd7e3dd70d353",
-    "person_name": "Anders Liljeblad",
-    "person_role": "Verkställande direktör (VD)",
-    "person_type": "business_leader",
-    "issuer_cik": "",
-    "company": "Prostatype Genomics AB",
-    "ticker": "SE0023261532",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 575000.0,
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "transaction_date": "2026-08-31",
-    "filing_date": "2026-08-31",
-    "reporting_delay_days": 0,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "buy",
-    "transaction_code": "P",
-    "shares": 5750000.0,
-    "purchase_price": 0.1,
-    "value_usd": 0.0,
-    "score": 55,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppet marknadsköp",
-      "Betydande transaktionsvärde",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 0.1,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Övrigt",
-      "Verkställande direktör (VD)",
-      "Förvärv",
-      "närstående"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B963-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
