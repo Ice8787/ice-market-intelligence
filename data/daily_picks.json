@@ -5,11 +5,11 @@
     "as_of": "2026-10-05",
     "watch_score": 76,
     "label": "Stark bevakningssignal",
-    "current_price": 11.0649995803833,
-    "momentum20": 13.72,
-    "momentum60": 19.62,
-    "volume_ratio": 3.34,
-    "rsi14": 69.0,
+    "current_price": 10.949999809265137,
+    "momentum20": 12.54,
+    "momentum60": 18.38,
+    "volume_ratio": 5.73,
+    "rsi14": 68.0,
     "trend_score": 95,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -40,11 +40,11 @@
     "as_of": "2026-10-05",
     "watch_score": 64,
     "label": "Måttlig bevakningssignal",
-    "current_price": 525.8350219726562,
-    "momentum20": 5.23,
-    "momentum60": 36.55,
-    "volume_ratio": 0.59,
-    "rsi14": 68.5,
+    "current_price": 525.1799926757812,
+    "momentum20": 5.1,
+    "momentum60": 36.37,
+    "volume_ratio": 1.24,
+    "rsi14": 68.3,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -52,9 +52,7 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Ron L Wyden",
@@ -76,20 +74,18 @@
     "as_of": "2026-10-05",
     "watch_score": 47,
     "label": "Svag bevakningssignal",
-    "current_price": 12.345000267028809,
-    "momentum20": -3.1,
-    "momentum60": -13.16,
-    "volume_ratio": 0.51,
-    "rsi14": 63.1,
+    "current_price": 12.75,
+    "momentum20": 0.08,
+    "momentum60": -10.31,
+    "volume_ratio": 1.1,
+    "rsi14": 66.7,
     "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
@@ -107,60 +103,21 @@
   },
   {
     "rank": 4,
-    "ticker": "MRVL",
-    "as_of": "2026-10-05",
-    "watch_score": 43,
-    "label": "Svag bevakningssignal",
-    "current_price": 271.5350036621094,
-    "momentum20": 21.46,
-    "momentum60": 15.15,
-    "volume_ratio": 0.41,
-    "rsi14": 81.8,
-    "trend_score": 50,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum",
-      "Mycket hög RSI – rekylrisk"
-    ],
-    "risk_flags": [
-      "Hög RSI – rekylrisk",
-      "Volymen bekräftar inte rörelsen"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 5,
     "ticker": "CSCO",
     "as_of": "2026-10-05",
     "watch_score": 43,
     "label": "Svag bevakningssignal",
-    "current_price": 112.38999938964844,
-    "momentum20": 2.92,
-    "momentum60": -7.35,
-    "volume_ratio": 0.25,
-    "rsi14": 56.1,
+    "current_price": 112.81999969482422,
+    "momentum20": 3.32,
+    "momentum60": -7.0,
+    "volume_ratio": 0.96,
+    "rsi14": 57.1,
     "trend_score": 35,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Kelly Loeffler",
@@ -206,6 +163,43 @@
     "supporting_buy_count": 6,
     "historical_median_30d": 0.65,
     "historical_median_90d": 6.77,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 5,
+    "ticker": "MRVL",
+    "as_of": "2026-10-05",
+    "watch_score": 43,
+    "label": "Svag bevakningssignal",
+    "current_price": 271.25,
+    "momentum20": 21.34,
+    "momentum60": 15.03,
+    "volume_ratio": 0.71,
+    "rsi14": 81.5,
+    "trend_score": 50,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum",
+      "Mycket hög RSI – rekylrisk"
+    ],
+    "risk_flags": [
+      "Hög RSI – rekylrisk",
+      "Volymen bekräftar inte rörelsen"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-11-20",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   }
 ]
