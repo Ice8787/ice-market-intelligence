@@ -1,12 +1,12 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-10-06T03:05:23.563290Z",
+  "generated_at": "2026-10-06T09:30:31.064200Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
   "record_count": 836,
   "people_count": 157,
   "political_trade_count": 411,
-  "policy_event_count": 121,
+  "policy_event_count": 127,
   "trend_count": 22,
   "daily_pick_count": 5,
   "top_per_market_category": 100,
@@ -46,7 +46,7 @@
     },
     "Sverige": {
       "ok": true,
-      "new_records": 42
+      "new_records": 38
     },
     "US politicians": {
       "ok": true,
