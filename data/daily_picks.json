@@ -5,11 +5,11 @@
     "as_of": "2026-10-07",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 10.829999923706055,
-    "momentum20": 12.7,
-    "momentum60": 16.7,
-    "volume_ratio": 0.06,
-    "rsi14": 66.8,
+    "current_price": 10.635000228881836,
+    "momentum20": 10.67,
+    "momentum60": 14.6,
+    "volume_ratio": 0.67,
+    "rsi14": 64.3,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -41,11 +41,11 @@
     "as_of": "2026-10-07",
     "watch_score": 58,
     "label": "Måttlig bevakningssignal",
-    "current_price": 117.0999984741211,
-    "momentum20": 7.01,
-    "momentum60": 0.01,
-    "volume_ratio": 0.07,
-    "rsi14": 66.7,
+    "current_price": 117.7500991821289,
+    "momentum20": 7.6,
+    "momentum60": 0.56,
+    "volume_ratio": 0.42,
+    "rsi14": 68.8,
     "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -108,11 +108,11 @@
     "as_of": "2026-10-07",
     "watch_score": 53,
     "label": "Måttlig bevakningssignal",
-    "current_price": 526.3699951171875,
-    "momentum20": 7.06,
-    "momentum60": 36.74,
-    "volume_ratio": 0.08,
-    "rsi14": 70.6,
+    "current_price": 529.489990234375,
+    "momentum20": 7.7,
+    "momentum60": 37.55,
+    "volume_ratio": 0.47,
+    "rsi14": 73.7,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -120,6 +120,7 @@
       "Positivt 20-dagars momentum"
     ],
     "risk_flags": [
+      "Hög RSI – rekylrisk",
       "Volymen bekräftar inte rörelsen"
     ],
     "supporting_buys": [
@@ -143,11 +144,11 @@
     "as_of": "2026-10-07",
     "watch_score": 50,
     "label": "Måttlig bevakningssignal",
-    "current_price": 280.1700134277344,
-    "momentum20": 19.22,
-    "momentum60": 25.95,
-    "volume_ratio": 0.27,
-    "rsi14": 74.0,
+    "current_price": 285.5799865722656,
+    "momentum20": 21.52,
+    "momentum60": 28.39,
+    "volume_ratio": 1.03,
+    "rsi14": 79.2,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -155,8 +156,7 @@
       "Positivt 20-dagars momentum"
     ],
     "risk_flags": [
-      "Hög RSI – rekylrisk",
-      "Volymen bekräftar inte rörelsen"
+      "Hög RSI – rekylrisk"
     ],
     "supporting_buys": [
       {
@@ -175,22 +175,23 @@
   },
   {
     "rank": 5,
-    "ticker": "ABYIX",
-    "as_of": "2026-10-06",
-    "watch_score": 47,
-    "label": "Svag bevakningssignal",
-    "current_price": 12.239999771118164,
-    "momentum20": 2.34,
-    "momentum60": 4.79,
-    "volume_ratio": 0.0,
-    "rsi14": 54.5,
-    "trend_score": 55,
+    "ticker": "DDOG",
+    "as_of": "2026-10-07",
+    "watch_score": 50,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 272.1300048828125,
+    "momentum20": 20.8,
+    "momentum60": 0.52,
+    "volume_ratio": 0.29,
+    "rsi14": 79.0,
+    "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
-      "RSI visar styrka utan extrem överköpt nivå"
+      "Positivt 20-dagars momentum"
     ],
     "risk_flags": [
+      "Hög RSI – rekylrisk",
       "Volymen bekräftar inte rörelsen"
     ],
     "supporting_buys": [

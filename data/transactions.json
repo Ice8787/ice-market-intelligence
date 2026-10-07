@@ -1,5 +1,65 @@
 [
   {
+    "id": "b387982aed075b3eba",
+    "person_id": "b180741f61c745",
+    "person_name": "Timo Petteri Saarinen",
+    "person_role": "Styrelseordförande",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Soltech Energy Sweden AB (publ)",
+    "ticker": "SE0005392537",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 206428.92,
+    "category": "Energi",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-10-07",
+    "filing_date": "2026-10-07",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 3621560.0,
+    "purchase_price": 0.057,
+    "value_usd": 0.0,
+    "score": 55,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Betydande transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 0.057,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Energi",
+      "Styrelseordförande",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D006-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "1851410afb6b31e590",
     "person_id": "420bc3e045ca42",
     "person_name": "Peter Norman Ulltin",
