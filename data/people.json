@@ -1143,6 +1143,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "91185c62396b0c",
+    "name": "Anna Stiwne",
+    "person_type": "corporate_insider",
+    "primary_role": "Arbetstagarrepresentant i styrelsen eller arbetstagarsuppleant",
+    "categories": [
+      "Industri"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "8fadf8787976ec",
     "name": "Tony Buss",
     "person_type": "business_leader",
@@ -1165,22 +1181,6 @@
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "91185c62396b0c",
-    "name": "Anna Stiwne",
-    "person_type": "corporate_insider",
-    "primary_role": "Arbetstagarrepresentant i styrelsen eller arbetstagarsuppleant",
-    "categories": [
-      "Industri"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1239,22 +1239,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "2223b4739074b4",
-    "name": "Paulo Gaspar",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "4c74b45d4d95b1",
     "name": "Anders Berggren",
     "person_type": "corporate_insider",
@@ -1277,6 +1261,22 @@
     "primary_role": "Ekonomichef/finanschef/finansdirektör",
     "categories": [
       "Industri"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "2223b4739074b4",
+    "name": "Paulo Gaspar",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1687,12 +1687,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "c3938f248b20d7",
-    "name": "Tom Evert Olander",
+    "id": "5632109402ec21",
+    "name": "Fredrik Grevelius",
     "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
+    "primary_role": "Styrelseordförande",
     "categories": [
-      "Teknik"
+      "Industri"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1703,12 +1703,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "5632109402ec21",
-    "name": "Fredrik Grevelius",
+    "id": "c3938f248b20d7",
+    "name": "Tom Evert Olander",
     "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
+    "primary_role": "Styrelseledamot",
     "categories": [
-      "Industri"
+      "Teknik"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2231,12 +2231,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "53290aefb8b636",
-    "name": "Andreas Wahlén",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
+    "id": "d845750c9c0a8f",
+    "name": "James Axel Ahrgren",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
     "categories": [
-      "Övrigt"
+      "Industri"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2247,12 +2247,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "d845750c9c0a8f",
-    "name": "James Axel Ahrgren",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
+    "id": "53290aefb8b636",
+    "name": "Andreas Wahlén",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
     "categories": [
-      "Industri"
+      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2311,12 +2311,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "2f376dc585b5e8",
-    "name": "Ludvig Paulsson",
+    "id": "f582b296da37bd",
+    "name": "Alexander Svedulf",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
     "categories": [
-      "Övrigt"
+      "Industri"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2327,12 +2327,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "f582b296da37bd",
-    "name": "Alexander Svedulf",
+    "id": "2f376dc585b5e8",
+    "name": "Ludvig Paulsson",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
     "categories": [
-      "Industri"
+      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
