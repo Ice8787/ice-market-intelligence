@@ -515,10 +515,10 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "74618c2acb2e35",
-    "name": "Vikingam AB",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
+    "id": "dbdaad99ce362d",
+    "name": "Henrik Milton",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Finans"
     ],
@@ -531,10 +531,10 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "dbdaad99ce362d",
-    "name": "Henrik Milton",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
+    "id": "74618c2acb2e35",
+    "name": "Vikingam AB",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
     "categories": [
       "Finans"
     ],
