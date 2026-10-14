@@ -2,14 +2,14 @@
   {
     "rank": 1,
     "ticker": "MRVL",
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-12",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 268.7250061035156,
-    "momentum20": 21.21,
-    "momentum60": 37.85,
-    "volume_ratio": 0.95,
-    "rsi14": 55.1,
+    "current_price": 265.8599853515625,
+    "momentum20": 21.5,
+    "momentum60": 40.91,
+    "volume_ratio": 0.98,
+    "rsi14": 52.3,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -36,14 +36,14 @@
   {
     "rank": 2,
     "ticker": "MSFT",
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-12",
     "watch_score": 53,
     "label": "Måttlig bevakningssignal",
-    "current_price": 543.4500122070312,
-    "momentum20": 9.32,
-    "momentum60": 35.09,
-    "volume_ratio": 1.07,
-    "rsi14": 77.8,
+    "current_price": 541.1500244140625,
+    "momentum20": 7.07,
+    "momentum60": 37.41,
+    "volume_ratio": 0.82,
+    "rsi14": 77.9,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -71,14 +71,14 @@
   {
     "rank": 3,
     "ticker": "DDOG",
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-12",
     "watch_score": 50,
     "label": "Måttlig bevakningssignal",
-    "current_price": 283.3399963378906,
-    "momentum20": 23.05,
-    "momentum60": 7.65,
-    "volume_ratio": 0.62,
-    "rsi14": 73.6,
+    "current_price": 287.2900085449219,
+    "momentum20": 24.88,
+    "momentum60": 11.06,
+    "volume_ratio": 0.89,
+    "rsi14": 79.5,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -86,8 +86,7 @@
       "Positivt 20-dagars momentum"
     ],
     "risk_flags": [
-      "Hög RSI – rekylrisk",
-      "Volymen bekräftar inte rörelsen"
+      "Hög RSI – rekylrisk"
     ],
     "supporting_buys": [
       {
@@ -107,14 +106,14 @@
   {
     "rank": 4,
     "ticker": "PAGS",
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-12",
     "watch_score": 50,
     "label": "Måttlig bevakningssignal",
-    "current_price": 10.989999771118164,
-    "momentum20": 14.24,
-    "momentum60": 18.3,
-    "volume_ratio": 0.61,
-    "rsi14": 74.9,
+    "current_price": 11.140000343322754,
+    "momentum20": 12.19,
+    "momentum60": 23.23,
+    "volume_ratio": 0.71,
+    "rsi14": 71.9,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -122,7 +121,6 @@
       "Positivt 20-dagars momentum"
     ],
     "risk_flags": [
-      "Hög RSI – rekylrisk",
       "Volymen bekräftar inte rörelsen"
     ],
     "supporting_buys": [
