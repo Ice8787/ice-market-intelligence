@@ -1,15 +1,15 @@
 [
   {
     "rank": 1,
-    "ticker": "MRVL",
-    "as_of": "2026-10-13",
+    "ticker": "DDOG",
+    "as_of": "2026-10-14",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 268.7300109863281,
-    "momentum20": 21.21,
-    "momentum60": 37.85,
-    "volume_ratio": 0.95,
-    "rsi14": 55.1,
+    "current_price": 273.2799987792969,
+    "momentum20": 18.41,
+    "momentum60": 7.26,
+    "volume_ratio": 0.25,
+    "rsi14": 61.4,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -17,7 +17,9 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
@@ -35,125 +37,19 @@
   },
   {
     "rank": 2,
-    "ticker": "MSFT",
-    "as_of": "2026-10-13",
-    "watch_score": 53,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 543.4500122070312,
-    "momentum20": 9.32,
-    "momentum60": 35.09,
-    "volume_ratio": 1.08,
-    "rsi14": 77.8,
-    "trend_score": 60,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum"
-    ],
-    "risk_flags": [
-      "Hög RSI – rekylrisk"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Ron L Wyden",
-        "person_type": "political",
-        "date": "2020-07-23",
-        "value": 175000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/e29a0a93-7153-42f3-97c5-e9f68fe47820/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 3,
-    "ticker": "DDOG",
-    "as_of": "2026-10-13",
-    "watch_score": 50,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 283.3399963378906,
-    "momentum20": 23.05,
-    "momentum60": 7.65,
-    "volume_ratio": 0.62,
-    "rsi14": 73.6,
-    "trend_score": 60,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum"
-    ],
-    "risk_flags": [
-      "Hög RSI – rekylrisk",
-      "Volymen bekräftar inte rörelsen"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 4,
-    "ticker": "PAGS",
-    "as_of": "2026-10-13",
-    "watch_score": 50,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 10.989999771118164,
-    "momentum20": 14.24,
-    "momentum60": 18.3,
-    "volume_ratio": 0.61,
-    "rsi14": 74.9,
-    "trend_score": 60,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum"
-    ],
-    "risk_flags": [
-      "Hög RSI – rekylrisk",
-      "Volymen bekräftar inte rörelsen"
-    ],
-    "supporting_buys": [
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 5,
     "ticker": "CSCO",
-    "as_of": "2026-10-13",
-    "watch_score": 43,
-    "label": "Svag bevakningssignal",
+    "as_of": "2026-10-14",
+    "watch_score": 58,
+    "label": "Måttlig bevakningssignal",
     "current_price": 115.06999969482422,
-    "momentum20": 4.54,
-    "momentum60": 3.95,
-    "volume_ratio": 0.64,
-    "rsi14": 69.7,
-    "trend_score": 35,
+    "momentum20": 6.8,
+    "momentum60": 2.58,
+    "volume_ratio": 0.23,
+    "rsi14": 68.9,
+    "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
+      "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
     "risk_flags": [
@@ -204,6 +100,105 @@
     "supporting_buy_count": 6,
     "historical_median_30d": 0.65,
     "historical_median_90d": 6.77,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 3,
+    "ticker": "MAR",
+    "as_of": "2026-10-14",
+    "watch_score": 54,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 370.9800109863281,
+    "momentum20": 10.75,
+    "momentum60": 0.86,
+    "volume_ratio": 0.23,
+    "rsi14": 69.5,
+    "trend_score": 75,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen",
+      "Ingen matchande offentlig köpsignal i datasetet"
+    ],
+    "supporting_buys": [],
+    "supporting_buy_count": 0,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 4,
+    "ticker": "MSFT",
+    "as_of": "2026-10-14",
+    "watch_score": 53,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 536.9450073242188,
+    "momentum20": 9.51,
+    "momentum60": 35.0,
+    "volume_ratio": 0.31,
+    "rsi14": 74.1,
+    "trend_score": 60,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum"
+    ],
+    "risk_flags": [
+      "Hög RSI – rekylrisk",
+      "Volymen bekräftar inte rörelsen"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Ron L Wyden",
+        "person_type": "political",
+        "date": "2020-07-23",
+        "value": 175000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/e29a0a93-7153-42f3-97c5-e9f68fe47820/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 5,
+    "ticker": "PAGS",
+    "as_of": "2026-10-14",
+    "watch_score": 50,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 10.675000190734863,
+    "momentum20": 12.72,
+    "momentum60": 11.43,
+    "volume_ratio": 0.26,
+    "rsi14": 70.4,
+    "trend_score": 60,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum"
+    ],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-11-20",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   }
 ]
