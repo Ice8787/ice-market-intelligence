@@ -5,11 +5,11 @@
     "as_of": "2026-10-15",
     "watch_score": 64,
     "label": "Måttlig bevakningssignal",
-    "current_price": 540.1500244140625,
-    "momentum20": 8.52,
-    "momentum60": 38.38,
-    "volume_ratio": 0.66,
-    "rsi14": 66.6,
+    "current_price": 539.4400024414062,
+    "momentum20": 8.38,
+    "momentum60": 38.2,
+    "volume_ratio": 1.03,
+    "rsi14": 66.2,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -17,9 +17,7 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Ron L Wyden",
@@ -37,15 +35,48 @@
   },
   {
     "rank": 2,
+    "ticker": "ICE",
+    "as_of": "2026-10-15",
+    "watch_score": 51,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 158.41000366210938,
+    "momentum20": 3.33,
+    "momentum60": 11.14,
+    "volume_ratio": 1.5,
+    "rsi14": 60.9,
+    "trend_score": 55,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "Ovanligt hög dagsvolym",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [],
+    "supporting_buys": [
+      {
+        "person_name": "Kelly Loeffler",
+        "person_type": "political",
+        "date": "2020-05-20",
+        "value": 3000000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/c4c59219-79bf-4035-8f99-7b6a0aa03f05/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 3,
     "ticker": "PAGS",
     "as_of": "2026-10-15",
     "watch_score": 50,
     "label": "Måttlig bevakningssignal",
-    "current_price": 11.104999542236328,
-    "momentum20": 16.16,
-    "momentum60": 14.84,
-    "volume_ratio": 0.48,
-    "rsi14": 74.7,
+    "current_price": 11.119999885559082,
+    "momentum20": 16.32,
+    "momentum60": 14.99,
+    "volume_ratio": 0.73,
+    "rsi14": 74.8,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -72,16 +103,16 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 3,
+    "rank": 4,
     "ticker": "MAR",
     "as_of": "2026-10-15",
     "watch_score": 43,
     "label": "Svag bevakningssignal",
-    "current_price": 388.3399963378906,
-    "momentum20": 16.27,
-    "momentum60": 5.01,
-    "volume_ratio": 0.83,
-    "rsi14": 77.6,
+    "current_price": 385.7099914550781,
+    "momentum20": 15.48,
+    "momentum60": 4.3,
+    "volume_ratio": 1.36,
+    "rsi14": 76.7,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -99,51 +130,22 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 4,
-    "ticker": "AAPL",
-    "as_of": "2026-10-15",
-    "watch_score": 40,
-    "label": "Svag bevakningssignal",
-    "current_price": 343.18499755859375,
-    "momentum20": 1.84,
-    "momentum60": 5.31,
-    "volume_ratio": 0.66,
-    "rsi14": 52.6,
-    "trend_score": 55,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen",
-      "Ingen matchande offentlig köpsignal i datasetet"
-    ],
-    "supporting_buys": [],
-    "supporting_buy_count": 0,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
     "rank": 5,
     "ticker": "CVS",
     "as_of": "2026-10-15",
     "watch_score": 40,
     "label": "Svag bevakningssignal",
-    "current_price": 92.0790023803711,
-    "momentum20": 2.0,
-    "momentum60": -14.8,
-    "volume_ratio": 0.55,
-    "rsi14": 59.3,
+    "current_price": 92.58000183105469,
+    "momentum20": 2.56,
+    "momentum60": -14.34,
+    "volume_ratio": 1.25,
+    "rsi14": 60.5,
     "trend_score": 35,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Jerry Moran,",
