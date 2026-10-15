@@ -1,15 +1,15 @@
 [
   {
     "rank": 1,
-    "ticker": "DDOG",
-    "as_of": "2026-10-14",
-    "watch_score": 61,
+    "ticker": "MSFT",
+    "as_of": "2026-10-15",
+    "watch_score": 64,
     "label": "Måttlig bevakningssignal",
-    "current_price": 269.3299865722656,
-    "momentum20": 16.7,
-    "momentum60": 5.71,
-    "volume_ratio": 1.0,
-    "rsi14": 58.2,
+    "current_price": 537.3400268554688,
+    "momentum20": 7.95,
+    "momentum60": 37.66,
+    "volume_ratio": 0.39,
+    "rsi14": 65.2,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -17,105 +17,9 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [],
-    "supporting_buys": [
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      }
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
     ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 2,
-    "ticker": "CSCO",
-    "as_of": "2026-10-14",
-    "watch_score": 58,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 113.63999938964844,
-    "momentum20": 5.48,
-    "momentum60": 1.3,
-    "volume_ratio": 0.87,
-    "rsi14": 64.6,
-    "trend_score": 55,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "Positivt 20-dagars momentum",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [],
-    "supporting_buys": [
-      {
-        "person_name": "Kelly Loeffler",
-        "person_type": "political",
-        "date": "2020-04-07",
-        "value": 32500.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b47d301-0318-4604-bd14-a0b9c1b8437f/"
-      },
-      {
-        "person_name": "Ron L Wyden",
-        "person_type": "political",
-        "date": "2020-04-06",
-        "value": 32500.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/d411d8c3-b780-4e4e-8490-aa790811fa5f/"
-      },
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-03-24",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/6beec58d-0b48-4346-9d9e-2f4cb6e88264/"
-      },
-      {
-        "person_name": "Kelly Loeffler",
-        "person_type": "political",
-        "date": "2020-03-20",
-        "value": 75000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b47d301-0318-4604-bd14-a0b9c1b8437f/"
-      },
-      {
-        "person_name": "Kelly Loeffler",
-        "person_type": "political",
-        "date": "2020-03-13",
-        "value": 175000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b47d301-0318-4604-bd14-a0b9c1b8437f/"
-      }
-    ],
-    "supporting_buy_count": 6,
-    "historical_median_30d": 0.65,
-    "historical_median_90d": 6.77,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 3,
-    "ticker": "MSFT",
-    "as_of": "2026-10-14",
-    "watch_score": 53,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 533.6900024414062,
-    "momentum20": 8.85,
-    "momentum60": 34.18,
-    "volume_ratio": 0.99,
-    "rsi14": 71.2,
-    "trend_score": 60,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum"
-    ],
-    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Ron L Wyden",
@@ -132,16 +36,16 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 4,
+    "rank": 2,
     "ticker": "PAGS",
-    "as_of": "2026-10-14",
+    "as_of": "2026-10-15",
     "watch_score": 50,
     "label": "Måttlig bevakningssignal",
-    "current_price": 10.829999923706055,
-    "momentum20": 14.36,
-    "momentum60": 13.05,
-    "volume_ratio": 0.85,
-    "rsi14": 73.1,
+    "current_price": 11.125,
+    "momentum20": 16.37,
+    "momentum60": 15.05,
+    "volume_ratio": 0.24,
+    "rsi14": 74.9,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -149,7 +53,8 @@
       "Positivt 20-dagars momentum"
     ],
     "risk_flags": [
-      "Hög RSI – rekylrisk"
+      "Hög RSI – rekylrisk",
+      "Volymen bekräftar inte rörelsen"
     ],
     "supporting_buys": [
       {
@@ -167,16 +72,16 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 5,
+    "rank": 3,
     "ticker": "MAR",
-    "as_of": "2026-10-14",
+    "as_of": "2026-10-15",
     "watch_score": 43,
     "label": "Svag bevakningssignal",
-    "current_price": 371.82000732421875,
-    "momentum20": 11.0,
-    "momentum60": 1.09,
-    "volume_ratio": 0.99,
-    "rsi14": 70.4,
+    "current_price": 384.8999938964844,
+    "momentum20": 15.24,
+    "momentum60": 4.08,
+    "volume_ratio": 0.37,
+    "rsi14": 76.4,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -184,10 +89,105 @@
       "Positivt 20-dagars momentum"
     ],
     "risk_flags": [
+      "Hög RSI – rekylrisk",
+      "Volymen bekräftar inte rörelsen",
       "Ingen matchande offentlig köpsignal i datasetet"
     ],
     "supporting_buys": [],
     "supporting_buy_count": 0,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 4,
+    "ticker": "AAPL",
+    "as_of": "2026-10-15",
+    "watch_score": 40,
+    "label": "Svag bevakningssignal",
+    "current_price": 343.05999755859375,
+    "momentum20": 1.8,
+    "momentum60": 5.27,
+    "volume_ratio": 0.39,
+    "rsi14": 52.5,
+    "trend_score": 55,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen",
+      "Ingen matchande offentlig köpsignal i datasetet"
+    ],
+    "supporting_buys": [],
+    "supporting_buy_count": 0,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 5,
+    "ticker": "CVS",
+    "as_of": "2026-10-15",
+    "watch_score": 40,
+    "label": "Svag bevakningssignal",
+    "current_price": 91.9197006225586,
+    "momentum20": 1.83,
+    "momentum60": -14.95,
+    "volume_ratio": 0.25,
+    "rsi14": 58.8,
+    "trend_score": 35,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
+    "supporting_buys": [
+      {
+        "person_name": "Jerry Moran,",
+        "person_type": "political",
+        "date": "2020-08-21",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/5809a671-cb5c-46c3-a6ec-35481814e274/"
+      },
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-04-14",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/"
+      },
+      {
+        "person_name": "Kelly Loeffler",
+        "person_type": "political",
+        "date": "2020-04-07",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/2b47d301-0318-4604-bd14-a0b9c1b8437f/"
+      },
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-04-02",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/"
+      },
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-03-27",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/6beec58d-0b48-4346-9d9e-2f4cb6e88264/"
+      }
+    ],
+    "supporting_buy_count": 6,
     "historical_median_30d": null,
     "historical_median_90d": null,
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
