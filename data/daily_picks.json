@@ -5,11 +5,11 @@
     "as_of": "2026-10-16",
     "watch_score": 64,
     "label": "Måttlig bevakningssignal",
-    "current_price": 526.780029296875,
-    "momentum20": 6.68,
-    "momentum60": 38.05,
-    "volume_ratio": 0.63,
-    "rsi14": 61.3,
+    "current_price": 529.0499877929688,
+    "momentum20": 7.14,
+    "momentum60": 38.65,
+    "volume_ratio": 1.05,
+    "rsi14": 63.2,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -17,9 +17,7 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Ron L Wyden",
@@ -37,15 +35,42 @@
   },
   {
     "rank": 2,
+    "ticker": "AAPL",
+    "as_of": "2026-10-16",
+    "watch_score": 54,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 343.4599914550781,
+    "momentum20": 2.18,
+    "momentum60": 6.78,
+    "volume_ratio": 1.56,
+    "rsi14": 56.4,
+    "trend_score": 75,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Ovanligt hög dagsvolym",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [
+      "Ingen matchande offentlig köpsignal i datasetet"
+    ],
+    "supporting_buys": [],
+    "supporting_buy_count": 0,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 3,
     "ticker": "PAGS",
     "as_of": "2026-10-16",
     "watch_score": 50,
     "label": "Måttlig bevakningssignal",
-    "current_price": 10.954999923706055,
-    "momentum20": 18.3,
-    "momentum60": 15.8,
-    "volume_ratio": 0.35,
-    "rsi14": 74.6,
+    "current_price": 11.0,
+    "momentum20": 18.79,
+    "momentum60": 16.28,
+    "volume_ratio": 0.58,
+    "rsi14": 75.4,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -72,16 +97,16 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 3,
+    "rank": 4,
     "ticker": "MAR",
     "as_of": "2026-10-16",
     "watch_score": 43,
     "label": "Svag bevakningssignal",
-    "current_price": 389.30999755859375,
-    "momentum20": 14.87,
-    "momentum60": 6.82,
-    "volume_ratio": 0.7,
-    "rsi14": 75.6,
+    "current_price": 388.04998779296875,
+    "momentum20": 14.5,
+    "momentum60": 6.47,
+    "volume_ratio": 1.33,
+    "rsi14": 75.1,
     "trend_score": 60,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -90,33 +115,6 @@
     ],
     "risk_flags": [
       "Hög RSI – rekylrisk",
-      "Volymen bekräftar inte rörelsen",
-      "Ingen matchande offentlig köpsignal i datasetet"
-    ],
-    "supporting_buys": [],
-    "supporting_buy_count": 0,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 4,
-    "ticker": "AAPL",
-    "as_of": "2026-10-16",
-    "watch_score": 40,
-    "label": "Svag bevakningssignal",
-    "current_price": 341.510009765625,
-    "momentum20": 1.6,
-    "momentum60": 6.17,
-    "volume_ratio": 0.96,
-    "rsi14": 54.0,
-    "trend_score": 55,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [
       "Ingen matchande offentlig köpsignal i datasetet"
     ],
     "supporting_buys": [],
@@ -131,19 +129,17 @@
     "as_of": "2026-10-16",
     "watch_score": 40,
     "label": "Svag bevakningssignal",
-    "current_price": 12.46500015258789,
-    "momentum20": -5.64,
-    "momentum60": -11.91,
-    "volume_ratio": 0.73,
-    "rsi14": 52.1,
+    "current_price": 12.430000305175781,
+    "momentum20": -5.9,
+    "momentum60": -12.16,
+    "volume_ratio": 1.11,
+    "rsi14": 51.3,
     "trend_score": 35,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Ron L Wyden",
