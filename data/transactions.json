@@ -1,5 +1,64 @@
 [
   {
+    "id": "0bab81e2d2781a5480",
+    "person_id": "4795c40e7353cf",
+    "person_name": "Ilija BATLJAN",
+    "person_role": "Styrelseledamot",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Episurf Medical AB",
+    "ticker": "Aktier i Frusipe Intressenter Holding AB, som äger 10 000 000 000 teckningsoptioner av serie 2026/2029 och 40 960 295 B-aktier i Episurf Medical AB",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 25000.0,
+    "category": "Hälsa",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-10-19",
+    "filing_date": "2026-10-19",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 25000000.0,
+    "purchase_price": 0.001,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 0.001,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Hälsa",
+      "Styrelseledamot",
+      "Förvärv",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D156-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "0ae35a8c7790ff7990",
     "person_id": "546e34b40ac7aa",
     "person_name": "Marcus Wallenberg",
