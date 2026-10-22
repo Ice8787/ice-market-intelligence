@@ -1,5 +1,65 @@
 [
   {
+    "id": "a3ca30b10f097fbe95",
+    "person_id": "71df5cec41fe3c",
+    "person_name": "Michael Green",
+    "person_role": "Verkställande direktör (VD)",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "Svenska Handelsbanken AB",
+    "ticker": "SE0007100599",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 1474000.0,
+    "category": "Finans",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-10-22",
+    "filing_date": "2026-10-22",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 10000.0,
+    "purchase_price": 147.4,
+    "value_usd": 0.0,
+    "score": 62,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 147.4,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Finans",
+      "Verkställande direktör (VD)",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D209-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "e30c051ba9a8e70534",
     "person_id": "1a1faaa76ee99b",
     "person_name": "Dan Lindwall",
