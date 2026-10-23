@@ -300,6 +300,66 @@
     "is_demo": false
   },
   {
+    "id": "da3288a251e433cb95",
+    "person_id": "08320dec9c4243",
+    "person_name": "Richard Glückman",
+    "person_role": "Annan ledande befattningshavare",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Idun Industrier AB (publ)",
+    "ticker": "SE0013512464",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 3325000.0,
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-10-23",
+    "filing_date": "2026-10-23",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "sell",
+    "transaction_code": "S",
+    "shares": 10000.0,
+    "purchase_price": 332.5,
+    "value_usd": 0.0,
+    "score": 40,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppen marknadsförsäljning",
+      "Stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 332.5,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Industri",
+      "Annan ledande befattningshavare",
+      "Avyttring",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D273-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "6aaf997c3a4ca39e78",
     "person_id": "3cb867e2a75831",
     "person_name": "Mårten Bjurman",
@@ -600,6 +660,65 @@
     "is_demo": false
   },
   {
+    "id": "87827de75237dfe749",
+    "person_id": "4f5c12e035f4fc",
+    "person_name": "Vibeke Gyllenram",
+    "person_role": "Verkställande direktör (VD)",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "AGES Industri AB",
+    "ticker": "SE0005799046",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 1196.0,
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-10-22",
+    "filing_date": "2026-10-23",
+    "reporting_delay_days": 1,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 26.0,
+    "purchase_price": 46.0,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 46.0,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Industri",
+      "Verkställande direktör (VD)",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D272-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "e30c051ba9a8e70534",
     "person_id": "1a1faaa76ee99b",
     "person_name": "Dan Lindwall",
@@ -717,6 +836,65 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D187-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "42242b3a2efc6b4838",
+    "person_id": "4f5c12e035f4fc",
+    "person_name": "Vibeke Gyllenram",
+    "person_role": "Verkställande direktör (VD)",
+    "person_type": "business_leader",
+    "issuer_cik": "",
+    "company": "AGES Industri AB",
+    "ticker": "SE0005799046",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 25457.99985,
+    "category": "Industri",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-10-21",
+    "filing_date": "2026-10-23",
+    "reporting_delay_days": 2,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 555.0,
+    "purchase_price": 45.87027,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 45.87027,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Industri",
+      "Verkställande direktör (VD)",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D272-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
