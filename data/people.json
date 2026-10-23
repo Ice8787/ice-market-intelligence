@@ -15,7 +15,7 @@
     "history": {
       "tracked_buys": 30,
       "positive_90d_rate": 100,
-      "median_return_90d": 7.25,
+      "median_return_90d": 2.065,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -55,8 +55,8 @@
     ],
     "history": {
       "tracked_buys": 24,
-      "positive_90d_rate": 100,
-      "median_return_90d": 11.14,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -75,8 +75,8 @@
     ],
     "history": {
       "tracked_buys": 22,
-      "positive_90d_rate": 83,
-      "median_return_90d": 8.445,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -231,8 +231,8 @@
     ],
     "history": {
       "tracked_buys": 9,
-      "positive_90d_rate": 50,
-      "median_return_90d": -2.2649999999999997,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -612,6 +612,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "78d1e2a5126f21",
+    "name": "Ole Jødahl",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "1a1faaa76ee99b",
     "name": "Dan Lindwall",
     "person_type": "business_leader",
@@ -762,22 +778,6 @@
     "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
     "categories": [
       "Industri"
-    ],
-    "history": {
-      "tracked_buys": 2,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "2faafc54091cfa",
-    "name": "Jeremias Jansson",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
     ],
     "history": {
       "tracked_buys": 2,
@@ -999,6 +999,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "19f3d7fc918e9c",
+    "name": "Per Waldemarson",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "71df5cec41fe3c",
     "name": "Michael Green",
     "person_type": "business_leader",
@@ -1021,6 +1037,22 @@
     "primary_role": "Ekonomichef/finanschef/finansdirektör",
     "categories": [
       "Finans"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "0b4b3a37a3727f",
+    "name": "Håkan Andersson",
+    "person_type": "business_leader",
+    "primary_role": "Vice VD",
+    "categories": [
+      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1463,6 +1495,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "2faafc54091cfa",
+    "name": "Jeremias Jansson",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "2223b4739074b4",
     "name": "Paulo Gaspar",
     "person_type": "corporate_insider",
@@ -1511,22 +1559,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "78d1e2a5126f21",
-    "name": "Ole Jødahl",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "344dd87966b3e0",
     "name": "Karl Henrik Wennerholm",
     "person_type": "corporate_insider",
@@ -1561,38 +1593,6 @@
   {
     "id": "b2840570e4ba17",
     "name": "Virpi Holmqvist",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "7500df13610fab",
-    "name": "Eirik Groettum",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "ab139e754c9be1",
-    "name": "Eirik Grøttum",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
