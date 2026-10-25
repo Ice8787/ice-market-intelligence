@@ -218,6 +218,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "ee77efd8c68c9f",
+    "name": "Jörgen Karlsson",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Finans"
+    ],
+    "history": {
+      "tracked_buys": 10,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "72c708b5ea53c9",
     "name": "Pat Roberts",
     "person_type": "political",
@@ -231,22 +247,6 @@
     ],
     "history": {
       "tracked_buys": 9,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "ee77efd8c68c9f",
-    "name": "Jörgen Karlsson",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Finans"
-    ],
-    "history": {
-      "tracked_buys": 8,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
