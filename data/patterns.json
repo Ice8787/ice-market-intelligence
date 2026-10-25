@@ -1,8 +1,75 @@
 [
   {
+    "id": "category-sverige-finans",
+    "type": "Sektorkluster",
+    "title": "53 insiderköp inom Finans · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Finans"
+    ],
+    "trade_ids": [
+      "5d5b59ac1f914aa992",
+      "6aaf997c3a4ca39e78",
+      "a3ca30b10f097fbe95",
+      "e30c051ba9a8e70534",
+      "bfc766bf6dec8d034f",
+      "3d7f2b0f3ec0e6acf9",
+      "4b0e2a4726712fffa7",
+      "fd154f972e722b4d88",
+      "8587917ec921242120",
+      "468fcbb4eefd166494",
+      "4972c1194f78594407",
+      "2c1d49e7155211152c",
+      "1851410afb6b31e590",
+      "507923ea9f12540f70",
+      "49a5e0163745441408",
+      "d4043b2fadc4f21396",
+      "8a8ff6a8174f07c7db",
+      "5d88c2d5158f0739a9",
+      "a101a23205878effe3",
+      "479d4844b048799048",
+      "c5ff1672705476afc3",
+      "c311d5233a472f215f",
+      "f4b4e8a273229bcd86",
+      "897f1ab6d9c0017255",
+      "20b8b21bb0dc8d68a6",
+      "efb2bcb1532372aa85",
+      "bfaac99b99912bcd4f",
+      "f450f997d21e01d8cc",
+      "a6d4fbac680a256bad",
+      "ea41aeed136a07769e",
+      "46fa692c0f5ce8e473",
+      "0482938ebe34c080c4",
+      "2f75e4915d80f8991c",
+      "02b353cb2c8ab3ab56",
+      "97fc17688047ee52b1",
+      "947d65e090010cce0c",
+      "1fef621c08662cc98d",
+      "291b34f8c77f64acd7",
+      "03684364282c9f485e",
+      "cbf3812f4c2a45b40f",
+      "d50d57eab1a637a845",
+      "9d984b4364b56f5679",
+      "3d3d714fa1826774a7",
+      "9df5aa6b502dc7eb2e",
+      "1138ef731ec3f0c5f7",
+      "16856f38fcd4a3b8df",
+      "0b3409ad17d4e741f6",
+      "20abb5a38fae10311f",
+      "a1fed62e1cb8e64680",
+      "0456139aa91a181f5a",
+      "ba0988c521b5e0e759",
+      "1bb00165c827e64db7",
+      "77b4812dbd3d61281b"
+    ],
+    "trade_count": 53,
+    "median_return_90d": null
+  },
+  {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
-    "title": "150 insiderköp inom Övrigt · Sverige",
+    "title": "149 insiderköp inom Övrigt · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
@@ -66,7 +133,6 @@
       "59f6c295cc3871f014",
       "34f9fe55520afce2dc",
       "45b77df9a46ae2bf59",
-      "4b91073535b9d24bf3",
       "ba7cd72c2686e6d624",
       "f32599e1f561f037c6",
       "d4079ea138e9c32c7a",
@@ -160,73 +226,7 @@
       "f609b24e3062f44a91",
       "c584ba748ca81e6d63"
     ],
-    "trade_count": 150,
-    "median_return_90d": null
-  },
-  {
-    "id": "category-sverige-finans",
-    "type": "Sektorkluster",
-    "title": "52 insiderköp inom Finans · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Finans"
-    ],
-    "trade_ids": [
-      "6aaf997c3a4ca39e78",
-      "a3ca30b10f097fbe95",
-      "e30c051ba9a8e70534",
-      "bfc766bf6dec8d034f",
-      "3d7f2b0f3ec0e6acf9",
-      "4b0e2a4726712fffa7",
-      "fd154f972e722b4d88",
-      "8587917ec921242120",
-      "468fcbb4eefd166494",
-      "4972c1194f78594407",
-      "2c1d49e7155211152c",
-      "1851410afb6b31e590",
-      "507923ea9f12540f70",
-      "49a5e0163745441408",
-      "d4043b2fadc4f21396",
-      "8a8ff6a8174f07c7db",
-      "5d88c2d5158f0739a9",
-      "a101a23205878effe3",
-      "479d4844b048799048",
-      "c5ff1672705476afc3",
-      "c311d5233a472f215f",
-      "f4b4e8a273229bcd86",
-      "897f1ab6d9c0017255",
-      "20b8b21bb0dc8d68a6",
-      "efb2bcb1532372aa85",
-      "bfaac99b99912bcd4f",
-      "f450f997d21e01d8cc",
-      "a6d4fbac680a256bad",
-      "ea41aeed136a07769e",
-      "46fa692c0f5ce8e473",
-      "0482938ebe34c080c4",
-      "2f75e4915d80f8991c",
-      "02b353cb2c8ab3ab56",
-      "97fc17688047ee52b1",
-      "947d65e090010cce0c",
-      "1fef621c08662cc98d",
-      "291b34f8c77f64acd7",
-      "03684364282c9f485e",
-      "cbf3812f4c2a45b40f",
-      "d50d57eab1a637a845",
-      "9d984b4364b56f5679",
-      "3d3d714fa1826774a7",
-      "9df5aa6b502dc7eb2e",
-      "1138ef731ec3f0c5f7",
-      "16856f38fcd4a3b8df",
-      "0b3409ad17d4e741f6",
-      "20abb5a38fae10311f",
-      "a1fed62e1cb8e64680",
-      "0456139aa91a181f5a",
-      "ba0988c521b5e0e759",
-      "1bb00165c827e64db7",
-      "77b4812dbd3d61281b"
-    ],
-    "trade_count": 52,
+    "trade_count": 149,
     "median_return_90d": null
   },
   {
@@ -512,7 +512,7 @@
       "6aa4ebbac47f25ff60"
     ],
     "trade_count": 39,
-    "median_return_90d": 6.77
+    "median_return_90d": 4.475
   },
   {
     "id": "category-usa-finans",
@@ -548,7 +548,7 @@
       "4ac7548e632e65ec2d"
     ],
     "trade_count": 22,
-    "median_return_90d": 7.25
+    "median_return_90d": null
   },
   {
     "id": "category-usa-konsument",
@@ -631,7 +631,7 @@
       "a1df676d93eac603e0"
     ],
     "trade_count": 31,
-    "median_return_90d": 8.14
+    "median_return_90d": null
   },
   {
     "id": "category-usa-transport",
@@ -653,7 +653,7 @@
       "d26992b3f2a55d35d5"
     ],
     "trade_count": 8,
-    "median_return_90d": -2.2649999999999997
+    "median_return_90d": null
   },
   {
     "id": "category-usa-industri",
@@ -681,7 +681,7 @@
       "1283f539be929d3b34"
     ],
     "trade_count": 14,
-    "median_return_90d": 33.9
+    "median_return_90d": null
   },
   {
     "id": "category-usa-energi",
