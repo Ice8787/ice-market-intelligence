@@ -2,13 +2,14 @@
   {
     "id": "category-sverige-finans",
     "type": "Sektorkluster",
-    "title": "55 insiderköp inom Finans · Sverige",
+    "title": "56 insiderköp inom Finans · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Finans"
     ],
     "trade_ids": [
+      "744eeebf3a817d4121",
       "5d5b59ac1f914aa992",
       "6aaf997c3a4ca39e78",
       "a3ca30b10f097fbe95",
@@ -65,7 +66,7 @@
       "1bb00165c827e64db7",
       "77b4812dbd3d61281b"
     ],
-    "trade_count": 55,
+    "trade_count": 56,
     "median_return_90d": null
   },
   {
