@@ -359,6 +359,66 @@
     "is_demo": false
   },
   {
+    "id": "1115082e0300cb7338",
+    "person_id": "5b75dc6d822eb8",
+    "person_name": "Daniel Wikberg",
+    "person_role": "Styrelseledamot",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Upsales Technology AB",
+    "ticker": "SE0011985514",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 45891178.56,
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-10-26",
+    "filing_date": "2026-10-26",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "sell",
+    "transaction_code": "S",
+    "shares": 1770493.0,
+    "purchase_price": 25.92,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppen marknadsförsäljning",
+      "Mycket stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 25.92,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Teknik",
+      "Styrelseledamot",
+      "Avyttring",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D341-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "a88e8d2952ed50b7aa",
     "person_id": "8c2d67402d2b71",
     "person_name": "RYK GROUP AB",
