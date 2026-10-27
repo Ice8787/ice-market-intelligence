@@ -1463,6 +1463,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "66169f7173d1cd",
+    "name": "Monika Gutén",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Teknik"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "a09c4ca38e3138",
     "name": "Joachim Zetterlund",
     "person_type": "corporate_insider",
@@ -1485,22 +1501,6 @@
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Hälsa"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "66169f7173d1cd",
-    "name": "Monika Gutén",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Teknik"
     ],
     "history": {
       "tracked_buys": 1,
@@ -1879,6 +1879,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "fee120bd9d96f7",
+    "name": "Anders Forsén",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Teknik"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "d01f27257d449c",
     "name": "Fredrik Alpsten",
     "person_type": "corporate_insider",
@@ -1901,22 +1917,6 @@
     "primary_role": "Styrelseordförande",
     "categories": [
       "Hälsa"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "fee120bd9d96f7",
-    "name": "Anders Forsén",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Teknik"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2023,12 +2023,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "5632109402ec21",
-    "name": "Fredrik Grevelius",
+    "id": "c3938f248b20d7",
+    "name": "Tom Evert Olander",
     "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
+    "primary_role": "Styrelseledamot",
     "categories": [
-      "Industri"
+      "Teknik"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2039,12 +2039,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "c3938f248b20d7",
-    "name": "Tom Evert Olander",
+    "id": "5632109402ec21",
+    "name": "Fredrik Grevelius",
     "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
+    "primary_role": "Styrelseordförande",
     "categories": [
-      "Teknik"
+      "Industri"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2295,6 +2295,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "7b1bb51dcbe40d",
+    "name": "Karl Adam Grünerwald",
+    "person_type": "corporate_insider",
+    "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
+    "categories": [
+      "Teknik"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "169a46fd8aac0c",
     "name": "Jesper Bonnivier",
     "person_type": "corporate_insider",
@@ -2333,22 +2349,6 @@
     "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
     "categories": [
       "Finans"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "7b1bb51dcbe40d",
-    "name": "Karl Adam Grünerwald",
-    "person_type": "corporate_insider",
-    "primary_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
-    "categories": [
-      "Teknik"
     ],
     "history": {
       "tracked_buys": 1,
