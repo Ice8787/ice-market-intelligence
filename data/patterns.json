@@ -2,7 +2,7 @@
   {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
-    "title": "150 insiderköp inom Övrigt · Sverige",
+    "title": "148 insiderköp inom Övrigt · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
@@ -143,13 +143,11 @@
       "186e27fd6e67700b15",
       "31c2f16bc8603d1b97",
       "7e16311dc5cb94ddc2",
-      "5f3ec9843070babc43",
       "fed88e3db5483b8d40",
       "55f50807d958bd7dc2",
       "ee165bf495a2a203c3",
       "ffc0a34ea4deadfad2",
       "57d72bd58e533c0d77",
-      "c1a5d7446e74272371",
       "aa500dcbbdde9d898f",
       "21909c4a8eb8f83168",
       "2149d7ed21da462369",
@@ -160,7 +158,7 @@
       "f609b24e3062f44a91",
       "c584ba748ca81e6d63"
     ],
-    "trade_count": 150,
+    "trade_count": 148,
     "median_return_90d": null
   },
   {
@@ -287,7 +285,7 @@
   {
     "id": "category-sverige-teknik",
     "type": "Sektorkluster",
-    "title": "26 insiderköp inom Teknik · Sverige",
+    "title": "28 insiderköp inom Teknik · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
@@ -295,6 +293,8 @@
     ],
     "trade_ids": [
       "7f463deec4f88409d4",
+      "0c0062e25735e363e0",
+      "0a1c73f0bc20063595",
       "1de045d640709c6bc8",
       "053a047608c8f89a20",
       "6ec7b8abbbfc158163",
@@ -321,7 +321,7 @@
       "b924ce5702d9fe90b9",
       "0718acba193bfff358"
     ],
-    "trade_count": 26,
+    "trade_count": 28,
     "median_return_90d": null
   },
   {
@@ -536,7 +536,7 @@
       "6aa4ebbac47f25ff60"
     ],
     "trade_count": 39,
-    "median_return_90d": 6.77
+    "median_return_90d": 4.475
   },
   {
     "id": "category-usa-finans",
@@ -572,7 +572,7 @@
       "4ac7548e632e65ec2d"
     ],
     "trade_count": 22,
-    "median_return_90d": 7.25
+    "median_return_90d": null
   },
   {
     "id": "category-usa-konsument",
@@ -655,7 +655,7 @@
       "a1df676d93eac603e0"
     ],
     "trade_count": 31,
-    "median_return_90d": 8.14
+    "median_return_90d": null
   },
   {
     "id": "category-usa-transport",
@@ -677,7 +677,7 @@
       "d26992b3f2a55d35d5"
     ],
     "trade_count": 8,
-    "median_return_90d": -2.2649999999999997
+    "median_return_90d": null
   },
   {
     "id": "category-usa-industri",
@@ -705,7 +705,7 @@
       "1283f539be929d3b34"
     ],
     "trade_count": 14,
-    "median_return_90d": 33.9
+    "median_return_90d": null
   },
   {
     "id": "category-usa-energi",
