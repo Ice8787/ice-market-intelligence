@@ -300,6 +300,65 @@
     "is_demo": false
   },
   {
+    "id": "d578d595d0e87a2c76",
+    "person_id": "eb641fdc3abf74",
+    "person_name": "Oliver Aleksov",
+    "person_role": "Styrelseordförande",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Hunter Capital RTO 1 AB (publ)",
+    "ticker": "SE0026526352",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 43395.1473,
+    "category": "Finans",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-10-28",
+    "filing_date": "2026-10-28",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "sell",
+    "transaction_code": "S",
+    "shares": 38163.0,
+    "purchase_price": 1.1371,
+    "value_usd": 0.0,
+    "score": 25,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppen marknadsförsäljning",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 1.1371,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Finans",
+      "Styrelseordförande",
+      "Avyttring",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D424-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "cda43bab43248ea667",
     "person_id": "399a42db3685fa",
     "person_name": "Helena Stjernholm",
@@ -3175,6 +3234,65 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D286-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "73e7196bfca923b366",
+    "person_id": "eb641fdc3abf74",
+    "person_name": "Oliver Aleksov",
+    "person_role": "Styrelseordförande",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Hunter Capital RTO 1 AB (publ)",
+    "ticker": "SE0026526352",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 2111.4,
+    "category": "Finans",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-10-23",
+    "filing_date": "2026-10-28",
+    "reporting_delay_days": 5,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "sell",
+    "transaction_code": "S",
+    "shares": 2700.0,
+    "purchase_price": 0.782,
+    "value_usd": 0.0,
+    "score": 25,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppen marknadsförsäljning",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 0.782,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Finans",
+      "Styrelseordförande",
+      "Avyttring",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D424-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
