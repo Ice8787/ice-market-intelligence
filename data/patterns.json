@@ -10,10 +10,10 @@
     ],
     "trade_ids": [
       "41932f598c781e4da3",
-      "7f463deec4f88409d4",
       "0c0062e25735e363e0",
       "0a1c73f0bc20063595",
       "1de045d640709c6bc8",
+      "7f463deec4f88409d4",
       "053a047608c8f89a20",
       "6ec7b8abbbfc158163",
       "af571b5c14239a1873",
@@ -26,15 +26,15 @@
       "c025181900739e20a6",
       "01e3db649ceca7dd1f",
       "724cef6b3275977936",
-      "0a5bdb8755d56f2af8",
       "01d83701f779ce9c61",
+      "0a5bdb8755d56f2af8",
       "fe94636002e11b5cce",
       "c2429ca643eae1b03c",
       "e52b253511ba81c793",
       "09c812b88703901544",
+      "f7ef47ddc3c5a8bac4",
       "3dfb82cfb9af9bbbe6",
       "56a527986bfe262694",
-      "f7ef47ddc3c5a8bac4",
       "83e3d377be4610bc4a",
       "b924ce5702d9fe90b9",
       "0718acba193bfff358"
@@ -537,7 +537,7 @@
       "6aa4ebbac47f25ff60"
     ],
     "trade_count": 39,
-    "median_return_90d": 6.77
+    "median_return_90d": 4.475
   },
   {
     "id": "category-usa-finans",
@@ -573,7 +573,7 @@
       "4ac7548e632e65ec2d"
     ],
     "trade_count": 22,
-    "median_return_90d": 7.25
+    "median_return_90d": null
   },
   {
     "id": "category-usa-konsument",
@@ -656,7 +656,7 @@
       "a1df676d93eac603e0"
     ],
     "trade_count": 31,
-    "median_return_90d": 8.14
+    "median_return_90d": null
   },
   {
     "id": "category-usa-transport",
@@ -678,7 +678,7 @@
       "d26992b3f2a55d35d5"
     ],
     "trade_count": 8,
-    "median_return_90d": -2.2649999999999997
+    "median_return_90d": null
   },
   {
     "id": "category-usa-industri",
@@ -706,7 +706,7 @@
       "1283f539be929d3b34"
     ],
     "trade_count": 14,
-    "median_return_90d": 33.9
+    "median_return_90d": null
   },
   {
     "id": "category-usa-energi",
