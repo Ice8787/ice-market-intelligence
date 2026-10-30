@@ -466,6 +466,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "3275e9548a510f",
+    "name": "Johan Kallblad",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Teknik"
+    ],
+    "history": {
+      "tracked_buys": 3,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "e55d8dbb87f59b",
     "name": "Claes Boustedt",
     "person_type": "corporate_insider",
@@ -617,22 +633,6 @@
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Industri"
-    ],
-    "history": {
-      "tracked_buys": 2,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "3275e9548a510f",
-    "name": "Johan Kallblad",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Teknik"
     ],
     "history": {
       "tracked_buys": 2,
