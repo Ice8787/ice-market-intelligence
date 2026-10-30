@@ -8,7 +8,7 @@
     "current_price": 163.0399932861328,
     "momentum20": 7.64,
     "momentum60": 8.81,
-    "volume_ratio": 1.95,
+    "volume_ratio": 1.98,
     "rsi14": 59.4,
     "trend_score": 75,
     "reasons": [
@@ -39,10 +39,10 @@
     "as_of": "2026-10-29",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 267.9527893066406,
+    "current_price": 267.95001220703125,
     "momentum20": 6.68,
     "momentum60": -1.7,
-    "volume_ratio": 0.89,
+    "volume_ratio": 0.9,
     "rsi14": 67.1,
     "trend_score": 75,
     "reasons": [
@@ -214,7 +214,7 @@
     "current_price": 348.9100036621094,
     "momentum20": 5.63,
     "momentum60": 12.19,
-    "volume_ratio": 1.08,
+    "volume_ratio": 1.1,
     "rsi14": 66.5,
     "trend_score": 75,
     "reasons": [
