@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-10-31T03:43:28.171555Z",
+  "generated_at": "2026-10-31T08:46:00.974598Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
   "record_count": 915,
@@ -46,7 +46,7 @@
     },
     "Sverige": {
       "ok": true,
-      "new_records": 36
+      "new_records": 37
     },
     "US politicians": {
       "ok": true,
