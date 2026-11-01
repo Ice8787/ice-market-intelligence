@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-11-01T01:01:32.525625Z",
+  "generated_at": "2026-11-01T07:25:19.544351Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
   "record_count": 915,
@@ -45,8 +45,8 @@
       "error": "HTTP Error 403: Forbidden"
     },
     "Sverige": {
-      "ok": true,
-      "new_records": 38
+      "ok": false,
+      "error": "HTTP Error 500: Internal Server Error"
     },
     "US politicians": {
       "ok": true,
