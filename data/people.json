@@ -178,7 +178,7 @@
       "Övrigt"
     ],
     "history": {
-      "tracked_buys": 12,
+      "tracked_buys": 11,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -1087,6 +1087,22 @@
     ],
     "history": {
       "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "cfbfbdf5e53a11",
+    "name": "Martin Benckert",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseordförande",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null

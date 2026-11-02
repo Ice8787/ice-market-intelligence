@@ -1,5 +1,65 @@
 [
   {
+    "id": "fa7222b9985a95d724",
+    "person_id": "cfbfbdf5e53a11",
+    "person_name": "Martin Benckert",
+    "person_role": "Styrelseordförande",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "DistIT AB",
+    "ticker": "SE0015949359",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 151593750.0,
+    "category": "Övrigt",
+    "subcategory": "Ej klassificerad",
+    "transaction_date": "2026-11-02",
+    "filing_date": "2026-11-02",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 1968750.0,
+    "purchase_price": 77.0,
+    "value_usd": 0.0,
+    "score": 69,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Mycket stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 77.0,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Övrigt",
+      "Styrelseordförande",
+      "Förvärv",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D479-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "41932f598c781e4da3",
     "person_id": "3275e9548a510f",
     "person_name": "Johan Kallblad",
@@ -14647,66 +14707,6 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004C399-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
-    "id": "a8bd42c91c1c98075b",
-    "person_id": "962187cd035f75",
-    "person_name": "Thomas Reynaud",
-    "person_role": "Styrelseordförande",
-    "person_type": "corporate_insider",
-    "issuer_cik": "",
-    "company": "Tele2 AB",
-    "ticker": "Total Return Swap",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 34759437.4533,
-    "category": "Övrigt",
-    "subcategory": "Ej klassificerad",
-    "transaction_date": "2026-09-09",
-    "filing_date": "2026-09-11",
-    "reporting_delay_days": 2,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "buy",
-    "transaction_code": "P",
-    "shares": 202693.0,
-    "purchase_price": 171.4881,
-    "value_usd": 0.0,
-    "score": 69,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppet marknadsköp",
-      "Mycket stort transaktionsvärde",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 171.4881,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Övrigt",
-      "Styrelseordförande",
-      "Förvärv",
-      "närstående"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004C371-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
