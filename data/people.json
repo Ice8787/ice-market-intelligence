@@ -15,7 +15,7 @@
     "history": {
       "tracked_buys": 30,
       "positive_90d_rate": 100,
-      "median_return_90d": 7.25,
+      "median_return_90d": 2.065,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -55,8 +55,8 @@
     ],
     "history": {
       "tracked_buys": 24,
-      "positive_90d_rate": 100,
-      "median_return_90d": 11.14,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -75,8 +75,8 @@
     ],
     "history": {
       "tracked_buys": 22,
-      "positive_90d_rate": 83,
-      "median_return_90d": 8.445,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -170,6 +170,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "ee77efd8c68c9f",
+    "name": "Jörgen Karlsson",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Finans"
+    ],
+    "history": {
+      "tracked_buys": 11,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "962187cd035f75",
     "name": "Thomas Reynaud",
     "person_type": "corporate_insider",
@@ -195,22 +211,6 @@
     ],
     "history": {
       "tracked_buys": 11,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "ee77efd8c68c9f",
-    "name": "Jörgen Karlsson",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Finans"
-    ],
-    "history": {
-      "tracked_buys": 10,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -247,8 +247,8 @@
     ],
     "history": {
       "tracked_buys": 9,
-      "positive_90d_rate": 50,
-      "median_return_90d": -2.2649999999999997,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -279,6 +279,22 @@
     ],
     "history": {
       "tracked_buys": 8,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "290d927312efd1",
+    "name": "Karl Åberg",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 7,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -376,22 +392,6 @@
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Industri"
-    ],
-    "history": {
-      "tracked_buys": 5,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "290d927312efd1",
-    "name": "Karl Åberg",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Övrigt"
     ],
     "history": {
       "tracked_buys": 5,
@@ -620,6 +620,38 @@
     ],
     "history": {
       "tracked_buys": 3,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "dda28725561869",
+    "name": "Daniel Rankin",
+    "person_type": "corporate_insider",
+    "primary_role": "Annan ledande befattningshavare",
+    "categories": [
+      "Hälsa"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "cf4bf97b00d480",
+    "name": "Richard Birger Forsberg",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Hälsa"
+    ],
+    "history": {
+      "tracked_buys": 2,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -1132,6 +1164,22 @@
     "primary_role": "Styrelseordförande",
     "categories": [
       "Övrigt"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
+    "id": "f4395154e315bb",
+    "name": "Johan Roos",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Finans"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2872,22 +2920,6 @@
   {
     "id": "014af83b175135",
     "name": "yaron zaltsman",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "c256c4a012eb58",
-    "name": "Krister Karlsson",
     "person_type": "corporate_insider",
     "primary_role": "Styrelseledamot",
     "categories": [

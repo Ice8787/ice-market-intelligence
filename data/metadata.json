@@ -1,10 +1,10 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-11-03T09:14:59.059741Z",
+  "generated_at": "2026-11-03T16:17:34.276379Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
-  "record_count": 924,
-  "people_count": 187,
+  "record_count": 932,
+  "people_count": 189,
   "political_trade_count": 411,
   "policy_event_count": 118,
   "trend_count": 22,
@@ -12,15 +12,15 @@
   "top_per_market_category": 100,
   "group_counts": {
     "Sverige|Övrigt|corporate_insider": 100,
-    "Sverige|Finans|corporate_insider": 83,
-    "Sverige|Hälsa|corporate_insider": 67,
+    "Sverige|Hälsa|corporate_insider": 71,
+    "Sverige|Hälsa|business_leader": 28,
+    "Sverige|Finans|corporate_insider": 84,
+    "Sverige|Finans|business_leader": 18,
     "Sverige|Teknik|business_leader": 7,
     "Sverige|Övrigt|business_leader": 100,
     "Sverige|Industri|corporate_insider": 25,
     "Sverige|Industri|business_leader": 13,
     "Sverige|Teknik|corporate_insider": 29,
-    "Sverige|Hälsa|business_leader": 26,
-    "Sverige|Finans|business_leader": 17,
     "Sverige|Energi|corporate_insider": 34,
     "Sverige|Transport|business_leader": 11,
     "Sverige|Energi|business_leader": 1,
@@ -35,8 +35,8 @@
     "USA|Energi|political": 58
   },
   "person_type_counts": {
-    "corporate_insider": 338,
-    "business_leader": 175,
+    "corporate_insider": 343,
+    "business_leader": 178,
     "political": 411
   },
   "source_status": {
@@ -46,7 +46,7 @@
     },
     "Sverige": {
       "ok": true,
-      "new_records": 46
+      "new_records": 48
     },
     "US politicians": {
       "ok": true,
