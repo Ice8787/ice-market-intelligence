@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-11-03T01:22:58.991569Z",
+  "generated_at": "2026-11-03T09:14:59.059741Z",
   "source": "SEC EDGAR Form 4 + Finansinspektionen + congressional disclosure mirrors + Federal Register + Stooq/Yahoo EOD",
   "is_demo": false,
   "record_count": 924,
@@ -111,8 +111,7 @@
       "records": 22,
       "errors": {
         "ARNA": "HTTP Error 404: Not Found",
-        "COUP": "HTTP Error 404: Not Found",
-        "MPW": "HTTP Error 404: Not Found"
+        "COUP": "HTTP Error 404: Not Found"
       }
     }
   },

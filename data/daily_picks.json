@@ -2,20 +2,19 @@
   {
     "rank": 1,
     "ticker": "ICE",
-    "as_of": "2026-10-30",
-    "watch_score": 80,
-    "label": "Stark bevakningssignal",
-    "current_price": 168.85000610351562,
-    "momentum20": 12.45,
-    "momentum60": 12.75,
-    "volume_ratio": 1.63,
-    "rsi14": 64.0,
-    "trend_score": 95,
+    "as_of": "2026-11-02",
+    "watch_score": 65,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 172.27999877929688,
+    "momentum20": 13.23,
+    "momentum60": 14.62,
+    "volume_ratio": 1.03,
+    "rsi14": 68.3,
+    "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
       "Positivt 20-dagars momentum",
-      "Ovanligt hög dagsvolym",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
     "risk_flags": [],
@@ -36,24 +35,51 @@
   },
   {
     "rank": 2,
-    "ticker": "RTH",
-    "as_of": "2026-10-30",
-    "watch_score": 61,
+    "ticker": "MAR",
+    "as_of": "2026-11-02",
+    "watch_score": 58,
     "label": "Måttlig bevakningssignal",
-    "current_price": 268.44000244140625,
-    "momentum20": 6.71,
-    "momentum60": -1.38,
-    "volume_ratio": 0.61,
-    "rsi14": 66.7,
-    "trend_score": 75,
+    "current_price": 416.29998779296875,
+    "momentum20": 16.97,
+    "momentum60": 17.63,
+    "volume_ratio": 1.82,
+    "rsi14": 77.6,
+    "trend_score": 80,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "20-dagars trend över 50-dagars trend",
       "Positivt 20-dagars momentum",
-      "RSI visar styrka utan extrem överköpt nivå"
+      "Ovanligt hög dagsvolym"
     ],
     "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
+      "Hög RSI – rekylrisk",
+      "Ingen matchande offentlig köpsignal i datasetet"
+    ],
+    "supporting_buys": [],
+    "supporting_buy_count": 0,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
+    "rank": 3,
+    "ticker": "RTH",
+    "as_of": "2026-11-02",
+    "watch_score": 50,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 274.4700012207031,
+    "momentum20": 8.96,
+    "momentum60": 0.23,
+    "volume_ratio": 1.22,
+    "rsi14": 74.0,
+    "trend_score": 60,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum"
+    ],
+    "risk_flags": [
+      "Hög RSI – rekylrisk"
     ],
     "supporting_buys": [
       {
@@ -87,43 +113,16 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
-    "rank": 3,
-    "ticker": "AAPL",
-    "as_of": "2026-10-30",
-    "watch_score": 54,
-    "label": "Måttlig bevakningssignal",
-    "current_price": 344.6300048828125,
-    "momentum20": 3.28,
-    "momentum60": 10.31,
-    "volume_ratio": 1.75,
-    "rsi14": 54.9,
-    "trend_score": 75,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Ovanligt hög dagsvolym",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [
-      "Ingen matchande offentlig köpsignal i datasetet"
-    ],
-    "supporting_buys": [],
-    "supporting_buy_count": 0,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
     "rank": 4,
     "ticker": "CSCO",
-    "as_of": "2026-10-30",
+    "as_of": "2026-11-02",
     "watch_score": 47,
     "label": "Svag bevakningssignal",
-    "current_price": 104.51000213623047,
-    "momentum20": -6.85,
-    "momentum60": -13.54,
-    "volume_ratio": 1.61,
-    "rsi14": 28.6,
+    "current_price": 101.61000061035156,
+    "momentum20": -9.94,
+    "momentum60": -16.32,
+    "volume_ratio": 1.65,
+    "rsi14": 25.9,
     "trend_score": 40,
     "reasons": [
       "20-dagars trend över 50-dagars trend",
@@ -179,27 +178,56 @@
   },
   {
     "rank": 5,
-    "ticker": "MAR",
-    "as_of": "2026-10-30",
-    "watch_score": 43,
+    "ticker": "F",
+    "as_of": "2026-11-02",
+    "watch_score": 40,
     "label": "Svag bevakningssignal",
-    "current_price": 399.29998779296875,
-    "momentum20": 11.24,
-    "momentum60": 11.02,
-    "volume_ratio": 1.47,
-    "rsi14": 72.6,
-    "trend_score": 60,
+    "current_price": 12.600000381469727,
+    "momentum20": 3.7,
+    "momentum60": -9.87,
+    "volume_ratio": 1.3,
+    "rsi14": 59.6,
+    "trend_score": 35,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum"
+      "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Hög RSI – rekylrisk",
-      "Ingen matchande offentlig köpsignal i datasetet"
+    "risk_flags": [],
+    "supporting_buys": [
+      {
+        "person_name": "Ron L Wyden",
+        "person_type": "political",
+        "date": "2020-08-11",
+        "value": 32500.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/33782dc2-cf18-4f2f-82c3-64d6e9572596/"
+      },
+      {
+        "person_name": "Ron L Wyden",
+        "person_type": "political",
+        "date": "2020-07-13",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/e29a0a93-7153-42f3-97c5-e9f68fe47820/"
+      },
+      {
+        "person_name": "Ron L Wyden",
+        "person_type": "political",
+        "date": "2020-04-17",
+        "value": 32500.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/d411d8c3-b780-4e4e-8490-aa790811fa5f/"
+      },
+      {
+        "person_name": "John Hoeven",
+        "person_type": "political",
+        "date": "2014-04-28",
+        "value": 75000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/da7d4e7e-8858-4dc1-ba7e-800c7ce82e7f/"
+      }
     ],
-    "supporting_buys": [],
-    "supporting_buy_count": 0,
+    "supporting_buy_count": 4,
     "historical_median_30d": null,
     "historical_median_90d": null,
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
