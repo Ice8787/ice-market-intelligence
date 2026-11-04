@@ -358,6 +358,66 @@
     "is_demo": false
   },
   {
+    "id": "deac03d514dfca99bd",
+    "person_id": "cba4f5e45bdc03",
+    "person_name": "Adam Wiman",
+    "person_role": "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "NOBA Bank Group AB (publ)",
+    "ticker": "SE0023135298",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 3072969.4813,
+    "category": "Finans",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-11-03",
+    "filing_date": "2026-11-03",
+    "reporting_delay_days": 0,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "sell",
+    "transaction_code": "S",
+    "shares": 32881.0,
+    "purchase_price": 93.4573,
+    "value_usd": 0.0,
+    "score": 40,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppen marknadsförsäljning",
+      "Stort transaktionsvärde",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 93.4573,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Finans",
+      "Annan medlem i bolagets administrations-, lednings- eller kontrollorgan",
+      "Avyttring",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D528-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "fa7222b9985a95d724",
     "person_id": "cfbfbdf5e53a11",
     "person_name": "Martin Benckert",
