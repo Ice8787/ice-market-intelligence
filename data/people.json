@@ -1190,6 +1190,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "568eb05361f470",
+    "name": "Magnus Trollius",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Teknik"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "f4395154e315bb",
     "name": "Johan Roos",
     "person_type": "corporate_insider",
@@ -1498,22 +1514,6 @@
     "name": "Helena Saxon",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "0b4b3a37a3727f",
-    "name": "Håkan Andersson",
-    "person_type": "business_leader",
-    "primary_role": "Vice VD",
     "categories": [
       "Övrigt"
     ],
@@ -2712,22 +2712,6 @@
   {
     "id": "204767a55d43cd",
     "name": "Christian Byhmer",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "7c4705fca91639",
-    "name": "Per Henrik Molin",
     "person_type": "business_leader",
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
