@@ -2806,12 +2806,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "ff697c709695f4",
-    "name": "Patrick Lapveteläinen",
+    "id": "4a63bed400a79e",
+    "name": "Jakob Mörndal",
     "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
+    "primary_role": "Styrelseordförande",
     "categories": [
-      "Finans"
+      "Industri"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2822,12 +2822,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "4a63bed400a79e",
-    "name": "Jakob Mörndal",
+    "id": "ff697c709695f4",
+    "name": "Patrick Lapveteläinen",
     "person_type": "corporate_insider",
-    "primary_role": "Styrelseordförande",
+    "primary_role": "Styrelseledamot",
     "categories": [
-      "Industri"
+      "Finans"
     ],
     "history": {
       "tracked_buys": 1,
