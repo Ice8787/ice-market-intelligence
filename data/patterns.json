@@ -2,13 +2,16 @@
   {
     "id": "category-sverige-hälsa",
     "type": "Sektorkluster",
-    "title": "55 insiderköp inom Hälsa · Sverige",
+    "title": "58 insiderköp inom Hälsa · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Hälsa"
     ],
     "trade_ids": [
+      "764f8704a9262bfc20",
+      "3f2986c9572cc2bc0b",
+      "ba1445db4107d74d9b",
       "fab0eba775c9f3e27f",
       "f5cda44939f8b83d80",
       "36b03aa6e5975dcf84",
@@ -65,19 +68,20 @@
       "fd0aa2bffad2c71089",
       "43b08354d57d355e14"
     ],
-    "trade_count": 55,
+    "trade_count": 58,
     "median_return_90d": null
   },
   {
     "id": "category-sverige-teknik",
     "type": "Sektorkluster",
-    "title": "31 insiderköp inom Teknik · Sverige",
+    "title": "32 insiderköp inom Teknik · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Teknik"
     ],
     "trade_ids": [
+      "7fc4f99045e376fc23",
       "665beb69a63d37e999",
       "66c5dbee4ab65e9663",
       "41932f598c781e4da3",
@@ -110,7 +114,7 @@
       "b924ce5702d9fe90b9",
       "0718acba193bfff358"
     ],
-    "trade_count": 31,
+    "trade_count": 32,
     "median_return_90d": null
   },
   {
@@ -247,7 +251,7 @@
   {
     "id": "category-sverige-övrigt",
     "type": "Sektorkluster",
-    "title": "146 insiderköp inom Övrigt · Sverige",
+    "title": "145 insiderköp inom Övrigt · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
@@ -394,14 +398,13 @@
       "aa500dcbbdde9d898f",
       "21909c4a8eb8f83168",
       "2149d7ed21da462369",
-      "bf4381cd7618a4a184",
       "e429e744be4ddf6f22",
       "4436923421bfc2927e",
       "6f6e0efb9703fbe1d5",
       "f609b24e3062f44a91",
       "c584ba748ca81e6d63"
     ],
-    "trade_count": 146,
+    "trade_count": 145,
     "median_return_90d": null
   },
   {
