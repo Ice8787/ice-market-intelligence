@@ -1,41 +1,6 @@
 [
   {
     "rank": 1,
-    "ticker": "SI",
-    "as_of": "2026-11-06",
-    "watch_score": 76,
-    "label": "Stark bevakningssignal",
-    "current_price": 20.540000915527344,
-    "momentum20": 13.29,
-    "momentum60": 6.81,
-    "volume_ratio": 2.48,
-    "rsi14": 66.3,
-    "trend_score": 95,
-    "reasons": [
-      "Kurs över 20-dagars medelvärde",
-      "20-dagars trend över 50-dagars trend",
-      "Positivt 20-dagars momentum",
-      "Ovanligt hög dagsvolym",
-      "RSI visar styrka utan extrem överköpt nivå"
-    ],
-    "risk_flags": [],
-    "supporting_buys": [
-      {
-        "person_name": "Thomas R Carper",
-        "person_type": "political",
-        "date": "2020-11-20",
-        "value": 8000.5,
-        "currency": "USD",
-        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
-      }
-    ],
-    "supporting_buy_count": 1,
-    "historical_median_30d": null,
-    "historical_median_90d": null,
-    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
-  },
-  {
-    "rank": 2,
     "ticker": "ICE",
     "as_of": "2026-11-06",
     "watch_score": 65,
@@ -71,6 +36,40 @@
     "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
   },
   {
+    "rank": 2,
+    "ticker": "SI",
+    "as_of": "2026-11-05",
+    "watch_score": 61,
+    "label": "Måttlig bevakningssignal",
+    "current_price": 20.3700008392334,
+    "momentum20": 13.86,
+    "momentum60": 5.33,
+    "volume_ratio": 1.33,
+    "rsi14": 66.3,
+    "trend_score": 75,
+    "reasons": [
+      "Kurs över 20-dagars medelvärde",
+      "20-dagars trend över 50-dagars trend",
+      "Positivt 20-dagars momentum",
+      "RSI visar styrka utan extrem överköpt nivå"
+    ],
+    "risk_flags": [],
+    "supporting_buys": [
+      {
+        "person_name": "Thomas R Carper",
+        "person_type": "political",
+        "date": "2020-11-20",
+        "value": 8000.5,
+        "currency": "USD",
+        "source_url": "https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/"
+      }
+    ],
+    "supporting_buy_count": 1,
+    "historical_median_30d": null,
+    "historical_median_90d": null,
+    "notice": "Bevakningskandidat baserad på historisk pris/volym och offentliga rapporter. Inte personlig rådgivning eller garanti för uppgång."
+  },
+  {
     "rank": 3,
     "ticker": "RTH",
     "as_of": "2026-11-06",
@@ -79,7 +78,7 @@
     "current_price": 277.67999267578125,
     "momentum20": 6.84,
     "momentum60": 3.02,
-    "volume_ratio": 1.09,
+    "volume_ratio": 1.1,
     "rsi14": 60.0,
     "trend_score": 75,
     "reasons": [
@@ -156,7 +155,7 @@
     "current_price": 416.4700012207031,
     "momentum20": 13.83,
     "momentum60": 18.14,
-    "volume_ratio": 1.04,
+    "volume_ratio": 1.05,
     "rsi14": 66.3,
     "trend_score": 75,
     "reasons": [
