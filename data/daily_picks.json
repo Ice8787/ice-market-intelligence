@@ -2,14 +2,14 @@
   {
     "rank": 1,
     "ticker": "SI",
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-09",
     "watch_score": 76,
     "label": "Stark bevakningssignal",
-    "current_price": 20.540000915527344,
-    "momentum20": 13.29,
-    "momentum60": 6.81,
+    "current_price": 21.459999084472656,
+    "momentum20": 17.72,
+    "momentum60": 3.52,
     "volume_ratio": 2.48,
-    "rsi14": 66.3,
+    "rsi14": 68.4,
     "trend_score": 95,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -37,14 +37,14 @@
   {
     "rank": 2,
     "ticker": "ICE",
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-09",
     "watch_score": 65,
     "label": "Måttlig bevakningssignal",
-    "current_price": 172.27000427246094,
-    "momentum20": 10.3,
-    "momentum60": 10.97,
-    "volume_ratio": 0.77,
-    "rsi14": 67.2,
+    "current_price": 174.02999877929688,
+    "momentum20": 10.55,
+    "momentum60": 12.47,
+    "volume_ratio": 0.89,
+    "rsi14": 68.4,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -52,9 +52,7 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Kelly Loeffler",
@@ -73,14 +71,14 @@
   {
     "rank": 3,
     "ticker": "RTH",
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-09",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 277.67999267578125,
-    "momentum20": 6.84,
-    "momentum60": 3.02,
-    "volume_ratio": 1.1,
-    "rsi14": 60.0,
+    "current_price": 283.1951904296875,
+    "momentum20": 8.64,
+    "momentum60": 5.29,
+    "volume_ratio": 0.79,
+    "rsi14": 63.7,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -88,7 +86,9 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
@@ -122,15 +122,15 @@
   },
   {
     "rank": 4,
-    "ticker": "OHI",
-    "as_of": "2026-11-06",
+    "ticker": "MAR",
+    "as_of": "2026-11-09",
     "watch_score": 54,
     "label": "Måttlig bevakningssignal",
-    "current_price": 48.189998626708984,
-    "momentum20": 8.51,
-    "momentum60": 4.74,
-    "volume_ratio": 1.1,
-    "rsi14": 65.4,
+    "current_price": 417.1600036621094,
+    "momentum20": 12.96,
+    "momentum60": 16.94,
+    "volume_ratio": 1.35,
+    "rsi14": 63.6,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -149,15 +149,15 @@
   },
   {
     "rank": 5,
-    "ticker": "MAR",
-    "as_of": "2026-11-06",
+    "ticker": "OHI",
+    "as_of": "2026-11-09",
     "watch_score": 54,
     "label": "Måttlig bevakningssignal",
-    "current_price": 416.4700012207031,
-    "momentum20": 13.83,
-    "momentum60": 18.14,
-    "volume_ratio": 1.05,
-    "rsi14": 66.3,
+    "current_price": 48.83000183105469,
+    "momentum20": 8.1,
+    "momentum60": 4.94,
+    "volume_ratio": 1.1,
+    "rsi14": 65.3,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
