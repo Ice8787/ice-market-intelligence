@@ -43,7 +43,7 @@
     "current_price": 174.02999877929688,
     "momentum20": 10.55,
     "momentum60": 12.47,
-    "volume_ratio": 0.89,
+    "volume_ratio": 0.9,
     "rsi14": 68.4,
     "trend_score": 75,
     "reasons": [
@@ -74,10 +74,10 @@
     "as_of": "2026-11-09",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 283.1951904296875,
+    "current_price": 283.20001220703125,
     "momentum20": 8.64,
     "momentum60": 5.29,
-    "volume_ratio": 0.79,
+    "volume_ratio": 0.81,
     "rsi14": 63.7,
     "trend_score": 75,
     "reasons": [
@@ -86,9 +86,7 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [
-      "Volymen bekräftar inte rörelsen"
-    ],
+    "risk_flags": [],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
@@ -129,7 +127,7 @@
     "current_price": 417.1600036621094,
     "momentum20": 12.96,
     "momentum60": 16.94,
-    "volume_ratio": 1.35,
+    "volume_ratio": 1.38,
     "rsi14": 63.6,
     "trend_score": 75,
     "reasons": [
