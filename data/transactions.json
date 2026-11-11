@@ -119,6 +119,65 @@
     "is_demo": false
   },
   {
+    "id": "d375aa76a054d88c7e",
+    "person_id": "66169f7173d1cd",
+    "person_name": "Monika Gutén",
+    "person_role": "Styrelseledamot",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Nordisk Bergteknik AB (publ)",
+    "ticker": "SE0015812128",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 41000.0,
+    "category": "Teknik",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-11-10",
+    "filing_date": "2026-11-11",
+    "reporting_delay_days": 1,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "buy",
+    "transaction_code": "P",
+    "shares": 5000.0,
+    "purchase_price": 8.2,
+    "value_usd": 0.0,
+    "score": 47,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppet marknadsköp",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 8.2,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Teknik",
+      "Styrelseledamot",
+      "Förvärv",
+      "egen rapport"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D719-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
     "id": "c4fd57209b0c459429",
     "person_id": "3a64f6976c3ec6",
     "person_name": "Andreas Christoffersson",
@@ -771,6 +830,65 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D676-1?s%C3%B6kfunktion=Insyn",
+    "is_demo": false
+  },
+  {
+    "id": "0cd4f39970db2bde24",
+    "person_id": "eb641fdc3abf74",
+    "person_name": "Oliver Aleksov",
+    "person_role": "Styrelseordförande",
+    "person_type": "corporate_insider",
+    "issuer_cik": "",
+    "company": "Hunter Capital RTO 1 AB (publ)",
+    "ticker": "SE0026526386",
+    "market": "Sverige",
+    "country": "SE",
+    "currency": "SEK",
+    "value_local": 13205.5248,
+    "category": "Finans",
+    "subcategory": "Automatisk namnklassning – verifiera",
+    "transaction_date": "2026-11-09",
+    "filing_date": "2026-11-11",
+    "reporting_delay_days": 2,
+    "disclosure_type": "FI:s insynsregister",
+    "type": "sell",
+    "transaction_code": "S",
+    "shares": 37687.0,
+    "purchase_price": 0.3504,
+    "value_usd": 0.0,
+    "score": 25,
+    "signal_label": "Offentlig svensk insynstransaktion",
+    "score_reasons": [
+      "Öppen marknadsförsäljning",
+      "Nyligen rapporterad",
+      "Storlekspoäng använder konservativ SEK/USD-normalisering"
+    ],
+    "prices": {
+      "day_minus_7": null,
+      "purchase": 0.3504,
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "returns": {
+      "day_1": null,
+      "day_3": null,
+      "day_7": null,
+      "day_30": null,
+      "day_90": null
+    },
+    "benchmark_return_90d": null,
+    "excess_return_90d": null,
+    "pattern_tags": [
+      "Finans",
+      "Styrelseordförande",
+      "Avyttring",
+      "närstående"
+    ],
+    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
+    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004D724-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {
@@ -26579,65 +26697,6 @@
     ],
     "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
     "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B873-1?s%C3%B6kfunktion=Insyn",
-    "is_demo": false
-  },
-  {
-    "id": "fc1325bb5f829ad474",
-    "person_id": "eb641fdc3abf74",
-    "person_name": "Oliver Aleksov",
-    "person_role": "Styrelseordförande",
-    "person_type": "corporate_insider",
-    "issuer_cik": "",
-    "company": "Hunter Capital RTO 1 AB (publ)",
-    "ticker": "SE0026526352",
-    "market": "Sverige",
-    "country": "SE",
-    "currency": "SEK",
-    "value_local": 1572.816,
-    "category": "Finans",
-    "subcategory": "Automatisk namnklassning – verifiera",
-    "transaction_date": "2026-08-26",
-    "filing_date": "2026-08-27",
-    "reporting_delay_days": 1,
-    "disclosure_type": "FI:s insynsregister",
-    "type": "sell",
-    "transaction_code": "S",
-    "shares": 1736.0,
-    "purchase_price": 0.906,
-    "value_usd": 0.0,
-    "score": 25,
-    "signal_label": "Offentlig svensk insynstransaktion",
-    "score_reasons": [
-      "Öppen marknadsförsäljning",
-      "Nyligen rapporterad",
-      "Storlekspoäng använder konservativ SEK/USD-normalisering"
-    ],
-    "prices": {
-      "day_minus_7": null,
-      "purchase": 0.906,
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "returns": {
-      "day_1": null,
-      "day_3": null,
-      "day_7": null,
-      "day_30": null,
-      "day_90": null
-    },
-    "benchmark_return_90d": null,
-    "excess_return_90d": null,
-    "pattern_tags": [
-      "Finans",
-      "Styrelseordförande",
-      "Avyttring",
-      "närstående"
-    ],
-    "analysis": "Hämtad från Finansinspektionens offentliga insynsregister. FI publicerar rapportörens uppgifter automatiskt och granskar dem inte före publicering.",
-    "source_url": "https://marknadssok.fi.se/Publiceringsklient/sv-SE/Rapportsammanst%C3%A4llning/Index/A004B912-1?s%C3%B6kfunktion=Insyn",
     "is_demo": false
   },
   {

@@ -82,7 +82,7 @@
   {
     "id": "category-sverige-teknik",
     "type": "Sektorkluster",
-    "title": "36 insiderköp inom Teknik · Sverige",
+    "title": "37 insiderköp inom Teknik · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
@@ -90,6 +90,7 @@
     ],
     "trade_ids": [
       "7e7ea2efa38810f9a5",
+      "d375aa76a054d88c7e",
       "c4fd57209b0c459429",
       "cf5b6b614f4c178efd",
       "7fc4f99045e376fc23",
@@ -126,7 +127,7 @@
       "b924ce5702d9fe90b9",
       "0718acba193bfff358"
     ],
-    "trade_count": 36,
+    "trade_count": 37,
     "median_return_90d": null
   },
   {

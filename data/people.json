@@ -675,6 +675,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "66169f7173d1cd",
+    "name": "Monika Gutén",
+    "person_type": "corporate_insider",
+    "primary_role": "Styrelseledamot",
+    "categories": [
+      "Teknik"
+    ],
+    "history": {
+      "tracked_buys": 2,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "9924ceb6eadde1",
     "name": "Tiel Ridderstad",
     "person_type": "corporate_insider",
@@ -1900,22 +1916,6 @@
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Hälsa"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "66169f7173d1cd",
-    "name": "Monika Gutén",
-    "person_type": "corporate_insider",
-    "primary_role": "Styrelseledamot",
-    "categories": [
-      "Teknik"
     ],
     "history": {
       "tracked_buys": 1,
