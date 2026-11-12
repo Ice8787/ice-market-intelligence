@@ -2,13 +2,16 @@
   {
     "id": "category-sverige-hälsa",
     "type": "Sektorkluster",
-    "title": "66 insiderköp inom Hälsa · Sverige",
+    "title": "69 insiderköp inom Hälsa · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Hälsa"
     ],
     "trade_ids": [
+      "45a29fcdb36039e34f",
+      "5a44c3de4c792bd09c",
+      "2f1e5fd3554ee8b792",
       "9ae55deafa1debdf13",
       "aed394d3faee2f252c",
       "5f8250eb54a760e2fc",
@@ -76,7 +79,7 @@
       "fd0aa2bffad2c71089",
       "43b08354d57d355e14"
     ],
-    "trade_count": 66,
+    "trade_count": 69,
     "median_return_90d": null
   },
   {
