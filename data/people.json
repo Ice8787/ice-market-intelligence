@@ -2038,6 +2038,22 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
+    "id": "91185c62396b0c",
+    "name": "Anna Stiwne",
+    "person_type": "corporate_insider",
+    "primary_role": "Arbetstagarrepresentant i styrelsen eller arbetstagarsuppleant",
+    "categories": [
+      "Industri"
+    ],
+    "history": {
+      "tracked_buys": 1,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "8fadf8787976ec",
     "name": "Tony Buss",
     "person_type": "business_leader",
@@ -2060,22 +2076,6 @@
     "primary_role": "Verkställande direktör (VD)",
     "categories": [
       "Övrigt"
-    ],
-    "history": {
-      "tracked_buys": 1,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
-    "id": "91185c62396b0c",
-    "name": "Anna Stiwne",
-    "person_type": "corporate_insider",
-    "primary_role": "Arbetstagarrepresentant i styrelsen eller arbetstagarsuppleant",
-    "categories": [
-      "Industri"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2150,12 +2150,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "8f0a58808b77d6",
-    "name": "Magnus Söderlind",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
+    "id": "1f4a57877f786e",
+    "name": "Johan Anders Bladh",
+    "person_type": "corporate_insider",
+    "primary_role": "Ekonomichef/finanschef/finansdirektör",
     "categories": [
-      "Övrigt"
+      "Industri"
     ],
     "history": {
       "tracked_buys": 1,
@@ -2166,12 +2166,12 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "1f4a57877f786e",
-    "name": "Johan Anders Bladh",
-    "person_type": "corporate_insider",
-    "primary_role": "Ekonomichef/finanschef/finansdirektör",
+    "id": "8f0a58808b77d6",
+    "name": "Magnus Söderlind",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
     "categories": [
-      "Industri"
+      "Övrigt"
     ],
     "history": {
       "tracked_buys": 1,
