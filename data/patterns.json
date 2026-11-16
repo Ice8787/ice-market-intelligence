@@ -1,71 +1,21 @@
 [
   {
-    "id": "category-sverige-teknik",
-    "type": "Sektorkluster",
-    "title": "40 insiderköp inom Teknik · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Teknik"
-    ],
-    "trade_ids": [
-      "1789c51493847d1817",
-      "456b3e0fbd417dc35c",
-      "7e7ea2efa38810f9a5",
-      "d375aa76a054d88c7e",
-      "c4fd57209b0c459429",
-      "cf5b6b614f4c178efd",
-      "7fc4f99045e376fc23",
-      "665beb69a63d37e999",
-      "66c5dbee4ab65e9663",
-      "ecce0e1007412b527a",
-      "61544c524a5470c5b4",
-      "41932f598c781e4da3",
-      "7f463deec4f88409d4",
-      "0c0062e25735e363e0",
-      "0a1c73f0bc20063595",
-      "1de045d640709c6bc8",
-      "053a047608c8f89a20",
-      "6ec7b8abbbfc158163",
-      "af571b5c14239a1873",
-      "bf8132c5a86bf8e33d",
-      "c097ffd6f993b26986",
-      "f3a8bd8c47c1431fad",
-      "7dd1505a011f01ed06",
-      "1003e9b0b6e387ad8d",
-      "e029e53978f6c6da47",
-      "c025181900739e20a6",
-      "01e3db649ceca7dd1f",
-      "724cef6b3275977936",
-      "0a5bdb8755d56f2af8",
-      "01d83701f779ce9c61",
-      "fe94636002e11b5cce",
-      "c2429ca643eae1b03c",
-      "e52b253511ba81c793",
-      "09c812b88703901544",
-      "3dfb82cfb9af9bbbe6",
-      "56a527986bfe262694",
-      "f7ef47ddc3c5a8bac4",
-      "83e3d377be4610bc4a",
-      "b924ce5702d9fe90b9",
-      "0718acba193bfff358"
-    ],
-    "trade_count": 40,
-    "median_return_90d": null
-  },
-  {
     "id": "category-sverige-hälsa",
     "type": "Sektorkluster",
-    "title": "72 insiderköp inom Hälsa · Sverige",
+    "title": "76 insiderköp inom Hälsa · Sverige",
     "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
     "categories": [
       "Sverige",
       "Hälsa"
     ],
     "trade_ids": [
+      "b8a59ecd42f1deda9e",
+      "f5f6c1e41bce66c41f",
       "57d83fd4f4a414d834",
+      "fe4f3c6cdf0fe09fd1",
       "5ace619b72c3fb01b5",
       "284a04c9ff6d0ce828",
+      "53aa278ada2fa644e5",
       "45a29fcdb36039e34f",
       "5a44c3de4c792bd09c",
       "2f1e5fd3554ee8b792",
@@ -136,7 +86,110 @@
       "fd0aa2bffad2c71089",
       "43b08354d57d355e14"
     ],
-    "trade_count": 72,
+    "trade_count": 76,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-sverige-industri",
+    "type": "Sektorkluster",
+    "title": "35 insiderköp inom Industri · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Industri"
+    ],
+    "trade_ids": [
+      "ac4a108c3ed02ddf54",
+      "7b42ce13418ecacd4e",
+      "12b8ee1a440b0f6baa",
+      "6dd788c76f40087f93",
+      "12e4aa7b9636a8d2f0",
+      "b315feaf9077cbda63",
+      "4d096afdb2c4d70e3f",
+      "1e10d3e685268b5805",
+      "92b43c124b9cefe56f",
+      "3113317b2812770b95",
+      "7f4e09c98d78a6f1d7",
+      "1551d2f2ffb2e0fd9b",
+      "5fca975bdec30ae7ab",
+      "06aa8b10d7fe210a47",
+      "01a6cab3a4f5577d55",
+      "87827de75237dfe749",
+      "42242b3a2efc6b4838",
+      "67a6d94cf3193765eb",
+      "2ce11dca47f8c699d1",
+      "6fc05a624a3f60949a",
+      "2401c0056230b12f5c",
+      "4043728293e458590e",
+      "9da0492d567061b9c5",
+      "6f3c6febae648e0b30",
+      "2834c78809f2fa94e1",
+      "ee2d474d69ef055fe0",
+      "25ed3fb04d380adfb1",
+      "6609229cfa8a944314",
+      "ef86fbfd8190ac9e0c",
+      "0e3c29650c4aebfafb",
+      "0d3d378684ba58f319",
+      "2295904484f58f2c3d",
+      "790da07ae6ac690372",
+      "5f043530bc9ad5acff",
+      "f61cfa01020598b270"
+    ],
+    "trade_count": 35,
+    "median_return_90d": null
+  },
+  {
+    "id": "category-sverige-teknik",
+    "type": "Sektorkluster",
+    "title": "40 insiderköp inom Teknik · Sverige",
+    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
+    "categories": [
+      "Sverige",
+      "Teknik"
+    ],
+    "trade_ids": [
+      "1789c51493847d1817",
+      "456b3e0fbd417dc35c",
+      "7e7ea2efa38810f9a5",
+      "d375aa76a054d88c7e",
+      "c4fd57209b0c459429",
+      "cf5b6b614f4c178efd",
+      "7fc4f99045e376fc23",
+      "665beb69a63d37e999",
+      "66c5dbee4ab65e9663",
+      "ecce0e1007412b527a",
+      "61544c524a5470c5b4",
+      "41932f598c781e4da3",
+      "7f463deec4f88409d4",
+      "0c0062e25735e363e0",
+      "0a1c73f0bc20063595",
+      "1de045d640709c6bc8",
+      "053a047608c8f89a20",
+      "6ec7b8abbbfc158163",
+      "af571b5c14239a1873",
+      "bf8132c5a86bf8e33d",
+      "c097ffd6f993b26986",
+      "f3a8bd8c47c1431fad",
+      "7dd1505a011f01ed06",
+      "1003e9b0b6e387ad8d",
+      "e029e53978f6c6da47",
+      "c025181900739e20a6",
+      "01e3db649ceca7dd1f",
+      "724cef6b3275977936",
+      "0a5bdb8755d56f2af8",
+      "01d83701f779ce9c61",
+      "fe94636002e11b5cce",
+      "c2429ca643eae1b03c",
+      "e52b253511ba81c793",
+      "09c812b88703901544",
+      "3dfb82cfb9af9bbbe6",
+      "56a527986bfe262694",
+      "f7ef47ddc3c5a8bac4",
+      "83e3d377be4610bc4a",
+      "b924ce5702d9fe90b9",
+      "0718acba193bfff358"
+    ],
+    "trade_count": 40,
     "median_return_90d": null
   },
   {
@@ -382,54 +435,6 @@
     "median_return_90d": null
   },
   {
-    "id": "category-sverige-industri",
-    "type": "Sektorkluster",
-    "title": "34 insiderköp inom Industri · Sverige",
-    "description": "Flera rapporterade köp i samma marknad och breda kategori. Verifiera branschklassning, tidssamband och bolagsspecifika orsaker.",
-    "categories": [
-      "Sverige",
-      "Industri"
-    ],
-    "trade_ids": [
-      "7b42ce13418ecacd4e",
-      "12b8ee1a440b0f6baa",
-      "6dd788c76f40087f93",
-      "12e4aa7b9636a8d2f0",
-      "b315feaf9077cbda63",
-      "4d096afdb2c4d70e3f",
-      "1e10d3e685268b5805",
-      "92b43c124b9cefe56f",
-      "3113317b2812770b95",
-      "7f4e09c98d78a6f1d7",
-      "1551d2f2ffb2e0fd9b",
-      "5fca975bdec30ae7ab",
-      "06aa8b10d7fe210a47",
-      "01a6cab3a4f5577d55",
-      "87827de75237dfe749",
-      "42242b3a2efc6b4838",
-      "67a6d94cf3193765eb",
-      "2ce11dca47f8c699d1",
-      "6fc05a624a3f60949a",
-      "2401c0056230b12f5c",
-      "4043728293e458590e",
-      "9da0492d567061b9c5",
-      "6f3c6febae648e0b30",
-      "2834c78809f2fa94e1",
-      "ee2d474d69ef055fe0",
-      "25ed3fb04d380adfb1",
-      "6609229cfa8a944314",
-      "ef86fbfd8190ac9e0c",
-      "0e3c29650c4aebfafb",
-      "0d3d378684ba58f319",
-      "2295904484f58f2c3d",
-      "790da07ae6ac690372",
-      "5f043530bc9ad5acff",
-      "f61cfa01020598b270"
-    ],
-    "trade_count": 34,
-    "median_return_90d": null
-  },
-  {
     "id": "category-sverige-energi",
     "type": "Sektorkluster",
     "title": "35 insiderköp inom Energi · Sverige",
@@ -587,7 +592,7 @@
       "6aa4ebbac47f25ff60"
     ],
     "trade_count": 39,
-    "median_return_90d": 6.77
+    "median_return_90d": 4.475
   },
   {
     "id": "category-usa-finans",
@@ -623,7 +628,7 @@
       "4ac7548e632e65ec2d"
     ],
     "trade_count": 22,
-    "median_return_90d": 7.25
+    "median_return_90d": null
   },
   {
     "id": "category-usa-konsument",
@@ -706,7 +711,7 @@
       "a1df676d93eac603e0"
     ],
     "trade_count": 31,
-    "median_return_90d": 8.14
+    "median_return_90d": null
   },
   {
     "id": "category-usa-transport",
@@ -728,7 +733,7 @@
       "d26992b3f2a55d35d5"
     ],
     "trade_count": 8,
-    "median_return_90d": -2.2649999999999997
+    "median_return_90d": null
   },
   {
     "id": "category-usa-industri",
@@ -756,7 +761,7 @@
       "1283f539be929d3b34"
     ],
     "trade_count": 14,
-    "median_return_90d": 33.9
+    "median_return_90d": null
   },
   {
     "id": "category-usa-energi",
