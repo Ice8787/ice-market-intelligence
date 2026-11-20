@@ -1,5 +1,21 @@
 [
   {
+    "id": "cf4bf97b00d480",
+    "name": "Richard Birger Forsberg",
+    "person_type": "business_leader",
+    "primary_role": "Verkställande direktör (VD)",
+    "categories": [
+      "Hälsa"
+    ],
+    "history": {
+      "tracked_buys": 30,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
+      "median_excess_90d": null
+    },
+    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
+  },
+  {
     "id": "7a261814927640",
     "name": "Thomas R Carper",
     "person_type": "political",
@@ -15,7 +31,7 @@
     "history": {
       "tracked_buys": 30,
       "positive_90d_rate": 100,
-      "median_return_90d": 7.25,
+      "median_return_90d": 2.065,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -42,22 +58,6 @@
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
   },
   {
-    "id": "cf4bf97b00d480",
-    "name": "Richard Birger Forsberg",
-    "person_type": "business_leader",
-    "primary_role": "Verkställande direktör (VD)",
-    "categories": [
-      "Hälsa"
-    ],
-    "history": {
-      "tracked_buys": 25,
-      "positive_90d_rate": 0,
-      "median_return_90d": null,
-      "median_excess_90d": null
-    },
-    "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
-  },
-  {
     "id": "095e82b36e1e45",
     "name": "Kelly Loeffler",
     "person_type": "political",
@@ -71,8 +71,8 @@
     ],
     "history": {
       "tracked_buys": 24,
-      "positive_90d_rate": 100,
-      "median_return_90d": 11.14,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -91,8 +91,8 @@
     ],
     "history": {
       "tracked_buys": 22,
-      "positive_90d_rate": 83,
-      "median_return_90d": 8.445,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
@@ -194,7 +194,7 @@
       "Finans"
     ],
     "history": {
-      "tracked_buys": 12,
+      "tracked_buys": 14,
       "positive_90d_rate": 0,
       "median_return_90d": null,
       "median_excess_90d": null
@@ -279,8 +279,8 @@
     ],
     "history": {
       "tracked_buys": 9,
-      "positive_90d_rate": 50,
-      "median_return_90d": -2.2649999999999997,
+      "positive_90d_rate": 0,
+      "median_return_90d": null,
       "median_excess_90d": null
     },
     "history_note": "Beräknad från verifierade öppna marknadsköp som finns i den lokala datamängden."
