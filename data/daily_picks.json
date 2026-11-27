@@ -2,14 +2,14 @@
   {
     "rank": 1,
     "ticker": "ICE",
-    "as_of": "2026-11-25",
+    "as_of": "2026-11-27",
     "watch_score": 65,
     "label": "Måttlig bevakningssignal",
-    "current_price": 177.80999755859375,
-    "momentum20": 14.01,
-    "momentum60": 11.41,
-    "volume_ratio": 0.9,
-    "rsi14": 56.4,
+    "current_price": 177.6199951171875,
+    "momentum20": 8.94,
+    "momentum60": 12.52,
+    "volume_ratio": 0.06,
+    "rsi14": 59.5,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -17,7 +17,9 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
     "supporting_buys": [
       {
         "person_name": "Kelly Loeffler",
@@ -36,14 +38,14 @@
   {
     "rank": 2,
     "ticker": "RTH",
-    "as_of": "2026-11-25",
+    "as_of": "2026-11-27",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 283.82000732421875,
-    "momentum20": 6.7,
-    "momentum60": 8.62,
-    "volume_ratio": 1.26,
-    "rsi14": 55.3,
+    "current_price": 285.4505920410156,
+    "momentum20": 6.53,
+    "momentum60": 9.13,
+    "volume_ratio": 0.23,
+    "rsi14": 61.4,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -51,7 +53,9 @@
       "Positivt 20-dagars momentum",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
@@ -86,14 +90,14 @@
   {
     "rank": 3,
     "ticker": "SI",
-    "as_of": "2026-11-25",
+    "as_of": "2026-11-27",
     "watch_score": 61,
     "label": "Måttlig bevakningssignal",
-    "current_price": 21.420000076293945,
-    "momentum20": 9.96,
-    "momentum60": 4.28,
-    "volume_ratio": 0.59,
-    "rsi14": 60.4,
+    "current_price": 21.510000228881836,
+    "momentum20": 5.23,
+    "momentum60": 4.22,
+    "volume_ratio": 0.01,
+    "rsi14": 59.7,
     "trend_score": 75,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -122,14 +126,14 @@
   {
     "rank": 4,
     "ticker": "AAPL",
-    "as_of": "2026-11-25",
+    "as_of": "2026-11-27",
     "watch_score": 40,
     "label": "Svag bevakningssignal",
-    "current_price": 355.5799865722656,
-    "momentum20": 3.42,
-    "momentum60": 9.37,
-    "volume_ratio": 1.07,
-    "rsi14": 61.6,
+    "current_price": 356.4599914550781,
+    "momentum20": 2.16,
+    "momentum60": 9.69,
+    "volume_ratio": 0.07,
+    "rsi14": 64.5,
     "trend_score": 55,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
@@ -137,6 +141,7 @@
       "RSI visar styrka utan extrem överköpt nivå"
     ],
     "risk_flags": [
+      "Volymen bekräftar inte rörelsen",
       "Ingen matchande offentlig köpsignal i datasetet"
     ],
     "supporting_buys": [],
@@ -147,21 +152,23 @@
   },
   {
     "rank": 5,
-    "ticker": "SBIO",
-    "as_of": "2026-11-25",
+    "ticker": "PAGS",
+    "as_of": "2026-11-27",
     "watch_score": 32,
     "label": "Svag bevakningssignal",
-    "current_price": 57.38999938964844,
-    "momentum20": 2.32,
-    "momentum60": -14.16,
-    "volume_ratio": 1.3,
-    "rsi14": 61.9,
+    "current_price": 8.329999923706055,
+    "momentum20": 3.22,
+    "momentum60": -15.35,
+    "volume_ratio": 0.14,
+    "rsi14": 61.7,
     "trend_score": 35,
     "reasons": [
       "Kurs över 20-dagars medelvärde",
       "RSI visar styrka utan extrem överköpt nivå"
     ],
-    "risk_flags": [],
+    "risk_flags": [
+      "Volymen bekräftar inte rörelsen"
+    ],
     "supporting_buys": [
       {
         "person_name": "Thomas R Carper",
